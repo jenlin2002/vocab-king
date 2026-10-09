@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>圖解單字</title>
+<style>
+  :root{--bg:#f7f3e8;--ink:#1b3a2f;--soft:#5b6b60;--gold:#e8b94a;--card:#fffdf6;--line:#e3d9bd}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,"Noto Sans TC","Microsoft JhengHei",sans-serif;line-height:1.55}
+  .wrap{max-width:900px;margin:0 auto;padding:20px 16px 110px}
+  .crumb{font-size:14px}.crumb a{color:var(--soft);text-decoration:none}
+  h1{margin:6px 0 2px;font-size:32px}.sub{color:var(--soft);margin-bottom:18px}
+  .cats{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:12px}
+  .cat{background:var(--card);border:1.5px solid var(--line);border-radius:18px;padding:14px 16px;text-align:left;cursor:pointer;color:var(--ink);font:inherit}
+  .cat.on{border-color:var(--ink);background:#e9efe9}.cat.off{opacity:.5;cursor:default}
+  .cat .e{font-size:30px}.cat .n{font-weight:800;font-size:18px}.cat .en{color:var(--soft);font-size:13px}
+  .cat .tag{display:inline-block;margin-top:6px;font-size:11px;font-weight:700;background:#fff3d6;border-radius:999px;padding:2px 9px}
+  h2{margin:26px 0 8px;font-size:20px}
+  .tp{display:flex;gap:10px;align-items:center;background:var(--card);border:1.5px solid var(--line);border-radius:14px;padding:12px 16px;margin-bottom:8px;text-decoration:none;color:var(--ink)}
+  .tp .e{font-size:28px}.tp .t{font-weight:700}.tp .s{font-size:13px;color:var(--soft)}
+  .tp.off{opacity:.5}
+  .note{font-size:12.5px;color:var(--soft);margin-top:30px;border-top:1px solid var(--line);padding-top:10px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="crumb"><a href="https://jenlin2002.github.io/">🏠 回成長學習館</a></div>
+  <h1>圖解單字</h1>
+  <div class="sub">看圖學單字：單字卡、情境對話、三種測驗（看圖選字、聽音選字、拼字）。每答對一題都會記學習點數。</div>
+  <div class="cats" id="cats"></div>
+  <h2 id="ctitle"></h2>
+  <div id="topics"></div>
+  <div class="note">單字依生活主題分類整理；中文解釋、例句、對話、語音都是自己編寫與合成，圖示為示意 emoji。</div>
+</div>
+<script>
+const CATS = [
+  ['home','🏠','居家','Around the House'], ['school','🏫','校園','At School'], ['hospital','🏥','醫院','At the Hospital'],
+  ['people','👨‍👩‍👧','人','People'], ['transport','🚌','交通','Transportation'], ['air','✈️','航空旅行','Air Travel'],
+  ['town','🏙️','城內導覽','Around Town'], ['animals','🐾','動植物','Animals and Plants'], ['food','🍎','食物','Food'],
+  ['leisure','🎮','休閒娛樂','Leisure and Entertainment'], ['sports','⚽','運動項目','Athletics'], ['restaurant','🍽️','餐廳','At a Restaurant'],
+  ['machines','🔧','機器設備','Equipment and Machines'], ['misc','📦','其他','Miscellaneous'],
+];
+const TOPICS = {   // 做好一個主題，就在這裡加一筆
+  home: [
+    { id: 'home-1', e: '🏠', t: '房屋外觀', en: 'In a home', s: '17 個單字・1 段對話' },
+    { id: 'home-2', e: '🛋️', t: '客廳（一）', en: 'In a living room', s: '18 個單字・1 段對話' },
+    { id: 'home-3', e: '🛋️', t: '客廳（二）', en: 'In a living room, too', s: '11 個單字・1 段對話' },
+    { id: 'home-4', e: '🛁', t: '浴室', en: 'In a bathroom', s: '15 個單字・1 段對話' },
+    { id: 'home-5', e: '🧴', t: '盥洗與個人用品', en: 'Toiletries', s: '19 個單字・1 段對話' },
+    { id: 'home-6', e: '🛏️', t: '臥室', en: 'In a bedroom', s: '17 個單字・1 段對話' },
+    { id: 'home-7', e: '🧺', t: '洗衣與縫紉', en: 'In a basement', s: '16 個單字・1 段對話' },
+    { id: 'home-8', e: '🍳', t: '廚房', en: 'In a kitchen', s: '22 個單字・1 段對話' },
+    { id: 'home-9', e: '🥄', t: '廚房用具', en: 'Kitchenware', s: '18 個單字・1 段對話' },
+    { id: 'home-10', e: '🔧', t: '工具', en: 'Tools', s: '20 個單字・1 段對話' },
+  ],
+};
+let cur = 'home';
+function draw(){
+  document.getElementById('cats').innerHTML = CATS.map(c => {
+    const n = (TOPICS[c[0]] || []).length;
+    return `<button class="cat ${c[0] === cur ? 'on' : ''} ${n ? '' : 'off'}" data-c="${c[0]}"><div class="e">${c[1]}</div><div class="n">${c[2]}</div><div class="en">${c[3]}</div>${n ? `<span class="tag">${n} 個主題</span>` : '<span class="tag">即將推出</span>'}</button>`;
+  }).join('');
+  const c = CATS.find(x => x[0] === cur);
+  document.getElementById('ctitle').textContent = c[2] + '　' + c[3];
+  const list = TOPICS[cur] || [];
+  document.getElementById('topics').innerHTML = list.length ? list.map(t => `<a class="tp" href="topic.html?t=${t.id}"><span class="e">${t.e}</span><span><div class="t">${t.t}　${t.en}</div><div class="s">${t.s}</div></span></a>`).join('') : '<div class="tp off">這一類還沒有主題，敬請期待。</div>';
+}
+document.addEventListener('click', e => { const b = e.target.closest('.cat'); if(b && !b.classList.contains('off')){ cur = b.dataset.c; draw(); } });
+draw();
+</script>
+<script src="points.js"></script>
+</body>
+</html>

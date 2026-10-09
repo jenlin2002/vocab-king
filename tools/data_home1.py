@@ -1,0 +1,45 @@
+"""主題 1：居家 · 房屋外觀（In a home）。單字清單是常見的生活英文單字（事實），中文、例句、圖示與對話都是自己寫的。
+產生：python tools/build_topic.py home1  →  topics/home-1.js；語音：python tools/make_audio.py home-1"""
+TOPIC = dict(
+    id="home-1", cat="home", catZh="居家", catEn="Around the House",
+    title="房屋外觀", titleEn="In a home", emoji="🏠",
+    words=[
+        # (英文, 中文, 詞性, 圖示, 例句, 例句中文)
+        ("chimney", "煙囪", "n.", "🏭", "Smoke is coming out of the chimney.", "煙從煙囪裡冒出來。"),
+        ("dormer", "老虎窗（屋頂上突出的窗）", "n.", "🏚️", "My room has a dormer in the roof.", "我的房間在屋頂上有一個老虎窗。"),
+        ("satellite dish", "衛星電視天線", "n.", "📡", "The satellite dish is on the roof.", "衛星電視天線在屋頂上。"),
+        ("skylight", "天窗", "n.", "🌤️", "Sunlight comes in through the skylight.", "陽光從天窗照進來。"),
+        ("garage", "車庫", "n.", "🚗", "Dad parks his car in the garage.", "爸爸把車停在車庫裡。"),
+        ("Venetian blind", "百葉窗簾", "n.", "🪟", "Please close the Venetian blinds.", "請把百葉窗簾拉上。"),
+        ("bay window", "凸窗", "n.", "🏡", "The cat sleeps in the bay window.", "貓睡在凸窗上。"),
+        ("dog house", "狗屋", "n.", "🐕", "The puppy lives in the dog house.", "小狗住在狗屋裡。"),
+        ("shutters", "百葉窗板", "n.", "🏠", "The shutters are painted green.", "百葉窗板漆成綠色。"),
+        ("front step", "前門台階", "n.", "🪜", "She sat on the front step and waited.", "她坐在前門台階上等。"),
+        ("curtains", "窗簾", "n.", "🎭", "Mom washes the curtains every spring.", "媽媽每年春天洗窗簾。"),
+        ("sliding glass door", "落地拉門（玻璃推拉門）", "n.", "🚪", "We walk out through the sliding glass door.", "我們從玻璃拉門走出去。"),
+        ("balcony", "陽台", "n.", "🌇", "We have dinner on the balcony.", "我們在陽台吃晚餐。"),
+        ("lawn mower", "割草機", "n.", "🌱", "He uses a lawn mower every Saturday.", "他每個星期六都用割草機。"),
+        ("driveway", "車道（從馬路到車庫）", "n.", "🛣️", "A red car is in the driveway.", "一輛紅色的車停在車道上。"),
+        ("bushes", "灌木叢", "n.", "🌳", "The rabbit is hiding in the bushes.", "兔子躲在灌木叢裡。"),
+        ("sprinkler", "灑水器", "n.", "💦", "The sprinkler waters the lawn.", "灑水器在幫草坪澆水。"),
+    ],
+    speakers=dict(
+        M=dict(name="Mia", zh="米雅", avatar="🙋‍♀️", voice="af_sarah"),
+        B=dict(name="Ben", zh="班", avatar="🙋‍♂️", voice="am_michael"),
+    ),
+    dialogueTitle="畫畫課：爺爺奶奶的鄉下房子",
+    dialogue=[
+        ("B", "Mia, what are you drawing?", "米雅，你在畫什麼？"),
+        ("M", "It's my grandparents' house in the country. Look, there's a tall chimney on the roof.", "這是我爺爺奶奶在鄉下的房子。你看，屋頂上有一根很高的煙囪。"),
+        ("B", "Cool! Is that a satellite dish next to it?", "酷！旁邊那個是衛星電視天線嗎？"),
+        ("M", "Yes. Grandpa loves watching baseball games.", "對，爺爺很愛看棒球賽。"),
+        ("B", "What is that small house in the yard?", "院子裡那間小房子是什麼？"),
+        ("M", "That's a dog house. My grandma's dog, Lucky, sleeps there.", "那是狗屋。奶奶的狗 Lucky 睡在那裡。"),
+        ("B", "Where do they park the car?", "他們把車停在哪裡？"),
+        ("M", "In the garage. The driveway goes from the street to the garage, and the front step is next to it.", "停在車庫。車道從馬路一直通到車庫，前門台階就在旁邊。"),
+        ("B", "Do they have a big lawn?", "他們有一大片草坪嗎？"),
+        ("M", "Yes. Every Saturday, Grandpa uses the lawn mower, and the sprinkler waters the bushes.", "有。每個星期六爺爺會用割草機，灑水器會幫灌木叢澆水。"),
+        ("B", "It sounds like a great place to visit!", "聽起來是個很棒的地方！"),
+        ("M", "It is. There's even a skylight in my room, so I can see the stars at night.", "是啊。我的房間甚至有天窗，晚上可以看星星。"),
+    ],
+)
