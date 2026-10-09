@@ -1,0 +1,39 @@
+id: restaurant-3
+cat: restaurant
+title: 看菜單點餐
+titleEn: Looking at a menu
+emoji: 📋
+speakers: M=Kim|金|🙋‍♀️|af_sarah;B=Jack|傑克|🙋‍♂️|am_michael
+dialogueTitle: 看菜單決定吃什麼
+--words
+steak|牛排|n.|🥩|I like my steak medium.|我的牛排要五分熟。
+shish kebab|烤肉串|n.|🍢|Shish kebab is grilled on a stick.|烤肉串用籤子烤。
+taco|墨西哥塔可|n.|🌮|A taco has meat and vegetables.|塔可裡有肉和蔬菜。
+salad|沙拉|n.|🥗|I'll have a green salad.|我要一份蔬菜沙拉。
+egg tart|蛋塔|n.|🥧|An egg tart is a sweet pastry.|蛋塔是一種甜點心。
+roast chicken|烤雞|n.|🍗|Roast chicken smells wonderful.|烤雞聞起來很香。
+apple pie|蘋果派|n.|🥧|Apple pie is an American dessert.|蘋果派是美國甜點。
+pumpkin pie|南瓜派|n.|🥧|Pumpkin pie is a Thanksgiving dessert.|南瓜派是感恩節甜點。
+sandwich|三明治|n.|🥪|I'll have a chicken sandwich.|我要雞肉三明治。
+sundae|聖代|n.|🍨|A sundae has ice cream and syrup.|聖代有冰淇淋和糖漿。
+chocolate cake|巧克力蛋糕|n.|🍰|Chocolate cake is rich and sweet.|巧克力蛋糕濃郁又甜。
+dumplings|水餃|n.|🥟|Dumplings are a Chinese favorite.|水餃是中式的最愛。
+noodle soup|湯麵|n.|🍜|A bowl of noodle soup is warm.|一碗湯麵很暖。
+submarine sandwich|潛艇堡|n.|🥖|A submarine sandwich is long.|潛艇堡很長。
+pudding|布丁|n.|🍮|Pudding is soft and sweet.|布丁又軟又甜。
+lasagna|千層麵|n.|🍝|Lasagna has layers of cheese.|千層麵有好幾層起司。
+fried rice|炒飯|n.|🍚|Fried rice is easy to make.|炒飯很好做。
+spaghetti with meatballs|肉丸義大利麵|n.|🍝|Spaghetti with meatballs is my favorite.|肉丸義大利麵是我的最愛。
+--dialogue
+B|Kim, look at the menu. Everything looks great!|金，看菜單，每樣看起來都很棒！
+M|Let's start with a salad. Then I'll have spaghetti with meatballs or lasagna.|先點一份沙拉。然後我要肉丸義大利麵或千層麵。
+B|I'm thinking of a steak. Or roast chicken with a baked potato.|我在想牛排，或烤雞配烤馬鈴薯。
+M|They also have shish kebab and a taco, if you want something different.|他們也有烤肉串和塔可，如果你想換個口味。
+B|For a light meal, a sandwich or a submarine sandwich is good.|吃清淡的話，三明治或潛艇堡不錯。
+M|How about Chinese food? Dumplings, noodle soup, and fried rice are on the list.|中式餐點呢？單子上有水餃、湯麵和炒飯。
+B|The noodle soup sounds warm. I'll order that with dumplings.|湯麵聽起來很暖，我要點它配水餃。
+M|For dessert, let's share. Chocolate cake, apple pie, or pumpkin pie?|甜點我們分著吃。巧克力蛋糕、蘋果派或南瓜派？
+B|I like pudding, a sundae, or an egg tart.|我喜歡布丁、聖代或蛋塔。
+M|You always choose sweet things!|你總是選甜的東西！
+B|Of course. Dessert is the best part.|當然，甜點是最棒的部分。
+M|Okay, let's call the waiter and order.|好，我們叫服務生來點餐吧。

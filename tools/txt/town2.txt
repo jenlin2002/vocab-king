@@ -1,0 +1,36 @@
+id: town-2
+cat: town
+title: 郵局
+titleEn: In a post office
+emoji: 📮
+speakers: M=Kim|金|🙋‍♀️|af_sarah;B=Paul|保羅|🙋‍♂️|am_michael
+dialogueTitle: 保羅第一次寄信
+--words
+mailman|郵差|n.|📬|The mailman brings letters every day.|郵差每天都送信來。
+mail drop|郵筒（投信口）|n.|📮|Put the letter in the mail drop.|把信投進郵筒。
+package|包裹|n.|📦|I send a package to my grandma.|我寄了一個包裹給奶奶。
+express mail|快捷郵件|n.|⚡|Express mail arrives in two days.|快捷郵件兩天就會到。
+letter|信|n.|✉️|I write a letter to my friend.|我寫了一封信給朋友。
+registered mail|掛號信|n.|🔖|Send the contract by registered mail.|請把合約用掛號寄出。
+return address|寄件人地址|n.|🏠|Write your return address on the envelope.|在信封上寫下你的寄件人地址。
+recipient's address|收件人地址|n.|📍|The recipient's address is on the front.|收件人地址寫在正面。
+zip code|郵遞區號|n.|🔢|Don't forget the zip code.|別忘了寫郵遞區號。
+postmark|郵戳|n.|🔴|The postmark shows the date.|郵戳上有日期。
+envelope|信封|n.|✉️|Put the card in an envelope.|把卡片放進信封裡。
+stamp|郵票|n.|🏷️|I need a stamp for this letter.|這封信我需要一張郵票。
+air mail|空運郵件|n.|✈️|Air mail is fast.|空運郵件很快。
+sea mail|海運郵件|n.|🚢|Sea mail is cheaper but slow.|海運郵件比較便宜但很慢。
+postcard|明信片|n.|🖼️|I send a postcard from Japan.|我從日本寄明信片。
+--dialogue
+B|Kim, how do I mail a letter in Bigburg?|金，在大堡市要怎麼寄信？
+M|Put it in an envelope and write the recipient's address on the front.|把它裝進信封，在正面寫上收件人地址。
+B|Where do I put my return address?|寄件人地址要寫在哪裡？
+M|In the top left corner. Don't forget the zip code.|寫在左上角，別忘了郵遞區號。
+B|Do I need a stamp?|我需要郵票嗎？
+M|Yes, buy a stamp at the post office. Or drop the letter in the mail drop, and the mailman picks it up.|要，在郵局買郵票。或是投進郵筒，郵差會來收。
+B|The postmark shows the date, right?|郵戳上會顯示日期對嗎？
+M|Right. If it's important, send it by registered mail.|對。如果很重要，就用掛號寄。
+B|I want to send a package to my parents. What is the fastest way?|我想寄包裹給我爸媽，最快的方式是什麼？
+M|Express mail or air mail. Sea mail is cheaper, but it takes weeks.|快捷郵件或空運。海運比較便宜，但要好幾週。
+B|I'd also like to send a postcard.|我也想寄一張明信片。
+M|Great. The post office is a very useful place!|太好了。郵局是個很實用的地方！

@@ -1,0 +1,38 @@
+id: hospital-1
+cat: hospital
+title: 醫院的人員與場所
+titleEn: In a hospital
+emoji: 🏥
+speakers: M=Helen|海倫|👩‍⚕️|af_sarah;B=Sam|山姆|🙋‍♂️|am_michael
+dialogueTitle: 護理師媽媽帶我參觀醫院
+--words
+ambulance|救護車|n.|🚑|The ambulance arrives in five minutes.|救護車五分鐘後到。
+ward|病房（病區）|n.|🛏️|My grandma is in a ward on the third floor.|我奶奶住在三樓的病房。
+patient|病人|n.|🤒|The nurse takes care of the patient.|護理師照顧病人。
+ear, nose and throat doctor|耳鼻喉科醫師|n.|👂|The ear, nose and throat doctor checks my ears.|耳鼻喉科醫師檢查我的耳朵。
+dentist|牙醫|n.|🦷|The dentist looks at my teeth.|牙醫檢查我的牙齒。
+pediatrician|小兒科醫師|n.|🧒|A pediatrician treats children.|小兒科醫師替小朋友看病。
+internist|內科醫師|n.|🩺|The internist treats my stomach.|內科醫師治療我的胃。
+surgeon|外科醫師|n.|🔪|The surgeon does the operation.|外科醫師進行手術。
+waiting room|候診室|n.|🪑|We sit in the waiting room.|我們坐在候診室。
+operating room|手術室|n.|🏥|The operating room is very clean.|手術室非常乾淨。
+ICU|加護病房（簡稱）|n.|🆘|The patient is in the ICU.|病人在加護病房裡。
+intensive care unit|加護病房|n.|🆘|The intensive care unit is on the fifth floor.|加護病房在五樓。
+obstetrician|婦產科醫師|n.|🤰|An obstetrician delivers babies.|婦產科醫師接生嬰兒。
+ophthalmologist|眼科醫師|n.|👁️|The ophthalmologist checks my eyes.|眼科醫師檢查我的眼睛。
+nurses' station|護理站|n.|🗂️|The nurses' station is near the elevator.|護理站在電梯旁邊。
+nurse|護理師|n.|👩‍⚕️|The nurse is kind.|護理師很親切。
+emergency room|急診室|n.|🚨|He goes to the emergency room by ambulance.|他坐救護車去急診室。
+--dialogue
+B|Wow, Mom! Is this where the ambulance brings sick people?|哇，媽媽！救護車就是把病人載到這裡嗎？
+M|Yes, that's the emergency room. And over there is the waiting room.|對，那是急診室。那邊是候診室。
+B|What does the sign on this door say?|這扇門上的牌子寫什麼？
+M|It says obstetrician. That doctor delivers babies. The next one is an ophthalmologist for the eyes.|寫著婦產科醫師，這位醫師接生嬰兒。下一間是看眼睛的眼科醫師。
+B|And what do a pediatrician and an internist do?|那小兒科醫師和內科醫師做什麼？
+M|A pediatrician treats children, and an internist treats adults for problems like stomachaches.|小兒科醫師治療小孩，內科醫師治療大人的問題，像是胃痛。
+B|Do you work at the nurses' station?|你在護理站工作嗎？
+M|Yes. I take care of each patient in the ward before and after surgery.|對。我在病房裡照顧每位病人，手術前和手術後都是。
+B|Is that the operating room? Does a surgeon work there?|那是手術室嗎？外科醫師在那裡工作嗎？
+M|Right. And if a patient is very sick, he stays in the ICU, the intensive care unit.|對。如果病人病得很重，就會住進加護病房。
+B|There is also an ear, nose and throat doctor, and a dentist.|這裡還有耳鼻喉科醫師和牙醫。
+M|Yes, a hospital has many kinds of doctors. I'm proud of my work!|對，醫院有很多種醫師。我為我的工作感到驕傲！

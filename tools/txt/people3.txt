@@ -1,0 +1,47 @@
+id: people-3
+cat: people
+title: 人體
+titleEn: The body
+emoji: 🧍
+speakers: M=Amy|艾咪|🙋‍♀️|af_sarah;B=Dr. Hsu|許醫師|👨‍⚕️|am_michael
+dialogueTitle: 健康教育課：認識身體
+--words
+head|頭|n.|🗣️|He wears a hat on his head.|他頭上戴著帽子。
+eyelash|睫毛|n.|👁️|She has long eyelashes.|她有長長的睫毛。
+eye|眼睛|n.|👀|My eyes are brown.|我的眼睛是棕色的。
+cheek|臉頰|n.|😊|The baby has soft cheeks.|寶寶的臉頰很柔軟。
+neck|脖子|n.|🦒|A giraffe has a long neck.|長頸鹿有長長的脖子。
+waist|腰|n.|🧍|He ties a belt around his waist.|他在腰上繫一條皮帶。
+hand|手|n.|✋|Wash your hands before lunch.|午餐前要洗手。
+buttocks|臀部|n.|🪑|He fell on his buttocks.|他摔到屁股了。
+foot|腳|n.|🦶|My left foot hurts.|我的左腳很痛。
+hair|頭髮|n.|💇|She has long black hair.|她有一頭黑色長髮。
+eyebrow|眉毛|n.|🤨|Her eyebrows are thick.|她的眉毛很濃。
+forehead|額頭|n.|😌|He has a small scar on his forehead.|他的額頭上有一個小疤。
+nose|鼻子|n.|👃|I smell the flowers with my nose.|我用鼻子聞花香。
+tooth|牙齒|n.|🦷|One tooth is loose.|有一顆牙齒鬆了。
+mouth|嘴巴|n.|👄|Open your mouth, please.|請張開嘴巴。
+chin|下巴|n.|🙂|He rests his chin on his hand.|他把下巴靠在手上。
+chest|胸膛|n.|🫁|He has a pain in his chest.|他胸口有點痛。
+abdomen|腹部|n.|🫃|The doctor presses on my abdomen.|醫生按壓我的腹部。
+navel|肚臍|n.|⭕|The baby's navel is small.|寶寶的肚臍很小。
+thigh|大腿|n.|🍗|Runners have strong thighs.|跑者的大腿很有力。
+brain|大腦|n.|🧠|The brain controls the body.|大腦控制著身體。
+lung|肺|n.|🫁|We breathe with our lungs.|我們用肺呼吸。
+liver|肝臟|n.|🫀|The liver helps clean the blood.|肝臟幫忙清潔血液。
+heart|心臟|n.|❤️|The heart pumps blood.|心臟把血液送出去。
+stomach|胃|n.|🍽️|My stomach is empty.|我的胃空空的。
+intestine|腸|n.|🌀|The small intestine absorbs food.|小腸吸收食物。
+--dialogue
+B|Amy, let's learn about the body today. What is on your head?|艾咪，今天我們來認識身體。你的頭上有什麼？
+M|Hair on top, a forehead, and two eyebrows.|最上面是頭髮，還有額頭和兩條眉毛。
+B|Good. What about your face?|很好。那臉上呢？
+M|Two eyes with eyelashes, a nose, a mouth, and two cheeks. The bottom of my face is my chin.|兩隻有睫毛的眼睛、鼻子、嘴巴和兩邊臉頰。臉的下面是下巴。
+B|Right. You use your teeth to eat. What connects the head and the body?|對。你用牙齒吃東西。什麼連接頭和身體？
+M|The neck! Then the chest and the abdomen, with the navel in the middle.|脖子！然後是胸膛和腹部，肚臍在中間。
+B|What are the parts below your waist?|腰下面是哪些部位？
+M|The buttocks, the thighs, and the feet. I use my hands for writing.|臀部、大腿和腳。我用手寫字。
+B|Now the organs inside. What controls your body?|現在看裡面的器官。是什麼控制你的身體？
+M|The brain. I breathe with my lungs, and my heart pumps blood.|大腦。我用肺呼吸，心臟負責送出血液。
+B|And food goes to the stomach and then the intestine. The liver cleans the blood.|食物進入胃，然後到腸。肝臟清潔血液。
+M|The body is amazing! I will take good care of it.|身體真神奇！我會好好照顧它。

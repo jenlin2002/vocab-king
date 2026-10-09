@@ -1,0 +1,43 @@
+id: food-2
+cat: food
+title: 水果
+titleEn: Fruit
+emoji: 🍎
+speakers: M=Kim|金|🙋‍♀️|af_sarah;B=Jack|傑克|🙋‍♂️|am_michael
+dialogueTitle: 在水果攤選水果
+--words
+loquat|枇杷|n.|🍑|A loquat is small and sweet.|枇杷又小又甜。
+plum|李子|n.|🫐|The plum is purple.|李子是紫色的。
+strawberry|草莓|n.|🍓|I love strawberry cake.|我愛草莓蛋糕。
+cherries|櫻桃|n.|🍒|Cherries are red and sweet.|櫻桃又紅又甜。
+melon|甜瓜|n.|🍈|The melon is juicy.|這個甜瓜多汁。
+kiwi|奇異果|n.|🥝|A kiwi is green inside.|奇異果裡面是綠色的。
+grapes|葡萄|n.|🍇|Grapes grow in bunches.|葡萄一串一串地長。
+mango|芒果|n.|🥭|Mango is my favorite fruit.|芒果是我最愛的水果。
+peach|桃子|n.|🍑|A peach is soft.|桃子很軟。
+persimmon|柿子|n.|🍊|A persimmon is orange.|柿子是橘色的。
+apple|蘋果|n.|🍎|An apple a day keeps the doctor away.|一天一蘋果，醫生遠離我。
+pear|梨子|n.|🍐|The pear is sweet.|這顆梨子很甜。
+lemon|檸檬|n.|🍋|A lemon is sour.|檸檬是酸的。
+tangerine|橘子|n.|🍊|Peel the tangerine.|把橘子剝皮。
+orange|柳橙|n.|🍊|I drink orange juice.|我喝柳橙汁。
+grapefruit|葡萄柚|n.|🍊|Grapefruit is a little bitter.|葡萄柚有一點苦。
+cantaloupe|哈密瓜|n.|🍈|A cantaloupe is orange inside.|哈密瓜裡面是橘色的。
+banana|香蕉|n.|🍌|A banana is yellow.|香蕉是黃色的。
+watermelon|西瓜|n.|🍉|Watermelon is good in summer.|西瓜夏天吃最好。
+papaya|木瓜|n.|🥭|Papaya is good for you.|木瓜對身體有益。
+durian|榴槤|n.|🌵|A durian smells strong.|榴槤的味道很濃。
+pineapple|鳳梨|n.|🍍|Pineapple is sweet and sour.|鳳梨又酸又甜。
+--dialogue
+M|Jack, let's stop in front of the fruit market. Look at all these fruits!|傑克，我們在水果攤前停一下。看看這些水果！
+B|I like bananas and apples. What do you want, Kim?|我喜歡香蕉和蘋果。金，你想要什麼？
+M|Strawberries and grapes, please. Do you like cherries?|請買草莓和葡萄。你喜歡櫻桃嗎？
+B|Yes, and a mango, too. A peach and a plum are also good.|喜歡，我也想買芒果。桃子和李子也不錯。
+M|Pears and kiwis are juicy. For vitamin C, we need an orange or a lemon.|梨子和奇異果多汁。要補充維他命 C，就要柳橙或檸檬。
+B|A tangerine and a grapefruit are healthy, too. Persimmons are in season now.|橘子和葡萄柚也很健康，現在是柿子的季節。
+M|Let's get a watermelon and a cantaloupe. Do you like a melon?|買一顆西瓜和一顆哈密瓜吧，你喜歡甜瓜嗎？
+B|Sure. Is a papaya good for the stomach?|喜歡。木瓜對腸胃好嗎？
+M|Yes. A pineapple is sweet and sour, and loquats are small and delicious.|對。鳳梨又酸又甜，枇杷小小的很好吃。
+B|I don't like durian. It smells too strong!|我不喜歡榴槤，味道太濃了！
+M|Ha-ha. Okay, no durian. Let's pay for these.|哈哈，好，不買榴槤。我們去付錢吧。
+B|We will have a lot of fruit this week.|這個星期我們會有很多水果吃。

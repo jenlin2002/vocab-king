@@ -1,0 +1,39 @@
+id: town-3
+cat: town
+title: 警察局
+titleEn: In a police station
+emoji: 🚓
+speakers: M=Paul|保羅|🙋‍♂️|am_michael;B=Officer Lee|李警官|👮|af_heart
+dialogueTitle: 保羅的皮夾不見了
+--words
+precinct|轄區分局|n.|🏛️|The precinct is on Main Street.|分局在大街上。
+police department|警察局（機關）|n.|🏢|She works in the police department.|她在警察局工作。
+plainclothes officer|便衣警察|n.|🕵️|A plainclothes officer follows the thief.|便衣警察跟著小偷。
+traffic officer|交通警察|n.|🚦|The traffic officer stops the cars.|交通警察攔下車輛。
+police hat|警帽|n.|👮|The officer wears a police hat.|警察戴著警帽。
+whistle|哨子|n.|📣|He blows his whistle.|他吹響哨子。
+patch|臂章|n.|🏷️|The patch shows the city name.|臂章上有城市的名字。
+badge|警徽|n.|🛡️|Show me your badge.|請讓我看你的警徽。
+handcuffs|手銬|n.|⛓️|The officer puts handcuffs on the thief.|警察把手銬銬在小偷手上。
+duty belt|勤務腰帶|n.|🪢|A duty belt holds his tools.|勤務腰帶上掛著他的裝備。
+nightstick|警棍|n.|🥢|An officer carries a nightstick.|警察帶著警棍。
+thief|小偷|n.|🦹|The thief ran away.|小偷跑掉了。
+patrol officer|巡邏警察|n.|🚶|A patrol officer walks around the park.|巡邏警察在公園附近走動。
+police dog|警犬|n.|🐕‍🦺|The police dog finds the thief.|警犬找到了小偷。
+police motorcycle|警用機車|n.|🏍️|A police motorcycle goes fast.|警用機車速度很快。
+police car|警車|n.|🚓|The police car has red and blue lights.|警車有紅藍燈。
+patrol car|巡邏車|n.|🚔|A patrol car drives around the town.|巡邏車在鎮上巡邏。
+call the police|報警|v.|📞|Call the police if you are in danger.|有危險時要報警。
+--dialogue
+M|Excuse me, officer. I lost my wallet. I want to report it.|不好意思，警官，我的皮夾不見了，我想報案。
+B|Sit down, please. When and where did you lose it?|請坐。你是什麼時候、在哪裡弄丟的？
+M|I think a thief took it on the bus. I should have called the police sooner.|我想是小偷在公車上偷走的，我應該早點報警。
+B|Don't worry. A plainclothes officer and a patrol officer will check the bus.|別擔心，便衣警察和巡邏警察會去檢查那輛公車。
+M|I saw a traffic officer outside, and a police dog, too.|我在外面看到交通警察，也看到一隻警犬。
+B|Yes, our precinct has many officers. This is our police department.|對，我們分局有很多警察。這是我們的警察局。
+M|Your badge and patch look very neat. What is on your duty belt?|你的警徽和臂章看起來很整齊。你的勤務腰帶上有什麼？
+B|A nightstick, handcuffs, and a whistle.|警棍、手銬和哨子。
+M|Do you ride the police motorcycle?|你騎警用機車嗎？
+B|Sometimes. Today I'll go in the patrol car with the police hat.|有時候。今天我會戴著警帽坐巡邏車去。
+M|Thank you for your help, officer.|謝謝你的幫忙，警官。
+B|Of course. If you need us, just call the police.|不客氣，如果需要我們，就報警。

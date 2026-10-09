@@ -1,0 +1,41 @@
+id: leisure-2
+cat: leisure
+title: 樂器
+titleEn: Musical instruments
+emoji: 🎻
+speakers: M=Kim|金|🙋‍♀️|af_sarah;B=Jack|傑克|🙋‍♂️|am_michael
+dialogueTitle: 學校樂團的練習
+--words
+saxophone|薩克斯風|n.|🎷|He plays the saxophone in the jazz band.|他在爵士樂團吹薩克斯風。
+flute|長笛|n.|🪈|The flute has a soft sound.|長笛的聲音很柔和。
+acoustic guitar|民謠吉他|n.|🎸|I play the acoustic guitar by the fire.|我在營火邊彈民謠吉他。
+electric guitar|電吉他|n.|🎸|The electric guitar is loud.|電吉他很大聲。
+clarinet|單簧管|n.|🎶|She plays the clarinet in the school band.|她在學校樂隊吹單簧管。
+Chinese violin|二胡|n.|🎻|The Chinese violin sounds sad.|二胡的聲音聽起來很哀傷。
+harp|豎琴|n.|🎼|A harp has many strings.|豎琴有很多弦。
+trombone|伸縮喇叭|n.|🎺|The trombone has a slide.|伸縮喇叭有一個滑管。
+French horn|法國號|n.|📯|The French horn is round.|法國號是圓圓的。
+tambourine|鈴鼓|n.|🪘|Shake the tambourine!|搖搖鈴鼓！
+violin|小提琴|n.|🎻|She practices the violin every day.|她每天練習小提琴。
+drum|鼓|n.|🥁|The drum beats fast.|鼓聲打得很快。
+accordion|手風琴|n.|🪗|The accordion is played in street music.|手風琴常用在街頭音樂。
+oboe|雙簧管|n.|🎶|The oboe has a special sound.|雙簧管有獨特的聲音。
+harmonica|口琴|n.|🎶|He plays the harmonica well.|他口琴吹得很好。
+trumpet|小號|n.|🎺|The trumpet is bright and loud.|小號明亮又大聲。
+xylophone|木琴|n.|🎶|Kids love playing the xylophone.|小朋友愛敲木琴。
+tuba|低音大號|n.|🎶|The tuba is the biggest brass instrument.|低音大號是最大的銅管樂器。
+cello|大提琴|n.|🎻|The cello is bigger than the violin.|大提琴比小提琴大。
+piano|鋼琴|n.|🎹|I take piano lessons.|我上鋼琴課。
+--dialogue
+M|Jack, the school band is looking for new members. Do you play any instrument?|傑克，學校樂團在徵求新團員，你會任何樂器嗎？
+B|I play the piano, but I also want to try the saxophone.|我會彈鋼琴，但也想試試薩克斯風。
+M|Great. We already have a trumpet, a trombone, and a tuba, so brass is full.|太好了。我們已經有小號、伸縮喇叭和低音大號，銅管樂器夠了。
+B|What about woodwinds? Do you have a flute, a clarinet, or an oboe?|那木管呢？你們有長笛、單簧管或雙簧管嗎？
+M|Yes. Mary plays the flute, and Tom plays the clarinet.|有，瑪麗吹長笛，湯姆吹單簧管。
+B|Do you have string instruments? I love the violin and the cello.|你們有弦樂器嗎？我愛小提琴和大提琴。
+M|We have those, plus a harp, and a Chinese violin for traditional songs.|有，另外還有豎琴，和演奏傳統歌曲的二胡。
+B|Wow! What about a French horn and an accordion?|哇！那法國號和手風琴呢？
+M|Not yet, but you can bring an acoustic or electric guitar for the pop songs.|還沒有，不過你可以帶民謠或電吉他來演奏流行歌曲。
+B|I can also play the harmonica, the drum, and the xylophone a bit.|我也會一點口琴、鼓和木琴。
+M|Fantastic! Even a tambourine will be useful.|太棒了！連鈴鼓也派得上用場。
+B|Okay, I'll join the band. When is the first practice?|好，我加入樂團。第一次練習是什麼時候？

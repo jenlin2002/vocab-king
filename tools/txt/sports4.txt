@@ -1,0 +1,45 @@
+id: sports-4
+cat: sports
+title: 棒球場
+titleEn: Baseball field
+emoji: ⚾
+speakers: M=Kim|金|🙋‍♀️|af_sarah;B=Jack|傑克|🙋‍♂️|am_michael
+dialogueTitle: 第一次去棒球場
+--words
+bleachers|看台|n.|🏟️|We sit in the bleachers.|我們坐在看台上。
+home run|全壘打|n.|💥|He hit a home run!|他打了一支全壘打！
+left fielder|左外野手|n.|🧢|The left fielder caught the ball.|左外野手接住了球。
+hit|打擊|v.|⚾|Try to hit the ball.|試著打到球。
+shortstop|游擊手|n.|🧢|The shortstop is quick.|游擊手動作很快。
+center fielder|中外野手|n.|🧢|The center fielder runs fast.|中外野手跑得很快。
+right fielder|右外野手|n.|🧢|The right fielder throws far.|右外野手投得很遠。
+outfield|外野|n.|🌿|The ball flew into the outfield.|球飛到外野。
+mitt|手套（捕手／一壘手用）|n.|🧤|The catcher wears a mitt.|捕手戴著手套。
+base|壘包|n.|⬜|He ran to the next base.|他跑向下一個壘包。
+second baseman|二壘手|n.|🧢|The second baseman tagged the runner.|二壘手觸殺了跑者。
+third baseman|三壘手|n.|🧢|The third baseman made a great catch.|三壘手漂亮地接殺。
+first baseman|一壘手|n.|🧢|The first baseman is tall.|一壘手很高。
+pitcher|投手|n.|🤾|The pitcher throws fast balls.|投手投出快速球。
+pitcher's mound|投手丘|n.|⛰️|He stands on the pitcher's mound.|他站在投手丘上。
+baseball uniform|棒球制服|n.|👕|The team wears a red baseball uniform.|這支隊伍穿紅色棒球制服。
+infield|內野|n.|🟫|The infield is made of dirt.|內野是泥土做的。
+batter's box|打擊區|n.|🔲|The batter stands in the batter's box.|打者站在打擊區。
+batter|打者|n.|🏏|The batter swings the bat.|打者揮棒。
+bat|球棒|n.|🏏|He holds the bat tightly.|他緊緊握住球棒。
+player number|球員背號|n.|🔢|His player number is seven.|他的背號是七號。
+home plate|本壘板|n.|🏠|He slid into home plate.|他滑向本壘板。
+catcher|捕手|n.|🧤|The catcher squats behind home plate.|捕手蹲在本壘板後。
+umpire|球評（裁判）|n.|🧑‍⚖️|The umpire shouts "Strike!"|裁判大喊「好球！」
+--dialogue
+M|Jack, this is my first time at a baseball stadium. Where do we sit?|傑克，這是我第一次來棒球場。我們坐哪裡？
+B|In the bleachers. We can see the whole field from there.|看台。從那裡可以看到整個球場。
+M|What is the pitcher doing on the pitcher's mound?|投手在投手丘上做什麼？
+B|He throws the ball to the catcher. The batter stands in the batter's box with a bat.|他把球投給捕手。打者拿著球棒站在打擊區。
+M|And the umpire stands behind home plate?|裁判是不是站在本壘板後面？
+B|Yes. If the batter can hit the ball, he runs to first base.|對。如果打者打到球，就跑向一壘。
+M|Who are those players in the infield?|內野那些球員是誰？
+B|The first baseman, second baseman, third baseman, and shortstop.|一壘手、二壘手、三壘手和游擊手。
+M|And the outfield players?|那外野球員呢？
+B|The left fielder, center fielder, and right fielder. A home run goes over their heads.|左外野手、中外野手和右外野手。全壘打會飛過他們的頭頂。
+M|I see! Their baseball uniforms have a player number on the back.|我懂了！他們的棒球制服背後有球員背號。
+B|You learn fast. Now let's cheer for the team!|你學得好快。現在我們為球隊加油吧！

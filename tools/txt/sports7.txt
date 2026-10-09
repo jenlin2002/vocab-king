@@ -1,0 +1,33 @@
+id: sports-7
+cat: sports
+title: 武術與格鬥
+titleEn: Martial arts
+emoji: 🥋
+speakers: M=Kim|金|🙋‍♀️|af_sarah;B=Jack|傑克|🙋‍♂️|am_michael
+dialogueTitle: 選一種武術來學
+--words
+fencing|擊劍|n.|🤺|Fencing uses a thin sword.|擊劍用細長的劍。
+tai chi|太極拳|n.|☯️|Grandpa does tai chi in the park.|爺爺在公園打太極拳。
+wrestling|摔角|n.|🤼|Wrestling is a strong sport.|摔角是很強壯的運動。
+karate|空手道|n.|🥋|Karate comes from Japan.|空手道來自日本。
+taekwondo|跆拳道|n.|🥋|Taekwondo comes from Korea.|跆拳道來自韓國。
+kendo|劍道|n.|⚔️|Kendo uses bamboo swords.|劍道用竹劍。
+judo|柔道|n.|🥋|Judo teaches you to throw safely.|柔道教你安全地摔人。
+boxing|拳擊|n.|🥊|Boxing needs strong arms.|拳擊需要強壯的手臂。
+sumo|相撲|n.|🤼|Sumo wrestlers are very large.|相撲選手體型很大。
+kickboxing|踢拳（自由搏擊）|n.|🥊|Kickboxing is a hard workout.|踢拳是很辛苦的運動。
+kung fu|功夫|n.|🥋|Kung fu movies are famous.|功夫電影很有名。
+aikido|合氣道|n.|🥋|Aikido uses the opponent's force.|合氣道利用對手的力量。
+--dialogue
+M|Jack, I want to learn a martial art. Which one is good?|傑克，我想學一種武術，哪一種好？
+B|Karate and taekwondo are popular. Kicks and punches are the key.|空手道和跆拳道很受歡迎，踢和打是重點。
+M|I like kendo. I think the bamboo sword looks cool.|我喜歡劍道，我覺得竹劍很酷。
+B|Fencing also uses swords, but it is a different sport.|擊劍也用劍，但是不同的運動。
+M|What about judo? Can a small person throw a big opponent?|柔道呢？小個子可以摔倒大個子的對手嗎？
+B|Yes, judo and aikido use the opponent's force. Sumo and wrestling need big bodies, though.|可以，柔道和合氣道會利用對手的力量。不過相撲和摔角需要大塊頭。
+M|Boxing and kickboxing look tiring. They need a lot of strength.|拳擊和踢拳看起來很累，需要很大力氣。
+B|If you want something gentle, try tai chi. My grandma does it every morning.|如果想要溫和的，試試太極拳。我奶奶每天早上都在練。
+M|And kung fu? I saw it in a movie.|那功夫呢？我在電影裡看過。
+B|Kung fu has many styles. It teaches discipline and courage.|功夫有很多門派，教人紀律和勇氣。
+M|I think I'll start with judo or tai chi. Will you come with me?|我想我從柔道或太極拳開始。你要跟我一起去嗎？
+B|Sure. We can try a class this weekend.|當然，我們這週末可以去上一堂課。

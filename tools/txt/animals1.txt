@@ -1,0 +1,51 @@
+id: animals-1
+cat: animals
+title: 動物（一）
+titleEn: Animals 1
+emoji: 🐘
+speakers: M=Paula|寶拉|🙋‍♀️|af_sarah;B=Ms. Jane|珍老師|👩‍🏫|af_heart
+dialogueTitle: 珍老師帶學生逛動物園
+--words
+mouse|老鼠|n.|🐭|A mouse is hiding under the bed.|一隻老鼠躲在床下。
+dog|狗|n.|🐶|My dog likes to run.|我的狗喜歡跑步。
+goat|山羊|n.|🐐|The goat eats grass.|山羊在吃草。
+cow|乳牛|n.|🐄|A cow gives us milk.|乳牛提供我們牛奶。
+cat|貓|n.|🐱|The cat sleeps on the sofa.|貓睡在沙發上。
+pig|豬|n.|🐷|The pig is in the mud.|豬在泥巴裡。
+sheep|綿羊|n.|🐑|The sheep has soft wool.|綿羊有柔軟的羊毛。
+donkey|驢子|n.|🫏|The donkey carries the bags.|驢子馱著袋子。
+rabbit|兔子|n.|🐰|The rabbit eats a carrot.|兔子在吃紅蘿蔔。
+monkey|猴子|n.|🐒|The monkey climbs the tree.|猴子爬上樹。
+squirrel|松鼠|n.|🐿️|A squirrel collects nuts.|松鼠在收集堅果。
+koala|無尾熊|n.|🐨|The koala sleeps all day.|無尾熊整天都在睡覺。
+zebra|斑馬|n.|🦓|A zebra has black and white stripes.|斑馬有黑白相間的條紋。
+giraffe|長頸鹿|n.|🦒|A giraffe has a long neck.|長頸鹿有長長的脖子。
+kangaroo|袋鼠|n.|🦘|The kangaroo jumps high.|袋鼠跳得很高。
+bat|蝙蝠|n.|🦇|A bat flies at night.|蝙蝠在夜晚飛行。
+snake|蛇|n.|🐍|The snake moves quietly.|蛇靜靜地爬行。
+deer|鹿|n.|🦌|The deer runs into the forest.|鹿跑進森林。
+wolf|狼|n.|🐺|The wolf howls at the moon.|狼對著月亮嚎叫。
+camel|駱駝|n.|🐫|A camel lives in the desert.|駱駝住在沙漠。
+polar bear|北極熊|n.|🐻‍❄️|The polar bear lives in the Arctic.|北極熊住在北極。
+fox|狐狸|n.|🦊|The fox is clever.|狐狸很聰明。
+rhinoceros|犀牛|n.|🦏|The rhinoceros has a horn.|犀牛有一支角。
+horse|馬|n.|🐴|The horse runs fast.|馬跑得很快。
+giant panda|大貓熊|n.|🐼|The giant panda eats bamboo.|大貓熊吃竹子。
+hippopotamus|河馬|n.|🦛|A hippopotamus likes the water.|河馬喜歡待在水裡。
+bear|熊|n.|🐻|The bear sleeps in winter.|熊在冬天冬眠。
+lion|獅子|n.|🦁|The lion is the king of the animals.|獅子是動物之王。
+elephant|大象|n.|🐘|An elephant has a long nose.|大象有長長的鼻子。
+tiger|老虎|n.|🐯|The tiger has stripes.|老虎有條紋。
+--dialogue
+B|Class, today we are at the zoo. Look, there is an elephant, a lion, and a tiger!|同學們，今天我們在動物園。看，有大象、獅子和老虎！
+M|Ms. Jane, the giraffe has a very long neck.|珍老師，長頸鹿的脖子好長。
+B|Yes, and the zebra next to it has black and white stripes.|對，旁邊的斑馬有黑白條紋。
+M|What is that animal with a bag on its belly?|那隻肚子上有口袋的動物是什麼？
+B|It's a kangaroo. The koala is from Australia, too.|是袋鼠。無尾熊也來自澳洲。
+M|I love the giant panda. It eats bamboo, right?|我好喜歡大貓熊，牠吃竹子對吧？
+B|Right. A polar bear lives in the cold, and a camel lives in the desert.|對。北極熊住在寒冷的地方，駱駝住在沙漠。
+M|There is a monkey and a squirrel up in the tree.|樹上有猴子和松鼠。
+B|Good eyes! On the farm, you find a cow, a pig, a sheep, a goat, and a donkey.|你眼力真好！在農場你會看到乳牛、豬、綿羊、山羊和驢子。
+M|At home, I have a dog, a cat, and a rabbit. My brother keeps a mouse.|我在家有狗、貓和兔子，我哥哥養一隻老鼠。
+B|A fox, a wolf, and a deer live in the forest. A bat sleeps in the cave.|狐狸、狼和鹿住在森林，蝙蝠睡在洞穴裡。
+M|And a hippopotamus, a rhinoceros, a horse, and a bear. I love animals!|還有河馬、犀牛、馬和熊。我愛動物！

@@ -93,10 +93,13 @@ function student(){ const n = String(get('quizStudentName') || '').trim(); retur
 
 // ---- 語音 ----
 let cur = null;
-function play(src, btn){
+function speakFallback(text){   // 還沒產生語音檔時，改用瀏覽器內建語音
+  try{ if(!text) return; const u = new SpeechSynthesisUtterance(text); u.lang = 'en-US'; u.rate = 0.9; speechSynthesis.cancel(); speechSynthesis.speak(u); }catch(e){}
+}
+function play(src, text){
   if(cur){ try{ cur.pause(); }catch(e){} cur = null; }
   const a = new Audio(src); cur = a;
-  a.onerror = () => { cur = null; };
+  a.onerror = () => { cur = null; speakFallback(text); };
   a.play().catch(()=>{});
 }
 
@@ -139,7 +142,7 @@ document.addEventListener('click', e => {
   const t = e.target.closest('.tab');
   if(t){ tab = t.dataset.tab; renderTabs(); renderView(); return; }
   const sp = e.target.closest('[data-au]');
-  if(sp){ play(sp.dataset.au); return; }
+  if(sp){ play(sp.dataset.au, sp.dataset.tx); return; }
 });
 
 function renderView(){
@@ -159,14 +162,14 @@ function drawScene(){
     return icon + `<g class="dot" data-n="${i}" transform="translate(${bx} ${by})"><circle r="8.5"/><text y="3.5">${i + 1}</text></g>`;
   }).join('');
   const list = T.words.map((w, i) => `<button class="sw" data-n="${i}"><b>${i + 1}</b><span class="en">${esc(w.w)}</span><span class="zh">${esc(w.zh)}</span></button>`).join('');
-  $('#view').innerHTML = ctlBar() + `<svg class="scene" viewBox="0 0 400 250" role="img" aria-label="${esc(T.title)}場景圖">${S.svg}${dots}</svg><div class="swl ${cls()}">${list}</div>`;
+  $('#view').innerHTML = ctlBar() + `<svg class="scene" viewBox="0 0 400 ${S.h || 250}" role="img" aria-label="${esc(T.title)}場景圖">${S.svg}${dots}</svg><div class="swl ${cls()}">${list}</div>`;
 }
 document.addEventListener('click', e => {
   const t = e.target.closest('.dot, .sw'); if(!t || tab !== 'scene') return;
   const i = +t.dataset.n, w = T.words[i];
   document.querySelectorAll('.dot').forEach(d => d.classList.toggle('on', +d.dataset.n === i));
   document.querySelectorAll('.sw').forEach(d => d.classList.toggle('on', +d.dataset.n === i));
-  play(au('w', w));
+  play(au('w', w), w.w);
 });
 
 function au(kind, w){ return `audio/${T.id}/${kind}-${w.slug}.mp3`; }
@@ -183,9 +186,9 @@ document.addEventListener('click', e => {
 function drawCards(){
   $('#view').innerHTML = ctlBar() + `<div class="words ${cls()}">` + T.words.map(w => `
     <div class="wc"><div class="em">${w.emoji}</div>
-      <div><span class="en">${esc(w.w)}</span><span class="pos">${esc(w.pos)}</span><button class="sp" data-au="${au('w', w)}" aria-label="聽發音">🔊</button></div>
+      <div><span class="en">${esc(w.w)}</span><span class="pos">${esc(w.pos)}</span><button class="sp" data-au="${au('w', w)}" data-tx="${esc(w.w)}" aria-label="聽發音">🔊</button></div>
       <div class="zh">${esc(w.zh)}</div>
-      <div class="ex"><span class="exen">${esc(w.ex)}</span><button class="sp sm" data-au="${au('e', w)}" aria-label="聽例句">🔊</button><div class="exzh">${esc(w.exzh)}</div></div>
+      <div class="ex"><span class="exen">${esc(w.ex)}</span><button class="sp sm" data-au="${au('e', w)}" data-tx="${esc(w.ex)}" aria-label="聽例句">🔊</button><div class="exzh">${esc(w.exzh)}</div></div>
     </div>`).join('') + '</div>';
 }
 
@@ -202,7 +205,7 @@ function drawDialogue(){
   $('#view').innerHTML = `<h2 style="margin:16px 0 0;font-size:18px">${esc(T.dialogueTitle)}</h2>` + ctlBar() + `<div class="dl ${cls()}">` + T.dialogue.map((l, i) => {
     const s = sp[l.s], me = l.s === 'M';
     return `<div class="ln${me ? ' me' : ''}"><div class="av">${s.avatar}</div><div class="bub"><div class="nm">${esc(s.name)}（${esc(s.zh)}）</div>
-      <div><span class="den">${hl(l.en)}</span><button class="sp sm" data-au="audio/${T.id}/d-${String(i + 1).padStart(2, '0')}.mp3" aria-label="聽這句">🔊</button></div>
+      <div><span class="den">${hl(l.en)}</span><button class="sp sm" data-au="audio/${T.id}/d-${String(i + 1).padStart(2, '0')}.mp3" data-tx="${esc(l.en)}" aria-label="聽這句">🔊</button></div>
       <div class="dzh">${esc(l.zh)}</div></div></div>`;
   }).join('') + '</div>';
 }
@@ -217,9 +220,9 @@ function drawQuiz(id){
     if(id === 'pic'){
       head = `<span class="big">${w.emoji}</span><span class="qt">${esc(w.zh)}</span>`;
     } else if(id === 'listen'){
-      head = `<button class="sp" data-au="${au('w', w)}">🔊</button><span class="qt"> 聽發音，選出你聽到的單字</span>`;
+      head = `<button class="sp" data-au="${au('w', w)}" data-tx="${esc(w.w)}">🔊</button><span class="qt"> 聽發音，選出你聽到的單字</span>`;
     } else {
-      head = `<span class="big">${w.emoji}</span><span class="qt">${esc(w.zh)}</span><button class="sp" data-au="${au('w', w)}" title="聽發音">🔊</button><div class="st">共 ${w.w.replace(/[^A-Za-z]/g, '').length} 個字母</div>`;
+      head = `<span class="big">${w.emoji}</span><span class="qt">${esc(w.zh)}</span><button class="sp" data-au="${au('w', w)}" data-tx="${esc(w.w)}" title="聽發音">🔊</button><div class="st">共 ${w.w.replace(/[^A-Za-z]/g, '').length} 個字母</div>`;
     }
     if(id === 'spell'){
       inner = `<input class="sp-in" data-i="${i}" autocomplete="off" autocapitalize="none" spellcheck="false" placeholder="輸入英文" value="${esc(a)}"${z.sent ? ' disabled' : ''}>`;

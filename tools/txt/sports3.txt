@@ -1,0 +1,39 @@
+id: sports-3
+cat: sports
+title: 籃球場
+titleEn: Basketball court
+emoji: 🏀
+speakers: M=Coach|教練|🧑‍🏫|am_adam;B=Jack|傑克|🙋‍♂️|am_michael
+dialogueTitle: 教練講解籃球場
+--words
+scoreboard|計分板|n.|📊|The scoreboard shows the score.|計分板顯示比數。
+coach|教練|n.|🧑‍🏫|The coach gives us advice.|教練給我們建議。
+bench player|板凳球員|n.|🪑|A bench player waits for his turn.|板凳球員等著上場。
+sideline|邊線|n.|↔️|Don't step on the sideline.|別踩到邊線。
+centerline|中線|n.|➖|The ball crosses the centerline.|球越過了中線。
+dribble|運球|v.|⛹️|He can dribble with both hands.|他可以用兩手運球。
+forward|前鋒|n.|🏃|The forward scores many points.|前鋒得了很多分。
+three-point line|三分線|n.|⭕|He shot from behind the three-point line.|他從三分線外投籃。
+referee|裁判|n.|🧑‍⚖️|The referee blows the whistle.|裁判吹哨子。
+foul line|犯規線|n.|➖|Stay behind the foul line.|站在犯規線後面。
+free throw line|罰球線|n.|➖|He shot from the free throw line.|他在罰球線上投籃。
+center|中鋒|n.|🧍|The center is the tallest player.|中鋒是最高的球員。
+guard|後衛|n.|🛡️|The guard passes the ball.|後衛傳球。
+key|禁區|n.|🔑|The key is the painted area near the basket.|禁區是籃框附近畫上顏色的區域。
+backboard|籃板|n.|🟦|The ball hit the backboard.|球打到籃板。
+rim|籃框|n.|⭕|The ball bounced off the rim.|球從籃框彈出。
+net|籃網|n.|🥅|The ball went through the net.|球穿過籃網。
+baseline|底線|n.|↔️|The baseline is at each end of the court.|底線在球場每一端。
+--dialogue
+M|Welcome to basketball practice. Look at the court, everyone.|歡迎來到籃球練習。大家看看球場。
+B|Coach, what does the scoreboard show?|教練，計分板顯示什麼？
+M|It shows the score and the time. The referee watches the game.|它顯示比數和時間。裁判負責看比賽。
+B|What are the lines on the court?|球場上這些線是什麼？
+M|The sideline and the baseline are the boundaries. The centerline is in the middle.|邊線和底線是界線，中線在中間。
+B|Where do we shoot a free throw?|我們在哪裡罰球？
+M|At the free throw line. The foul line is a different mark behind it. The key is the painted area.|在罰球線。犯規線是它後面另一條標記。禁區是塗色的區域。
+B|From the three-point line, we get three points, right?|從三分線投進可以得三分，對嗎？
+M|Yes. The ball can hit the backboard, the rim, and then go through the net.|對。球可以打到籃板、籃框，然後穿過籃網。
+B|What are the positions? Guard, forward, and center?|有哪些位置？後衛、前鋒和中鋒嗎？
+M|Right. The guard likes to dribble and pass. The center stays close to the basket.|對。後衛喜歡運球和傳球，中鋒待在籃框附近。
+B|And the bench players sit by the sideline, ready to play.|而板凳球員坐在邊線旁，隨時準備上場。

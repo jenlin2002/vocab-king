@@ -1,0 +1,37 @@
+id: transport-4
+cat: transport
+title: 在馬路上
+titleEn: On the road
+emoji: 🛣️
+speakers: M=Kim|金|🙋‍♀️|af_sarah;B=Paul|保羅|🙋‍♂️|am_michael
+dialogueTitle: 金帶新鄰居認識街道
+--words
+pedestrian bridge|天橋|n.|🌉|Walk over the pedestrian bridge.|請走天橋過馬路。
+corner|街角|n.|📍|Turn left at the corner.|在街角左轉。
+street sign|路牌|n.|🪧|The street sign shows the name of the road.|路牌上有馬路的名字。
+subway entrance|地鐵入口|n.|🚇|The subway entrance is near the park.|地鐵入口在公園附近。
+bus stop|公車站|n.|🚏|We wait at the bus stop.|我們在公車站等車。
+gas station|加油站|n.|⛽|Fill up the car at the gas station.|在加油站把車加滿油。
+freeway|高速公路|n.|🛣️|The freeway is wide and fast.|高速公路又寬又快。
+boulevard|林蔭大道|n.|🌳|The boulevard has trees on both sides.|林蔭大道兩邊有樹。
+crosswalk|斑馬線|n.|🚸|Cross the street at the crosswalk.|請走斑馬線過馬路。
+intersection|十字路口|n.|✖️|Stop at the intersection.|在十字路口停下來。
+streetlight|路燈|n.|💡|The streetlight turns on at night.|路燈晚上會亮。
+traffic light|紅綠燈|n.|🚦|Wait for the traffic light to turn green.|等紅綠燈變綠。
+sidewalk|人行道|n.|🚶|Walk on the sidewalk.|請走在人行道上。
+underpass|地下道|n.|🕳️|We go through the underpass.|我們穿過地下道。
+curb|路緣|n.|🧱|Don't park near the curb.|別把車停在路緣旁。
+parking space|停車位|n.|🅿️|I can't find a parking space.|我找不到停車位。
+--dialogue
+M|Paul, welcome to Bigburg! Let me show you the streets.|保羅，歡迎來到大堡市！我帶你看看這些街道。
+B|Thanks, Kim. What is that big road?|謝謝你，金。那條大馬路是什麼？
+M|That's the boulevard, with trees on both sides. The freeway is farther away.|那是林蔭大道，兩邊都有樹。高速公路在更遠的地方。
+B|Where can I catch a bus?|我可以在哪裡搭公車？
+M|At the bus stop on the corner. The subway entrance is across the street.|在街角的公車站。地鐵入口在對面。
+B|How do I get there? There is a lot of traffic.|我怎麼過去？車很多。
+M|Use the crosswalk at the intersection, but wait for the traffic light. Or use the pedestrian bridge.|在十字路口走斑馬線，但要等紅綠燈，或是走天橋。
+B|Is there an underpass too?|還有地下道嗎？
+M|Yes, near the gas station. Always walk on the sidewalk, away from the curb.|有，在加油站附近。要一直走在人行道上，離路緣遠一點。
+B|It is dark at night. Are there streetlights?|晚上很暗，有路燈嗎？
+M|Yes, and the street signs show every street name. Parking space is hard to find, though.|有，路牌上寫著每條街的名字。不過停車位很難找。
+B|Thanks, Kim. I think I can find my way now!|謝謝你，金。我想我現在可以找到路了！

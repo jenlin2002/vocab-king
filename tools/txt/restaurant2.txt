@@ -1,0 +1,39 @@
+id: restaurant-2
+cat: restaurant
+title: 西餐廳
+titleEn: Western restaurant
+emoji: 🍷
+speakers: M=Waiter|服務生|🧑‍🍳|am_adam;B=Kim|金|🙋‍♀️|af_sarah
+dialogueTitle: 在西餐廳用餐
+--words
+bar|吧檯|n.|🍸|Drinks are served at the bar.|飲料在吧檯供應。
+cocktail|雞尾酒|n.|🍹|He ordered a cocktail.|他點了一杯雞尾酒。
+waiter|男服務生|n.|🧑‍🍳|The waiter brings the menu.|服務生拿來菜單。
+ice bucket|冰桶|n.|🪣|The champagne is in an ice bucket.|香檳放在冰桶裡。
+champagne|香檳|n.|🥂|They drink champagne at weddings.|他們在婚禮上喝香檳。
+teapot|茶壺|n.|🫖|The teapot is full of hot tea.|茶壺裡裝滿熱茶。
+coffee pot|咖啡壺|n.|☕|The waitress holds the coffee pot.|女服務生拿著咖啡壺。
+waitress|女服務生|n.|👩‍🍳|The waitress is very friendly.|女服務生很友善。
+menu|菜單|n.|📋|May I see the menu?|我可以看看菜單嗎？
+pepper mill|胡椒研磨罐|n.|🧂|Use the pepper mill on the steak.|用研磨罐在牛排上撒胡椒。
+salt shaker|鹽罐|n.|🧂|Pass me the salt shaker, please.|請把鹽罐遞給我。
+bill|帳單|n.|🧾|Could we have the bill, please?|可以給我們帳單嗎？
+toothpick|牙籤|n.|🪥|Toothpicks are next to the napkins.|牙籤在餐巾旁邊。
+tablecloth|桌巾|n.|🟦|The tablecloth is white.|桌巾是白色的。
+placemat|餐墊|n.|🟫|Put the plate on the placemat.|把盤子放在餐墊上。
+napkin|餐巾|n.|🧻|Put the napkin on your lap.|把餐巾放在腿上。
+host|領檯（男）|n.|🧑‍💼|The host shows us to a table.|領檯帶我們到座位。
+counter|櫃檯|n.|🏪|The counter is near the door.|櫃檯在門邊。
+--dialogue
+M|Good evening. Welcome. Do you have a reservation?|晚安，歡迎光臨。你們有預約嗎？
+B|Yes, a table for two under Kim.|有，兩人桌，名字是金。
+M|Right this way. The host will show you to a nice table with a white tablecloth.|這邊請。領檯會帶你們到有白色桌巾的好位子。
+B|Thank you. May we have the menu and some water?|謝謝。可以給我們菜單和一些水嗎？
+M|Of course. Would you like a cocktail from the bar, or some champagne in an ice bucket?|當然。你們想從吧檯點雞尾酒，還是冰桶香檳？
+B|No alcohol, thanks. Tea in a teapot, please, and a coffee later.|不用酒，謝謝。請給我一壺茶，晚點再來咖啡。
+M|The waitress will bring a coffee pot after dessert.|甜點後女服務生會拿咖啡壺來。
+B|Please bring salt and pepper. I like fresh pepper from the pepper mill.|請拿鹽和胡椒來。我喜歡用研磨罐磨的新鮮胡椒。
+M|Sure. Here are the napkins and a placemat for each of you.|好的。這是每位的餐巾和餐墊。
+B|The service is great. Everyone is so polite.|服務真好，大家都很有禮貌。
+M|Thank you. When you finish, pay at the counter, or I can bring the bill here.|謝謝。用完餐可以到櫃檯付款，或我把帳單拿來這裡。
+B|Please bring the bill to the table. And don't forget the toothpicks!|請把帳單拿到桌上，也別忘了牙籤！

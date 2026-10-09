@@ -1,0 +1,42 @@
+id: school-3
+cat: school
+title: 文具
+titleEn: Stationery
+emoji: ✏️
+speakers: M=Anna|安娜|🙋‍♀️|af_sarah;B=Jack|傑克|🙋‍♂️|am_michael
+dialogueTitle: 開學前的文具店採購
+--words
+paper clip|迴紋針|n.|📎|Put a paper clip on the papers.|用迴紋針夾住這些紙。
+calligraphy brush|毛筆|n.|🖌️|He writes Chinese with a calligraphy brush.|他用毛筆寫中文字。
+fountain pen|鋼筆|n.|🖋️|My grandpa uses a fountain pen.|我爺爺用鋼筆。
+ballpoint pen|原子筆|n.|🖊️|I need a blue ballpoint pen.|我需要一支藍色原子筆。
+pencil|鉛筆|n.|✏️|Sharpen your pencil before the test.|考試前先把鉛筆削尖。
+mechanical pencil|自動鉛筆|n.|✒️|I like my mechanical pencil.|我喜歡我的自動鉛筆。
+compass|圓規|n.|📐|Draw a circle with a compass.|用圓規畫一個圓。
+thumbtack|圖釘|n.|📍|Put the poster up with thumbtacks.|用圖釘把海報釘起來。
+crayon|蠟筆|n.|🖍️|The little girl draws with crayons.|小女孩用蠟筆畫畫。
+felt-tip pen|簽字筆（纖維筆）|n.|🖊️|Write your name with a felt-tip pen.|用簽字筆寫上你的名字。
+marker|麥克筆|n.|🖍️|The teacher uses a red marker.|老師用紅色麥克筆。
+paint palette|調色盤|n.|🎨|Mix the colors on the paint palette.|在調色盤上調顏色。
+paint|顏料；油漆|n.|🎨|We bought some blue paint for art class.|我們為美術課買了一些藍色顏料。
+binder paper|活頁紙|n.|📄|Take out a sheet of binder paper.|拿出一張活頁紙。
+stapler|釘書機|n.|📎|Use the stapler to join the pages.|用釘書機把紙頁釘起來。
+notebook|筆記本|n.|📓|I write new words in my notebook.|我把新單字寫在筆記本裡。
+ink|墨水|n.|🖋️|The pen is out of ink.|這支筆沒墨水了。
+ruler|尺|n.|📏|Draw a straight line with a ruler.|用尺畫一條直線。
+correction fluid|修正液|n.|🧴|Use correction fluid to cover the mistake.|用修正液蓋住寫錯的字。
+pencil sharpener|削鉛筆機|n.|✂️|The pencil sharpener is on my desk.|削鉛筆機在我的桌上。
+glue|膠水|n.|🧴|Put some glue on the paper.|在紙上塗一點膠水。
+--dialogue
+B|Anna, school starts next week. Do you have everything?|安娜，下週就開學了，你東西都準備好了嗎？
+M|Not yet. I need a new notebook and some binder paper.|還沒。我需要新的筆記本和一些活頁紙。
+B|Let's go to the stationery store. I need a ruler and a compass for math.|我們去文具店吧。我數學需要一把尺和一個圓規。
+M|Look at these pens! There are ballpoint pens, fountain pens, and felt-tip pens.|你看這些筆！有原子筆、鋼筆和簽字筆。
+B|I'll take a mechanical pencil and a pencil sharpener, too.|我也要買一支自動鉛筆和一個削鉛筆機。
+M|My sister needs crayons, glue, and a paint palette for art class.|我妹妹美術課需要蠟筆、膠水和調色盤。
+B|Here are some red and blue markers. Should we get paint?|這裡有一些紅色和藍色的麥克筆。我們要買顏料嗎？
+M|Yes, and a calligraphy brush for the Chinese class.|要，還要一支國文課用的毛筆。
+B|Do you need paper clips or a stapler?|你需要迴紋針或釘書機嗎？
+M|Both, please. And thumbtacks for my bulletin board.|兩種都要，還有釘我布告板的圖釘。
+B|If you make a mistake, use correction fluid. The ink is in aisle three.|寫錯的話可以用修正液。墨水在第三走道。
+M|Great, I think we have everything now. Let's pay!|太好了，我想我們現在都買齊了。去結帳吧！

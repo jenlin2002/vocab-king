@@ -24,4 +24,10 @@
 - 每個主題有「🗺️ 場景圖」分頁（自己畫的簡單 SVG＋編號圓點，對應書上『圖＋編號』的學習方式，但不是書上的圖）。home-1 的在 `tools/scene_home1.py`；home-2～10 在 `tools/scenes_home.py`（`pos` 值 `(x,y)`＝圓點放在圖上的物件；`(x,y,'e')`＝放該字 emoji；`pos={}` 的主題＝自動排成架子，盥洗用品、廚房用具、工具用這種）。`build_topic.py` 會檢查每個單字都有位置。`topic.html` 的 `drawScene()` 負責畫圖。`index.html` 的 `TOPICS` 要記得加新主題。`topics/*.js` 與 `audio/` 都要一起提交。
 
 ## 進度
-- 2026-10-09：居家 10 個主題全部完成（home-1～10，共 173 個單字、120 句原創對話、約 460 個語音檔、場景圖）。已在瀏覽器逐一驗證：音檔齊全、三種測驗全對都 10/10。客廳（二）故意沒放 ashtray／cigarette（書上有，不適合國中生）。其餘 13 類待做（書的 Track 021 起；每類約 5–11 個主題）。單字清單可由 MP3 轉文字（faster-whisper base.en）取得，中文與詞性我自己填，請使用者抽查。
+- 2026-10-09：居家 10 個主題全部完成（home-1～10，共 173 個單字、120 句原創對話、約 460 個語音檔、場景圖）。已在瀏覽器逐一驗證：音檔齊全、三種測驗全對都 10/10。客廳（二）故意沒放 ashtray／cigarette（書上有，不適合國中生）。單字清單可由 MP3 轉文字（faster-whisper base.en）取得，中文與詞性我自己填，請使用者抽查。
+- 2026-10-09（續）：其餘 13 類全部寫完，目前共 14 類、76 個主題（school 8、hospital 3、people 6、transport 4、air 3、town 6、animals 5、food 7、leisure 2、sports 8、restaurant 6、machines 2、misc 6）。資料在 `tools/txt/<類別><編號>.txt`（格式見 build_topic.py 的 parse_txt），`python tools\build_topic.py 名稱…` 產生 `topics/<類別>-N.js`，不帶參數只重建 catalog。
+  - 除居家外，其餘主題的場景圖都是「自動貨架格」（emoji＋編號點），不是手繪房間；對話為原創（依書中單字情境改寫，非書上原文）。
+  - 已用瀏覽器確認 76 個主題都能載入（單字數、場景點數、頁面文字）；people-1 只有 8 個單字（本來就少）。
+  - 語音：`run_audio.py --no-ex` 先只做單字＋對話；缺 mp3 時瀏覽器會用語音合成補上。之後再跑一次不加 `--no-ex` 補例句語音。尚未全部產生，要看 audio/ 資料夾與 %TEMP%\a_main.log、a_rest.log。
+  - 故意略過的單字：ashtray、cigarette、gun、lingerie department 等不適合國中生的。
+  - 中文與詞性是我依 ASR 單字表自行填寫，ASR 辨識錯的字（例如 Bullisenboard＝bulletin board）已人工修正，仍請抽查。

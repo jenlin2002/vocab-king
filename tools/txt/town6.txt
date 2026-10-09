@@ -1,0 +1,41 @@
+id: town-6
+cat: town
+title: 遊樂園
+titleEn: In an amusement park
+emoji: 🎢
+speakers: M=Pete|彼得|🙋‍♂️|am_michael;B=Ms. Jane|珍老師|👩‍🏫|af_heart
+dialogueTitle: 珍老師帶學生去遊樂園
+--words
+roller coaster|雲霄飛車|n.|🎢|The roller coaster is very fast.|雲霄飛車非常快。
+free fall ride|自由落體|n.|🪂|The free fall ride is scary.|自由落體很可怕。
+robot|機器人|n.|🤖|A robot walks around the park.|有一個機器人在園區裡走動。
+tea cup ride|咖啡杯（旋轉茶杯）|n.|☕|We spin in the tea cup ride.|我們坐旋轉茶杯。
+gift shop|紀念品店|n.|🎁|I buy a toy at the gift shop.|我在紀念品店買了玩具。
+3D ride|3D 遊樂設施|n.|🕶️|Wear 3D glasses on the 3D ride.|玩 3D 設施要戴 3D 眼鏡。
+live entertainment|現場表演|n.|🎭|The live entertainment starts at two.|現場表演兩點開始。
+bumper car|碰碰車|n.|🚗|We play the bumper car.|我們玩碰碰車。
+parade|遊行|n.|🎺|The parade has colorful floats.|遊行有彩色花車。
+ring toss|套圈圈|n.|🎯|He wins a prize at the ring toss.|他玩套圈圈贏了獎品。
+vendor stand|小販攤位|n.|🌭|The vendor stand sells hot dogs.|小販攤位賣熱狗。
+haunted house|鬼屋|n.|👻|I am scared in the haunted house.|我在鬼屋裡很害怕。
+shooting gallery|射擊遊戲攤|n.|🔫|Win a prize at the shooting gallery.|在射擊遊戲攤贏得獎品。
+swing ship ride|海盜船|n.|🏴‍☠️|The swing ship ride goes back and forth.|海盜船來回擺盪。
+merry-go-round|旋轉木馬|n.|🎠|Little kids love the merry-go-round.|小朋友愛旋轉木馬。
+Ferris wheel|摩天輪|n.|🎡|We see the city from the Ferris wheel.|我們從摩天輪看到整個城市。
+spinning ride|旋轉設施|n.|🌀|The spinning ride makes me dizzy.|旋轉設施讓我頭暈。
+snack bar|小吃部|n.|🍿|Let's buy popcorn at the snack bar.|我們到小吃部買爆米花。
+gazebo|涼亭|n.|🛖|We rest in the gazebo.|我們在涼亭休息。
+go-cart|卡丁車|n.|🏎️|He drives a go-cart.|他開卡丁車。
+--dialogue
+B|Pete, we are at the amusement park! What do you want to ride first?|彼得，我們到遊樂園了！你想先玩什麼？
+M|I want to go on the Ferris wheel, and then the roller coaster!|我想先坐摩天輪，然後坐雲霄飛車！
+B|There is also a free fall ride, but it is scary.|還有自由落體，不過很可怕。
+M|I prefer the tea cup ride and the bumper car. They're fun and not too scary.|我比較喜歡旋轉茶杯和碰碰車，好玩又不太可怕。
+B|Do you like the haunted house?|你喜歡鬼屋嗎？
+M|No way! I'll try the 3D ride and the go-cart instead.|才不要！我要玩 3D 設施和卡丁車。
+B|A parade starts at noon, and live entertainment is at two.|中午有遊行，兩點有現場表演。
+M|Can we play the ring toss and the shooting gallery?|我們可以玩套圈圈和射擊遊戲嗎？
+B|Yes, after we ride the merry-go-round and the swing ship ride.|可以，在我們玩旋轉木馬和海盜船之後。
+M|I'm hungry. Let's go to the snack bar or a vendor stand.|我餓了，我們去小吃部或小販攤位吧。
+B|Then we rest in the gazebo and buy gifts at the gift shop. A robot will say goodbye to us.|然後在涼亭休息，到紀念品店買禮物。機器人會跟我們說再見。
+M|This is the best day ever, Ms. Jane! The spinning ride was the best!|這是最棒的一天，珍老師！旋轉設施最好玩！

@@ -1,0 +1,43 @@
+id: misc-2
+cat: misc
+title: 天氣與季節
+titleEn: Weather and seasons
+emoji: 🌤️
+speakers: M=Kim|金|🙋‍♀️|af_sarah;B=Ronald|羅納德|🧑‍💼|am_michael
+dialogueTitle: 氣象主播的午餐訪談
+--words
+sun|太陽|n.|☀️|The sun is bright.|太陽很亮。
+cloud|雲|n.|☁️|A cloud covers the sun.|一朵雲遮住太陽。
+rain|雨|n.|🌧️|Take an umbrella; it will rain.|帶傘，會下雨。
+wind|風|n.|💨|The wind is strong today.|今天風很大。
+thunder|雷|n.|🌩️|Thunder is loud.|雷聲很大。
+lightning|閃電|n.|⚡|Lightning flashed in the sky.|天空閃了一道閃電。
+fog|霧|n.|🌫️|The fog is thick this morning.|今天早上霧很濃。
+frost|霜|n.|❄️|There is frost on the grass.|草地上有霜。
+snow|雪|n.|⛄|Kids play in the snow.|小孩在雪地玩。
+storm|暴風雨|n.|⛈️|A storm is coming.|暴風雨要來了。
+temperature|溫度|n.|🌡️|The temperature is 30 degrees.|溫度是三十度。
+typhoon|颱風|n.|🌀|A typhoon hit Taiwan.|颱風襲擊了台灣。
+ice|冰|n.|🧊|The road is covered with ice.|路上結了冰。
+tornado|龍捲風|n.|🌪️|A tornado destroyed the town.|龍捲風毀了小鎮。
+hail|冰雹|n.|🌨️|Hail broke the car window.|冰雹打破了車窗。
+spring|春天|n.|🌸|Flowers bloom in spring.|花在春天開。
+summer|夏天|n.|🏖️|We go swimming in summer.|我們夏天去游泳。
+fall|秋天（美）|n.|🍂|Leaves turn red in the fall.|秋天樹葉會變紅。
+autumn|秋天（英）|n.|🍁|Autumn is cool.|秋天很涼爽。
+winter|冬天|n.|☃️|Winter is cold.|冬天很冷。
+high pressure|高氣壓|n.|⬆️|High pressure brings sunny weather.|高氣壓帶來晴天。
+cold front|冷鋒|n.|🥶|A cold front is coming.|冷鋒要來了。
+--dialogue
+M|Ronald, you're a TV weather forecaster. How do you predict the weather?|羅納德，你是電視氣象主播，你怎麼預測天氣？
+B|We use many instruments and get information from big weather centers.|我們用很多儀器，也從大型氣象中心取得資料。
+M|Why don't we ever get snow here?|為什麼我們這裡從不下雪？
+B|The Pacific Ocean makes our weather mild. We rarely see frost or ice.|太平洋讓我們的天氣溫和，很少有霜或冰。
+M|I remember a big storm once. A cold front blew in, and there was ice on the road.|我記得有一次大暴風雨。冷鋒吹進來，路上結冰。
+B|Yes. We don't have typhoons or tornadoes here, so be happy.|對。我們這裡沒有颱風或龍捲風，所以要開心。
+M|What was the worst storm you've ever seen?|你看過最糟的暴風雨是什麼？
+B|The summer storm of 1998. There was thunder, lightning, and hail.|1998 年的夏季暴風雨。有雷聲、閃電和冰雹。
+M|Did you predict it?|你有預測到嗎？
+B|Yes! I said it would rain, with strong wind. I got a raise.|有！我說會下雨，還有強風。我因此加薪。
+M|How did you predict it?|你怎麼預測到的？
+B|Don't tell anyone, but it was a lucky guess. High pressure usually means sun, but fog and cloud are harder.|別告訴別人，那是幸運猜到的。高氣壓通常代表晴天，但霧和雲比較難預測。

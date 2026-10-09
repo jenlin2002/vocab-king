@@ -1,0 +1,39 @@
+id: town-4
+cat: town
+title: 銀行
+titleEn: In a bank
+emoji: 🏦
+speakers: M=Paul|保羅|🙋‍♂️|am_michael;B=Ms. Tsai|蔡小姐|👩‍💼|af_sarah
+dialogueTitle: 保羅在銀行辦事
+--words
+security camera|監視器|n.|📹|A security camera watches the door.|監視器對著大門。
+coin|硬幣|n.|🪙|I put a coin in the box.|我把一枚硬幣放進盒子。
+bill|紙鈔|n.|💵|This bill is worth twenty dollars.|這張紙鈔價值二十元。
+safe|保險箱|n.|🔒|The money is in the safe.|錢放在保險箱裡。
+safe deposit box|保管箱|n.|🗝️|He keeps his gold in a safe deposit box.|他把金子放在保管箱裡。
+withdraw|提款|v.|💳|I want to withdraw some money.|我想提一些錢。
+teller|行員（櫃檯人員）|n.|👩‍💼|The teller counts the money.|行員在點算鈔票。
+alarm|警報器|n.|🚨|The alarm rings loudly.|警報器響得很大聲。
+currency exchange|外幣兌換|n.|💱|You can use the currency exchange for dollars.|你可以辦外幣兌換換美元。
+deposit|存款|v./n.|🏧|Deposit your salary into the bank.|把你的薪水存進銀行。
+ATM|自動提款機|n.|🏧|I get cash from the ATM.|我從自動提款機領現金。
+security guard|保全人員|n.|💂|The security guard stands at the door.|保全人員站在門口。
+armored truck|運鈔車|n.|🚚|An armored truck carries cash.|運鈔車載運現金。
+stock|股票|n.|📈|My dad buys stock.|我爸爸買股票。
+ATM card|提款卡|n.|💳|Insert your ATM card.|請插入你的提款卡。
+money order|匯票|n.|📄|He sends a money order by mail.|他用郵寄的方式寄匯票。
+check|支票|n.|🧾|Write a check for the rent.|開一張支票付房租。
+passbook|存摺|n.|📒|Keep your passbook safe.|請把存摺收好。
+--dialogue
+M|Good morning. I have a lot to do at the bank today.|早安，我今天在銀行有很多事要辦。
+B|Good morning. How can I help you?|早安，有什麼我可以幫你的？
+M|First, I want to deposit this check and update my passbook.|首先，我想存這張支票，並更新存摺。
+B|Sure. Anything else?|好的。還有嗎？
+M|I need to withdraw some cash. Do I use the ATM and my ATM card?|我需要領一些現金。我可以用自動提款機和提款卡嗎？
+B|You can, or I can help you here. Do you have large bills or just coins?|可以，或是我在這裡幫你。你要大鈔還是只要硬幣？
+M|Large bills, please. I also want to change dollars at the currency exchange.|請給我大鈔。我也想在外幣兌換處換美元。
+B|No problem. Do you want a safe deposit box for your papers?|沒問題。你要不要用保管箱放文件？
+M|Yes. The safe in this bank looks very strong.|好。這家銀行的保險箱看起來很堅固。
+B|There is a security guard and a security camera, and the alarm goes off if someone enters at night.|有保全人員和監視器，如果有人夜裡闖入警報器就會響。
+M|I see an armored truck outside. Can I also buy stock and a money order here?|我看到外面有一輛運鈔車。我在這裡也可以買股票和匯票嗎？
+B|We can help with a money order. For stock, please ask the manager.|匯票我們可以協助，股票請問經理。

@@ -33,6 +33,7 @@
   <div id="topics"></div>
   <div class="note">單字依生活主題分類整理；中文解釋、例句、對話、語音都是自己編寫與合成，圖示為示意 emoji。</div>
 </div>
+<script src="topics/catalog.js"></script>
 <script>
 const CATS = [
   ['home','🏠','居家','Around the House'], ['school','🏫','校園','At School'], ['hospital','🏥','醫院','At the Hospital'],
@@ -41,20 +42,8 @@ const CATS = [
   ['leisure','🎮','休閒娛樂','Leisure and Entertainment'], ['sports','⚽','運動項目','Athletics'], ['restaurant','🍽️','餐廳','At a Restaurant'],
   ['machines','🔧','機器設備','Equipment and Machines'], ['misc','📦','其他','Miscellaneous'],
 ];
-const TOPICS = {   // 做好一個主題，就在這裡加一筆
-  home: [
-    { id: 'home-1', e: '🏠', t: '房屋外觀', en: 'In a home', s: '17 個單字・1 段對話' },
-    { id: 'home-2', e: '🛋️', t: '客廳（一）', en: 'In a living room', s: '18 個單字・1 段對話' },
-    { id: 'home-3', e: '🛋️', t: '客廳（二）', en: 'In a living room, too', s: '11 個單字・1 段對話' },
-    { id: 'home-4', e: '🛁', t: '浴室', en: 'In a bathroom', s: '15 個單字・1 段對話' },
-    { id: 'home-5', e: '🧴', t: '盥洗與個人用品', en: 'Toiletries', s: '19 個單字・1 段對話' },
-    { id: 'home-6', e: '🛏️', t: '臥室', en: 'In a bedroom', s: '17 個單字・1 段對話' },
-    { id: 'home-7', e: '🧺', t: '洗衣與縫紉', en: 'In a basement', s: '16 個單字・1 段對話' },
-    { id: 'home-8', e: '🍳', t: '廚房', en: 'In a kitchen', s: '22 個單字・1 段對話' },
-    { id: 'home-9', e: '🥄', t: '廚房用具', en: 'Kitchenware', s: '18 個單字・1 段對話' },
-    { id: 'home-10', e: '🔧', t: '工具', en: 'Tools', s: '20 個單字・1 段對話' },
-  ],
-};
+const TOPICS = {};   // 由 topics/catalog.js（tools/build_topic.py 產生）填入
+Object.keys(window.CATALOG || {}).forEach(k => { TOPICS[k] = CATALOG[k].map(x => ({ id: x.id, e: x.e, t: x.t, en: x.en, s: x.n + ' 個單字・1 段對話' })); });
 let cur = 'home';
 function draw(){
   document.getElementById('cats').innerHTML = CATS.map(c => {

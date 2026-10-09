@@ -1,0 +1,43 @@
+id: machines-2
+cat: machines
+title: 電腦設備
+titleEn: Computer equipment
+emoji: 💻
+speakers: M=Leslie|萊斯莉|🙋‍♀️|af_sarah;B=Clerk|店員|🧑‍💼|am_adam
+dialogueTitle: 萊斯莉買電腦
+--words
+desktop computer|桌上型電腦|n.|🖥️|A desktop computer is not portable.|桌上型電腦不能隨身攜帶。
+notebook computer|筆記型電腦|n.|💻|A notebook computer is light.|筆記型電腦很輕。
+CRT monitor|映像管螢幕|n.|🖥️|A CRT monitor is big and heavy.|映像管螢幕又大又重。
+LCD monitor|液晶螢幕|n.|🖥️|An LCD monitor is thin.|液晶螢幕很薄。
+motherboard|主機板|n.|🔌|The motherboard is inside the computer.|主機板在電腦裡面。
+CPU|中央處理器|n.|🧠|The CPU is the brain of a computer.|中央處理器是電腦的大腦。
+RAM|隨機存取記憶體|n.|🧩|More RAM makes it faster.|記憶體越多越快。
+hard disk|硬碟|n.|💽|My hard disk is full.|我的硬碟滿了。
+mouse|滑鼠|n.|🖱️|Click the mouse.|按滑鼠。
+keyboard|鍵盤|n.|⌨️|Type on the keyboard.|在鍵盤上打字。
+DVD-ROM drive|DVD 光碟機|n.|📀|The DVD-ROM drive reads discs.|DVD 光碟機讀取光碟。
+modem|數據機|n.|📶|The modem connects to the internet.|數據機連接網路。
+mousepad|滑鼠墊|n.|🟦|Put the mouse on the mousepad.|把滑鼠放在滑鼠墊上。
+speaker|喇叭|n.|🔈|The speakers are loud.|喇叭很大聲。
+floppy disk|磁碟片|n.|💾|A floppy disk is very old.|磁碟片很古老。
+scanner|掃描器|n.|📠|Use the scanner for photos.|用掃描器掃描照片。
+printer|印表機|n.|🖨️|The printer is out of ink.|印表機沒墨水了。
+flash disk|隨身碟|n.|🔌|Save the file on a flash disk.|把檔案存在隨身碟。
+webcam|網路攝影機|n.|📹|Use a webcam for video chats.|用網路攝影機視訊聊天。
+CD burner|光碟燒錄機|n.|💿|A CD burner copies data to a disc.|光碟燒錄機把資料複製到光碟。
+hub|集線器|n.|🔗|The hub connects the computers.|集線器連接電腦。
+network adapter card|網路卡|n.|🪪|Install a network adapter card.|安裝網路卡。
+--dialogue
+M|Excuse me, I want to buy a new computer. But I don't want to spend too much.|不好意思，我想買一台新電腦，但不想花太多錢。
+B|How will you use it?|你打算怎麼用？
+M|Mostly email, surfing the internet, and school reports.|主要是電子郵件、上網和學校報告。
+B|Then a desktop computer or a notebook computer? A notebook is portable.|那桌上型還是筆記型電腦？筆記型可以攜帶。
+M|A desktop is fine. What about the CPU and the RAM?|桌上型就可以。中央處理器和記憶體呢？
+B|This one has a high-speed CPU and lots of RAM. The hard disk is big, too.|這台有高速處理器和大量記憶體，硬碟也很大。
+M|Good. Do I need an LCD monitor, a keyboard, and a mouse?|好。我需要液晶螢幕、鍵盤和滑鼠嗎？
+B|Yes, and a mousepad. A CRT monitor is cheaper, but it's too big.|需要，還有滑鼠墊。映像管螢幕比較便宜，但太大了。
+M|I'd like a printer, a scanner, and speakers. What about a webcam?|我想要印表機、掃描器和喇叭。網路攝影機呢？
+B|A webcam is good for video chat. You also need a modem or a network adapter card.|網路攝影機適合視訊聊天。你還需要數據機或網路卡。
+M|And a flash disk and a CD burner for backups. Wait, that's not cheap!|還有備份用的隨身碟和光碟燒錄機。等等，這不便宜！
+B|Let's talk about which extras you really need.|我們來談談你真正需要哪些配件。

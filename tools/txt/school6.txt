@@ -1,0 +1,40 @@
+id: school-6
+cat: school
+title: 形狀與數學符號
+titleEn: Shapes and math symbols
+emoji: 🔷
+speakers: M=Amy|艾咪|🙋‍♀️|af_sarah;B=Mr. Lin|林老師|👨‍🏫|am_michael
+dialogueTitle: 數學課：形狀與符號
+--words
+triangle|三角形|n.|🔺|A triangle has three sides.|三角形有三個邊。
+rectangle|長方形|n.|▭|The door is a rectangle.|門是長方形。
+square|正方形|n.|🟥|A square has four equal sides.|正方形有四個一樣長的邊。
+circle|圓形|n.|⭕|Draw a circle on the paper.|在紙上畫一個圓。
+oval|橢圓形|n.|🥚|An egg is oval.|蛋是橢圓形的。
+diamond|菱形|n.|🔶|The card has a red diamond.|這張牌上有一個紅色菱形。
+parallelogram|平行四邊形|n.|▱|Draw a parallelogram with a ruler.|用尺畫一個平行四邊形。
+trapezoid|梯形|n.|⏢|The table top is a trapezoid.|這張桌面是梯形。
+polygon|多邊形|n.|⬠|A polygon has many sides.|多邊形有很多邊。
+sector|扇形|n.|🍕|A slice of pizza looks like a sector.|一片披薩看起來像扇形。
+cone|圓錐體|n.|🍦|An ice cream cone has a cone shape.|冰淇淋甜筒是圓錐體。
+square root symbol|根號|n.|√|The square root symbol looks like a check mark.|根號看起來像打勾的符號。
+plus sign|加號|n.|➕|Add the numbers with a plus sign.|用加號把數字加起來。
+minus sign|減號|n.|➖|The minus sign means take away.|減號表示減去。
+multiplication sign|乘號|n.|✖️|Use a multiplication sign for times.|乘法要用乘號。
+division sign|除號|n.|➗|The division sign means to divide.|除號表示相除。
+greater than sign|大於符號|n.|▶️|Five is greater than three.|五大於三。
+less than sign|小於符號|n.|◀️|Two is less than ten.|二小於十。
+equal sign|等號|n.|🟰|Two plus two, equal sign, four.|二加二等於四。
+--dialogue
+B|Class, today we study shapes. Amy, what shape is this?|同學們，今天我們學形狀。艾咪，這是什麼形狀？
+M|It's a triangle. It has three sides.|是三角形，有三個邊。
+B|Good. And what is this one with four equal sides?|很好。那這個有四個一樣長的邊的呢？
+M|A square! And a rectangle has two long sides and two short sides.|正方形！長方形有兩個長邊和兩個短邊。
+B|Right. A circle is round, and an oval is like an egg.|對。圓形是圓的，橢圓形像一顆蛋。
+M|What about a diamond, a parallelogram, and a trapezoid?|那菱形、平行四邊形和梯形呢？
+B|They all have four sides. A polygon has many sides, and a sector looks like a pizza slice.|它們都有四個邊。多邊形有很多邊，扇形像一片披薩。
+M|An ice cream cone is a cone, right?|冰淇淋甜筒是圓錐體對嗎？
+B|Yes. Now the signs. Plus and minus are for adding and taking away.|對。現在來看符號。加號和減號是用來加和減。
+M|And the multiplication sign and the division sign are for times and divide.|乘號和除號是用來乘和除。
+B|Good. Use the greater than sign and the less than sign to compare numbers.|很好。用大於和小於符號來比較數字。
+M|Then the equal sign shows the answer, and the square root symbol is for roots!|然後等號表示答案，根號用來開根號！

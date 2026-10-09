@@ -1,0 +1,35 @@
+id: transport-3
+cat: transport
+title: 交通標誌
+titleEn: Traffic signs
+emoji: 🚸
+speakers: M=Leslie|萊絲莉|🙋‍♀️|af_sarah;B=Tim|提姆|🙋‍♂️|am_michael
+dialogueTitle: 學開車：認識路上的標誌
+--words
+hill|陡坡|n.|⛰️|The sign says hill ahead.|標誌寫著前方有陡坡。
+pedestrian crossing|行人穿越道|n.|🚸|Slow down at the pedestrian crossing.|在行人穿越道前要減速。
+two-way traffic|雙向通行|n.|↔️|The road has two-way traffic.|這條路是雙向通行。
+no U-turn|禁止迴轉|n.|↩️|There is a no U-turn sign here.|這裡有禁止迴轉的標誌。
+one-way road|單行道|n.|➡️|This is a one-way road.|這是一條單行道。
+signal ahead|前方有號誌|n.|🚦|The sign says signal ahead.|標誌寫著前方有號誌。
+merge|匯入車流|v.|🔀|You must merge with the other cars.|你必須匯入其他車流。
+construction|施工|n.|🚧|There is construction on the road.|路上正在施工。
+do not enter|禁止進入|phr.|⛔|The do not enter sign is red.|禁止進入的標誌是紅色的。
+no right turn|禁止右轉|n.|🚫|No right turn at this corner.|這個路口禁止右轉。
+no left turn|禁止左轉|n.|🚫|There is a no left turn sign.|有一個禁止左轉的標誌。
+traffic circle|圓環|n.|🔄|Drive slowly in the traffic circle.|在圓環裡要慢慢開。
+falling rocks|落石|n.|🪨|Watch for falling rocks in the mountains.|在山區要注意落石。
+bumps|路面顛簸|n.|〰️|The sign warns us of bumps.|這個標誌警告我們前方路面顛簸。
+--dialogue
+B|Leslie, you're driving now. Do you see that sign?|萊絲莉，你現在在開車。你看到那個標誌了嗎？
+M|It shows a man crossing the road. A pedestrian crossing is ahead.|上面有人在過馬路，前面有行人穿越道。
+B|Yes, slow down. Now I want to turn left here.|對，減速。現在我想在這裡左轉。
+M|You can't. There's a no left turn sign, and it is a one-way road.|你不能，那裡有禁止左轉的標誌，而且是單行道。
+B|And a do not enter sign. Okay, let's turn right.|還有一個禁止進入的標誌。好，我們右轉。
+M|Wait, what does this sign mean?|等等，這個標誌是什麼意思？
+B|It means merge. You have to get in line with the other cars.|它的意思是匯入，你要跟其他車一起排進車流。
+M|There is construction ahead, and then a traffic circle.|前面在施工，然後有個圓環。
+B|Be careful. A hill is coming, and the sign for bumps, too.|小心，前面有陡坡，也有路面顛簸的標誌。
+M|In the mountains I should watch for falling rocks.|到山區我要注意落石。
+B|And a no U-turn sign means don't turn around. You learn quickly!|禁止迴轉的標誌表示不能掉頭。你學得很快！
+M|I'll remember all of them before the next lesson.|下次上課前我會把它們全記下來。

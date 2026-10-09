@@ -1,0 +1,44 @@
+id: town-5
+cat: town
+title: 百貨公司
+titleEn: In a department store
+emoji: 🏬
+speakers: M=Leslie|萊絲莉|🙋‍♀️|af_sarah;B=Kim|金|🙋‍♀️|af_heart
+dialogueTitle: 逛新開幕的百貨公司
+--words
+elevator|電梯|n.|🛗|Take the elevator to the fifth floor.|搭電梯到五樓。
+display counter|展示櫃檯|n.|🗄️|The watch is in the display counter.|手錶放在展示櫃檯裡。
+sales clerk|店員|n.|🧑‍💼|The sales clerk is very helpful.|店員非常親切。
+women's department|女裝部|n.|👗|The women's department is on the second floor.|女裝部在二樓。
+household appliances department|家電部|n.|🧺|The household appliances department sells fans.|家電部賣電風扇。
+home electronics department|電子產品部|n.|🎮|Look at the TVs in the home electronics department.|到電子產品部看電視機。
+home furnishing department|家飾部|n.|🛋️|The home furnishing department has pillows.|家飾部有抱枕。
+teenagers department|青少年部|n.|🧑|The teenagers department sells jeans.|青少年部賣牛仔褲。
+men's department|男裝部|n.|👔|Dad shops in the men's department.|爸爸在男裝部買東西。
+information desk|服務台|n.|ℹ️|Ask at the information desk.|到服務台詢問。
+shoe department|鞋類部|n.|👟|The shoe department is on the third floor.|鞋類部在三樓。
+food court|美食街|n.|🍜|We eat noodles in the food court.|我們在美食街吃麵。
+lost and found center|失物招領中心|n.|🧳|I left my bag at the lost and found center.|我的包包在失物招領中心。
+escalator|電扶梯|n.|🪜|Hold the handrail on the escalator.|搭電扶梯要扶好扶手。
+sporting goods department|運動用品部|n.|⚽|Buy a ball in the sporting goods department.|到運動用品部買球。
+children's department|童裝部|n.|🧒|The children's department has cute clothes.|童裝部有可愛的衣服。
+toy department|玩具部|n.|🧸|Kids love the toy department.|小朋友愛玩具部。
+cosmetics department|化妝品部|n.|💄|The cosmetics department smells nice.|化妝品部聞起來很香。
+jewelry department|珠寶部|n.|💍|A ring is in the jewelry department.|戒指在珠寶部。
+customer service center|客服中心|n.|🛎️|Return the item at the customer service center.|到客服中心退貨。
+leather goods department|皮件部|n.|👜|Buy a bag in the leather goods department.|在皮件部買包包。
+lockers|寄物櫃|n.|🔐|Put your bags in the lockers.|把包包放進寄物櫃。
+underground parking garage|地下停車場|n.|🅿️|Our car is in the underground parking garage.|我們的車停在地下停車場。
+--dialogue
+B|Leslie, the new department store is huge! Let's take the escalator.|萊絲莉，新的百貨公司好大！我們搭電扶梯吧。
+M|Okay. First, let's check the information desk to see what is on each floor.|好。先看服務台有什麼樓層分佈。
+B|The women's department is on two. I want a dress. You want shoes, right?|女裝部在二樓，我要買洋裝。你想買鞋對吧？
+M|Yes, the shoe department and the leather goods department for a bag.|對，鞋類部和買包包的皮件部。
+B|Then the cosmetics department and the jewelry department. A sales clerk can help us.|接著是化妝品部和珠寶部，店員可以幫我們。
+M|My brother needs a ball from the sporting goods department and a game from the home electronics department.|我弟弟要運動用品部的球，和電子產品部的遊戲。
+B|The teenagers department has nice jeans. Dad likes the men's department.|青少年部的牛仔褲不錯，爸爸喜歡男裝部。
+M|For my niece, I'll visit the children's department and the toy department.|為了我姪女，我要去童裝部和玩具部。
+B|We bought a lot. Let's put the bags in the lockers and eat in the food court.|我們買了好多。把袋子放進寄物櫃，然後去美食街吃飯。
+M|Good. If I lose anything, I'll go to the lost and found center.|好。如果我掉了東西，我會去失物招領中心。
+B|Take the elevator to the underground parking garage when we leave.|離開時搭電梯到地下停車場。
+M|What a fun day at the customer-friendly store!|在這間顧客至上的店逛街真開心！

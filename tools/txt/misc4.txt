@@ -1,0 +1,48 @@
+id: misc-4
+cat: misc
+title: 職業
+titleEn: Occupations
+emoji: 👷
+speakers: M=Jane|珍老師|👩‍🏫|af_sarah;B=Pete|彼得|🙋‍♂️|am_michael
+dialogueTitle: 長大後想做什麼？
+--words
+doctor|醫生|n.|👨‍⚕️|A doctor helps sick people.|醫生幫助生病的人。
+nurse|護理師|n.|👩‍⚕️|The nurse takes my temperature.|護理師幫我量體溫。
+salesman|業務員（男）|n.|🧑‍💼|The salesman sells cars.|業務員賣汽車。
+plumber|水電工|n.|🔧|The plumber fixed the pipe.|水電工修好了水管。
+personal assistant|私人助理|n.|🗂️|A personal assistant helps the boss.|私人助理協助老闆。
+artist|藝術家|n.|🎨|The artist paints a picture.|藝術家畫了一幅畫。
+driver|司機|n.|🚖|The driver is careful.|司機很小心。
+sculptor|雕刻家|n.|🗿|The sculptor makes a statue.|雕刻家做了一座雕像。
+dancer|舞者|n.|💃|The dancer is graceful.|舞者很優雅。
+singer|歌手|n.|🎤|The singer has a beautiful voice.|歌手有美妙的聲音。
+farmer|農夫|n.|🧑‍🌾|The farmer grows rice.|農夫種稻。
+chef|主廚|n.|👨‍🍳|The chef cooks in a big kitchen.|主廚在大廚房煮菜。
+laborer|勞工|n.|👷|The laborer works on a building.|勞工在建築物上工作。
+actor|男演員|n.|🎭|The actor is famous.|這位演員很有名。
+actress|女演員|n.|🎭|The actress won a prize.|這位女演員得了獎。
+teacher|老師|n.|👩‍🏫|My teacher is kind.|我的老師很親切。
+firefighter|消防員|n.|🧑‍🚒|The firefighter saves people.|消防員救人。
+fisherman|漁夫|n.|🎣|The fisherman catches fish.|漁夫捕魚。
+pilot|飛行員|n.|🧑‍✈️|The pilot flies the plane.|飛行員駕駛飛機。
+architect|建築師|n.|📐|The architect designs buildings.|建築師設計建築物。
+mechanic|技師|n.|🧰|The mechanic repairs my car.|技師修我的車。
+public servant|公務員|n.|🏛️|A public servant works for the government.|公務員為政府工作。
+carpenter|木匠|n.|🪚|The carpenter builds a table.|木匠做桌子。
+politician|政治人物|n.|🗳️|The politician gives a speech.|政治人物發表演說。
+entrepreneur|創業家|n.|💼|An entrepreneur starts a business.|創業家開創事業。
+hairstylist|髮型設計師|n.|💇|The hairstylist cut my hair.|髮型設計師幫我剪頭髮。
+lawyer|律師|n.|⚖️|The lawyer helps in court.|律師在法庭幫忙。
+--dialogue
+M|Class, in the future, what job do you want to do? Paula, you first.|同學們，未來你們想做什麼工作？寶拉，你先說。
+B|I'm interested in healthcare. I want to be a doctor, or maybe a nurse.|我對醫療有興趣。我想當醫生，或也許護理師。
+M|Good. Karen, what about you?|很好。凱倫呢？
+B|Karen wants to be a salesperson or an entrepreneur and open a small business.|凱倫想當業務員或創業家，開一間小公司。
+M|Pete, what do you want to be?|彼得，你想做什麼？
+B|I want a job that helps people the most. I'm not good with my hands, so not a carpenter, a plumber, or a mechanic.|我想做最能幫助別人的工作。我手不巧，所以不當木匠、水電工或技師。
+M|You could be an architect, a lawyer, or a public servant.|你可以當建築師、律師或公務員。
+B|Maybe, but I want a job that really changes the world.|也許，但我想要真正改變世界的工作。
+M|A firefighter, a pilot, or a politician?|消防員、飛行員或政治人物？
+B|No. Even more important. A chef, an artist, a singer, or a dancer, too, are good, but I want to be a teacher.|不。更重要的。主廚、藝術家、歌手或舞者也很好，不過我想當老師。
+M|Pete, you get an A. That's the best answer today.|彼得，你得 A。這是今天最好的答案。
+B|Thank you. Farmers, fishermen, drivers, and laborers all learn from teachers!|謝謝。農夫、漁夫、司機和勞工都是向老師學習的！

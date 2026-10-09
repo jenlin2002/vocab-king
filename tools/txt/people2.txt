@@ -1,0 +1,40 @@
+id: people-2
+cat: people
+title: 家人與親戚
+titleEn: Family tree
+emoji: 👨‍👩‍👧‍👦
+speakers: M=Mia|米雅|🙋‍♀️|af_sarah;B=Dan|丹|🙋‍♂️|am_michael
+dialogueTitle: 看全家福照片
+--words
+grandfather|爺爺／外公|n.|👴|My grandfather tells good stories.|我爺爺很會說故事。
+grandmother|奶奶／外婆|n.|👵|My grandmother cooks very well.|我奶奶很會煮菜。
+mother|母親|n.|👩|My mother works in a bank.|我母親在銀行工作。
+father|父親|n.|👨|My father drives me to school.|我父親開車送我上學。
+uncle|叔叔／舅舅|n.|🧔|My uncle lives in Taipei.|我叔叔住在台北。
+aunt|阿姨／姑姑|n.|👩‍🦰|My aunt has a flower shop.|我阿姨開了一家花店。
+sister-in-law|嫂嫂／弟媳|n.|👩‍🦱|My sister-in-law is a nurse.|我嫂嫂是護理師。
+elder brother|哥哥|n.|👦|My elder brother plays basketball.|我哥哥打籃球。
+wife|太太|n.|👰|His wife is a teacher.|他的太太是老師。
+husband|先生|n.|🤵|Her husband is a doctor.|她的先生是醫生。
+brother-in-law|姐夫／妹夫|n.|🧑|My brother-in-law is a driver.|我姐夫是司機。
+younger sister|妹妹|n.|👧|My younger sister loves dolls.|我妹妹愛玩娃娃。
+cousin|堂（表）兄弟姊妹|n.|🧒|My cousin is my best friend.|我的表哥是我最好的朋友。
+nephew|姪子／外甥|n.|👦|My nephew is three years old.|我的姪子三歲。
+niece|姪女／外甥女|n.|👧|My niece likes to draw.|我的姪女喜歡畫畫。
+daughter|女兒|n.|👧|Their daughter is in elementary school.|他們的女兒讀小學。
+son|兒子|n.|👦|Their son plays the violin.|他們的兒子拉小提琴。
+daughter-in-law|媳婦|n.|👩|Grandma's daughter-in-law helps her cook.|奶奶的媳婦幫她煮菜。
+grandchild|孫子（女）|n.|👶|Grandpa loves his grandchild.|爺爺很疼他的孫子。
+--dialogue
+B|Mia, is this your family photo?|米雅，這是你的全家福嗎？
+M|Yes. In the middle are my grandfather and grandmother.|對。中間是我爺爺和奶奶。
+B|Who are the people next to them?|他們旁邊的人是誰？
+M|That's my father and my mother. This is my uncle and my aunt.|那是我爸爸和媽媽。這是我叔叔和阿姨。
+B|And who is the man next to your elder brother?|你哥哥旁邊的男人是誰？
+M|He is my brother-in-law, my sister's husband. My sister-in-law is his wife's friend.|他是我姐夫，我姐姐的先生。我嫂嫂是他太太的朋友。
+B|You have a big family! Who are the children?|你家人好多！那些小孩是誰？
+M|My cousin, my nephew, and my niece. My little girl cousin is my younger sister's best friend.|我的表哥、我的姪子和姪女。我的表妹是我妹妹的好朋友。
+B|Do you have a son or a daughter in your family?|你家有兒子或女兒嗎？
+M|My aunt has a son and a daughter. My grandmother's daughter-in-law is my mom.|我阿姨有一個兒子和一個女兒。我奶奶的媳婦就是我媽媽。
+B|Wow, so many people!|哇，好多人！
+M|Yes, and Grandpa loves every grandchild the same.|對，爺爺同樣疼愛每個孫子孫女。

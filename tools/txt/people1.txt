@@ -1,0 +1,29 @@
+id: people-1
+cat: people
+title: 各種人
+titleEn: People
+emoji: 🧑‍🤝‍🧑
+speakers: M=Lily|莉莉|🙋‍♀️|af_sarah;B=Joe|喬|🙋‍♂️|am_michael
+dialogueTitle: 公園裡的人們
+--words
+man|男人|n.|👨|The man is reading a newspaper.|那個男人在看報紙。
+woman|女人|n.|👩|The woman is walking her dog.|那位女士在遛狗。
+teenager|青少年|n.|🧑|The teenager listens to music.|那個青少年在聽音樂。
+girl|女孩|n.|👧|The girl is riding a bike.|那個女孩在騎腳踏車。
+boy|男孩|n.|👦|The boy is flying a kite.|那個男孩在放風箏。
+toddler|學步的幼兒|n.|🧒|The toddler is just learning to walk.|那個幼兒才剛學走路。
+child|小孩|n.|🧒|Every child likes to play.|每個小孩都喜歡玩。
+baby|嬰兒|n.|👶|The baby is sleeping.|寶寶在睡覺。
+--dialogue
+B|Lily, look at all the people in the park!|莉莉，你看公園裡好多人！
+M|Yes! There is a man reading a newspaper under a tree.|對啊！有個男人在樹下看報紙。
+B|And a woman is walking her dog.|還有一位女士在遛狗。
+M|Look at that boy and girl. They are playing with a ball.|看那個男孩和女孩，他們在玩球。
+B|A teenager is listening to music on the bench.|有個青少年坐在長椅上聽音樂。
+M|Awww, a toddler is learning to walk.|喔，有個幼兒正在學走路。
+B|His mom is holding his hands.|他媽媽牽著他的手。
+M|And she has a baby in a stroller, too.|她的嬰兒車裡還有一個寶寶。
+B|The baby is sleeping. Every child here looks so happy.|寶寶在睡覺。這裡每個小孩都看起來好開心。
+M|Let's join them and play!|我們也加入一起玩吧！
+B|Good idea. A park is a place for everyone.|好主意。公園是屬於每個人的地方。
+M|Race you to the swings!|我們比賽誰先跑到鞦韆！

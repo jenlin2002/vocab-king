@@ -1,0 +1,36 @@
+id: school-2
+cat: school
+title: 教室
+titleEn: In a classroom
+emoji: 🏫
+speakers: M=Lily|莉莉|🙋‍♀️|af_sarah;B=Mr. Chen|陳老師|👨‍🏫|am_michael
+dialogueTitle: 新學期的第一堂課
+--words
+blackboard|黑板|n.|⬛|The teacher writes on the blackboard.|老師在黑板上寫字。
+class schedule|課表|n.|🗓️|Check the class schedule before you go home.|回家前先看一下課表。
+eraser|板擦；橡皮擦|n.|🧽|Please clean the blackboard with the eraser.|請用板擦把黑板擦乾淨。
+chalk|粉筆|n.|🖍️|The chalk is on the desk.|粉筆在桌上。
+microphone|麥克風|n.|🎤|Speak into the microphone, please.|請對著麥克風說話。
+platform|講台|n.|🪜|The teacher stands on the platform.|老師站在講台上。
+desk mat|桌墊|n.|🟦|He puts a desk mat under his notebook.|他在筆記本下面放了一張桌墊。
+pencil box|鉛筆盒|n.|✏️|My pencil box is full of pens.|我的鉛筆盒裡裝滿了筆。
+desk|書桌|n.|🪑|My desk is next to the window.|我的書桌靠近窗戶。
+public address system|校內廣播系統|n.|📢|The principal speaks over the public address system.|校長透過廣播系統說話。
+globe|地球儀|n.|🌐|Find Taiwan on the globe.|在地球儀上找出台灣。
+map|地圖|n.|🗺️|The map is on the wall.|地圖掛在牆上。
+organ|風琴|n.|🎹|The music teacher plays the organ.|音樂老師彈風琴。
+overhead projector|投影機|n.|📽️|The teacher shows the picture with an overhead projector.|老師用投影機放圖片。
+textbook|課本|n.|📖|Open your textbook to page ten.|請把課本翻到第十頁。
+--dialogue
+B|Good morning, class. Please look at the blackboard.|各位同學早安，請看黑板。
+M|Mr. Chen, is this our new class schedule?|陳老師，這是我們的新課表嗎？
+B|Yes, it is. I'll write it on the blackboard, and you copy it.|對，我會寫在黑板上，你們把它抄下來。
+M|I forgot my pencil box. Can I borrow a pencil?|我忘了帶鉛筆盒，我可以借一支鉛筆嗎？
+B|Sure. Now, open your textbook to page five.|可以。現在請把課本翻到第五頁。
+M|Is there a map in this book?|這本書裡有地圖嗎？
+B|Yes, but we'll use the globe on my desk first. Come to the platform and find Japan.|有，不過我們先用我桌上的地球儀。上台來找找日本。
+M|Here it is! Is the chalk on the desk?|在這裡！粉筆在桌上嗎？
+B|Yes. Please erase the old words with the eraser, too.|是的。也請用板擦把舊的字擦掉。
+M|Okay. Can you speak into the microphone? The back row can't hear.|好。你可以對著麥克風說話嗎？後排聽不到。
+B|Of course. Listen, the public address system is on. The principal wants to say hello.|當然。聽，廣播系統開了，校長要跟大家問好。
+M|What a good start to the new school year!|新學年有個好的開始！

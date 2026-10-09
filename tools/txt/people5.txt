@@ -1,0 +1,43 @@
+id: people-5
+cat: people
+title: 配件與飾品
+titleEn: Accessories
+emoji: 👜
+speakers: M=Leslie|萊絲莉|🙋‍♀️|af_sarah;B=Jane|珍|👩|af_heart
+dialogueTitle: 為派對挑配件
+--words
+purse|女用小皮包|n.|👛|She puts her keys in her purse.|她把鑰匙放進小皮包。
+scarf|圍巾|n.|🧣|Wear a scarf in winter.|冬天要圍圍巾。
+necklace|項鍊|n.|📿|The necklace is very pretty.|這條項鍊非常漂亮。
+pendant|墜飾|n.|💎|Her pendant is a small heart.|她的墜飾是一顆小愛心。
+bracelet|手鍊|n.|⌚|She wears a silver bracelet.|她戴著一條銀手鍊。
+wristlet|護腕／手環|n.|🧤|He wears a wristlet when playing tennis.|他打網球時戴護腕。
+scrunchie|彈性髮圈|n.|🎀|She ties her hair with a scrunchie.|她用彈性髮圈綁頭髮。
+wristwatch|手錶|n.|⌚|My wristwatch tells the time.|我的手錶可以看時間。
+wallet|皮夾|n.|👛|His wallet is in his pocket.|他的皮夾在口袋裡。
+backpack|後背包|n.|🎒|I carry my books in a backpack.|我用後背包背書。
+cufflink|袖扣|n.|🔘|He wears gold cufflinks.|他戴著金色袖扣。
+tie clip|領帶夾|n.|📎|The tie clip holds his tie.|領帶夾夾住他的領帶。
+eyeglasses|眼鏡|n.|👓|She needs eyeglasses to read.|她需要眼鏡才能看書。
+headscarf|頭巾|n.|🧕|The woman wears a headscarf.|那位女士戴著頭巾。
+corsage|胸花|n.|💐|He gives her a corsage for the dance.|他送她一個舞會用的胸花。
+brooch|胸針|n.|🏵️|A brooch is on her coat.|她的外套上別著一個胸針。
+veil|面紗|n.|👰|The bride wears a white veil.|新娘戴著白色面紗。
+earring|耳環|n.|💍|She lost one earring.|她掉了一隻耳環。
+belt|皮帶|n.|🪢|Wear a belt with your pants.|穿長褲要繫皮帶。
+bow tie|蝴蝶領結|n.|🎀|He wears a bow tie at the party.|他在派對上戴蝴蝶領結。
+necktie|領帶|n.|👔|Dad's necktie is blue.|爸爸的領帶是藍色的。
+glove|手套|n.|🧤|Put on your gloves.|戴上你的手套。
+--dialogue
+B|Leslie, you chose a dress. Now we need some accessories.|萊絲莉，你選了洋裝，現在需要配件了。
+M|How about a necklace with a heart pendant?|配一條有愛心墜飾的項鍊怎麼樣？
+B|Nice! And a bracelet and a pair of earrings.|不錯！再配一條手鍊和一對耳環。
+M|I also need a small purse for my phone and my wallet.|我還需要一個小皮包放手機和皮夾。
+B|Your scrunchie matches your dress. What about a scarf?|你的髮圈跟洋裝很搭。圍巾呢？
+M|It's too warm for a scarf. A brooch on the dress would look nice.|天氣太熱不用圍巾。洋裝上別一個胸針會很好看。
+B|My boyfriend will wear a bow tie and cufflinks.|我男朋友會戴蝴蝶領結和袖扣。
+M|And a necktie for work. Dad likes a tie clip.|上班則是領帶。爸爸喜歡領帶夾。
+B|Do you wear eyeglasses with the dress?|你穿洋裝時會戴眼鏡嗎？
+M|I do. My wristwatch is old, but I love it.|會。我的手錶很舊，但我很喜歡。
+B|At the end, take a backpack and gloves for the cold night.|最後帶上後背包和手套，夜晚會冷。
+M|Perfect. A belt will finish my look!|太好了，再加一條皮帶，造型就完成了！

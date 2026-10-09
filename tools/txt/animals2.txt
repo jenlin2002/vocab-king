@@ -1,0 +1,49 @@
+id: animals-2
+cat: animals
+title: 昆蟲與小動物
+titleEn: Animals too
+emoji: 🐛
+speakers: M=Paula|寶拉|🙋‍♀️|af_sarah;B=Ms. Jane|珍老師|👩‍🏫|af_heart
+dialogueTitle: 樹林觀察日
+--words
+fly|蒼蠅|n.|🪰|A fly is on the cake.|蛋糕上有一隻蒼蠅。
+mosquito|蚊子|n.|🦟|A mosquito bit me.|蚊子咬了我。
+cockroach|蟑螂|n.|🪳|There is a cockroach in the kitchen.|廚房裡有一隻蟑螂。
+bee|蜜蜂|n.|🐝|A bee makes honey.|蜜蜂釀蜂蜜。
+dung beetle|蜣螂（糞金龜）|n.|🪲|A dung beetle rolls a ball.|蜣螂滾著一顆球。
+grasshopper|蚱蜢|n.|🦗|The grasshopper jumps in the grass.|蚱蜢在草裡跳。
+cicada|蟬|n.|🪲|The cicada sings in summer.|蟬在夏天鳴叫。
+spider|蜘蛛|n.|🕷️|The spider spins a web.|蜘蛛在結網。
+firefly|螢火蟲|n.|✨|Fireflies glow at night.|螢火蟲在夜晚發光。
+ladybug|瓢蟲|n.|🐞|A ladybug is red with black dots.|瓢蟲是紅色有黑點的。
+rhinoceros beetle|獨角仙|n.|🪲|The rhinoceros beetle has a horn.|獨角仙有一支角。
+stag beetle|鍬形蟲|n.|🪲|A stag beetle has big jaws.|鍬形蟲有大大的顎。
+scorpion|蠍子|n.|🦂|A scorpion lives in the desert.|蠍子住在沙漠。
+centipede|蜈蚣|n.|🐛|A centipede has many legs.|蜈蚣有很多隻腳。
+earthworm|蚯蚓|n.|🪱|An earthworm lives in the soil.|蚯蚓住在土裡。
+tadpole|蝌蚪|n.|🥚|A tadpole becomes a frog.|蝌蚪會變成青蛙。
+frog|青蛙|n.|🐸|The frog jumps into the pond.|青蛙跳進池塘。
+lizard|蜥蜴|n.|🦎|The lizard sits on the wall.|蜥蜴停在牆上。
+dragonfly|蜻蜓|n.|🪰|A dragonfly rests on a leaf.|蜻蜓停在葉子上。
+snail|蝸牛|n.|🐌|A snail moves slowly.|蝸牛爬得很慢。
+butterfly|蝴蝶|n.|🦋|The butterfly is colorful.|蝴蝶很美麗。
+cricket|蟋蟀|n.|🦗|A cricket sings at night.|蟋蟀在夜晚鳴叫。
+ant|螞蟻|n.|🐜|Ants carry food.|螞蟻搬運食物。
+moth|蛾|n.|🦋|A moth flies around the light.|蛾繞著燈飛。
+silkworm|蠶|n.|🐛|A silkworm makes silk.|蠶會吐絲。
+flea|跳蚤|n.|🦟|The dog has a flea.|這隻狗身上有跳蚤。
+praying mantis|螳螂|n.|🦗|A praying mantis catches insects.|螳螂會捕捉昆蟲。
+crocodile|鱷魚|n.|🐊|A crocodile has sharp teeth.|鱷魚有尖銳的牙齒。
+--dialogue
+B|Paula, Pete, today we observe small creatures in the woods.|寶拉、彼得，今天我們在樹林裡觀察小動物。
+M|Look, Ms. Jane! A butterfly and a dragonfly!|你看，珍老師！有蝴蝶和蜻蜓！
+B|Beautiful. Under the leaf is a ladybug and a snail.|好美。葉子下面有瓢蟲和蝸牛。
+M|I hear a cicada and a cricket singing.|我聽到蟬和蟋蟀在叫。
+B|On the ground, an ant is carrying food, and an earthworm is in the soil.|地上有螞蟻在搬食物，土裡有蚯蚓。
+M|Oh no, a mosquito! And a spider is making a web.|糟了，有蚊子！還有一隻蜘蛛在結網。
+B|Spiders catch flies and moths. A praying mantis catches grasshoppers.|蜘蛛會捉蒼蠅和蛾。螳螂會捉蚱蜢。
+M|At the pond, I see a tadpole and a frog. Is that a lizard on the tree?|池塘邊我看到蝌蚪和青蛙。樹上那隻是蜥蜴嗎？
+B|Yes. At night, fireflies glow. A rhinoceros beetle and a stag beetle are famous in Asia.|對。晚上螢火蟲會發光。獨角仙和鍬形蟲在亞洲很有名。
+M|A bee is visiting the flowers. Is a silkworm a worm?|蜜蜂在訪花。蠶是蟲嗎？
+B|Yes, it makes silk. Be careful of the scorpion, the centipede, and the flea, and a crocodile is not here!|是，牠會吐絲。要小心蠍子、蜈蚣和跳蚤，不過這裡沒有鱷魚！
+M|Ha-ha, and a cockroach and a dung beetle are also insects. Nature is fun!|哈哈，蟑螂和蜣螂也是昆蟲。大自然真有趣！

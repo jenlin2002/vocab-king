@@ -1,0 +1,47 @@
+id: food-3
+cat: food
+title: 蔬菜
+titleEn: Vegetables
+emoji: 🥦
+speakers: M=Kim|金|🙋‍♀️|af_sarah;B=Jack|傑克|🙋‍♂️|am_michael
+dialogueTitle: 金想讓傑克多吃蔬菜
+--words
+scallion|青蔥|n.|🌱|Put some scallions in the soup.|在湯裡放一些青蔥。
+green pepper|青椒|n.|🫑|The green pepper is crunchy.|青椒脆脆的。
+pumpkin|南瓜|n.|🎃|We make soup with pumpkin.|我們用南瓜煮湯。
+corn|玉米|n.|🌽|I like sweet corn.|我喜歡甜玉米。
+sweet potato|地瓜|n.|🍠|A sweet potato is sweet.|地瓜很甜。
+potato|馬鈴薯|n.|🥔|French fries are made from potatoes.|薯條是用馬鈴薯做的。
+cauliflower|白花椰菜|n.|🥦|Cauliflower is white.|白花椰菜是白色的。
+taro|芋頭|n.|🍠|Taro is soft and sweet.|芋頭又軟又甜。
+lotus root|蓮藕|n.|🪷|Lotus root has many holes.|蓮藕有很多洞。
+mushroom|香菇／蘑菇|n.|🍄|Mushrooms grow in the shade.|蘑菇長在陰暗處。
+celery|芹菜|n.|🥬|Celery is crunchy.|芹菜很脆。
+carrot|紅蘿蔔|n.|🥕|Rabbits like carrots.|兔子喜歡紅蘿蔔。
+eggplant|茄子|n.|🍆|An eggplant is purple.|茄子是紫色的。
+onion|洋蔥|n.|🧅|Onions make me cry.|洋蔥讓我流眼淚。
+lettuce|萵苣（生菜）|n.|🥬|Put lettuce in the sandwich.|在三明治裡放生菜。
+cabbage|高麗菜|n.|🥬|Cabbage is cheap.|高麗菜很便宜。
+Chinese cabbage|大白菜|n.|🥬|Chinese cabbage is good in soup.|大白菜很適合煮湯。
+daikon|白蘿蔔|n.|🥕|Daikon is a white radish.|daikon 是一種白色的蘿蔔。
+cucumber|小黃瓜|n.|🥒|Cucumbers are cool and fresh.|小黃瓜清爽又新鮮。
+burdock|牛蒡|n.|🥕|Burdock is a long root.|牛蒡是一種很長的根莖。
+bamboo shoot|竹筍|n.|🎋|Bamboo shoots are good in spring.|竹筍在春天最好吃。
+asparagus|蘆筍|n.|🥬|Asparagus is green.|蘆筍是綠色的。
+tomato|番茄|n.|🍅|A tomato is red.|番茄是紅色的。
+garlic|大蒜|n.|🧄|Garlic smells strong.|大蒜味道很濃。
+ginger|薑|n.|🫚|Ginger keeps you warm.|薑可以暖身體。
+shallot|紅蔥頭|n.|🧅|Fry the shallot until it is brown.|把紅蔥頭炒到變成褐色。
+--dialogue
+M|Jack, we are at a market with many vegetables. Let's choose something healthy.|傑克，我們在一個有很多蔬菜的市場，來挑點健康的吧。
+B|I only eat potatoes and corn.|我只吃馬鈴薯和玉米。
+M|Try something new. How about a carrot, celery, or lettuce for a salad?|試點新的。沙拉用紅蘿蔔、芹菜或生菜怎麼樣？
+B|I like tomatoes and a cucumber in a salad.|沙拉裡我喜歡番茄和小黃瓜。
+M|For soup, we need a pumpkin, a cabbage, Chinese cabbage, and an onion.|煮湯要南瓜、高麗菜、大白菜和洋蔥。
+B|What about a sweet potato and taro? They are sweet.|地瓜和芋頭呢？它們很甜。
+M|Good. For stir-fry, I'll use green pepper, mushrooms, cauliflower, an eggplant, and asparagus.|好。炒菜我會用青椒、蘑菇、白花椰菜、茄子和蘆筍。
+B|I can smell garlic, ginger, shallots, and scallions. They make food delicious.|我聞到大蒜、薑、紅蔥頭和青蔥，它們讓食物很好吃。
+M|In spring, bamboo shoots are fresh. Daikon, burdock, and lotus root are great in stew.|春天竹筍很新鮮。白蘿蔔、牛蒡和蓮藕燉湯很棒。
+B|You have a lot of ideas. I'll eat everything!|你好多點子，我什麼都會吃！
+M|Great. A healthy dinner is waiting for us.|太好了，一頓健康的晚餐在等著我們。
+B|Let's carry these home.|我們把這些帶回家吧。

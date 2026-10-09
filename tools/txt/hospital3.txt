@@ -1,0 +1,40 @@
+id: hospital-3
+cat: hospital
+title: 醫療用品與急救
+titleEn: Medical care
+emoji: 💊
+speakers: M=Dr. Wu|吳醫師|👩‍⚕️|af_sarah;B=Tim|提姆|🙋‍♂️|am_michael
+dialogueTitle: 急救課：學習基本醫療用品
+--words
+ointment|藥膏|n.|🧴|Put some ointment on the cut.|在傷口上擦一點藥膏。
+mortar and pestle|研缽與研杵|n.|⚗️|The pharmacist grinds the medicine with a mortar and pestle.|藥師用研缽和研杵磨藥。
+tweezers|鑷子|n.|🔧|Use tweezers to take out the splinter.|用鑷子把木刺夾出來。
+ear thermometer|耳溫槍|n.|🌡️|The nurse uses an ear thermometer.|護理師使用耳溫槍。
+face mask|口罩|n.|😷|Wear a face mask when you have a cold.|感冒時要戴口罩。
+syringe|針筒|n.|💉|The doctor fills the syringe with medicine.|醫生把藥水吸進針筒。
+Band-Aid|OK 繃|n.|🩹|Put a Band-Aid on your finger.|在你的手指貼上 OK 繃。
+thermometer|溫度計|n.|🌡️|Put the thermometer under your arm.|把溫度計夾在腋下。
+tablet|藥片|n.|💊|Take one tablet after meals.|飯後吃一顆藥片。
+pills|藥丸|n.|💊|Don't take too many pills.|不要吃太多藥丸。
+capsule|膠囊|n.|💊|This capsule is easy to swallow.|這顆膠囊很好吞。
+cotton ball|棉球|n.|⚪|Clean the cut with a cotton ball.|用棉球清潔傷口。
+stethoscope|聽診器|n.|🩺|The doctor listens with a stethoscope.|醫生用聽診器聽診。
+draw blood|抽血|v.|🩸|The nurse will draw blood from my arm.|護理師要從我的手臂抽血。
+blood transfusion|輸血|n.|🩸|The patient needs a blood transfusion.|病人需要輸血。
+CPR|心肺復甦術|n.|❤️|He knows how to do CPR.|他知道怎麼做心肺復甦術。
+bandage|繃帶|n.|🩹|Wrap the bandage around the arm.|把繃帶纏在手臂上。
+sling|三角吊帶|n.|💪|Her arm is in a sling.|她的手臂掛在三角吊帶裡。
+gauze|紗布|n.|🧻|Cover the cut with gauze.|用紗布蓋住傷口。
+--dialogue
+B|Dr. Wu, what is in the first-aid kit?|吳醫師，急救箱裡有什麼？
+M|Many things. Here is a thermometer, an ear thermometer, and some face masks.|很多東西。這裡有溫度計、耳溫槍和一些口罩。
+B|What do I use for a small cut?|小傷口要用什麼？
+M|Clean it with a cotton ball, put on ointment, and cover it with gauze or a Band-Aid.|用棉球清潔、擦上藥膏，然後用紗布或 OK 繃蓋住。
+B|And for a splinter?|如果有木刺呢？
+M|Use tweezers. For a broken arm, we use a bandage and a sling.|用鑷子。如果手臂骨折，就用繃帶和三角吊帶。
+B|What are tablets, pills, and capsules?|藥片、藥丸和膠囊是什麼？
+M|They are different kinds of medicine you swallow. Always read the label.|它們是不同種類吞服的藥，一定要看標籤。
+B|I saw a syringe at the clinic. Is it for drawing blood?|我在診所看到針筒，是用來抽血的嗎？
+M|Yes, a nurse can draw blood with it. Sometimes a patient needs a blood transfusion.|對，護理師可以用它抽血。有時候病人需要輸血。
+B|Can I use the stethoscope to hear my heart?|我可以用聽診器聽我的心跳嗎？
+M|Of course. And I'll teach you CPR next. It can save a life!|當然可以。接下來我會教你心肺復甦術，它能救人一命！

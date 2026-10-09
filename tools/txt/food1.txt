@@ -1,0 +1,41 @@
+id: food-1
+cat: food
+title: 超級市場
+titleEn: In a supermarket
+emoji: 🛒
+speakers: M=Kim|金|🙋‍♀️|af_sarah;B=Jack|傑克|🙋‍♂️|am_michael
+dialogueTitle: 週末和傑克去超市
+--words
+turnstile|旋轉閘門|n.|🚪|Push the turnstile to enter.|推旋轉閘門進場。
+frozen foods|冷凍食品|n.|🧊|Frozen foods are in the cold section.|冷凍食品在冷藏區。
+dairy products|乳製品|n.|🥛|Milk and cheese are dairy products.|牛奶和起司是乳製品。
+beverages|飲料|n.|🥤|The beverages are on aisle three.|飲料在第三走道。
+canned foods|罐頭食品|n.|🥫|Canned foods can be kept for a long time.|罐頭食品可以放很久。
+packaged foods|包裝食品|n.|📦|Packaged foods are easy to carry.|包裝食品很方便攜帶。
+baked goods|烘焙食品|n.|🥖|The baked goods smell good.|烘焙食品聞起來很香。
+free sample|免費試吃|n.|🍪|Try a free sample of the cheese.|試吃一下免費的起司。
+meat|肉類|n.|🥩|We buy meat for dinner.|我們為晚餐買肉。
+seafood|海鮮|n.|🦐|The seafood is fresh.|海鮮很新鮮。
+vegetables|蔬菜|n.|🥬|Eat more vegetables.|多吃蔬菜。
+basket|購物籃|n.|🧺|Put the eggs in the basket.|把雞蛋放進購物籃。
+fruits|水果|n.|🍎|Fruits are good for you.|水果對你有益。
+customer|顧客|n.|🧑|The customer pays at the counter.|顧客在櫃檯付款。
+cart|購物推車|n.|🛒|The cart is full.|購物推車滿了。
+cash register|收銀機|n.|💰|The cash register is at the exit.|收銀機在出口。
+cashier|收銀員|n.|🧑‍💼|The cashier says thank you.|收銀員說謝謝。
+scanner|掃描器|n.|📟|The scanner reads the barcode.|掃描器讀取條碼。
+plastic bag|塑膠袋|n.|🛍️|Use fewer plastic bags.|少用塑膠袋。
+cash|現金|n.|💵|I pay in cash.|我用現金付款。
+--dialogue
+M|Jack, let's go to the supermarket. Get a cart or a basket, please.|傑克，我們去超市吧。請拿推車或購物籃。
+B|I'll take a cart. Oh, the turnstile is hard to push!|我拿推車。喔，旋轉閘門很難推！
+M|First, the fruits and vegetables. I want you to eat healthier.|先去水果和蔬菜區，我要你吃得健康一點。
+B|Okay. Can we try a free sample at the baked goods aisle?|好。我們可以去烘焙食品那一區試吃免費樣品嗎？
+M|Yes. Then meat and seafood. Today I will buy fish.|可以。然後是肉類和海鮮，今天我要買魚。
+B|We also need dairy products, canned foods, and packaged foods.|我們還需要乳製品、罐頭食品和包裝食品。
+M|And beverages. What about frozen foods? We need frozen dumplings.|還有飲料。冷凍食品呢？我們需要冷凍水餃。
+B|They are in the next aisle. Another customer is also looking for them.|在下一排，另一位顧客也在找。
+M|We have everything. Let's go to the cash register.|我們都買齊了，去收銀機吧。
+B|The cashier uses a scanner. Do you want a plastic bag?|收銀員用掃描器掃描。你要塑膠袋嗎？
+M|No, I brought my own bag. I'll pay in cash.|不用，我自己帶了袋子。我用現金付。
+B|Good. Shopping is done. Let's go home and cook!|好，購物完成，我們回家煮飯吧！

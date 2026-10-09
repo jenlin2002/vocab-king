@@ -1,0 +1,31 @@
+id: hospital-2
+cat: hospital
+title: 症狀與輔具
+titleEn: Illness and medical aids
+emoji: 🤒
+speakers: M=Mom|媽媽|👩|af_heart;B=Ron|榮恩|🙋‍♂️|am_michael
+dialogueTitle: 生病的一天：去看醫生
+--words
+fever|發燒|n.|🌡️|He has a high fever.|他發高燒。
+cold|感冒|n.|🤧|I caught a cold last week.|我上星期感冒了。
+cough|咳嗽|n./v.|😷|She has a bad cough.|她咳得很厲害。
+dizzy|頭暈的|adj.|😵|I feel dizzy when I stand up.|我站起來時覺得頭暈。
+stomachache|胃痛、肚子痛|n.|🤢|I have a stomachache after lunch.|我午餐後肚子痛。
+headache|頭痛|n.|🤕|A headache makes me tired.|頭痛讓我很累。
+crutch|拐杖|n.|🦯|He walks with a crutch.|他拄著拐杖走路。
+walker|助行器|n.|🚶|Grandpa uses a walker.|爺爺使用助行器。
+wheelchair|輪椅|n.|♿|A nurse pushes the wheelchair.|護理師推著輪椅。
+stretcher|擔架|n.|🛏️|They carry the man on a stretcher.|他們用擔架抬那個人。
+--dialogue
+B|Mom, I don't feel well. I think I have a fever.|媽媽，我不太舒服，我想我發燒了。
+M|Let me check. Yes, you do. Do you have a headache, too?|讓我看看。對，你有發燒。你也頭痛嗎？
+B|Yes, and I feel dizzy. I also have a cough.|有，而且我覺得頭暈，也有咳嗽。
+M|It looks like a cold. Does your stomach hurt?|看起來是感冒。你肚子會痛嗎？
+B|No, I don't have a stomachache.|不會，我沒有肚子痛。
+M|Okay, let's go to the doctor now.|好，我們現在去看醫生。
+B|Look, a man is coming out in a wheelchair!|你看，有個人坐著輪椅出來！
+M|He broke his leg, so he needs a crutch too.|他的腿斷了，所以也需要拐杖。
+B|And an old lady is using a walker.|還有一位老太太在用助行器。
+M|Yes, many patients need help to walk.|對，很多病人需要幫助才能走路。
+B|What is that bed with wheels?|那張有輪子的床是什麼？
+M|That's a stretcher. Come on, it's our turn to see the doctor.|那是擔架。來，輪到我們看醫生了。

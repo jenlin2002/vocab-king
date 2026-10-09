@@ -1,0 +1,34 @@
+id: misc-3
+cat: misc
+title: 星座
+titleEn: Astrology
+emoji: ♎
+speakers: M=Leslie|萊斯莉|🙋‍♀️|af_sarah;B=Madam Zelda|賽爾達夫人|🔮|am_adam
+dialogueTitle: 萊斯莉去算星座
+--words
+Aries|牡羊座|n.|♈|Aries is the first sign.|牡羊座是第一個星座。
+Taurus|金牛座|n.|♉|Taurus is a stubborn sign.|金牛座很固執。
+Gemini|雙子座|n.|♊|Gemini means twins.|雙子座代表雙胞胎。
+Cancer|巨蟹座|n.|♋|Cancer is a crab.|巨蟹座是一隻螃蟹。
+Leo|獅子座|n.|♌|Leo is a lion.|獅子座是獅子。
+Virgo|處女座|n.|♍|Virgo is neat and careful.|處女座整齊又細心。
+Libra|天秤座|n.|♎|Libra is the scales.|天秤座是天秤。
+Scorpio|天蠍座|n.|♏|Scorpio is a scorpion.|天蠍座是蠍子。
+Sagittarius|射手座|n.|♐|Sagittarius is an archer.|射手座是弓箭手。
+Capricorn|摩羯座|n.|♑|Capricorn is a goat.|摩羯座是山羊。
+Aquarius|水瓶座|n.|♒|Aquarius carries water.|水瓶座是提著水的人。
+Pisces|雙魚座|n.|♓|Pisces is two fish.|雙魚座是兩條魚。
+zodiac|黃道十二宮|n.|🔯|There are twelve signs in the zodiac.|黃道十二宮有十二個星座。
+--dialogue
+B|Welcome, Leslie. So, you are a Libra.|歡迎，萊斯莉。所以你是天秤座。
+M|Yes. What does that say about me?|是的。這代表我是什麼樣的人？
+B|Libra is the sign of the scales and the seventh sign of the zodiac.|天秤座是天秤的星座，是黃道十二宮的第七個星座。
+M|And the typical Libra?|那典型的天秤座呢？
+B|Refined, artistic, and a good diplomat. But sometimes lazy and indecisive.|優雅、有藝術氣質、是出色的外交家，但有時懶惰又優柔寡斷。
+M|That sounds like me! Now, is my boyfriend right for me? He is a Cancer.|聽起來就是我！那我男朋友適合我嗎？他是巨蟹座。
+B|Hmm. A Cancer may not be the best match for a Libra.|嗯，巨蟹座可能不是天秤座最適合的配對。
+M|Which signs are more compatible with Libra?|哪些星座和天秤座比較合？
+B|Sagittarius or Aries are better. Gemini and Aquarius are good, too.|射手座或牡羊座比較好。雙子座和水瓶座也不錯。
+M|What about Leo, Virgo, and Scorpio?|獅子座、處女座和天蠍座呢？
+B|They are interesting, but Taurus, Capricorn, and Pisces need more patience.|很有趣，不過金牛座、摩羯座和雙魚座需要更多耐心。
+M|Please write this down. I want to show my boyfriend he should improve himself!|請寫下來。我想讓男朋友看看他應該要進步！

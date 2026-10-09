@@ -1,0 +1,38 @@
+id: restaurant-1
+cat: restaurant
+title: 速食店
+titleEn: Fast food restaurant
+emoji: 🍔
+speakers: M=Kim|金|🙋‍♀️|af_sarah;B=Jack|傑克|🙋‍♂️|am_michael
+dialogueTitle: 放學後去速食店
+--words
+grill|烤架|n.|🔥|The cook uses a grill for the burgers.|廚師用烤架烤漢堡。
+doggy bag|打包袋|n.|🛍️|Ask for a doggy bag for the leftovers.|剩菜可以要一個打包袋。
+straw|吸管|n.|🥤|Put a straw in the cup.|把吸管插進杯子。
+chicken nuggets|雞塊|n.|🍗|Chicken nuggets are crispy.|雞塊很酥脆。
+pancake|鬆餅|n.|🥞|I eat pancakes for breakfast.|我早餐吃鬆餅。
+donuts|甜甜圈|n.|🍩|Donuts are sweet.|甜甜圈很甜。
+soda fountain|汽水機|n.|🥤|Fill your cup at the soda fountain.|在汽水機把杯子裝滿。
+onion rings|洋蔥圈|n.|🧅|Onion rings are fried.|洋蔥圈是油炸的。
+croissant|可頌|n.|🥐|A croissant is soft and buttery.|可頌鬆軟又有奶油味。
+stool|高腳凳|n.|🪑|Sit on the stool at the counter.|坐在櫃檯的高腳凳上。
+hamburger|漢堡|n.|🍔|I'd like a hamburger.|我想要一個漢堡。
+booth|卡座|n.|🛋️|Let's sit in the booth.|我們坐卡座吧。
+french fries|薯條|n.|🍟|French fries with ketchup are great.|薯條配番茄醬很棒。
+serving tray|餐盤|n.|🍽️|Carry the serving tray carefully.|小心端著餐盤。
+bagel|貝果|n.|🥯|A bagel with cream cheese is tasty.|貝果配奶油起司很好吃。
+fried chicken|炸雞|n.|🍗|Fried chicken is crispy outside.|炸雞外皮酥脆。
+muffins|瑪芬|n.|🧁|These muffins are fresh.|這些瑪芬很新鮮。
+--dialogue
+M|Jack, I'm hungry after school. Let's go to the fast food restaurant.|傑克，放學後我好餓，我們去速食店吧。
+B|Okay. What would you like? A hamburger and french fries?|好。你想吃什麼？漢堡和薯條嗎？
+M|Yes, and some chicken nuggets or onion rings.|對，再加一些雞塊或洋蔥圈。
+B|I'd like fried chicken. They cook it on the grill in the back.|我想吃炸雞。他們在後面用烤架煮。
+M|Let's take a serving tray and sit in a booth.|我們拿個餐盤，坐在卡座吧。
+B|I prefer the stool by the window. The booth is too small.|我比較喜歡靠窗的高腳凳，卡座太小。
+M|Fine. Get a soda at the soda fountain, and don't forget a straw.|好。去汽水機裝汽水，別忘了吸管。
+B|For dessert, I want donuts or a muffin.|甜點我想要甜甜圈或瑪芬。
+M|In the morning, they serve pancakes, bagels, and croissants.|早上他們供應鬆餅、貝果和可頌。
+B|We can come back for breakfast tomorrow.|我們明天可以回來吃早餐。
+M|If we can't finish, ask for a doggy bag.|如果吃不完，就要一個打包袋。
+B|Good idea. I won't waste any food.|好主意，我不會浪費食物。

@@ -1,0 +1,38 @@
+id: air-1
+cat: air
+title: 飛機機艙
+titleEn: On an airplane
+emoji: 🛫
+speakers: M=Leslie|萊絲莉|🙋‍♀️|af_sarah;B=How|浩|🙋‍♂️|am_michael
+dialogueTitle: 出差去台北：登機後
+--words
+flight attendant|空服員|n.|👩‍✈️|The flight attendant serves us drinks.|空服員為我們送飲料。
+emergency exit|緊急出口|n.|🚪|Find the emergency exit on the plane.|在飛機上要找出緊急出口。
+window blind|遮陽窗板|n.|🪟|Please close the window blind.|請把遮陽窗板拉下來。
+tray|小餐桌（托盤）|n.|🍽️|Put your food on the tray.|把餐點放在小餐桌上。
+seat pocket|座椅置物袋|n.|📰|The magazine is in the seat pocket.|雜誌在座椅置物袋裡。
+life preserver|救生衣（圈）|n.|🛟|The life preserver is under your seat.|救生衣在你的座位下面。
+overhead compartment|頭頂行李櫃|n.|🧳|Put your bag in the overhead compartment.|把你的包包放進頭頂行李櫃。
+window seat|靠窗座位|n.|💺|I want a window seat.|我想要靠窗的座位。
+aisle seat|靠走道座位|n.|💺|He prefers an aisle seat.|他比較喜歡靠走道的座位。
+seat belt|安全帶|n.|🪢|Fasten your seat belt.|請繫好安全帶。
+co-pilot|副機長|n.|👨‍✈️|The co-pilot helps the captain.|副機長協助機長。
+captain|機長|n.|🧑‍✈️|The captain says hello to the passengers.|機長向乘客問好。
+jet engine|噴射引擎|n.|🛫|The jet engine is very loud.|噴射引擎非常吵。
+fuselage|機身|n.|✈️|The fuselage is the body of the plane.|fuselage 就是飛機的機身。
+first class section|頭等艙|n.|🥂|First class has big seats.|頭等艙的座位很大。
+business class section|商務艙|n.|💼|He flies in business class.|他搭商務艙。
+economy class section|經濟艙|n.|🪑|We sit in economy class.|我們坐經濟艙。
+--dialogue
+B|Leslie, I have the window seat, and you have the aisle seat.|萊絲莉，我坐靠窗，你坐靠走道。
+M|Fine. Let me put my bag in the overhead compartment.|好。我把包包放進頭頂行李櫃。
+B|The flight attendant says to fasten our seat belts.|空服員說要繫好安全帶。
+M|Look, the life preserver is under the seat, and the emergency exit is over there.|你看，救生衣在座位下面，緊急出口在那邊。
+B|The captain and the co-pilot are talking to the passengers.|機長和副機長正在對乘客廣播。
+M|The jet engine is loud, but it's safe. The fuselage is strong.|噴射引擎很吵，但很安全。機身很堅固。
+B|Should I close the window blind?|我要把遮陽窗板拉下來嗎？
+M|Not yet. I want to see the clouds.|還不要，我想看雲。
+B|Put the tray down. The attendant is bringing lunch.|把小餐桌放下來，空服員正在送午餐。
+M|There is a magazine in the seat pocket. Let's read it later.|座椅置物袋裡有一本雜誌，等一下來看。
+B|I've never flown in first class or business class. Economy is fine for me.|我從來沒坐過頭等艙或商務艙，經濟艙對我來說就夠了。
+M|Me too. Let's enjoy the flight to Taipei!|我也是。我們好好享受飛往台北的旅程吧！

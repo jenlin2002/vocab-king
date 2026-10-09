@@ -1,0 +1,33 @@
+id: sports-8
+cat: sports
+title: 體操與健身
+titleEn: Gymnastics and fitness
+emoji: 🤸
+speakers: M=Kim|金|🙋‍♀️|af_sarah;B=Jack|傑克|🙋‍♂️|am_michael
+dialogueTitle: 在體育館運動
+--words
+parallel bars|雙槓|n.|🤸|Men use the parallel bars.|男子使用雙槓。
+yoga|瑜伽|n.|🧘|Yoga helps me relax.|瑜伽讓我放鬆。
+aerobic workout|有氧運動|n.|🏃|An aerobic workout makes your heart strong.|有氧運動讓心臟強壯。
+rings|吊環|n.|⭕|The rings need strong arms.|吊環需要強壯的手臂。
+gymnastics|體操|n.|🤸|Gymnastics needs balance and strength.|體操需要平衡和力量。
+pommel horse|鞍馬|n.|🐴|The pommel horse is difficult.|鞍馬很難。
+weightlifting|舉重|n.|🏋️|Weightlifting makes you strong.|舉重讓你變強壯。
+vaulting horse|跳馬|n.|🐴|He jumped over the vaulting horse.|他跳過跳馬。
+horizontal bar|單槓|n.|🤸|He swings on the horizontal bar.|他在單槓上擺盪。
+uneven bars|高低槓|n.|🤸|The uneven bars are for women.|高低槓是女子項目。
+balance beam|平衡木|n.|🤸|She walks on the balance beam.|她在平衡木上走。
+trampoline|彈跳床|n.|🤾|Kids love the trampoline.|小朋友愛彈跳床。
+--dialogue
+M|Jack, this gymnasium is huge. What do you want to try?|傑克，這個體育館好大。你想試什麼？
+B|I'd like to see gymnastics. Look, a boy is on the horizontal bar!|我想看體操。你看，有個男孩在單槓上！
+M|And there's the parallel bars, the rings, and the pommel horse.|那邊有雙槓、吊環和鞍馬。
+B|The vaulting horse is in the middle. A gymnast jumps over it so fast.|跳馬在中間，有位體操選手飛快地跳過去。
+M|The girls have the uneven bars and the balance beam.|女生有高低槓和平衡木。
+B|The balance beam is so narrow. I would fall off!|平衡木好窄，我會掉下來！
+M|Let's try the trampoline. It's safer and fun.|我們試試彈跳床，比較安全又好玩。
+B|Good. Afterwards we can join an aerobic workout class.|好。之後我們可以參加有氧運動課。
+M|I prefer yoga. It is calm and good for the back.|我比較喜歡瑜伽，平靜又對背部好。
+B|And weightlifting? I want strong arms.|舉重呢？我想要強壯的手臂。
+M|Be careful with heavy weights. Ask a coach first.|重量要小心，先問教練。
+B|Okay. Let's do yoga first, then the trampoline.|好，我們先做瑜伽，再玩彈跳床。

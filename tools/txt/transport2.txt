@@ -1,0 +1,33 @@
+id: transport-2
+cat: transport
+title: 空中與水上交通工具
+titleEn: Vehicles in the air and on the water
+emoji: ✈️
+speakers: M=Tina|蒂娜|🙋‍♀️|af_sarah;B=Dad|爸爸|👨|am_michael
+dialogueTitle: 暑假旅行怎麼去？
+--words
+jumbo jet|大型客機|n.|✈️|A jumbo jet carries hundreds of people.|大型客機載著幾百個人。
+helicopter|直升機|n.|🚁|The helicopter lands on the roof.|直升機降落在屋頂上。
+biplane|雙翼飛機|n.|🛩️|An old biplane flew over the show.|一架老式雙翼飛機飛過表演場。
+clipper|快速帆船|n.|⛵|A clipper was a fast sailing ship.|clipper 是一種很快的帆船。
+sailboat|帆船|n.|⛵|We sail a small sailboat on the lake.|我們在湖上駕駛小帆船。
+raft|木筏|n.|🛶|They float down the river on a raft.|他們坐木筏順著河漂流。
+submarine|潛水艇|n.|🌊|A submarine travels under the sea.|潛水艇在海面下航行。
+ferry|渡輪|n.|⛴️|We took a ferry to the island.|我們搭渡輪去小島。
+hot air balloon|熱氣球|n.|🎈|A hot air balloon floats in the sky.|熱氣球漂浮在天空中。
+tanker|油輪|n.|🛢️|The tanker carries oil.|油輪載運石油。
+container ship|貨櫃輪|n.|🚢|A container ship carries goods across the sea.|貨櫃輪把貨物運過海洋。
+motorboat|摩托艇|n.|🚤|The motorboat is very fast.|摩托艇非常快。
+--dialogue
+B|Tina, where do you want to go this summer?|蒂娜，你今年暑假想去哪裡？
+M|I want to visit an island. Can we take a ferry?|我想去一座小島，我們可以搭渡輪嗎？
+B|Yes, or we can go by sailboat or motorboat.|可以，或是坐帆船或摩托艇。
+M|What about a long trip to America?|那去美國的長途旅行呢？
+B|We would fly in a jumbo jet. Goods go in a container ship, and oil goes in a tanker.|我們會搭大型客機。貨物走貨櫃輪，石油走油輪。
+M|I saw a submarine in a museum. It travels under the sea!|我在博物館看過潛水艇，它在海底航行！
+B|A helicopter can land on a small place, and a biplane is an old kind of airplane.|直升機可以降落在很小的地方，雙翼飛機是一種老式飛機。
+M|A hot air balloon looks so romantic!|熱氣球看起來好浪漫！
+B|People also used a clipper to cross the ocean a long time ago.|很久以前人們也用快速帆船橫渡大洋。
+M|And a raft is the simplest boat, right?|而木筏是最簡單的船，對嗎？
+B|Right. Which one do you choose?|對。你選哪一種？
+M|The ferry, Dad. Then we can enjoy the sea!|渡輪，爸爸。這樣我們就能欣賞大海了！

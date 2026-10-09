@@ -1,0 +1,37 @@
+id: sports-1
+cat: sports
+title: 戶外運動
+titleEn: Outdoor sports
+emoji: 🏂
+speakers: M=Kim|金|🙋‍♀️|af_sarah;B=Jack|傑克|🙋‍♂️|am_michael
+dialogueTitle: 寒假要去哪裡玩？
+--words
+skydiving|高空跳傘|n.|🪂|Skydiving is very exciting.|高空跳傘非常刺激。
+boating|划船|n.|⛵|Boating on the lake is relaxing.|在湖上划船很放鬆。
+figure skating|花式滑冰|n.|⛸️|Figure skating needs balance.|花式滑冰需要平衡感。
+ice skating|溜冰（冰上）|n.|⛸️|We go ice skating in winter.|我們冬天去溜冰。
+jogging|慢跑|n.|🏃|Jogging is good for your health.|慢跑對健康有益。
+roller skating|溜直排輪（四輪）|n.|🛼|Roller skating is fun at the park.|在公園溜輪鞋很好玩。
+in-line skating|直排輪|n.|🛼|In-line skating is faster than walking.|直排輪比走路快。
+whitewater rafting|激流泛舟|n.|🛶|Whitewater rafting is a wet adventure.|激流泛舟是一場濕淋淋的冒險。
+cycling|騎自行車|n.|🚴|Cycling is a green way to travel.|騎自行車是環保的旅行方式。
+skateboarding|滑板|n.|🛹|He is good at skateboarding.|他很會玩滑板。
+hang gliding|滑翔翼|n.|🪁|Hang gliding gives you the feeling of flying.|滑翔翼讓你有飛翔的感覺。
+horseback riding|騎馬|n.|🏇|Horseback riding is popular on farms.|騎馬在農場裡很受歡迎。
+archery|射箭|n.|🏹|Archery needs a steady hand.|射箭需要穩定的手。
+snowboarding|單板滑雪|n.|🏂|Snowboarding is cool.|單板滑雪很酷。
+skiing|滑雪|n.|⛷️|Skiing in Japan is wonderful.|在日本滑雪很棒。
+rock climbing|攀岩|n.|🧗|Rock climbing makes you strong.|攀岩讓你變強壯。
+--dialogue
+M|Jack, winter vacation is coming. Where should we go?|傑克，寒假快到了，我們要去哪裡？
+B|I want something exciting, like skydiving or hang gliding!|我想要刺激的，像高空跳傘或滑翔翼！
+M|That's scary for me. What about snowboarding or skiing in the mountains?|那對我來說太可怕了。去山上單板滑雪或滑雪怎麼樣？
+B|Good. In the city, we can do ice skating and figure skating at the rink.|好啊。在城裡我們可以在溜冰場溜冰和花式滑冰。
+M|In summer, we could try whitewater rafting and boating.|夏天我們可以試試激流泛舟和划船。
+B|I also like cycling and jogging in the morning. It keeps me fit.|我也喜歡早上騎自行車和慢跑，讓我保持健康。
+M|My cousin loves roller skating, in-line skating, and skateboarding in the park.|我表哥愛在公園溜輪鞋、直排輪和滑板。
+B|Does he do rock climbing, too?|他也玩攀岩嗎？
+M|Yes, and archery. He even goes horseback riding on the farm.|有，還玩射箭。他甚至去農場騎馬。
+B|He is so active! I hope I can be like him.|他好活躍！希望我也能像他一樣。
+M|Let's start with something safe. How about cycling this weekend?|我們從安全的開始吧，這個週末騎自行車如何？
+B|Deal! Then we can plan the big trip later.|一言為定！之後再計畫大旅行。

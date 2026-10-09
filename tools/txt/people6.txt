@@ -1,0 +1,39 @@
+id: people-6
+cat: people
+title: 帽子與鞋子
+titleEn: Hats and shoes
+emoji: 👟
+speakers: M=Kim|金|🙋‍♀️|af_sarah;B=Jack|傑克|🙋‍♂️|am_michael
+dialogueTitle: 去夏威夷度假前打包
+--words
+fedora|紳士帽（軟呢帽）|n.|🎩|He wears a gray fedora.|他戴著一頂灰色紳士帽。
+top hat|高禮帽|n.|🎩|The magician has a top hat.|魔術師有一頂高禮帽。
+cap|鴨舌帽|n.|🧢|I wear a cap to play baseball.|我戴鴨舌帽打棒球。
+cowboy hat|牛仔帽|n.|🤠|A cowboy hat is wide.|牛仔帽的帽簷很寬。
+ski cap|毛線帽|n.|🧢|Put on a ski cap in the snow.|在雪地裡戴上毛線帽。
+beret|貝雷帽|n.|🎨|The painter wears a beret.|畫家戴著貝雷帽。
+hard hat|安全帽（工地）|n.|⛑️|Workers wear a hard hat.|工人戴著安全帽。
+helmet|頭盔|n.|🪖|Wear a helmet when you ride a bike.|騎腳踏車要戴安全帽。
+sock|襪子|n.|🧦|I lost one sock.|我弄丟了一隻襪子。
+shoe|鞋子|n.|👞|These shoes are too small.|這雙鞋太小了。
+boot|靴子|n.|🥾|He wears boots in the rain.|他雨天穿靴子。
+sandal|涼鞋|n.|🩴|I wear sandals in summer.|我夏天穿涼鞋。
+leather shoe|皮鞋|n.|👞|Dad cleans his leather shoes.|爸爸擦他的皮鞋。
+high-heeled shoe|高跟鞋|n.|👠|She wears high-heeled shoes to the party.|她穿高跟鞋去派對。
+sneaker|運動鞋|n.|👟|My sneakers are white.|我的運動鞋是白色的。
+slipper|拖鞋|n.|🥿|Put on your slippers at home.|在家請穿拖鞋。
+flip-flop|夾腳拖|n.|🩴|Flip-flops are good for the beach.|夾腳拖很適合去海邊。
+flipper|蛙鞋|n.|🤿|Flippers help you swim fast.|蛙鞋能讓你游得更快。
+--dialogue
+B|Kim, we are going to Hawaii tomorrow. Are you packing?|金，我們明天要去夏威夷了，你在打包嗎？
+M|Yes. I will bring a cap and a pair of sandals for the beach.|對。我會帶一頂鴨舌帽和一雙海灘涼鞋。
+B|I'll take flip-flops and flippers for swimming.|我會帶夾腳拖和游泳用的蛙鞋。
+M|Don't forget socks and sneakers for the mountain hike.|別忘了爬山用的襪子和運動鞋。
+B|Should we take boots? It may rain.|我們要帶靴子嗎？可能會下雨。
+M|Good idea. Also a helmet for riding bikes.|好主意。還要騎腳踏車用的安全帽。
+B|My brother wants to wear a cowboy hat in Hawaii.|我弟弟想在夏威夷戴牛仔帽。
+M|Ha-ha, I will bring a beret. It's good for photos.|哈哈，我會帶貝雷帽，拍照很好看。
+B|For the fancy dinner I'll wear leather shoes and a fedora.|盛大晚餐我要穿皮鞋、戴紳士帽。
+M|And I'll wear high-heeled shoes. At the hotel, I'll use slippers.|我會穿高跟鞋。在飯店就穿拖鞋。
+B|Our bag is too heavy. What about the top hat and ski cap?|我們的行李太重了。高禮帽和毛線帽呢？
+M|No, we leave those at home. Hawaii is hot, and we don't need a hard hat either!|不要，把它們留在家裡。夏威夷很熱，我們也不需要安全帽工地用的那種！

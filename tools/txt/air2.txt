@@ -1,0 +1,45 @@
+id: air-2
+cat: air
+title: 機場
+titleEn: In an airport
+emoji: 🛬
+speakers: M=Leslie|萊絲莉|🙋‍♀️|af_sarah;B=Hal|哈爾|🙋‍♂️|am_michael
+dialogueTitle: 在機場辦理出發手續
+--words
+terminal|航廈|n.|🏢|Our flight leaves from Terminal 2.|我們的班機從第二航廈出發。
+ticket dispenser|自動售票機|n.|🎟️|Use the ticket dispenser to get your ticket.|用自動售票機取票。
+currency exchange|外幣兌換處|n.|💱|Change your money at the currency exchange.|在外幣兌換處換錢。
+insurance counter|保險櫃檯|n.|🛡️|You can buy travel insurance at the insurance counter.|你可以在保險櫃檯買旅遊保險。
+check-in counter|報到櫃檯|n.|🧾|Go to the check-in counter first.|先去報到櫃檯。
+passenger|乘客|n.|🧳|Every passenger needs a boarding pass.|每位乘客都需要登機證。
+airline attendant|航空公司服務人員|n.|🧑‍💼|The airline attendant checks my ticket.|航空公司服務人員檢查我的機票。
+airline service counter|航空公司服務櫃檯|n.|🛎️|Ask at the airline service counter.|到航空公司服務櫃檯詢問。
+luggage|行李|n.|🧳|My luggage is heavy.|我的行李很重。
+luggage cart|行李推車|n.|🛒|Push your bags on a luggage cart.|用行李推車推你的行李。
+skycap|機場行李搬運員|n.|🧑‍🔧|A skycap carries my luggage.|行李搬運員幫我搬行李。
+customs|海關|n.|🛃|We go through customs.|我們通過海關。
+immigration|入出境查驗|n.|🛂|Show your passport at immigration.|在入出境查驗處出示護照。
+luggage carousel|行李轉盤|n.|🔄|Wait at the luggage carousel.|在行李轉盤旁等候。
+information desk|詢問台|n.|ℹ️|The information desk is near the door.|詢問台在門口附近。
+departure lobby|出境大廳|n.|🚪|Meet me in the departure lobby.|在出境大廳跟我碰面。
+duty-free item|免稅商品|n.|🏷️|Perfume is a duty-free item.|香水是免稅商品。
+duty-free shop|免稅商店|n.|🛍️|I buy gifts in the duty-free shop.|我在免稅商店買禮物。
+control tower|控制塔台|n.|🗼|The control tower guides the planes.|控制塔台指揮飛機。
+take-off|起飛|n.|🛫|Take-off is at ten o'clock.|十點起飛。
+shuttle bus|接駁車|n.|🚌|The shuttle bus goes to the hotel.|接駁車開往飯店。
+landing|降落|n.|🛬|The landing was smooth.|降落很平穩。
+airplane|飛機|n.|✈️|The airplane is on the runway.|飛機在跑道上。
+runway|跑道|n.|🛣️|The runway is very long.|跑道非常長。
+--dialogue
+B|Leslie, are we at the right terminal?|萊絲莉，我們走對航廈了嗎？
+M|Yes. Let's use the luggage cart and go to the check-in counter.|對。我們用行李推車去報到櫃檯。
+B|The airline attendant checks our tickets and weighs the luggage.|航空公司服務人員會檢查機票、秤行李重量。
+M|Do we need a ticket dispenser or the insurance counter?|我們需要自動售票機或保險櫃檯嗎？
+B|No. But I want to change money at the currency exchange.|不用。不過我想去外幣兌換處換錢。
+M|Then we go through customs and immigration.|然後我們通過海關和入出境查驗。
+B|There is a duty-free shop. Let's buy a duty-free item for Mom.|那裡有免稅商店，我們幫媽媽買件免稅商品。
+M|Look, you can see the control tower and the runway from here.|你看，從這裡可以看到控制塔台和跑道。
+B|Take-off will be in an hour. Do you see the information desk?|一個小時後起飛。你看到詢問台了嗎？
+M|It's in the departure lobby. A shuttle bus will take other passengers to the hotel.|在出境大廳。接駁車會載其他乘客去飯店。
+B|After the landing in Taipei we wait at the luggage carousel, and a skycap helps us.|降落台北後，我們在行李轉盤旁等候，行李搬運員會幫我們。
+M|What a long trip! Let's go and board the airplane!|好長的旅程！我們去登機吧！

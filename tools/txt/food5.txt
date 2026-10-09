@@ -1,0 +1,37 @@
+id: food-5
+cat: food
+title: 海鮮
+titleEn: Seafood
+emoji: 🦞
+speakers: M=Jack|傑克|🙋‍♂️|am_michael;B=Waiter|服務生|🧑‍🍳|am_adam
+dialogueTitle: 金的生日：海鮮餐廳
+--words
+milkfish|虱目魚|n.|🐟|Milkfish soup is popular in Tainan.|虱目魚湯在台南很受歡迎。
+pomfret|鯧魚|n.|🐟|Fried pomfret is delicious.|煎鯧魚很美味。
+cuttlefish|花枝（墨魚）|n.|🦑|The cuttlefish is fresh.|這隻花枝很新鮮。
+canned tuna|鮪魚罐頭|n.|🥫|I make a sandwich with canned tuna.|我用鮪魚罐頭做三明治。
+salmon fillet|鮭魚片|n.|🍣|A salmon fillet is on my plate.|我的盤子上有一片鮭魚。
+scallop|干貝|n.|🐚|Grilled scallops taste great.|烤干貝很好吃。
+fish ball|魚丸|n.|🍥|Fish balls are in the soup.|魚丸在湯裡。
+prawn|明蝦|n.|🦐|A big prawn costs a lot.|一隻大明蝦很貴。
+yellow croaker|黃魚|n.|🐟|Yellow croaker is a famous fish.|黃魚是有名的魚。
+cod fillet|鱈魚片|n.|🐟|Bake the cod fillet for ten minutes.|把鱈魚片烤十分鐘。
+trout|鱒魚|n.|🐟|Trout live in cold streams.|鱒魚住在冷水溪流。
+catfish|鯰魚|n.|🐟|A catfish has whiskers.|鯰魚有鬍鬚。
+grouper|石斑魚|n.|🐟|Steamed grouper is a banquet dish.|清蒸石斑是宴客菜。
+carp|鯉魚|n.|🐟|Carp swim in the pond.|鯉魚在池塘裡游。
+gray mullet|烏魚|n.|🐟|Gray mullet eggs are expensive.|烏魚子很貴。
+abalone|鮑魚|n.|🐚|Abalone is a luxury food.|鮑魚是高級食材。
+--dialogue
+M|Happy birthday, Kim! Today we are at a seafood restaurant.|生日快樂，金！今天我們來海鮮餐廳。
+B|Welcome. Here is the menu. What would you like?|歡迎光臨，這是菜單。你想吃什麼？
+M|Kim loves fish. She would like a salmon fillet or a cod fillet.|金愛吃魚，她想吃鮭魚片或鱈魚片。
+B|We also have grouper, pomfret, trout, and a famous yellow croaker.|我們也有石斑、鯧魚、鱒魚和有名的黃魚。
+M|I don't like fish very much. Do you have prawns or scallops?|我不太愛吃魚，你們有明蝦或干貝嗎？
+B|Yes, and cuttlefish. Today's abalone is fresh, too.|有，還有花枝。今天的鮑魚也很新鮮。
+M|What is good for soup?|什麼適合煮湯？
+B|Milkfish, fish balls, and catfish soup. A carp and a gray mullet are also on the menu.|虱目魚、魚丸和鯰魚湯。菜單上也有鯉魚和烏魚。
+M|I'll order the prawns and the scallops. Kim wants grilled grouper.|我點明蝦和干貝，金想要烤石斑。
+B|Anything else? We have sandwiches with canned tuna for kids.|還要別的嗎？我們有給小朋友的鮪魚罐頭三明治。
+M|No, thanks. That's enough for the birthday dinner.|不用了，謝謝。生日晚餐這樣就夠了。
+B|Great. Enjoy your meal!|太好了，請慢用！

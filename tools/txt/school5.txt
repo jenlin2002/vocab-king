@@ -1,0 +1,37 @@
+id: school-5
+cat: school
+title: 顏色
+titleEn: Colors
+emoji: 🎨
+speakers: M=Grace|葛蕾絲|🙋‍♀️|af_sarah;B=Tom|湯姆|🙋‍♂️|am_michael
+dialogueTitle: 美術課：調出新顏色
+--words
+red|紅色|n./adj.|🟥|The apple is red.|這顆蘋果是紅色的。
+orange|橘色|n./adj.|🟧|She wears an orange sweater.|她穿著橘色毛衣。
+yellow|黃色|n./adj.|🟨|The sun is yellow.|太陽是黃色的。
+green|綠色|n./adj.|🟩|Frogs are green.|青蛙是綠色的。
+baby blue|淺藍色|n./adj.|🩵|The baby's room is baby blue.|寶寶的房間是淺藍色的。
+blue|藍色|n./adj.|🟦|The sky is blue.|天空是藍色的。
+purple|紫色|n./adj.|🟪|Grapes can be purple.|葡萄可以是紫色的。
+pink|粉紅色|n./adj.|🌸|Her bag is pink.|她的包包是粉紅色的。
+white|白色|n./adj.|⬜|Snow is white.|雪是白色的。
+black|黑色|n./adj.|⬛|My cat is black.|我的貓是黑色的。
+gray|灰色|n./adj.|🐘|Elephants are gray.|大象是灰色的。
+silver|銀色|n./adj.|🥈|He has a silver ring.|他有一枚銀色戒指。
+gold|金色|n./adj.|🥇|The winner gets a gold medal.|冠軍得到一面金牌。
+brown|棕色|n./adj.|🟫|The bear is brown.|這隻熊是棕色的。
+dark|深色的|adj.|🌑|She likes dark colors.|她喜歡深色。
+light|淺色的|adj.|☁️|The wall is light yellow.|牆壁是淺黃色的。
+--dialogue
+B|Grace, what color do you want for the sky in your picture?|葛蕾絲，你的畫裡天空要用什麼顏色？
+M|Blue, but a light blue. The ocean will be a dark blue.|藍色，不過是淺藍色。海洋會用深藍色。
+B|I'll paint the sun yellow and the grass green.|我要把太陽畫成黃色、草地畫成綠色。
+M|Can you mix red and yellow to make orange?|你可以把紅色和黃色混合變成橘色嗎？
+B|Yes. And red and blue make purple.|可以。紅色加藍色就變成紫色。
+M|I want pink flowers and a brown tree.|我想畫粉紅色的花和一棵棕色的樹。
+B|What about the clouds? White or gray?|雲呢？白色還是灰色？
+M|Gray clouds mean rain, so I'll use white. The sunset will be gold.|灰雲代表下雨，所以我用白色。夕陽用金色。
+B|My robot is silver, and its eyes are black.|我的機器人是銀色的，眼睛是黑色的。
+M|Wow, your picture looks so cool!|哇，你的畫看起來好酷！
+B|Thanks. Yours is beautiful, too. Let's show them to the teacher.|謝謝，你的也很漂亮。我們拿給老師看吧。
+M|Okay. I hope she likes the colors!|好。希望老師喜歡這些顏色！

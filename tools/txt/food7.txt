@@ -1,0 +1,39 @@
+id: food-7
+cat: food
+title: 乳製品與冰品
+titleEn: Dairy products
+emoji: 🍦
+speakers: M=Kim|金|🙋‍♀️|af_sarah;B=Jack|傑克|🙋‍♂️|am_michael
+dialogueTitle: 金說服傑克選健康的甜點
+--words
+butter|奶油|n.|🧈|Spread butter on the bread.|在麵包上塗奶油。
+ice cream|冰淇淋|n.|🍨|I want chocolate ice cream.|我想要巧克力冰淇淋。
+popsicle|冰棒|n.|🍭|A popsicle cools you down.|冰棒讓你涼快下來。
+cheese|起司|n.|🧀|Mice love cheese.|老鼠愛起司。
+yogurt|優格|n.|🥣|I eat yogurt with fruit.|我吃優格加水果。
+drinking yogurt|優酪乳|n.|🥛|Drinking yogurt is good for digestion.|優酪乳有助消化。
+cream|鮮奶油|n.|🥛|Put some cream in the coffee.|在咖啡裡加一些鮮奶油。
+sherbet|雪酪（冰沙冰品）|n.|🍧|Orange sherbet is refreshing.|柳橙雪酪很清爽。
+whole milk|全脂牛奶|n.|🥛|Babies drink whole milk.|寶寶喝全脂牛奶。
+low-fat milk|低脂牛奶|n.|🥛|I choose low-fat milk.|我選低脂牛奶。
+skim milk|脫脂牛奶|n.|🥛|Skim milk has almost no fat.|脫脂牛奶幾乎沒有脂肪。
+frozen yogurt|冷凍優格|n.|🍦|Frozen yogurt is lighter than ice cream.|冷凍優格比冰淇淋清爽。
+whipped cream|鮮奶油（打發）|n.|🍰|Put whipped cream on the cake.|在蛋糕上擠上鮮奶油。
+evaporated milk|淡奶|n.|🥫|Add evaporated milk to the pudding.|在布丁裡加淡奶。
+gelato|義式冰淇淋|n.|🍨|Gelato comes from Italy.|義式冰淇淋來自義大利。
+condensed milk|煉乳|n.|🥫|Condensed milk is very sweet.|煉乳非常甜。
+soft-serve ice cream|霜淇淋|n.|🍦|I love soft-serve ice cream in a cone.|我愛甜筒的霜淇淋。
+milkshake|奶昔|n.|🥤|A milkshake is thick and sweet.|奶昔又濃又甜。
+--dialogue
+B|Kim, let's get dessert. Do you want ice cream or a milkshake?|金，我們來點甜點吧。你想吃冰淇淋還是奶昔？
+M|Jack, let's choose something healthier, like yogurt or frozen yogurt.|傑克，我們選健康一點的，像優格或冷凍優格。
+B|But I love soft-serve ice cream and gelato.|但我愛霜淇淋和義式冰淇淋。
+M|Gelato is good, but it has a lot of sugar. Sherbet and popsicles are light.|義式冰淇淋不錯，但糖很多。雪酪和冰棒比較清爽。
+B|Okay, an orange sherbet for you, and a popsicle for me.|好，你吃柳橙雪酪，我吃冰棒。
+M|At home, I'll buy low-fat milk or skim milk instead of whole milk.|在家我會買低脂或脫脂牛奶，而不是全脂牛奶。
+B|Don't forget butter and cheese for the bread.|別忘了麵包要用的奶油和起司。
+M|Sure. For the cake, we need cream and whipped cream.|好。蛋糕需要鮮奶油和打發的鮮奶油。
+B|For the pudding, use evaporated milk, and for the strawberries, condensed milk.|布丁要用淡奶，草莓配煉乳。
+M|You know a lot about milk products! Don't forget drinking yogurt for the morning.|你對乳製品懂好多！別忘了早上要喝的優酪乳。
+B|I won't. Let's order now.|不會忘。我們現在點餐吧。
+M|Okay. A small frozen yogurt for me!|好，我要一杯小的冷凍優格！

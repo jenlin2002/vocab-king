@@ -1,0 +1,37 @@
+id: machines-1
+cat: machines
+title: 家電與辦公設備
+titleEn: Home and office equipment
+emoji: 📠
+speakers: M=Leslie|萊斯莉|🙋‍♀️|af_sarah;B=Hal|哈爾|🙋‍♂️|am_michael
+dialogueTitle: 哈爾的奇怪廚房
+--words
+dish dryer|烘碗機|n.|🍽️|The dish dryer keeps the bowls clean.|烘碗機讓碗盤保持乾淨。
+air freshener|空氣芳香劑|n.|🌸|The air freshener smells like lemon.|空氣芳香劑有檸檬味。
+portable CD player|隨身 CD 播放機|n.|💿|He listens to music on a portable CD player.|他用隨身 CD 播放機聽音樂。
+fax machine|傳真機|n.|📠|The fax machine is in the office.|傳真機在辦公室。
+space heater|電暖器|n.|🔥|A space heater warms the room.|電暖器讓房間變暖。
+coffee maker|咖啡機|n.|☕|The coffee maker is ready.|咖啡機準備好了。
+dishwasher|洗碗機|n.|🧼|The dishwasher is full.|洗碗機滿了。
+DVD player|DVD 播放機|n.|📀|Put the disc in the DVD player.|把光碟放進 DVD 播放機。
+videocassette recorder|錄放影機（VCR）|n.|📼|The VCR is an old machine.|錄放影機是老機器。
+earphones|耳機|n.|🎧|Wear earphones on the bus.|在公車上戴耳機。
+copy machine|影印機|n.|🖨️|The copy machine is out of paper.|影印機沒紙了。
+headphones|頭戴式耳機|n.|🎧|These headphones are comfortable.|這副頭戴式耳機很舒服。
+stereo|音響|n.|🔊|Turn on the stereo.|開音響。
+hot water dispenser|熱水機|n.|♨️|Use the hot water dispenser for tea.|用熱水機泡茶。
+food processor|食物調理機|n.|🥣|The food processor cuts vegetables fast.|食物調理機切菜很快。
+water cooler|飲水機（冷水）|n.|🚰|The water cooler is in the hallway.|飲水機在走廊。
+--dialogue
+M|Hal, I love your new apartment. But your kitchen looks odd.|哈爾，我很喜歡你的新公寓。不過你的廚房看起來有點奇怪。
+B|What do you mean?|你是什麼意思？
+M|Not many people have a copy machine and a fax machine in their kitchen.|沒多少人在廚房裡放影印機和傳真機。
+B|I only have a small apartment. This is the best place to put them.|我只有一間小公寓，這裡是放它們最好的地方。
+M|I expect to see a food processor, a dishwasher, or at least a dish dryer.|我以為會看到食物調理機、洗碗機，或至少一台烘碗機。
+B|I don't need them. I work late, so I don't cook much.|我不需要。我工作到很晚，所以不常煮飯。
+M|What do you have, then? A coffee maker and a water cooler?|那你有什麼？咖啡機和飲水機嗎？
+B|Yes, and a hot water dispenser for tea. I also have a DVD player and a VCR.|有，還有泡茶用的熱水機。我也有 DVD 播放機和錄放影機。
+M|And a stereo? I see headphones and a portable CD player, too.|還有音響？我也看到耳機和隨身 CD 播放機。
+B|I listen to music while I eat. In winter, a space heater keeps me warm.|我邊吃邊聽音樂。冬天，電暖器讓我保持溫暖。
+M|There's an air freshener, too. But how do you make dinner?|還有空氣芳香劑。可是你怎麼做晚餐？
+B|With the fax machine! I fax my pizza orders.|用傳真機！我傳真訂披薩。

@@ -1,0 +1,39 @@
+id: sports-2
+cat: sports
+title: 球類運動
+titleEn: Ball sports
+emoji: 🏀
+speakers: M=Kim|金|🙋‍♀️|af_sarah;B=Jack|傑克|🙋‍♂️|am_michael
+dialogueTitle: 體育課要選什麼球類？
+--words
+bowling|保齡球|n.|🎳|We go bowling on Fridays.|我們星期五去打保齡球。
+basketball|籃球|n.|🏀|Basketball is a team sport.|籃球是團體運動。
+handball|手球|n.|🤾|Handball is popular in Europe.|手球在歐洲很流行。
+baseball|棒球|n.|⚾|Baseball is a national sport in Japan.|棒球是日本的國民運動。
+dodgeball|躲避球|n.|🏐|Dodgeball is fun in the gym.|躲避球在體育館很好玩。
+golf|高爾夫球|n.|⛳|Golf is played on a big course.|高爾夫球在大球場打。
+tennis|網球|n.|🎾|Tennis needs a racket.|網球需要球拍。
+softball|壘球|n.|🥎|Softball is like baseball.|壘球像棒球。
+table tennis|桌球|n.|🏓|Table tennis is popular in Asia.|桌球在亞洲很受歡迎。
+ice hockey|冰上曲棍球|n.|🏒|Ice hockey is fast and rough.|冰上曲棍球又快又激烈。
+field hockey|草地曲棍球|n.|🏑|Field hockey is played on grass.|草地曲棍球在草地上打。
+American football|美式足球|n.|🏈|American football players wear helmets.|美式足球選手戴頭盔。
+croquet|槌球|n.|🏏|Croquet is a gentle lawn game.|槌球是一種輕鬆的草地遊戲。
+soccer|足球|n.|⚽|Soccer is the most popular sport.|足球是最受歡迎的運動。
+pool|撞球|n.|🎱|My dad plays pool with friends.|我爸爸和朋友打撞球。
+volleyball|排球|n.|🏐|Volleyball needs a net.|排球需要一張網。
+badminton|羽毛球|n.|🏸|We play badminton in the yard.|我們在院子打羽毛球。
+cricket|板球|n.|🏏|Cricket is popular in India.|板球在印度很流行。
+--dialogue
+M|Jack, in P.E. class, we can choose a ball sport. What do you like?|傑克，體育課我們可以選一種球類運動，你喜歡什麼？
+B|Soccer is my favorite. But basketball and volleyball are also fun.|足球是我的最愛，不過籃球和排球也很有趣。
+M|Our school has a baseball field and a softball field.|我們學校有棒球場和壘球場。
+B|Let's play dodgeball in the gym. It's easy and exciting.|我們在體育館玩躲避球吧，簡單又刺激。
+M|Do you like racket sports? Tennis, badminton, and table tennis are all possible.|你喜歡球拍類運動嗎？網球、羽毛球和桌球都可以。
+B|Badminton is easy for beginners. Tennis is harder.|羽毛球對初學者容易，網球比較難。
+M|What about handball? It's like soccer but with hands.|手球呢？像足球但用手。
+B|Cool. In winter, ice hockey and field hockey are also popular abroad.|酷。冬天，冰上曲棍球和草地曲棍球在國外也很受歡迎。
+M|American football is rough, and cricket is not common here.|美式足球太粗暴，板球在這裡不常見。
+B|After class, we can go bowling or play pool.|下課後我們可以去打保齡球或撞球。
+M|For a slow game, I'd choose golf or croquet.|想玩慢節奏的話，我會選高爾夫球或槌球。
+B|You like all sports! Let's start with soccer tomorrow.|你什麼運動都喜歡！明天我們就從足球開始吧。

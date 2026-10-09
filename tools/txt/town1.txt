@@ -1,0 +1,41 @@
+id: town-1
+cat: town
+title: 城市裡的商店與設施
+titleEn: In a city
+emoji: 🏙️
+speakers: M=Kim|金|🙋‍♀️|af_sarah;B=Paul|保羅|🙋‍♂️|am_michael
+dialogueTitle: 金拿著地圖介紹這座城市
+--words
+appliance store|家電行|n.|📺|We bought a fan at the appliance store.|我們在家電行買了一台電風扇。
+convenience store|便利商店|n.|🏪|I buy snacks at the convenience store.|我在便利商店買零食。
+restaurant|餐廳|n.|🍽️|The restaurant is full.|餐廳客滿了。
+bank|銀行|n.|🏦|The bank closes at four.|銀行四點關門。
+hospital|醫院|n.|🏥|The hospital is next to the park.|醫院在公園旁邊。
+post office|郵局|n.|📮|I send letters at the post office.|我在郵局寄信。
+vending machine|自動販賣機|n.|🥤|The vending machine sells drinks.|自動販賣機賣飲料。
+hotel|旅館|n.|🏨|The hotel is near the station.|旅館靠近車站。
+furniture store|家具行|n.|🛋️|They bought a sofa at the furniture store.|他們在家具行買了一張沙發。
+gym|健身房|n.|🏋️|My dad exercises at the gym.|我爸爸在健身房運動。
+bookstore|書店|n.|📚|I like to read in the bookstore.|我喜歡在書店看書。
+newsstand|報攤|n.|📰|He buys a paper at the newsstand.|他在報攤買報紙。
+pharmacy|藥局|n.|💊|Buy the medicine at the pharmacy.|請到藥局買藥。
+movie theater|電影院|n.|🎬|We watch movies at the movie theater.|我們在電影院看電影。
+police station|警察局|n.|🚓|The police station is across the street.|警察局在對面。
+toy store|玩具店|n.|🧸|Kids love the toy store.|小朋友愛玩具店。
+bakery|麵包店|n.|🥐|The bakery smells so good.|麵包店聞起來好香。
+beauty salon|美容院|n.|💇|Mom goes to the beauty salon.|媽媽去美容院。
+delicatessen|熟食店|n.|🥪|We have lunch at the delicatessen.|我們在熟食店吃午餐。
+fire hydrant|消防栓|n.|🚒|Don't park near the fire hydrant.|不要把車停在消防栓旁。
+--dialogue
+B|Kim, I just moved to Bigburg. Can you show me the city?|金，我剛搬到大堡市，你可以帶我看看這座城市嗎？
+M|Sure, Paul. Let's use this map. The bank and the post office are on this street.|當然，保羅。我們用這張地圖。銀行和郵局在這條街上。
+B|Where can I buy food?|哪裡可以買食物？
+M|There is a bakery, a delicatessen, and a convenience store. A restaurant is also nearby.|有麵包店、熟食店和便利商店，附近也有餐廳。
+B|What if I get sick?|如果我生病了呢？
+M|The hospital is two blocks away, and the pharmacy is next to it.|醫院在兩個街區外，藥局就在它旁邊。
+B|I need a fan and a sofa for my new apartment.|我新家需要一台電風扇和一張沙發。
+M|Go to the appliance store and the furniture store. For a gift, try the toy store.|去家電行和家具行。要買禮物就去玩具店。
+B|Is there a place for fun?|有好玩的地方嗎？
+M|Yes, a movie theater, a gym, and a bookstore. The newsstand sells maps.|有電影院、健身房和書店，報攤有賣地圖。
+B|And the hotel for my guests?|那我的客人要住的旅館呢？
+M|Near the beauty salon. The police station and the fire hydrant are on the corner. Don't worry, you will love it here!|在美容院附近。警察局和消防栓在轉角。別擔心，你會喜歡這裡的！

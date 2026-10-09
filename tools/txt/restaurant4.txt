@@ -1,0 +1,37 @@
+id: restaurant-4
+cat: restaurant
+title: 餐具
+titleEn: Tableware
+emoji: 🍴
+speakers: M=Mom|媽媽|👩|af_sarah;B=Jack|傑克|🙋‍♂️|am_michael
+dialogueTitle: 幫媽媽擺餐桌
+--words
+bowl|碗|n.|🥣|Soup is in the bowl.|湯在碗裡。
+chopsticks|筷子|n.|🥢|I eat noodles with chopsticks.|我用筷子吃麵。
+fork|叉子|n.|🍴|Use a fork to eat the cake.|用叉子吃蛋糕。
+platter|大盤子|n.|🍽️|The fish is on a platter.|魚放在大盤子上。
+plate|盤子|n.|🍽️|Put the food on a plate.|把食物放在盤子上。
+wineglass|酒杯|n.|🍷|A wineglass has a long stem.|酒杯有長長的杯腳。
+saucer|茶碟|n.|🍵|Put the cup on the saucer.|把杯子放在茶碟上。
+spoon|湯匙|n.|🥄|Eat soup with a spoon.|用湯匙喝湯。
+teaspoon|茶匙|n.|🥄|Add a teaspoon of sugar.|加一茶匙糖。
+steak knife|牛排刀|n.|🔪|A steak knife is sharp.|牛排刀很鋒利。
+salad fork|沙拉叉|n.|🍴|The salad fork is small.|沙拉叉很小。
+water glass|水杯|n.|🥛|Fill the water glass.|把水杯裝滿。
+candlestick|燭台|n.|🕯️|The candlestick is on the table.|燭台放在桌上。
+candle|蠟燭|n.|🕯️|Light the candle for dinner.|為晚餐點蠟燭。
+butter knife|奶油刀|n.|🔪|Spread butter with a butter knife.|用奶油刀塗奶油。
+dinner knife|餐刀|n.|🔪|The dinner knife is on the right.|餐刀放在右邊。
+--dialogue
+M|Jack, can you help me set the table? Guests are coming for dinner.|傑克，你可以幫我擺餐桌嗎？客人要來吃晚餐。
+B|Sure, Mom. First, a plate for each person?|好，媽媽。先每人一個盤子嗎？
+M|Yes. Put the dinner knife on the right and a fork on the left.|對。餐刀放右邊，叉子放左邊。
+B|Where does the salad fork go?|沙拉叉放哪裡？
+M|Outside the dinner fork. And the steak knife goes next to the dinner knife.|放在餐叉外側。牛排刀放在餐刀旁邊。
+B|What about spoons? I see a teaspoon and a soup spoon.|湯匙呢？我看到茶匙和湯匙。
+M|The soup spoon goes on the right. The teaspoon goes beside the saucer for tea.|湯匙放右邊。茶匙放在茶碟旁邊配茶用。
+B|Now the glasses. A water glass and a wineglass for each person?|現在是杯子。每人一個水杯和一個酒杯嗎？
+M|Yes, but no wine for the kids. A butter knife goes on the bread plate.|是的，不過小朋友不喝酒。奶油刀放在麵包盤上。
+B|And a bowl for the soup. Do we need chopsticks as well?|還有喝湯的碗。我們也需要筷子嗎？
+M|Yes, for the Chinese dishes. Put the big platter in the center, with a candle and a candlestick.|需要，吃中式菜用。把大盤子放在中間，旁邊放蠟燭和燭台。
+B|It looks so elegant. Everything is ready!|看起來好優雅，一切就緒了！

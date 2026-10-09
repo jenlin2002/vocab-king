@@ -1,0 +1,34 @@
+id: air-3
+cat: air
+title: 登機
+titleEn: Boarding a plane
+emoji: 🎫
+speakers: M=Leslie|萊絲莉|🙋‍♀️|af_sarah;B=Hal|哈爾|🙋‍♂️|am_michael
+dialogueTitle: 通過安檢準備登機
+--words
+boarding area|候機區|n.|🪑|Wait in the boarding area.|在候機區等候。
+metal detector|金屬探測門|n.|🚧|Walk through the metal detector.|請走過金屬探測門。
+X-ray machine|X 光機|n.|🩻|Your bag goes through the X-ray machine.|你的包包要通過 X 光機。
+carry-on bag|隨身行李|n.|🎒|My carry-on bag is small.|我的隨身行李很小。
+delay|延誤|n./v.|⏰|The flight has a one-hour delay.|班機延誤了一小時。
+flight information board|班機資訊看板|n.|📋|Check the flight information board.|看一下班機資訊看板。
+boarding gate|登機門|n.|🚪|Our boarding gate is number ten.|我們的登機門是十號。
+monitor|螢幕|n.|🖥️|The monitor shows the gate number.|螢幕上顯示登機門號碼。
+plane ticket|機票|n.|🎫|I put my plane ticket in my bag.|我把機票放進包包。
+boarding pass|登機證|n.|🪪|Show your boarding pass, please.|請出示登機證。
+passport|護照|n.|📘|Don't forget your passport.|別忘了你的護照。
+visa|簽證|n.|🛂|You need a visa to enter that country.|你需要簽證才能進入那個國家。
+transfer|轉機|n./v.|🔁|We transfer in Tokyo.|我們在東京轉機。
+--dialogue
+B|Leslie, put your carry-on bag on the X-ray machine.|萊絲莉，把你的隨身行李放到 X 光機上。
+M|Okay. Do I walk through the metal detector now?|好。我現在要走過金屬探測門嗎？
+B|Yes. Take off your belt first.|對，先把皮帶拿下來。
+M|Where is our boarding gate? Let me check the flight information board.|我們的登機門在哪？我看一下班機資訊看板。
+B|Gate twelve. The monitor says there is a thirty-minute delay.|十二號登機門。螢幕上說班機延誤三十分鐘。
+M|Then we can wait in the boarding area.|那我們可以在候機區等。
+B|Do you have your passport, plane ticket, and boarding pass?|你有帶護照、機票和登機證嗎？
+M|Yes, all of them. Do we need a visa for Japan?|有，都在這裡。去日本需要簽證嗎？
+B|No, but we will transfer in Tokyo to another flight.|不用，不過我們要在東京轉搭另一班飛機。
+M|I hope the transfer is easy.|希望轉機順利。
+B|Don't worry. The airline will help us.|別擔心，航空公司會協助我們。
+M|Look, they are calling our flight. Let's go!|你看，他們在廣播我們的班機了。走吧！

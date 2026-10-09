@@ -1,0 +1,47 @@
+id: misc-5
+cat: misc
+title: 家事與日常動作
+titleEn: Housework and routines
+emoji: 🧹
+speakers: M=Fred|佛瑞德|🙋‍♂️|am_michael;B=May|梅|🙋‍♀️|af_sarah
+dialogueTitle: 室友分配家事
+--words
+wash|洗|v.|🧼|Wash your hands.|洗手。
+vacuum|用吸塵器打掃|v.|🧹|Vacuum the carpet.|用吸塵器吸地毯。
+sweep the floor|掃地|v. phr.|🧹|Sweep the floor every morning.|每天早上掃地。
+do the laundry|洗衣服|v. phr.|🧺|I do the laundry on Sunday.|我星期天洗衣服。
+knit|編織|v.|🧶|Grandma knits a scarf.|奶奶織一條圍巾。
+sew|縫紉|v.|🧵|Mom sews a button.|媽媽縫釦子。
+cook|煮飯|v.|🍳|Dad cooks dinner.|爸爸煮晚餐。
+wash the dishes|洗碗|v. phr.|🍽️|I wash the dishes after dinner.|我晚餐後洗碗。
+sleep|睡覺|v.|😴|I sleep eight hours.|我睡八小時。
+get up|起床|v. phr.|⏰|I get up at six.|我六點起床。
+brush one's teeth|刷牙|v. phr.|🪥|Brush your teeth twice a day.|一天刷兩次牙。
+wash one's face|洗臉|v. phr.|🚿|Wash your face in the morning.|早上洗臉。
+eat|吃|v.|🍽️|We eat at seven.|我們七點吃飯。
+drink|喝|v.|🥤|Drink more water.|多喝水。
+put on clothes|穿衣服|v. phr.|👕|Put on warm clothes.|穿上保暖的衣服。
+wear a skirt|穿裙子|v. phr.|👗|She wears a skirt to school.|她穿裙子上學。
+take off clothes|脫衣服|v. phr.|👚|Take off your wet clothes.|脫掉濕衣服。
+make a phone call|打電話|v. phr.|📞|I'll make a phone call.|我要打電話。
+smoke|抽菸|v.|🚭|No smoking here.|這裡禁止吸菸。
+look at something|看某物|v. phr.|👀|Look at the picture.|看這張圖。
+open|打開|v.|📂|Open the door.|打開門。
+close|關上|v.|🚪|Close the window.|關上窗戶。
+turn on|打開（電器）|v. phr.|💡|Turn on the light.|開燈。
+turn off|關掉|v. phr.|🔌|Turn off the TV.|關電視。
+come in|進來|v. phr.|🚪|Please come in.|請進。
+go out|出去|v. phr.|🚶|I go out at eight.|我八點出門。
+--dialogue
+M|May, we are roommates now. Let's divide the housework.|梅，我們現在是室友了，來分配家事吧。
+B|Okay. Just because I'm a girl doesn't mean I will sew and knit all day.|好。我是女生，不代表我整天要縫紉和編織。
+M|Fair. When you get up, sweep the floor and vacuum the carpet.|公平。你起床後，要掃地和吸地毯。
+B|I have never used a vacuum before. Can you teach me?|我沒用過吸塵器，你可以教我嗎？
+M|Sure. Before you go out, wash the dishes and take out the garbage.|當然。出門前，洗碗並倒垃圾。
+B|And when you come home?|你回家後呢？
+M|Do the laundry before you cook dinner. Wash the dishes right after we eat.|在煮晚餐前先洗衣服。吃完飯馬上洗碗。
+B|You want me to cook, too? What are you going to do?|你也要我煮飯？那你要做什麼？
+M|I'll watch TV, make phone calls, and read magazines.|我會看電視、打電話和看雜誌。
+B|That's not fair! Turn off the TV and come in here.|這不公平！把電視關掉，過來這裡。
+M|Okay, okay. I'll brush my teeth, wash my face, and then help you.|好啦好啦。我會刷牙、洗臉，然後幫你。
+B|Good. Turn on the light and open the window. Let's clean together.|好。開燈、開窗，我們一起打掃。

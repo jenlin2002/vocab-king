@@ -1,0 +1,49 @@
+id: misc-6
+cat: misc
+title: 情緒與動作
+titleEn: Emotions and actions
+emoji: 😄
+speakers: M=Hal|哈爾|🙋‍♂️|am_michael;B=Leslie|萊斯莉|🙋‍♀️|af_sarah
+dialogueTitle: 星期五晚上的咖啡聊天
+--words
+happy|快樂的|adj.|😄|I am happy today.|我今天很快樂。
+energetic|精力充沛的|adj.|⚡|The kids are energetic.|孩子們精力充沛。
+excited|興奮的|adj.|🤩|I am excited about the trip.|我對旅行很興奮。
+surprised|驚訝的|adj.|😲|She was surprised by the gift.|她對禮物感到驚訝。
+angry|生氣的|adj.|😠|Dad is angry.|爸爸生氣了。
+embarrassed|尷尬的|adj.|😳|I was embarrassed.|我覺得很尷尬。
+shy|害羞的|adj.|🙈|The shy girl didn't speak.|害羞的女孩沒說話。
+smile|微笑|v.|🙂|Smile for the photo.|拍照請微笑。
+laugh|大笑|v.|😂|We laugh at the joke.|我們聽到笑話大笑。
+cry|哭|v.|😭|The baby cries.|寶寶哭了。
+talk|說話|v.|💬|They talk for hours.|他們聊了好幾個小時。
+tired|累的|adj.|😫|I am tired after work.|工作後我很累。
+fall flat on one's back|仰面摔倒|v. phr.|🤕|He fell flat on his back.|他仰面摔倒了。
+kneel|跪下|v.|🧎|Kneel down to tie the shoe.|蹲跪下來綁鞋帶。
+squat|蹲下|v.|🐸|Squat to pick up the shells.|蹲下來撿貝殼。
+do a handstand|倒立|v. phr.|🤸|She can do a handstand.|她會倒立。
+stand|站|v.|🧍|Please stand up.|請站起來。
+kick|踢|v.|🦵|Kick the ball.|踢球。
+carry something on one's back|背著東西|v. phr.|🎒|He carries a bag on his back.|他背著一個包包。
+stretch|伸展|v.|🙆|Stretch your arms.|伸展你的手臂。
+walk|走路|v.|🚶|We walk to school.|我們走路上學。
+jump|跳|v.|🦘|Jump over the box.|跳過箱子。
+sit|坐|v.|🪑|Sit down, please.|請坐。
+fall|跌倒|v.|🍂|Don't fall.|別跌倒。
+lie down|躺下|v. phr.|🛌|Lie down and rest.|躺下來休息。
+lie on one's stomach|趴著|v. phr.|🏖️|Lie on your stomach on the sand.|趴在沙灘上。
+lie on one's back|仰躺|v. phr.|🛏️|Lie on your back and look at the stars.|仰躺著看星星。
+crawl|爬行|v.|🐛|The baby crawls.|寶寶會爬。
+--dialogue
+M|Leslie, I'm so happy it's Friday. It was a long week.|萊斯莉，我好高興今天是星期五，這週好漫長。
+B|You look energetic. Usually you are tired on Friday nights.|你看起來很有精神。你星期五晚上通常很累。
+M|Tomorrow is Saturday. I'm so excited. I can't stop smiling!|明天是星期六，我好興奮，笑得停不下來！
+B|But look at Paul. He is angry. Why the frown, Paul?|不過看保羅，他在生氣。保羅，為什麼皺眉？
+M|He could cry! He hates his job.|他快哭了！他討厭他的工作。
+B|I'm surprised. I thought you liked your job. What happened?|我很驚訝，我以為你喜歡你的工作。發生了什麼事？
+M|I was embarrassed this morning. A new client came, and I was too shy to talk.|今天早上我很尷尬，有位新客戶來，我太害羞了不敢說話。
+B|You even turned red. Don't worry. Smile and laugh about it!|你還臉紅了。別擔心，笑一笑，一笑置之吧！
+M|This weekend, let's go to the beach. We can walk, jump, and stretch.|這個週末我們去海邊吧，可以走路、跳躍和伸展。
+B|We can lie on our backs or on our stomachs, squat to pick up shells, and sit and talk.|我們可以仰躺或趴著，蹲下撿貝殼，坐下聊天。
+M|And some people there do handstands, or kick a ball, or kneel to build sand castles.|那裡有些人倒立、踢球，或跪著堆沙堡。
+B|Be careful not to fall flat on your back. Now, let's have our coffee.|小心別仰面摔倒。現在，我們喝咖啡吧。

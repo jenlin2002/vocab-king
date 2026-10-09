@@ -1,0 +1,36 @@
+id: food-4
+cat: food
+title: 肉類
+titleEn: Meat
+emoji: 🥩
+speakers: M=Kim|金|🙋‍♀️|af_sarah;B=Jack|傑克|🙋‍♂️|am_michael
+dialogueTitle: 在肉攤買晚餐的食材
+--words
+leg of lamb|羊腿肉|n.|🍖|Roast a leg of lamb in the oven.|把羊腿肉放進烤箱烤。
+hot dog|熱狗|n.|🌭|I eat a hot dog at the game.|我在球賽時吃熱狗。
+beef|牛肉|n.|🥩|Beef noodles are my favorite.|牛肉麵是我最愛的。
+pork ball|貢丸|n.|🍡|Pork balls are good in soup.|貢丸放在湯裡很好吃。
+chicken|雞肉|n.|🍗|I like fried chicken.|我喜歡炸雞。
+drumstick|雞腿|n.|🍗|Grandma cooks a chicken drumstick.|奶奶煮了一隻雞腿。
+bacon|培根|n.|🥓|I have bacon and eggs for breakfast.|我早餐吃培根和蛋。
+sausage|香腸|n.|🌭|Grill some sausages.|烤一些香腸。
+pork|豬肉|n.|🐖|Pork is cheap in Taiwan.|豬肉在台灣很便宜。
+turkey|火雞肉|n.|🦃|We eat turkey at Thanksgiving.|感恩節我們吃火雞肉。
+salami|臘腸（薩拉米）|n.|🥓|Put salami on the pizza.|在披薩上放薩拉米。
+chop|帶骨肉排|n.|🥩|A pork chop is on my plate.|我的盤子上有一塊豬排。
+ham|火腿|n.|🍖|I make a ham sandwich.|我做火腿三明治。
+ground meat|絞肉|n.|🥩|Use ground meat for hamburgers.|用絞肉做漢堡。
+ribs|肋排|n.|🍖|Barbecue ribs are delicious.|烤肋排很好吃。
+--dialogue
+M|Jack, we need some meat for dinner. Kim, what do you want?|傑克，我們晚餐需要一些肉。金你想吃什麼？
+B|I want beef or pork. Do you want to grill ribs?|我想吃牛肉或豬肉。你要不要烤肋排？
+M|Sounds good. How about a pork chop and some sausages, too?|聽起來不錯。再加豬排和一些香腸怎麼樣？
+B|I'd like bacon for breakfast tomorrow, and ham for sandwiches.|我想買明天早餐的培根，和做三明治的火腿。
+M|Okay. The ground meat is for the hamburgers, and pork balls are for soup.|好。絞肉做漢堡，貢丸煮湯。
+B|What about chicken? A drumstick is easy to cook.|雞肉呢？雞腿很好煮。
+M|Yes, and turkey is healthy, too. A leg of lamb is expensive, but it's tasty.|對，火雞肉也很健康。羊腿肉很貴，不過很美味。
+B|Look at the salami and hot dogs. The kids will love them.|你看那些薩拉米和熱狗，孩子們會很愛。
+M|Let's not buy too much. I'm only interested in healthy food.|我們別買太多，我只對健康的食物有興趣。
+B|Okay, no more bacon, then. Only a little ham.|好吧，那就不買培根了，只買一點火腿。
+M|Thank you, Jack. I'll cook a good dinner.|謝謝你，傑克。我會煮一頓好吃的晚餐。
+B|I'll help wash the dishes.|我會幫忙洗碗。

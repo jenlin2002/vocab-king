@@ -1,0 +1,36 @@
+id: sports-5
+cat: sports
+title: 水上運動
+titleEn: Water sports
+emoji: 🏊
+speakers: M=Kim|金|🙋‍♀️|af_sarah;B=Jack|傑克|🙋‍♂️|am_michael
+dialogueTitle: 暑假的海邊旅行
+--words
+dog paddle|狗爬式|n.|🐕|The little boy swims the dog paddle.|小男孩游狗爬式。
+breaststroke|蛙式|n.|🐸|Breaststroke is slow but easy.|蛙式慢但容易。
+freestyle|自由式（捷泳）|n.|🏊|Freestyle is the fastest stroke.|自由式是最快的泳姿。
+backstroke|仰式|n.|🏊|In backstroke, you swim on your back.|仰式是仰著游。
+butterfly stroke|蝶式|n.|🦋|Butterfly stroke needs a lot of power.|蝶式需要很大的力量。
+side stroke|側泳|n.|🏊|Side stroke saves energy.|側泳可以節省體力。
+dive|跳水|v.|🤿|Let's dive into the pool.|我們跳進游泳池吧。
+synchronized swimming|水上芭蕾|n.|🩰|Synchronized swimming looks beautiful.|水上芭蕾看起來很美。
+water skiing|滑水|n.|🎿|Water skiing needs a fast boat.|滑水需要一艘快艇。
+surfing|衝浪|n.|🏄|Surfing is popular at the beach.|衝浪在海灘很受歡迎。
+windsurfing|風帆|n.|⛵|Windsurfing needs strong wind.|風帆需要強風。
+snorkeling|浮潛|n.|🤿|Snorkeling lets you see colorful fish.|浮潛讓你看到彩色的魚。
+jet skiing|水上摩托車|n.|🚤|Jet skiing is thrilling.|水上摩托車很刺激。
+scuba diving|水肺潛水|n.|🤿|Scuba diving needs a tank of air.|水肺潛水需要氣瓶。
+kickboarding|打水板|n.|🏊|Kickboarding trains your legs.|用打水板訓練腿部。
+--dialogue
+M|Jack, we're at the beach! Let's try some water sports.|傑克，我們到海邊了！來試試水上運動吧。
+B|Great. Can you swim? I can do the dog paddle, but not much more.|太好了。你會游泳嗎？我只會狗爬式，其他不多。
+M|I know the breaststroke, freestyle, backstroke, and side stroke. The butterfly stroke is too hard.|我會蛙式、自由式、仰式和側泳。蝶式太難了。
+B|I'd like to do some kickboarding first. It's good practice.|我想先用打水板練習，這是不錯的練習。
+M|Later, we can try snorkeling to see fish. Scuba diving is deeper.|之後我們可以試試浮潛看魚。水肺潛水更深。
+B|What about surfing and windsurfing? The waves are high today.|衝浪和風帆呢？今天浪很高。
+M|Surfing is for experts. Maybe we can try water skiing or jet skiing.|衝浪是給高手玩的。也許我們可以試試滑水或水上摩托車。
+B|Jet skiing sounds exciting. Do I have to wear a life jacket?|水上摩托車聽起來很刺激。我要穿救生衣嗎？
+M|Of course. Safety first. Look, a group is doing synchronized swimming in the pool!|當然，安全第一。你看，有一組人在泳池裡表演水上芭蕾！
+B|It's so graceful. Can we dive off the diving board there?|好優美。我們可以在那裡的跳水板跳水嗎？
+M|Yes, but be careful. Let's dive after we warm up.|可以，但要小心。我們暖身後再跳。
+B|Okay. This is going to be the best summer trip ever.|好，這會是最棒的暑假旅行。

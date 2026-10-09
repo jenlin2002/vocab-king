@@ -1,0 +1,41 @@
+id: school-8
+cat: school
+title: 地理環境
+titleEn: Geography
+emoji: 🏞️
+speakers: M=Paula|寶拉|🙋‍♀️|af_sarah;B=Ms. Jane|珍老師|👩‍🏫|af_heart
+dialogueTitle: 地理課：我們的戶外教學
+--words
+plateau|高原|n.|⛰️|The plateau is high and flat.|高原又高又平坦。
+waterfall|瀑布|n.|🌊|We took photos of the waterfall.|我們拍了瀑布的照片。
+forest|森林|n.|🌲|Many animals live in the forest.|很多動物住在森林裡。
+lake|湖|n.|🏞️|We swim in the lake in summer.|夏天我們在湖裡游泳。
+peak|山峰|n.|🏔️|The peak is covered with snow.|山峰被雪覆蓋。
+mountain|山|n.|⛰️|Jade Mountain is the highest mountain in Taiwan.|玉山是台灣最高的山。
+dam|水壩|n.|🚧|The dam stops the river.|水壩擋住了河水。
+river|河流|n.|🌊|The river flows to the sea.|河流流向大海。
+pond|池塘|n.|🦆|Ducks swim in the pond.|鴨子在池塘裡游泳。
+woods|樹林|n.|🌳|We walked through the woods.|我們穿過樹林。
+valley|山谷|n.|🏞️|A small village is in the valley.|山谷裡有個小村莊。
+basin|盆地|n.|🥣|Taipei is in a basin.|台北在盆地裡。
+plain|平原|n.|🌾|Farmers grow rice on the plain.|農夫在平原上種稻。
+sandbar|沙洲|n.|🏝️|Birds rest on the sandbar.|鳥兒在沙洲上休息。
+harbor|港口|n.|⚓|Ships are in the harbor.|船隻停在港口。
+beach|海灘|n.|🏖️|We play on the beach.|我們在海灘上玩。
+sunset|日落|n.|🌇|The sunset is beautiful.|日落很美。
+horizon|地平線|n.|🌅|The sun goes below the horizon.|太陽沉到地平線下。
+island|島嶼|n.|🏝️|Taiwan is an island.|台灣是一個島。
+ocean|海洋|n.|🌊|The Pacific Ocean is very big.|太平洋非常大。
+--dialogue
+B|Class, our field trip begins at the harbor. Look at the ships!|同學們，我們的戶外教學從港口開始。看那些船！
+M|Ms. Jane, is that island far from here?|珍老師，那座島離這裡遠嗎？
+B|Yes, it is across the ocean. Today we visit a river, a forest, and a mountain.|對，在海的另一邊。今天我們要去看河、森林和山。
+M|Is there a waterfall on the river?|河上有瀑布嗎？
+B|Yes, and a dam farther down. Water from the dam gives us electricity.|有，下游還有一座水壩。水壩的水能發電。
+M|What is the flat land next to the river?|河邊那片平坦的地是什麼？
+B|That is a plain. Farmers grow rice there. A valley is between two mountains.|那是平原，農夫在那裡種稻。山谷在兩座山中間。
+M|I see a pond and some woods over there!|我看到那邊有池塘和一些樹林！
+B|Good eyes! The highest place on a mountain is the peak, and a plateau is high but flat.|你眼力真好！山上最高的地方是山峰，高原則是又高又平。
+M|Is Taipei in a basin?|台北是在盆地裡嗎？
+B|Yes. In the afternoon, we will go to a lake and a sandbar. Then we will have a picnic on the beach.|對。下午我們要去湖邊和沙洲，然後在海灘野餐。
+M|I can't wait to see the sunset on the horizon!|我等不及要看地平線上的日落了！

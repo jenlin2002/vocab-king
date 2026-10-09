@@ -1,0 +1,34 @@
+id: misc-1
+cat: misc
+title: 味覺與口感
+titleEn: Tastes
+emoji: 😋
+speakers: M=Bob|鮑伯|🙋‍♂️|am_michael;B=Tracy|崔西|🙋‍♀️|af_sarah
+dialogueTitle: 鮑伯親自下廚
+--words
+tastes|嘗起來|v.|👅|It tastes good.|它嘗起來很好吃。
+spicy|辛辣的|adj.|🌶️|The soup is spicy.|這個湯很辣。
+hot|燙的／辣的|adj.|🔥|Careful, the tea is hot.|小心，茶很燙。
+bad tasting|難吃的|adj.|🤢|The medicine is bad tasting.|這個藥很難吃。
+delicious|美味的|adj.|😋|The cake is delicious.|這個蛋糕很好吃。
+disgusting|噁心的|adj.|🤮|That smell is disgusting.|那個味道很噁心。
+sweet|甜的|adj.|🍬|Candy is sweet.|糖果是甜的。
+greasy|油膩的|adj.|🍟|The french fries are greasy.|薯條很油。
+sour|酸的|adj.|🍋|Lemons are sour.|檸檬很酸。
+salty|鹹的|adj.|🧂|The soup is too salty.|湯太鹹了。
+bitter|苦的|adj.|☕|Black coffee is bitter.|黑咖啡是苦的。
+light|清淡的|adj.|🥗|I like light food.|我喜歡清淡的食物。
+heavy|濃重的|adj.|🍖|Heavy food makes me full.|濃重的食物讓我很飽。
+--dialogue
+M|Tracy, you said I can't cook. Let me prove it!|崔西，你說我不會煮飯。我來證明給你看！
+B|Okay. Let's start with the soup.|好，先從湯開始。
+M|How does it taste?|嘗起來怎麼樣？
+B|Oh, it's too spicy! It's too hot. What did you put in it?|喔，太辣了！太燙了。你放了什麼？
+M|About half a bottle of red pepper sauce.|大約半瓶紅辣椒醬。
+B|That's way too much. Now the french fries. They are too greasy and too salty.|太多了。現在是薯條，太油也太鹹了。
+M|I forgot to heat the oil first.|我忘了先把油加熱。
+B|And the beef? Yuck, it's disgusting and bitter. It's really bad tasting.|那牛肉呢？噁，好噁心又好苦，真的很難吃。
+M|I put some vinegar on it. Maybe it's too sour.|我放了一點醋，也許太酸了。
+B|Now try the cake. Wow, it's delicious, and not too sweet.|現在試試蛋糕。哇，好吃，而且不會太甜。
+M|See? I can prepare food. I bought it from the bakery!|你看，我會準備食物。我從蛋糕店買的！
+B|I like light food. Next time, let's cook together.|我喜歡清淡的食物。下次我們一起煮。

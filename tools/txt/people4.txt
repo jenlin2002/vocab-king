@@ -1,0 +1,41 @@
+id: people-4
+cat: people
+title: 衣服
+titleEn: Clothing
+emoji: 👗
+speakers: M=Leslie|萊絲莉|🙋‍♀️|af_sarah;B=Jane|珍|👩|af_heart
+dialogueTitle: 逛街買衣服
+--words
+dress|洋裝|n.|👗|She wears a red dress.|她穿著一件紅色洋裝。
+gown|禮服（長袍）|n.|👘|The bride wears a white gown.|新娘穿著白色禮服。
+blouse|女用襯衫|n.|👚|This blouse is very soft.|這件女用襯衫很柔軟。
+skirt|裙子|n.|🩱|My skirt is blue.|我的裙子是藍色的。
+pantyhose|褲襪|n.|🧦|She wears pantyhose in winter.|她冬天穿褲襪。
+bra|胸罩|n.|👙|She buys a new bra.|她買了一件新的胸罩。
+panties|女用內褲|n.|🩲|Panties are underwear for women.|panties 是女生的內褲。
+suit|西裝|n.|🤵|Dad wears a suit to work.|爸爸穿西裝上班。
+shirt|襯衫|n.|👔|He wears a white shirt.|他穿著白襯衫。
+vest|背心|n.|🦺|He puts a vest over his shirt.|他在襯衫外穿一件背心。
+T-shirt|T 恤|n.|👕|I wear a T-shirt in summer.|夏天我穿 T 恤。
+polo shirt|POLO 衫|n.|👕|His polo shirt is green.|他的 POLO 衫是綠色的。
+pants|長褲|n.|👖|These pants are too long.|這條長褲太長了。
+jeans|牛仔褲|n.|👖|I like blue jeans.|我喜歡藍色牛仔褲。
+shorts|短褲|n.|🩳|He wears shorts to play ball.|他穿短褲打球。
+boxers|四角內褲|n.|🩲|He buys three pairs of boxers.|他買了三件四角內褲。
+sweater|毛衣|n.|🧶|Put on a sweater. It's cold.|穿上毛衣，天氣冷。
+jacket|夾克|n.|🧥|My jacket has a hood.|我的夾克有帽子。
+down coat|羽絨外套|n.|🧥|A down coat keeps you warm.|羽絨外套讓你很保暖。
+raincoat|雨衣|n.|🌧️|Wear a raincoat when it rains.|下雨時要穿雨衣。
+--dialogue
+B|Leslie, what are you looking for in the store?|萊絲莉，你在店裡想找什麼？
+M|I need an outfit for a party. Maybe a dress or a gown.|我需要一套參加派對的衣服，也許是洋裝或禮服。
+B|How about this red dress? Or a blouse with a skirt?|這件紅色洋裝怎麼樣？或是女用襯衫配裙子？
+M|I like the dress. I also need pantyhose for tonight.|我喜歡這件洋裝。今晚還需要一雙褲襪。
+B|I want to buy clothes for my brother. He needs a suit and a shirt.|我想幫我弟弟買衣服。他需要一套西裝和一件襯衫。
+M|Does he like a vest? Or just a polo shirt and a T-shirt?|他喜歡背心嗎？還是只穿 POLO 衫和 T 恤？
+B|He likes jeans and shorts. Pants are too formal for him.|他喜歡牛仔褲和短褲，長褲對他來說太正式了。
+M|He will need a sweater and a jacket for winter.|他冬天會需要毛衣和夾克。
+B|Maybe a down coat. It is cold in the mountains.|也許要一件羽絨外套，山上很冷。
+M|And don't forget a raincoat for the rainy days.|別忘了下雨天用的雨衣。
+B|Good idea. Let's pay and go home.|好主意。我們去結帳回家吧。
+M|Thanks for your help, Jane!|謝謝你的幫忙，珍！

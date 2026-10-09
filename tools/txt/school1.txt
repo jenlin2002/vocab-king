@@ -1,0 +1,41 @@
+id: school-1
+cat: school
+title: 校園場所
+titleEn: In a school
+emoji: 🏫
+speakers: M=Mia|米雅|🙋‍♀️|af_sarah;B=Ben|班|🙋‍♂️|am_michael
+dialogueTitle: 轉學生的第一天：校園導覽
+--words
+field|運動場、草地球場|n.|🏟️|The boys play soccer on the field.|男生們在運動場上踢足球。
+track|跑道|n.|🏃|She runs around the track every morning.|她每天早上繞著跑道跑步。
+basketball court|籃球場|n.|🏀|We play on the basketball court after school.|我們放學後在籃球場打球。
+school yard|校園（操場）|n.|🌳|Children are playing in the school yard.|孩子們在校園裡玩耍。
+fountain|噴水池|n.|⛲|There is a fountain in the middle of the school yard.|校園中間有一座噴水池。
+school gate|校門|n.|🚪|Wait for me at the school gate.|在校門口等我。
+office|辦公室（行政處）|n.|🏢|Please bring this form to the office.|請把這張表格拿到辦公室。
+bulletin board|布告欄|n.|📌|The test dates are on the bulletin board.|考試日期貼在布告欄上。
+principal's office|校長室|n.|🧑‍💼|The principal's office is on the second floor.|校長室在二樓。
+lockers|置物櫃|n.|🔐|I keep my books in my locker.|我把書放在置物櫃裡。
+auditorium|大禮堂|n.|🎭|The singing contest is in the auditorium.|歌唱比賽在大禮堂舉行。
+restroom|洗手間|n.|🚻|May I go to the restroom?|我可以去洗手間嗎？
+classroom|教室|n.|🏫|Our classroom is on the third floor.|我們的教室在三樓。
+language lab|語言教室|n.|🎧|We practice English in the language lab.|我們在語言教室練習英文。
+chemistry lab|化學實驗室|n.|🧪|Wear goggles in the chemistry lab.|在化學實驗室要戴護目鏡。
+hallway|走廊|n.|🚶|Don't run in the hallway.|不要在走廊上奔跑。
+library|圖書館|n.|📚|I borrow comic books from the library.|我從圖書館借漫畫書。
+nurse's office|保健室|n.|🩺|He went to the nurse's office with a headache.|他因為頭痛去保健室。
+guidance counselor's office|輔導室|n.|🗣️|The guidance counselor's office is next to the library.|輔導室在圖書館隔壁。
+cafeteria|餐廳（學生餐廳）|n.|🍱|We eat lunch in the cafeteria.|我們在學生餐廳吃午餐。
+--dialogue
+B|Hi, Mia! You're new here, right? I'm Ben. Let me show you around.|嗨，米雅！你是新來的對吧？我是班，我帶你參觀一下。
+M|Thanks, Ben! This school looks really big.|謝謝你，班！這所學校看起來好大。
+B|We're at the school gate now. The office is just inside, and the principal's office is next to it.|我們現在在校門口。辦公室就在裡面，校長室在它旁邊。
+M|What is that big building over there?|那邊那棟大建築是什麼？
+B|That's the auditorium. Next to it is the cafeteria, and lunch is at noon.|那是大禮堂，旁邊是學生餐廳，中午吃午餐。
+M|Great. Where can I put my books?|太好了。我的書可以放哪裡？
+B|You get a locker in the hallway. The bulletin board next to it shows the class news.|你會分到走廊上的一個置物櫃，旁邊的布告欄有班級消息。
+M|Where do we play sports?|我們在哪裡運動？
+B|On the field, the track, or the basketball court. There is also a fountain in the school yard.|在運動場、跑道或籃球場。校園裡還有一座噴水池。
+M|And if I feel sick?|如果我不舒服呢？
+B|Go to the nurse's office. The library, the language lab, and the chemistry lab are all upstairs.|去保健室。圖書館、語言教室和化學實驗室都在樓上。
+M|Thanks, Ben. I think I'll like this school!|謝謝你，班。我想我會喜歡這所學校的！

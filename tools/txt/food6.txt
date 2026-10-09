@@ -1,0 +1,36 @@
+id: food-6
+cat: food
+title: 飲料
+titleEn: Beverages
+emoji: 🥤
+speakers: M=Kim|金|🙋‍♀️|af_sarah;B=Jack|傑克|🙋‍♂️|am_michael
+dialogueTitle: 慢跑後在果汁吧
+--words
+cola|可樂|n.|🥤|I drink a cola with pizza.|我吃披薩配可樂。
+organic drink|有機飲品|n.|🌿|An organic drink is made without chemicals.|有機飲品不含化學添加物。
+coffee|咖啡|n.|☕|Dad drinks coffee every morning.|爸爸每天早上喝咖啡。
+iced tea|冰茶|n.|🧋|Iced tea is good on a hot day.|熱天喝冰茶很舒服。
+soda|汽水|n.|🥤|Soda has many bubbles.|汽水有很多氣泡。
+mineral water|礦泉水|n.|💧|I carry a bottle of mineral water.|我帶一瓶礦泉水。
+hot chocolate|熱巧克力|n.|🍫|Hot chocolate warms you up.|熱巧克力讓你暖起來。
+juice|果汁|n.|🧃|I want a glass of juice.|我想要一杯果汁。
+milk|牛奶|n.|🥛|Milk is good for your bones.|牛奶對骨頭好。
+green tea|綠茶|n.|🍵|Green tea has no sugar.|綠茶沒有糖。
+smoothie|冰沙|n.|🥤|A mango smoothie is delicious.|芒果冰沙很好喝。
+soybean milk|豆漿|n.|🥛|I have soybean milk for breakfast.|我早餐喝豆漿。
+brown rice milk|糙米漿|n.|🥛|Brown rice milk is healthy.|糙米漿很健康。
+lemonade|檸檬汁|n.|🍋|Lemonade is sour and sweet.|檸檬汁又酸又甜。
+milk tea|奶茶|n.|🧋|I like milk tea with pearls.|我喜歡加珍珠的奶茶。
+--dialogue
+B|Kim, it's a hot day. Let's stop at the juice bar after jogging.|金，今天好熱，慢跑完在果汁吧停一下吧。
+M|Good idea. I am so thirsty! What do you want?|好主意，我好渴！你要喝什麼？
+B|I would like a cola, but you will say it's unhealthy.|我想喝可樂，但你會說不健康。
+M|Right. Why don't you try an organic drink or a smoothie?|對。你何不試試有機飲品或冰沙？
+B|Okay, a mango smoothie. And you?|好，一杯芒果冰沙。你呢？
+M|I'll have lemonade or iced tea. What about mineral water?|我想要檸檬汁或冰茶。礦泉水呢？
+B|Water is fine. In the morning I prefer soybean milk or brown rice milk.|水可以。早上我比較喜歡豆漿或糙米漿。
+M|I have green tea or coffee. Dad likes milk tea.|我喝綠茶或咖啡，爸爸喜歡奶茶。
+B|In winter, hot chocolate is perfect. At the party, we serve soda and juice.|冬天喝熱巧克力最棒。派對上我們提供汽水和果汁。
+M|And a glass of milk before bed.|睡前再喝一杯牛奶。
+B|You always think about health!|你永遠都在想著健康！
+M|Of course. Let's order now. Cheers!|當然。我們現在來點吧，乾杯！

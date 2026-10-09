@@ -1,0 +1,53 @@
+id: animals-3
+cat: animals
+title: 鳥類
+titleEn: Birds
+emoji: 🐦
+speakers: M=Pete|彼得|🙋‍♂️|am_michael;B=Ms. Jane|珍老師|👩‍🏫|af_heart
+dialogueTitle: 認識鳥類
+--words
+seagull|海鷗|n.|🕊️|A seagull flies over the sea.|海鷗飛過大海。
+penguin|企鵝|n.|🐧|A penguin cannot fly.|企鵝不會飛。
+chicken|雞|n.|🐔|The chicken lays an egg.|母雞下了一顆蛋。
+pigeon|鴿子|n.|🕊️|A pigeon sits on the roof.|鴿子停在屋頂上。
+crow|烏鴉|n.|🐦‍⬛|The crow is black.|烏鴉是黑色的。
+turkey|火雞|n.|🦃|We eat turkey on Thanksgiving.|感恩節我們吃火雞。
+duck|鴨|n.|🦆|The duck swims in the pond.|鴨子在池塘裡游泳。
+sparrow|麻雀|n.|🐦|A sparrow sings in the tree.|麻雀在樹上唱歌。
+woodpecker|啄木鳥|n.|🐦|The woodpecker hits the tree.|啄木鳥啄著樹幹。
+canary|金絲雀|n.|🐤|The canary is yellow.|金絲雀是黃色的。
+white Java sparrow|白文鳥|n.|🐦|A white Java sparrow is a pet.|白文鳥是一種寵物鳥。
+blue magpie|台灣藍鵲|n.|🐦|The blue magpie lives in Taiwan.|台灣藍鵲住在台灣。
+toucan|巨嘴鳥|n.|🦜|A toucan has a big beak.|巨嘴鳥有一個大大的嘴。
+pelican|鵜鶘|n.|🦢|A pelican catches fish.|鵜鶘會捕魚。
+lark|雲雀|n.|🐦|The lark sings in the sky.|雲雀在天空唱歌。
+pheasant|雉雞|n.|🐓|A pheasant has long feathers.|雉雞有長長的羽毛。
+myna|八哥|n.|🐦‍⬛|A myna can copy words.|八哥會模仿人說話。
+hummingbird|蜂鳥|n.|🐦|A hummingbird is very small.|蜂鳥非常小。
+swallow|燕子|n.|🐦|Swallows make nests under the roof.|燕子在屋簷下築巢。
+goose|鵝|n.|🪿|The goose is white.|鵝是白色的。
+eagle|老鷹|n.|🦅|An eagle has sharp eyes.|老鷹的眼睛很銳利。
+owl|貓頭鷹|n.|🦉|An owl sleeps in the day.|貓頭鷹白天睡覺。
+shrike|伯勞鳥|n.|🐦|A shrike sits on a wire.|伯勞鳥停在電線上。
+egret|白鷺鷥|n.|🦢|An egret stands in the rice field.|白鷺鷥站在稻田裡。
+swan|天鵝|n.|🦢|A swan is graceful.|天鵝很優雅。
+vulture|禿鷹|n.|🦅|A vulture eats dead animals.|禿鷹吃動物的屍體。
+ostrich|鴕鳥|n.|🐦|An ostrich runs fast.|鴕鳥跑得很快。
+crane|鶴|n.|🦢|The crane stands on one leg.|鶴用一隻腳站立。
+peacock|孔雀|n.|🦚|The peacock opens its tail.|孔雀展開牠的尾巴。
+condor|禿鷲（神鷹）|n.|🦅|A condor flies very high.|神鷹飛得非常高。
+parrot|鸚鵡|n.|🦜|The parrot says hello.|鸚鵡會說哈囉。
+black-faced spoonbill|黑面琵鷺|n.|🦢|The black-faced spoonbill is rare.|黑面琵鷺很稀有。
+--dialogue
+B|Okay, guys, did you know that birds are descendants of dinosaurs?|同學們，你們知道鳥是恐龍的後代嗎？
+M|Really, Ms. Jane? Which birds can't fly?|真的嗎，珍老師？哪些鳥不會飛？
+B|A penguin and an ostrich can't fly, but they run and swim well.|企鵝和鴕鳥不會飛，但牠們很會跑和游泳。
+M|On the farm, there are a chicken, a duck, a goose, and a turkey.|農場裡有雞、鴨、鵝和火雞。
+B|In the city you see a pigeon, a sparrow, a crow, and a myna. A swallow builds its nest under the roof.|在城市裡你會看到鴿子、麻雀、烏鴉和八哥。燕子在屋簷下築巢。
+M|What about at the sea?|海邊呢？
+B|A seagull, a pelican, and an egret. In Taiwan, we have a blue magpie and the rare black-faced spoonbill.|海鷗、鵜鶘和白鷺鷥。台灣有台灣藍鵲，也有稀有的黑面琵鷺。
+M|A woodpecker hits the tree, and an owl sleeps in the day.|啄木鳥啄樹，貓頭鷹白天睡覺。
+B|An eagle, a vulture, and a condor are strong birds. A hummingbird is tiny.|老鷹、禿鷹和神鷹都是強壯的鳥，蜂鳥很小。
+M|A parrot and a toucan are colorful, and a peacock has beautiful feathers.|鸚鵡和巨嘴鳥色彩鮮豔，孔雀有美麗的羽毛。
+B|A canary, a lark, a pheasant, a shrike, and a white Java sparrow are also common birds.|金絲雀、雲雀、雉雞、伯勞鳥和白文鳥也是常見的鳥。
+M|And a swan and a crane are elegant. Birds are wonderful!|天鵝和鶴很優雅。鳥類真棒！

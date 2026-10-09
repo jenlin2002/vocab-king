@@ -1,0 +1,50 @@
+id: animals-5
+cat: animals
+title: 植物與花
+titleEn: Plants
+emoji: 🌷
+speakers: M=Paula|寶拉|🙋‍♀️|af_sarah;B=Ms. Jane|珍老師|👩‍🏫|af_heart
+dialogueTitle: 公園賞花散步
+--words
+narcissus|水仙花|n.|🌼|Narcissus blooms in winter.|水仙花在冬天開花。
+azalea|杜鵑花|n.|🌺|Azaleas are pink and red.|杜鵑花有粉紅和紅色。
+lily|百合花|n.|⚪|A lily smells sweet.|百合花聞起來很香。
+daisy|雛菊|n.|🌼|A daisy is white with a yellow center.|雛菊是白色、中間黃色。
+plum blossom|梅花|n.|🌸|The plum blossom blooms in the cold.|梅花在寒冷中綻放。
+fern|蕨類|n.|🌿|A fern grows in the shade.|蕨類長在陰涼處。
+orchid|蘭花|n.|🪻|An orchid is elegant.|蘭花很優雅。
+iris|鳶尾花|n.|🪻|An iris is purple.|鳶尾花是紫色的。
+camellia|山茶花|n.|🌺|A camellia blooms in spring.|山茶花在春天開花。
+rose|玫瑰|n.|🌹|I gave her a red rose.|我送她一朵紅玫瑰。
+chrysanthemum|菊花|n.|🏵️|Chrysanthemums bloom in autumn.|菊花在秋天綻放。
+carnation|康乃馨|n.|🌸|We give carnations on Mother's Day.|母親節我們送康乃馨。
+morning glory|牽牛花|n.|🌺|A morning glory opens in the morning.|牽牛花在早上綻放。
+lavender|薰衣草|n.|💜|Lavender smells nice.|薰衣草聞起來很香。
+peony|牡丹|n.|🌺|The peony is a rich flower.|牡丹是富貴之花。
+sunflower|向日葵|n.|🌻|A sunflower follows the sun.|向日葵追隨著太陽。
+tulip|鬱金香|n.|🌷|Tulips grow in Holland.|鬱金香長在荷蘭。
+violet|紫羅蘭|n.|🪻|A violet is small and purple.|紫羅蘭又小又紫。
+rape flower|油菜花|n.|🌼|Rape flowers are yellow.|油菜花是黃色的。
+shamrock|三葉草|n.|☘️|A shamrock has three leaves.|三葉草有三片葉子。
+willow|柳樹|n.|🌳|A willow has long branches.|柳樹的枝條很長。
+pine|松樹|n.|🌲|A pine stays green all year.|松樹終年常綠。
+poinsettia|聖誕紅|n.|🎄|A poinsettia is red at Christmas.|聖誕紅在聖誕節時是紅色的。
+maple|楓樹|n.|🍁|Maple leaves turn red in autumn.|楓葉在秋天變紅。
+dandelion|蒲公英|n.|🌼|Blow on a dandelion.|對著蒲公英吹氣。
+cherry blossom|櫻花|n.|🌸|Cherry blossoms are pink.|櫻花是粉紅色的。
+cedar|雪松|n.|🌲|The cedar is a tall tree.|雪松是高大的樹。
+cypress|柏樹|n.|🌲|A cypress is long-lived.|柏樹很長壽。
+bamboo|竹子|n.|🎋|Pandas eat bamboo.|貓熊吃竹子。
+--dialogue
+B|Paula, Pete, let's walk in the park. Look at the flowers!|寶拉、彼得，我們在公園裡散步。看看這些花！
+M|A red rose and a white lily! Which one is a tulip?|有紅玫瑰和白百合！哪一朵是鬱金香？
+B|The one over there. A sunflower is tall and yellow, and a daisy is small.|那邊那朵。向日葵又高又黃，雛菊比較小。
+M|What are those purple flowers?|那些紫色的花是什麼？
+B|An iris, a violet, and some lavender. An orchid is very elegant.|鳶尾花、紫羅蘭和薰衣草，蘭花很優雅。
+M|I know a carnation for Mother's Day and a chrysanthemum for autumn.|我知道母親節要送康乃馨，秋天有菊花。
+B|In winter and early spring, we see a plum blossom, a narcissus, and a camellia. In spring, cherry blossoms.|冬天和早春可以看到梅花、水仙和山茶花，春天有櫻花。
+M|A morning glory opens early, and a dandelion flies in the wind.|牽牛花很早開花，蒲公英會隨風飛。
+B|There are also an azalea, a peony, a violet, and a rape flower. A fern grows in the shade.|還有杜鵑花、牡丹、紫羅蘭和油菜花，蕨類生長在陰涼處。
+M|Which trees are here? A pine, a willow, a maple, a cedar, and a cypress?|這裡有哪些樹？松樹、柳樹、楓樹、雪松和柏樹？
+B|Yes, and bamboo, a shamrock, and a poinsettia, too.|對，還有竹子、三葉草和聖誕紅。
+M|Nature is so colorful, Ms. Jane!|大自然好多彩，珍老師！

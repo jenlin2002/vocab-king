@@ -1,0 +1,50 @@
+id: animals-4
+cat: animals
+title: 海洋生物
+titleEn: Sea life
+emoji: 🐠
+speakers: M=Paula|寶拉|🙋‍♀️|af_sarah;B=Ms. Jane|珍老師|👩‍🏫|af_heart
+dialogueTitle: 水族館之旅
+--words
+blowfish|河豚|n.|🐡|A blowfish gets round.|河豚會鼓成圓形。
+oyster|牡蠣|n.|🦪|An oyster lives in a shell.|牡蠣住在殼裡。
+dolphin|海豚|n.|🐬|A dolphin is smart.|海豚很聰明。
+shark|鯊魚|n.|🦈|A shark has sharp teeth.|鯊魚有尖銳的牙齒。
+clam|蛤蜊|n.|🐚|I eat clams in the soup.|我在湯裡吃蛤蜊。
+starfish|海星|n.|⭐|A starfish has five arms.|海星有五隻手臂。
+squid|魷魚|n.|🦑|A squid has ten arms.|魷魚有十隻腳。
+whale|鯨魚|n.|🐋|A whale is the largest animal.|鯨魚是最大的動物。
+sea snake|海蛇|n.|🐍|A sea snake swims in the ocean.|海蛇在海裡游。
+shrimp|蝦子|n.|🦐|I like fried shrimp.|我愛吃炸蝦。
+sea cucumber|海參|n.|🥒|A sea cucumber lies on the bottom.|海參躺在海底。
+sea horse|海馬|n.|🐴|A sea horse is small.|海馬很小。
+flounder|比目魚|n.|🐟|A flounder lies flat on the sand.|比目魚平躺在沙子上。
+coral|珊瑚|n.|🪸|Coral is colorful.|珊瑚色彩繽紛。
+seaweed|海藻|n.|🌿|Seaweed grows in the sea.|海藻長在海裡。
+kelp|昆布|n.|🌿|Kelp is a kind of seaweed.|昆布是一種海藻。
+mackerel|鯖魚|n.|🐟|We grill the mackerel.|我們烤鯖魚。
+eel|鰻魚|n.|🐍|An eel looks like a snake.|鰻魚看起來像蛇。
+crab|螃蟹|n.|🦀|A crab walks sideways.|螃蟹橫著走。
+octopus|章魚|n.|🐙|An octopus has eight arms.|章魚有八隻腳。
+jellyfish|水母|n.|🪼|A jellyfish can sting you.|水母會螫人。
+sea turtle|海龜|n.|🐢|A sea turtle lays eggs on the beach.|海龜在海灘上產卵。
+seal|海豹|n.|🦭|The seal balances a ball.|海豹用鼻子頂著球。
+sea bream|海鯛|n.|🐠|Sea bream is a tasty fish.|海鯛是很美味的魚。
+tuna|鮪魚|n.|🐟|Tuna swims very fast.|鮪魚游得很快。
+salmon|鮭魚|n.|🍣|Salmon swim up the river.|鮭魚會逆流而上。
+sardine|沙丁魚|n.|🐟|Sardines swim in a school.|沙丁魚成群游動。
+swordfish|旗魚|n.|🗡️|A swordfish has a long nose.|旗魚有長長的嘴。
+lobster|龍蝦|n.|🦞|Lobster is very expensive.|龍蝦非常貴。
+--dialogue
+B|Today we are at the aquarium to learn about sea creatures.|今天我們在水族館認識海洋生物。
+M|Look, Ms. Jane! A dolphin and a whale!|你看，珍老師！有海豚和鯨魚！
+B|Whales and dolphins are sea mammals, not fish. A shark is a fish.|鯨魚和海豚是海洋哺乳類，不是魚。鯊魚是魚。
+M|What is that blowfish doing?|那隻河豚在做什麼？
+B|It blows itself up when it is afraid. A sea horse and a starfish are small and gentle.|牠害怕時會鼓起來。海馬和海星又小又溫和。
+M|An octopus has eight arms and a squid has ten, right?|章魚有八隻腳，魷魚有十隻，對吧？
+B|Right. A crab and a lobster have hard shells, and a clam and an oyster live in shells, too.|對。螃蟹和龍蝦有硬殼，蛤蜊和牡蠣也住在殼裡。
+M|A jellyfish looks beautiful, but it can sting.|水母看起來很美，但會螫人。
+B|A sea turtle and a seal also live here. The coral and seaweed are their homes.|海龜和海豹也住在這裡，珊瑚和海藻是牠們的家。
+M|I like the tuna, the salmon, and the mackerel. We eat them, too!|我喜歡鮪魚、鮭魚和鯖魚，我們也會吃牠們！
+B|A shrimp, an eel, a flounder, a sea bream, and a swordfish live in the sea, as do a sea cucumber, a sea snake, a sardine, and kelp.|蝦、鰻魚、比目魚、海鯛和旗魚住在海裡，還有海參、海蛇、沙丁魚和昆布。
+M|The ocean is a big world. Let's protect it!|海洋是一個很大的世界，我們要保護它！

@@ -1,0 +1,36 @@
+id: restaurant-6
+cat: restaurant
+title: 調味料
+titleEn: Seasonings
+emoji: 🧂
+speakers: M=Mom|媽媽|👩|af_sarah;B=Jack|傑克|🙋‍♂️|am_michael
+dialogueTitle: 認識廚房裡的調味料
+--words
+rock candy|冰糖|n.|🍬|Rock candy is used in stew.|冰糖用來燉東西。
+curry|咖哩|n.|🍛|Curry is spicy.|咖哩很辣。
+salt|鹽|n.|🧂|Add a little salt.|加一點鹽。
+pepper|胡椒|n.|🌶️|Pepper makes me sneeze.|胡椒讓我打噴嚏。
+dried bonito|柴魚片|n.|🐟|Dried bonito is used in Japanese soup.|柴魚片用在日式湯裡。
+MSG|味精|n.|🧂|MSG adds a savory taste.|味精增添鮮味。
+butter|奶油|n.|🧈|Fry the egg in butter.|用奶油煎蛋。
+soy sauce|醬油|n.|🍶|Soy sauce is salty.|醬油是鹹的。
+brown sugar|紅糖|n.|🟫|Brown sugar is used in desserts.|紅糖用在甜點裡。
+mustard|芥末醬|n.|🌭|Mustard goes well with hot dogs.|芥末醬和熱狗很搭。
+vinegar|醋|n.|🍶|Vinegar is sour.|醋是酸的。
+ketchup|番茄醬|n.|🍅|Put ketchup on french fries.|薯條上放番茄醬。
+oil|油|n.|🛢️|Heat the oil in a pan.|在鍋裡把油加熱。
+sesame oil|麻油|n.|🛢️|Sesame oil smells good.|麻油聞起來很香。
+rice wine|米酒|n.|🍶|Cooking with rice wine adds flavor.|用米酒烹調增添風味。
+--dialogue
+B|Mom, why are there so many bottles in the kitchen?|媽媽，為什麼廚房裡有這麼多瓶子？
+M|These are seasonings, Jack. Salt and pepper are the most basic.|這些是調味料，傑克。鹽和胡椒是最基本的。
+B|What's this brown bottle? Is it soy sauce or vinegar?|這個棕色的瓶子是什麼？是醬油還是醋？
+M|That's soy sauce. The vinegar is in the clear bottle. It's sour.|那是醬油。醋在透明的瓶子裡，它是酸的。
+B|And this yellow one is mustard, right? I put it on my hot dog.|這個黃色的是芥末醬，對嗎？我把它擠在熱狗上。
+M|Yes. Ketchup is for french fries. For stew, I use rock candy or brown sugar.|對。番茄醬用來配薯條。燉菜時我用冰糖或紅糖。
+B|What do you use for soup?|你湯裡用什麼？
+M|Dried bonito for the flavor, and a little MSG, if needed.|柴魚片增加風味，需要的話加一點點味精。
+B|What about oil? I see two bottles.|油呢？我看到兩瓶。
+M|One is cooking oil, and the other is sesame oil. Rice wine is used with fish and meat.|一瓶是食用油，另一瓶是麻油。米酒用來處理魚和肉。
+B|And curry? It smells strong.|咖哩呢？味道很濃。
+M|Curry is great with rice. Spread a little butter on bread, too.|咖哩配飯很棒。麵包上也可以塗一點奶油。

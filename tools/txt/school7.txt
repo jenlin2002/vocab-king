@@ -1,0 +1,40 @@
+id: school-7
+cat: school
+title: 標點符號
+titleEn: Punctuation and symbols
+emoji: ❓
+speakers: M=Pete|彼得|🙋‍♂️|am_michael;B=Ms. Wang|王老師|👩‍🏫|af_heart
+dialogueTitle: 英文課：標點符號怎麼用
+--words
+exclamation point|驚嘆號|n.|❗|Add an exclamation point to show surprise.|加上驚嘆號表示驚訝。
+question mark|問號|n.|❓|Put a question mark at the end of a question.|在問句的結尾放一個問號。
+parenthesis|圓括號|n.|🔤|Put the number in parenthesis.|把數字放在圓括號裡。
+brackets|中括號|n.|📎|Square brackets look like boxes.|中括號看起來像方框。
+braces|大括號|n.|🔣|Braces are used in math.|大括號用在數學裡。
+period|句號|n.|⚫|Put a period at the end of a sentence.|在句子結尾放一個句號。
+comma|逗號|n.|✒️|Use a comma between the words in a list.|在清單的單字之間用逗號。
+dash|破折號|n.|➖|A dash is longer than a hyphen.|破折號比連字號長。
+hyphen|連字號|n.|🔗|Use a hyphen in a word like well-known.|像 well-known 這種字要用連字號。
+colon|冒號|n.|🔢|Use a colon before a list.|在清單前面用冒號。
+semicolon|分號|n.|⏸️|A semicolon joins two related sentences.|分號可以連接兩個相關的句子。
+quotation marks|引號|n.|💬|Put quotation marks around the speaker's words.|把說話者的話放進引號裡。
+ellipsis|刪節號|n.|⏳|An ellipsis shows that words are left out.|刪節號表示有字被省略。
+slash|斜線|n.|⁄|Write and/or with a slash.|用斜線寫 and/or。
+backslash|反斜線|n.|⟍|Computers use a backslash in file names.|電腦檔案路徑會用反斜線。
+at symbol|小老鼠符號（@）|n.|📧|Your email needs an at symbol.|你的電子郵件需要有 @ 符號。
+pound sign|井字號（#）|n.|#️⃣|Press the pound sign on the phone.|按電話上的井字鍵。
+dollar sign|美元符號|n.|💲|Put a dollar sign before the price.|在價格前面加上美元符號。
+ampersand|and 符號（&）|n.|🔠|The ampersand means and.|& 符號的意思是「和」。
+--dialogue
+B|Pete, can you read this sentence aloud?|彼得，你可以大聲念這個句子嗎？
+M|It says, "Wow! Look at that!" What does the exclamation point mean?|上面寫著「哇！你看那個！」驚嘆號是什麼意思？
+B|It shows strong feeling. A question mark is for questions.|表示強烈的情緒。問號是用在問句。
+M|And a period ends a statement. What about a comma?|句號結束一個敘述句。那逗號呢？
+B|A comma separates things in a list, like apples, bananas, and grapes.|逗號用來分隔清單裡的東西，像蘋果、香蕉和葡萄。
+M|When do we use a colon and a semicolon?|什麼時候用冒號和分號？
+B|A colon comes before a list. A semicolon joins two related sentences.|冒號放在清單前面。分號連接兩個相關的句子。
+M|Do I put the speaker's words in quotation marks?|說話的人說的話要放進引號嗎？
+B|Yes. Use parenthesis and brackets for extra information. A dash and a hyphen are different.|對。圓括號和中括號用來加補充資訊。破折號和連字號不一樣。
+M|Is that why the email address has an at symbol?|所以電子郵件地址才有 @ 符號嗎？
+B|Yes. A dollar sign is for money, and a pound sign is for numbers on the phone.|對。美元符號用在錢上面，井字號用在電話的數字。
+M|I will practice them all. Thanks, Ms. Wang!|我會把它們全部練習。謝謝王老師！

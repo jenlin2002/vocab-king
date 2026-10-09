@@ -1,0 +1,40 @@
+id: transport-1
+cat: transport
+title: 陸上交通工具
+titleEn: Vehicles on land
+emoji: 🚌
+speakers: M=Leo|里歐|🙋‍♂️|am_michael;B=Jane|珍老師|👩‍🏫|af_heart
+dialogueTitle: 珍老師的交通工具課
+--words
+bulldozer|推土機|n.|🚜|The bulldozer pushes the dirt.|推土機推著泥土。
+dump truck|傾卸卡車|n.|🚚|A dump truck carries sand.|傾卸卡車載運沙子。
+taxi|計程車|n.|🚕|We took a taxi to the airport.|我們搭計程車去機場。
+cement mixer|水泥攪拌車|n.|🚛|The cement mixer is at the building site.|水泥攪拌車在工地上。
+sedan|轎車|n.|🚗|My uncle drives a gray sedan.|我叔叔開一輛灰色轎車。
+double-decker bus|雙層巴士|n.|🚌|We sat on the top of the double-decker bus.|我們坐在雙層巴士的上層。
+monorail|單軌電車|n.|🚝|The monorail goes over the street.|單軌電車從街道上方經過。
+cable car|纜車|n.|🚡|The cable car goes up the mountain.|纜車往山上開。
+tram|路面電車|n.|🚊|A tram runs through the old town.|路面電車穿過老城區。
+garbage truck|垃圾車|n.|🚛|The garbage truck comes at night.|垃圾車晚上會來。
+bicycle|腳踏車|n.|🚲|I ride a bicycle to school.|我騎腳踏車上學。
+horse and carriage|馬車|n.|🐎|We rode in a horse and carriage.|我們坐了馬車。
+scooter|速克達（機車）|n.|🛵|Many people ride scooters in Taiwan.|台灣很多人騎機車。
+ambulance|救護車|n.|🚑|The ambulance has a loud siren.|救護車的警笛很大聲。
+train|火車|n.|🚆|The train arrives at noon.|火車中午到。
+subway|地下鐵|n.|🚇|I take the subway to work.|我搭地鐵上班。
+tour bus|遊覽車|n.|🚌|The tour bus takes us to the museum.|遊覽車載我們去博物館。
+crane|起重機|n.|🏗️|A crane lifts the heavy box.|起重機吊起重重的箱子。
+fire engine|消防車|n.|🚒|The fire engine is red.|消防車是紅色的。
+--dialogue
+B|Leo, how do you come to school?|里歐，你怎麼來學校？
+M|By bicycle, but when it rains my mom drives me in her sedan.|騎腳踏車，下雨時媽媽開轎車載我。
+B|Many people in Taiwan ride a scooter. Others take the train or the subway.|台灣很多人騎機車，其他人搭火車或地鐵。
+M|In London, there are double-decker buses, and in Hong Kong there are trams.|倫敦有雙層巴士，香港有路面電車。
+B|What do tourists use?|觀光客用什麼？
+M|A tour bus, a taxi, or even a horse and carriage in some towns.|遊覽車、計程車，有些城鎮甚至坐馬車。
+B|Good! A cable car takes you up the mountain, and a monorail runs above the street.|很好！纜車載你上山，單軌電車在街道上方行駛。
+M|What are the big vehicles at the building site?|工地上那些大型車輛是什麼？
+B|A bulldozer, a dump truck, and a cement mixer. A crane lifts heavy things.|推土機、傾卸卡車和水泥攪拌車。起重機吊重的東西。
+M|And a garbage truck cleans our city.|而垃圾車清潔我們的城市。
+B|Yes. When there is an emergency, an ambulance or a fire engine rushes to help.|對。遇到緊急狀況，救護車或消防車會趕來幫忙。
+M|Vehicles really help us every day!|交通工具每天都在幫助我們！

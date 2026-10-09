@@ -6,7 +6,8 @@ import os, sys, json, subprocess, re
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
-tid = sys.argv[1]
+NO_EX = "--no-ex" in sys.argv   # 先只做單字與對話（例句語音之後再補，網頁會暫時用瀏覽器內建語音）
+tid = [a for a in sys.argv[1:] if not a.startswith("--")][0]
 src = open(os.path.join(ROOT, "topics", tid + ".js"), encoding="utf-8").read()
 T = json.loads(src[src.index("=") + 1:].strip().rstrip(";"))
 outdir = os.path.join(ROOT, "audio", tid)
@@ -15,7 +16,8 @@ os.makedirs(outdir, exist_ok=True)
 jobs = []   # (檔名, 文字, 聲音, 速度)
 for w in T["words"]:
     jobs.append(("w-%s.mp3" % w["slug"], w["w"], "af_heart", 0.85))
-    jobs.append(("e-%s.mp3" % w["slug"], w["ex"], "af_heart", 0.95))
+    if not NO_EX:
+        jobs.append(("e-%s.mp3" % w["slug"], w["ex"], "af_heart", 0.95))
 for i, l in enumerate(T["dialogue"], 1):
     jobs.append(("d-%02d.mp3" % i, l["en"], T["speakers"][l["s"]]["voice"], 0.95))
 todo = [j for j in jobs if not os.path.isfile(os.path.join(outdir, j[0]))]

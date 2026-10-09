@@ -1,0 +1,41 @@
+id: leisure-1
+cat: leisure
+title: 嗜好與休閒活動
+titleEn: Pastimes and hobbies
+emoji: 🎨
+speakers: M=Kim|金|🙋‍♀️|af_sarah;B=Jack|傑克|🙋‍♂️|am_michael
+dialogueTitle: 週末你想做什麼？
+--words
+playing chess|下西洋棋|v. phr.|♟️|Grandpa likes playing chess.|爺爺喜歡下西洋棋。
+playing cards|玩撲克牌|v. phr.|🃏|We are playing cards after dinner.|晚餐後我們玩撲克牌。
+playing mahjong|打麻將|v. phr.|🀄|My aunt enjoys playing mahjong.|我阿姨喜歡打麻將。
+painting|畫畫|n.|🎨|Painting is my hobby.|畫畫是我的嗜好。
+sculpting|雕刻|n.|🗿|Sculpting takes patience.|雕刻需要耐心。
+dancing|跳舞|n.|💃|Dancing makes me happy.|跳舞讓我快樂。
+hiking|健行|n.|🥾|Hiking in the mountains is fun.|在山裡健行很有趣。
+fishing|釣魚|n.|🎣|Dad goes fishing on Sundays.|爸爸星期天去釣魚。
+mountain climbing|爬山|n.|🧗|Mountain climbing is tiring.|爬山很累。
+gardening|園藝|n.|🌱|Mom loves gardening.|媽媽愛做園藝。
+bird watching|賞鳥|n.|🐦|Bird watching needs a pair of binoculars.|賞鳥需要一副望遠鏡。
+singing karaoke|唱卡拉 OK|v. phr.|🎤|We love singing karaoke with friends.|我們愛和朋友唱卡拉 OK。
+window shopping|逛街（只看不買）|n.|🛍️|Window shopping is free.|逛街看櫥窗是免費的。
+photography|攝影|n.|📷|Photography is an art.|攝影是一種藝術。
+reading|閱讀|n.|📖|Reading is a good habit.|閱讀是個好習慣。
+listening to music|聽音樂|v. phr.|🎧|I relax by listening to music.|我藉由聽音樂來放鬆。
+watching TV|看電視|v. phr.|📺|Watching TV too long is bad for your eyes.|看電視太久對眼睛不好。
+going to a movie|看電影|v. phr.|🎬|Let's go to a movie tonight.|我們今晚去看電影吧。
+playing video games|玩電動|v. phr.|🎮|He spends hours playing video games.|他花好幾個小時玩電動。
+surfing the internet|上網|v. phr.|💻|She is surfing the internet for news.|她在上網看新聞。
+--dialogue
+M|Jack, it's Saturday. What do you want to do for fun?|傑克，今天星期六，你想做什麼好玩的事？
+B|I like playing video games and surfing the internet. How about you?|我喜歡玩電動和上網。你呢？
+M|I prefer painting and photography. Sometimes I try sculpting.|我比較喜歡畫畫和攝影，有時也試試雕刻。
+B|That sounds creative. I enjoy reading and listening to music, too.|聽起來很有創意。我也喜歡閱讀和聽音樂。
+M|Grandpa likes playing chess, and Grandma plays mahjong or cards.|爺爺喜歡下西洋棋，奶奶打麻將或玩撲克牌。
+B|My dad likes fishing and gardening. He says it is relaxing.|我爸爸喜歡釣魚和園藝，他說這樣很放鬆。
+M|Do you want to go outside? We can go hiking or mountain climbing.|你想出去走走嗎？我們可以去健行或爬山。
+B|Okay. Maybe we can do some bird watching on the way.|好啊，說不定路上還能賞鳥。
+M|At night, we can go to a movie or sing karaoke.|晚上我們可以去看電影或唱卡拉 OK。
+B|I love dancing, too. Would you dance with me?|我也愛跳舞，你願意和我一起跳嗎？
+M|Sure. If it rains, let's just do some window shopping and watch TV.|當然。如果下雨，我們就逛逛街、看看電視。
+B|Whatever we do, I'll have a great weekend with you.|不管做什麼，和你一起我都會過得很開心。

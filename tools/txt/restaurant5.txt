@@ -1,0 +1,44 @@
+id: restaurant-5
+cat: restaurant
+title: 食物烹調法
+titleEn: Food preparation
+emoji: 👩‍🍳
+speakers: M=Mom|媽媽|👩|af_sarah;B=Jack|傑克|🙋‍♂️|am_michael
+dialogueTitle: 和媽媽一起做晚餐
+--words
+bake|烘烤|v.|🍞|Mom bakes bread on Sunday.|媽媽星期天烤麵包。
+boil|煮沸|v.|♨️|Boil the water first.|先把水煮開。
+blanch|汆燙|v.|🥦|Blanch the vegetables for a minute.|把蔬菜汆燙一分鐘。
+stew|燉|v.|🍲|Stew the beef for two hours.|把牛肉燉兩小時。
+sprinkle|撒|v.|🧂|Sprinkle some cheese on top.|在上面撒一些起司。
+chop|切碎|v.|🔪|Chop the onion finely.|把洋蔥切碎。
+stir-fry|炒|v.|🥘|Stir-fry the vegetables quickly.|快速炒蔬菜。
+wrap|包|v.|🥟|Wrap the dumplings.|包水餃。
+cut|切|v.|✂️|Cut the cake into pieces.|把蛋糕切塊。
+toss|拌|v.|🥗|Toss the salad with dressing.|把沙拉拌上醬汁。
+grind|磨|v.|☕|Grind the coffee beans.|磨咖啡豆。
+marinate|醃|v.|🧄|Marinate the chicken overnight.|把雞肉醃一個晚上。
+deep fry|油炸|v.|🍤|Deep fry the shrimp.|油炸蝦子。
+steam|蒸|v.|♨️|Steam the fish for ten minutes.|把魚蒸十分鐘。
+crack|打（蛋）|v.|🥚|Crack two eggs into the bowl.|打兩顆蛋到碗裡。
+peel|削皮|v.|🥔|Peel the potatoes.|把馬鈴薯削皮。
+grate|磨碎（成絲）|v.|🧀|Grate the cheese.|把起司磨碎。
+slice|切片|v.|🥒|Slice the tomatoes.|把番茄切片。
+fry|煎|v.|🍳|Fry the egg in a pan.|在平底鍋煎蛋。
+simmer|慢火燉煮|v.|🍲|Simmer the soup for an hour.|用小火煮湯一小時。
+grill|烤（燒烤）|v.|🔥|Grill the steak outside.|在外面烤牛排。
+barbecue|烤肉|v.|🍖|We barbecue in the backyard.|我們在後院烤肉。
+sizzling|滋滋作響的|adj.|🔊|The steak is sizzling.|牛排滋滋作響。
+--dialogue
+M|Jack, let's make dinner together. First, peel and slice the potatoes.|傑克，我們一起做晚餐。先把馬鈴薯削皮和切片。
+B|Okay, Mom. Should I chop the onion, too?|好，媽媽。我也要把洋蔥切碎嗎？
+M|Yes, and grate the cheese. I'll boil the water for the pasta.|要，再把起司磨碎。我來煮義大利麵的水。
+B|What about the chicken? Do we marinate it?|雞肉呢？要醃嗎？
+M|Yes, I marinated it yesterday. Now we can bake it in the oven or grill it.|是的，我昨天就醃好了。現在可以放進烤箱烤或燒烤。
+B|I like fried food. Can we deep fry the shrimp?|我喜歡炸的東西。我們可以炸蝦子嗎？
+M|Let's steam the fish and stir-fry the vegetables. Blanch the broccoli first.|我們蒸魚、炒蔬菜吧。先把花椰菜汆燙。
+B|I'll crack the eggs and fry them. Listen, they are sizzling!|我來打蛋再煎。聽，滋滋作響！
+M|Great. I'll simmer the soup and stew the beef for tomorrow.|太好了。我來慢火煮湯，也燉明天要吃的牛肉。
+B|I can also wrap dumplings and toss the salad.|我也可以包水餃和拌沙拉。
+M|Sprinkle a little salt and pepper. We can barbecue on the weekend.|撒一點鹽和胡椒。週末我們可以烤肉。
+B|Cooking is fun. Maybe I'll grind some coffee for dessert.|烹飪好有趣。也許我可以磨些咖啡當飯後飲料。
