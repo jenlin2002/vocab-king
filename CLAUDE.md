@@ -22,6 +22,7 @@
 
 ## 場景圖
 - 每個主題有「🗺️ 場景圖」分頁（自己畫的簡單 SVG＋編號圓點，對應書上『圖＋編號』的學習方式，但不是書上的圖）。home-1 的在 `tools/scene_home1.py`；home-2～10 在 `tools/scenes_home.py`（`pos` 值 `(x,y)`＝圓點放在圖上的物件；`(x,y,'e')`＝放該字 emoji；`pos={}` 的主題＝自動排成架子，盥洗用品、廚房用具、工具用這種）。`build_topic.py` 會檢查每個單字都有位置。`topic.html` 的 `drawScene()` 負責畫圖。`index.html` 的 `TOPICS` 要記得加新主題。`topics/*.js` 與 `audio/` 都要一起提交。
+- 2026-10-13：架子格的編號圓點改放在 emoji 左邊（太靠左就放右邊），不再蓋住圖。籃球場（sports-3）改成手繪真實球場（`tools/scene_sports3.py`：俯視球場＋籃框特寫，線條、球員、裁判、板凳、計分板都畫出來）。其他主題要換成真實場景，就照這支寫 `scene_<名稱>.py`（例如 `scene_sports1.py`），`build_topic.py` 會自動採用。雲端環境連不到 Pexels／Wikimedia，沒辦法下載照片。
 
 ## 進度
 - 2026-10-09：居家 10 個主題全部完成（home-1～10，共 173 個單字、120 句原創對話、約 460 個語音檔、場景圖）。已在瀏覽器逐一驗證：音檔齊全、三種測驗全對都 10/10。客廳（二）故意沒放 ashtray／cigarette（書上有，不適合國中生）。單字清單可由 MP3 轉文字（faster-whisper base.en）取得，中文與詞性我自己填，請使用者抽查。
