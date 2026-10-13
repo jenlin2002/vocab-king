@@ -46,6 +46,8 @@
   .av{font-size:30px;line-height:1}
   .bub{background:var(--card);border:1.5px solid var(--line);border-radius:16px;padding:8px 12px;max-width:min(560px,82%)}
   .ln.me .bub{background:#fff3d6;border-color:var(--gold)}
+  .ln.playing .bub{box-shadow:0 0 0 3px var(--gold);background:#fff8e6}
+  .chip.play-all{background:var(--ink);color:#fff;border-color:var(--ink);font-weight:700}
   .nm{font-size:12px;color:var(--soft);font-weight:700}
   .den{font-size:16px;font-weight:600}.dzh{font-size:14px;color:var(--soft)}
   .dl b.hl{background:#ffe9a8;border-radius:4px;padding:0 2px;font-weight:700}
@@ -93,14 +95,42 @@ function student(){ const n = String(get('quizStudentName') || '').trim(); retur
 
 // ---- 語音 ----
 let cur = null;
-function speakFallback(text){   // 還沒產生語音檔時，改用瀏覽器內建語音
-  try{ if(!text) return; const u = new SpeechSynthesisUtterance(text); u.lang = 'en-US'; u.rate = 0.9; speechSynthesis.cancel(); speechSynthesis.speak(u); }catch(e){}
+function speakFallback(text, onend){   // 還沒產生語音檔時，改用瀏覽器內建語音
+  try{ if(!text) return onend && onend(); const u = new SpeechSynthesisUtterance(text); u.lang = 'en-US'; u.rate = 0.9; if(onend) u.onend = onend; speechSynthesis.cancel(); speechSynthesis.speak(u); }catch(e){ onend && onend(); }
 }
-function play(src, text){
+function play(src, text, onend){
   if(cur){ try{ cur.pause(); }catch(e){} cur = null; }
+  try{ speechSynthesis.cancel(); }catch(e){}
   const a = new Audio(src); cur = a;
-  a.onerror = () => { cur = null; speakFallback(text); };
+  if(onend) a.onended = onend;
+  a.onerror = () => { if(cur !== a) return; cur = null; speakFallback(text, onend); };
   a.play().catch(()=>{});
+}
+
+// ---- 情境對話「全部播放」：一句接一句播，正在播的那句會標出來 ----
+let seqId = 0;   // 每次開始／停止都換號，舊的回呼就不再接下去
+function stopAll(){
+  if(!seqId) return;
+  seqId = 0;
+  if(cur){ try{ cur.pause(); }catch(e){} cur = null; }
+  try{ speechSynthesis.cancel(); }catch(e){}
+  document.querySelectorAll('.ln.playing').forEach(x => x.classList.remove('playing'));
+  const b = $('#playAll'); if(b) b.textContent = '▶ 全部播放';
+}
+function playAll(){
+  if(seqId) return stopAll();
+  const id = seqId = Date.now();
+  const b = $('#playAll'); if(b) b.textContent = '⏹ 停止播放';
+  const step = i => {
+    if(seqId !== id) return;
+    const lines = document.querySelectorAll('.dl .ln');
+    lines.forEach((x, k) => x.classList.toggle('playing', k === i));
+    if(i >= lines.length) return stopAll();
+    lines[i].scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+    const sp = lines[i].querySelector('[data-au]');
+    play(sp.dataset.au, sp.dataset.tx, () => setTimeout(() => step(i + 1), 350));
+  };
+  step(0);
 }
 
 // ---- 固定種子亂數，讓同一個主題每次出的題目一樣 ----
@@ -140,9 +170,10 @@ function renderTabs(){
 }
 document.addEventListener('click', e => {
   const t = e.target.closest('.tab');
-  if(t){ tab = t.dataset.tab; renderTabs(); renderView(); return; }
+  if(t){ stopAll(); tab = t.dataset.tab; renderTabs(); renderView(); return; }
+  if(e.target.closest('#playAll')){ playAll(); return; }
   const sp = e.target.closest('[data-au]');
-  if(sp){ play(sp.dataset.au, sp.dataset.tx); return; }
+  if(sp){ stopAll(); play(sp.dataset.au, sp.dataset.tx); return; }
 });
 
 function renderView(){
@@ -175,8 +206,8 @@ document.addEventListener('click', e => {
 
 function au(kind, w){ return `audio/${T.id}/${kind}-${w.slug}.mp3`; }
 function cls(){ return (hideZh ? 'hide-zh ' : '') + (hideEn ? 'hide-en' : ''); }
-function ctlBar(){
-  return `<div class="ctl"><button class="chip${hideZh ? ' on' : ''}" data-ctl="zh">遮住中文</button><button class="chip${hideEn ? ' on' : ''}" data-ctl="en">遮住英文</button></div>`;
+function ctlBar(extra){
+  return `<div class="ctl">${extra || ''}<button class="chip${hideZh ? ' on' : ''}" data-ctl="zh">遮住中文</button><button class="chip${hideEn ? ' on' : ''}" data-ctl="en">遮住英文</button></div>`;
 }
 document.addEventListener('click', e => {
   const c = e.target.closest('[data-ctl]'); if(!c) return;
@@ -203,7 +234,7 @@ function hl(text){
 }
 function drawDialogue(){
   const sp = T.speakers;
-  $('#view').innerHTML = `<h2 style="margin:16px 0 0;font-size:18px">${esc(T.dialogueTitle)}</h2>` + ctlBar() + `<div class="dl ${cls()}">` + T.dialogue.map((l, i) => {
+  $('#view').innerHTML = `<h2 style="margin:16px 0 0;font-size:18px">${esc(T.dialogueTitle)}</h2>` + ctlBar(`<button class="chip play-all" id="playAll">${seqId ? "⏹ 停止播放" : "▶ 全部播放"}</button>`) + `<div class="dl ${cls()}">` + T.dialogue.map((l, i) => {
     const s = sp[l.s], me = l.s === 'M';
     return `<div class="ln${me ? ' me' : ''}"><div class="av">${s.avatar}</div><div class="bub"><div class="nm">${esc(s.name)}（${esc(s.zh)}）</div>
       <div><span class="den">${hl(l.en)}</span><button class="sp sm" data-au="audio/${T.id}/d-${String(i + 1).padStart(2, '0')}.mp3" data-tx="${esc(l.en)}" aria-label="聽這句">🔊</button></div>

@@ -23,6 +23,7 @@
 - `index.html`：14 類目錄＋主題清單（`TOPICS` 物件，做好一個主題就加一筆）。
 - `topic.html?t=<主題id>`：單一頁面引擎。分頁分兩框：「學習」（圖解單字、情境對話）與「測驗」（看圖選字、聽音選字、拼字，各 10 題，固定種子出題）。
 - 測驗規則（使用者的固定要求）：送出前可改答案；每項底下「送出成績」，全部作答才送；送出後標出對錯與正解、鎖住；自動帶登入者（localStorage `quizStudentName`）；`Points.earn` ＋ POST 到英文測驗系統同一份試算表（week=`Vocab｜主題`）；送出後提示其他測驗還差幾題。家長（PARENT）只記點數。
+- 情境對話有「▶ 全部播放」（2026-10-13）：一句接一句播，正在播的那句加金框、自動捲到；再按一次停止；切換分頁或單獨按某句 🔊 會停止。程式在 `topic.html` 的 `playAll()`／`stopAll()`。
 - `topics/<id>.js`：由 `tools/build_topic.py` 從 `tools/data_<名稱>.py` 產生（不要手改）。
 - `audio/<id>/`：`w-<單字>.mp3`（單字）、`e-<單字>.mp3`（例句）、`d-NN.mp3`（對話）。`python tools/make_audio.py <id>` 用 Kokoro 產生（模型借用 ../daily_life_listening/tools/models）。聲音：單字與例句 af_heart；對話 Mia=af_sarah、Ben=am_michael。
 - `points.js`：點數存摺前端副本（第 7 份；主檔在 english-quiz-plan/points/points.js，改主檔要同步）。
