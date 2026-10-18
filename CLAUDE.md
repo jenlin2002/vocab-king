@@ -45,3 +45,10 @@
   - 語音：`run_audio.py --no-ex` 先只做單字＋對話；缺 mp3 時瀏覽器會用語音合成補上。之後再跑一次不加 `--no-ex` 補例句語音。尚未全部產生，要看 audio/ 資料夾與 %TEMP%\a_main.log、a_rest.log。
   - 故意略過的單字：ashtray、cigarette、gun、lingerie department 等不適合國中生的。
   - 中文與詞性是我依 ASR 單字表自行填寫，ASR 辨識錯的字（例如 Bullisenboard＝bulletin board）已人工修正，仍請抽查。
+
+## 連續學習紅利＋稱讚畫面（2026-10-18）
+
+- 送出測驗後跳出稱讚卡（得幾點、連續第幾天、還差幾點到 100 點）；每跨過 100 點跳出大的恭喜兌換畫面。
+- 連續學習紅利：第 2 天 +2、第 3、4 天 +5、第 5 天起每天 +10，中斷就重算；不算在每天 50 點上限內；存摺分頁記成類型「紅利」。
+- 程式在 `points.js`（7 份副本內容一致，主檔在 english-quiz-plan `points/points.js`）與後端 `Code.gs`（`CONFIG.STREAK_BONUS`）。
+- **要先更新 Apps Script 後端（貼新版 Code.gs → 部署新版本）紅利才會開始算**，步驟在 english-quiz-plan `points/README-點數存摺.md` 最後一節。
