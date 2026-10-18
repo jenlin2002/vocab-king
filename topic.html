@@ -70,6 +70,15 @@
   .go:disabled{opacity:.55;cursor:not-allowed}
   .st{font-size:14px;color:var(--soft)}
   #who{font-size:13px;color:var(--soft);margin:2px 0 10px}
+  .q.fixing{border-left:5px solid #e0a020;background:#fffaf0}
+  .q.fixing .qt::before{content:'✏️ 訂正 ';color:#b5761a;font-weight:800}
+  .fixbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:12px 0;padding:10px 14px;border-radius:14px;background:#fff4dc;border:2px solid #e7c98a;font-size:14.5px;color:#6b4a12}
+  .fixbar b{color:#c0392b}.fixbar.done{background:#e8f5ec;border-color:#9ccfab;color:#1f6b3a}.fixbar.done b{color:#1f6b3a}
+  .fixbar button{background:#c0392b;color:#fff;border:0;border-radius:999px;padding:9px 18px;font-size:15px;font-weight:800;cursor:pointer}
+  .fixbar button[disabled]{background:#d8cdb4;color:#7a6a48;cursor:default}
+  .fixbar button.exit{background:#fff;color:#5a4a2a;border:1.5px solid #c9b88f}
+  .fixbar a.exit-link{display:inline-block;padding:7px 14px;border-radius:999px;background:#2f6fb5;color:#fff;font-weight:800;text-decoration:none}
+  .ghost{background:#fff;color:var(--ink);border:1.5px solid var(--line);border-radius:12px;padding:10px 16px;font-size:15px;font-weight:700;cursor:pointer}
   .note{font-size:12.5px;color:var(--soft);margin-top:26px;border-top:1px solid var(--line);padding-top:10px}
 </style>
 </head>
@@ -159,7 +168,7 @@ function buildQuizzes(){
       }
       return q;
     });
-    QZ[def.id] = { def, qs, answers: new Array(qs.length).fill(''), sent: false, score: null };
+    QZ[def.id] = { def, qs, answers: new Array(qs.length).fill(''), sent: false, score: null, status: 'open', round: 0, fixing: new Set(), pending: false };
   });
 }
 
@@ -244,10 +253,28 @@ function drawDialogue(){
 
 // ---------- 測驗 ----------
 function norm(s){ return String(s || '').toLowerCase().replace(/[^a-z0-9]/g, ''); }
+// 測驗規則（和段考題庫一致，使用者 2026-10-18）：
+// 送出成績 → 自動對答案（答對綠、答錯紅，標出正解）→ 有錯題時上方「✏️ 訂正錯誤」：答對的題目鎖住、錯題清空重答 →「送出訂正」再對答案，
+// 直到全對；全部訂正完成補送 1 點（Points.earn kind:'fix-bonus'）。還有錯題沒訂正完不能離開這一頁（測試帳號 TEST、家長可「立即離開」）。
+// 點數只算第一次作答；試算表每次訂正記一筆，mode 加「【第 N 次訂正】」，全部訂正完成另記「【全部訂正完成】補送 1 點」。
+// 做到一半可「💾 暫存」（作答時也自動暫存），下次打開同一個主題自動接續。z.status：open 作答中、graded 已對答案、fixing 訂正中。
+function locked(z, i){ return z.status === 'graded' || (z.status === 'fixing' && !z.fixing.has(i)); }
+function canSkipFix(){ const n = student().toUpperCase(); return n === 'TEST' || n === 'PARENT'; }
+function wrongIdx(id){ const z = QZ[id]; return z.qs.map((q, i) => i).filter(i => !isRight(id, z.qs[i], z.answers[i])); }
+function anyPending(){ return QUIZ_DEF.some(d => QZ[d.id].pending); }
+function fixBarHtml(id){
+  const z = QZ[id];
+  if(z.skipped) return '<div class="fixbar done">🚪 已解除訂正限制（測試／家長帳號），可以離開：<a class="exit-link" href="index.html">↩ 回圖解單字目錄</a><a class="exit-link" href="https://jenlin2002.github.io/">🏠 回主頁面</a></div>';
+  const exit = canSkipFix() ? '<button type="button" class="exit" data-exit>🚪 立即離開</button>' : '';
+  if(z.status === 'fixing') return `<div class="fixbar"><button type="button" disabled>✏️ 第 ${z.round} 次訂正中</button><span>把 <b>${z.fixing.size} 題</b>黃色框的題目重新作答，完成後按下方「送出訂正」。錯題全部訂正完畢再另加補送 <b>1 點</b>。</span>${exit}</div>`;
+  if(z.status === 'graded' && z.pending) return `<div class="fixbar"><button type="button" data-fix>✏️ 訂正錯誤</button><span>還有 <b>${wrongIdx(id).length} 題</b>錯誤（紅色）。按「訂正錯誤」重新作答，<b>錯誤全部訂正完畢再另加補送 1 點</b>；訂正完才能離開這一頁。</span>${exit}</div>`;
+  if(z.status === 'graded' && z.round > 0) return `<div class="fixbar done">🎉 錯題全部訂正完成（訂正 ${z.round} 次）！補送 <b>1 點</b>。</div>`;
+  return '';
+}
 function drawQuiz(id){
   const z = QZ[id], def = z.def;
   const body = z.qs.map((q, i) => {
-    const w = q.w, a = z.answers[i];
+    const w = q.w, a = z.answers[i], dis = locked(z, i) ? ' disabled' : '';
     let head, inner;
     if(id === 'pic'){
       head = `<span class="big">${w.emoji}</span><span class="qt">${esc(w.zh)}</span>`;
@@ -257,69 +284,151 @@ function drawQuiz(id){
       head = `<span class="big">${w.emoji}</span><span class="qt">${esc(w.zh)}</span><button class="sp" data-au="${au('w', w)}" data-tx="${esc(w.w)}" title="聽發音">🔊</button><div class="st">共 ${w.w.replace(/[^A-Za-z]/g, '').length} 個字母</div>`;
     }
     if(id === 'spell'){
-      inner = `<input class="sp-in" data-i="${i}" autocomplete="off" autocapitalize="none" spellcheck="false" placeholder="輸入英文" value="${esc(a)}"${z.sent ? ' disabled' : ''}>`;
+      inner = `<input class="sp-in" data-i="${i}" autocomplete="off" autocapitalize="none" spellcheck="false" placeholder="輸入英文" value="${esc(a)}"${dis}>`;
     } else {
-      inner = `<div class="opts">` + q.opts.map(o => `<button class="opt${a === o ? ' sel' : ''}" data-i="${i}" data-o="${esc(o)}"${z.sent ? ' disabled' : ''}>${esc(o)}</button>`).join('') + '</div>';
+      inner = `<div class="opts">` + q.opts.map(o => `<button class="opt${a === o ? ' sel' : ''}" data-i="${i}" data-o="${esc(o)}"${dis}>${esc(o)}</button>`).join('') + '</div>';
     }
-    return `<div class="q" id="q${i}"><div><span class="qn">${i + 1}.</span>${head}</div>${inner}<div class="fb" id="fb${i}"></div></div>`;
+    const fx = z.status === 'fixing' && z.fixing.has(i) ? ' fixing' : '';
+    return `<div class="q${fx}" id="q${i}"><div><span class="qn">${i + 1}.</span>${head}</div>${inner}<div class="fb" id="fb${i}"></div></div>`;
   }).join('');
-  $('#view').innerHTML = `<h2 style="margin:16px 0 0;font-size:18px">${def.name}　<small style="color:var(--soft);font-weight:400">${def.desc}，共 ${z.qs.length} 題</small></h2>` + body +
-    `<div class="sub-bar"><button class="go" id="go"${z.sent ? ' disabled' : ''}>${z.sent ? '已送出成績（' + z.score + ' / ' + z.qs.length + '）' : '送出成績'}</button><span class="st" id="st"></span></div>`;
-  if(z.sent) markResult(id);
+  const btn = z.status === 'open' ? '送出成績' : z.status === 'fixing' ? '送出訂正'
+    : '已送出成績（' + z.score + ' / ' + z.qs.length + '）' + (z.round ? '・已訂正' : '');
+  const draft = z.status === 'open' ? `<button type="button" class="ghost" id="draftSave">💾 暫存</button>` : '';
+  $('#view').innerHTML = `<h2 style="margin:16px 0 0;font-size:18px">${def.name}　<small style="color:var(--soft);font-weight:400">${def.desc}，共 ${z.qs.length} 題</small></h2>` + fixBarHtml(id) + body +
+    `<div class="sub-bar"><button class="go" id="go"${z.status === 'graded' ? ' disabled' : ''}>${btn}</button>${draft}<span class="st" id="st">${z.status === 'open' ? esc(draftMsg) : ''}</span></div>`;
+  if(z.status !== 'open') markResult(id);
 }
 document.addEventListener('click', e => {
   const o = e.target.closest('.opt'); if(!o || o.disabled) return;
-  const z = QZ[tab]; if(!z || z.sent) return;
-  const i = +o.dataset.i; z.answers[i] = o.dataset.o;
+  const z = QZ[tab]; if(!z) return;
+  const i = +o.dataset.i; if(locked(z, i)) return;
+  z.answers[i] = o.dataset.o;
   document.querySelectorAll(`#q${i} .opt`).forEach(b => b.classList.toggle('sel', b === o));
+  autoSave();
 });
 document.addEventListener('input', e => {
   const t = e.target.closest('.sp-in'); if(!t) return;
-  const z = QZ[tab]; if(!z || z.sent) return;
+  const z = QZ[tab]; if(!z || locked(z, +t.dataset.i)) return;
   z.answers[+t.dataset.i] = t.value;
+  autoSave();
 });
 
 function isRight(id, q, a){ return id === 'spell' ? norm(a) === norm(q.w.w) : a === q.w.w; }
 function markResult(id){
   const z = QZ[id];
   z.qs.forEach((q, i) => {
+    if(z.status === 'fixing' && z.fixing.has(i)) return;   // 訂正中的題目先不顯示正解
     const a = z.answers[i], ok = isRight(id, q, a), fb = $('#fb' + i);
     if(id === 'spell'){
       const inp = document.querySelector(`#q${i} .sp-in`); inp.classList.add(ok ? 'ok' : 'bad');
     } else {
       document.querySelectorAll(`#q${i} .opt`).forEach(b => { if(b.dataset.o === q.w.w) b.classList.add('ok'); else if(b.dataset.o === a) b.classList.add('bad'); });
     }
-    if(fb){ fb.className = 'fb' + (ok ? '' : ' bad'); fb.textContent = ok ? '✓ 答對了' : '✕ 正確答案：' + q.w.w + '（' + q.w.zh + '）'; }
+    if(fb){ fb.className = 'fb' + (ok ? '' : ' bad'); fb.textContent = ok ? '✓ 答對了' : '✕ 你的答案：' + (a || '（空白）') + '　正確答案：' + q.w.w + '（' + q.w.zh + '）'; }
   });
 }
 
+function postSheet(body){
+  return fetch(get('quizSyncUrl') || SYNC_URL, { method: 'POST', mode: 'no-cors', headers: { 'Content-Type': 'text/plain;charset=utf-8' }, body: JSON.stringify(body) }).catch(() => {});
+}
+function quizLabel(){ return 'Vocab｜' + T.title + ' ' + T.titleEn; }
+document.addEventListener('click', e => {
+  if(e.target.closest('[data-exit]')){
+    QUIZ_DEF.forEach(d => { const z = QZ[d.id]; if(z.pending || z.status === 'fixing'){ z.pending = false; z.skipped = true; if(z.status === 'fixing') z.status = 'graded'; } });
+    QZ[tab].skipped = true; drawQuiz(tab); return;
+  }
+  if(!e.target.closest('[data-fix]')) return;
+  const id = tab, z = QZ[id]; if(!z || !z.pending) return;
+  z.round++; z.fixing = new Set(wrongIdx(id)); z.fixing.forEach(i => { z.answers[i] = ''; });
+  z.status = 'fixing'; drawQuiz(id);
+  const first = document.querySelector('.q.fixing'); if(first) first.scrollIntoView({ behavior: 'smooth', block: 'center' });
+});
+// 還有錯題沒訂正完：擋住離開這一頁的連結；關分頁／重新整理跳出確認
+document.addEventListener('click', e => {
+  if(!anyPending()) return;
+  const a = e.target.closest('a[href]'); if(!a || a.getAttribute('href').charAt(0) === '#') return;
+  e.preventDefault(); e.stopImmediatePropagation();
+  const names = QUIZ_DEF.filter(d => QZ[d.id].pending).map(d => d.name).join('、');
+  alert('「' + names + '」還有錯題，先按「訂正錯誤」訂正完才能離開喔！');
+}, true);
+window.addEventListener('beforeunload', e => { if(anyPending()){ e.preventDefault(); e.returnValue = ''; } });
+
 document.addEventListener('click', async e => {
   if(!e.target.closest('#go')) return;
-  const id = tab, z = QZ[id]; if(!z || z.sent) return;
+  const id = tab, z = QZ[id]; if(!z || z.status === 'graded') return;
   const name = student();
   if(!name){ alert('請先登入（在「你是誰？」選名字並輸入 PIN），成績才會記在你的名下'); return; }
+  const label = quizLabel();
+  if(z.status === 'fixing'){
+    const idx = Array.from(z.fixing);
+    const left = idx.filter(i => !String(z.answers[i]).trim()).length;
+    if(left){ alert('還有 ' + left + ' 題訂正的題目沒作答'); return; }
+    const okN = idx.filter(i => isRight(id, z.qs[i], z.answers[i])).length;
+    if(name !== 'PARENT'){
+      const details = idx.map(i => ({ q: z.qs[i].w.zh, picked: z.answers[i], correct: z.qs[i].w.w, isCorrect: isRight(id, z.qs[i], z.answers[i]) }));
+      postSheet({ name, week: label, mode: z.def.name + '【第 ' + z.round + ' 次訂正】', score: okN, total: idx.length, percent: Math.round(okN / idx.length * 100), details });
+    }
+    z.status = 'graded'; z.fixing = new Set();
+    z.pending = wrongIdx(id).length > 0;
+    if(!z.pending){
+      if(name !== 'PARENT') postSheet({ name, week: label, mode: z.def.name + '【全部訂正完成】補送 1 點', score: 1, total: 1, percent: 100,
+        details: [{ q: '錯題全部訂正完成（共訂正 ' + z.round + ' 次）', picked: '', correct: '', isCorrect: true }] });
+      if(window.Points){ try{ Points.earn({ name, label: label + '・' + z.def.name, mode: '訂正完成', kind: 'fix-bonus', correct: 1, total: 1 }); }catch(err){} }
+    }
+    renderTabs(); drawQuiz(id); window.scrollTo({ top: 0, behavior: 'smooth' });
+    return;
+  }
   const left = z.answers.filter(a => !String(a).trim()).length;
   if(left){ alert('「' + z.def.name + '」還有 ' + left + ' 題沒作答，請先完成再送出成績'); return; }
-  z.sent = true;
+  z.sent = true; z.status = 'graded';
   z.score = z.qs.filter((q, i) => isRight(id, q, z.answers[i])).length;
-  renderTabs(); drawQuiz(id);
-  const label = 'Vocab｜' + T.title + ' ' + T.titleEn;
+  z.pending = z.score < z.qs.length;
+  clearDraft(id);
+  renderTabs(); drawQuiz(id); window.scrollTo({ top: 0, behavior: 'smooth' });
   if(window.Points){ try{ Points.earn({ name, label, mode: z.def.name, correct: z.score, total: z.qs.length }); }catch(err){} }
   if(name !== 'PARENT'){
     const details = z.qs.map((q, i) => ({ q: q.w.zh, picked: z.answers[i], correct: q.w.w, isCorrect: isRight(id, q, z.answers[i]) }));
-    try{
-      await fetch(get('quizSyncUrl') || SYNC_URL, { method: 'POST', mode: 'no-cors', headers: { 'Content-Type': 'text/plain;charset=utf-8' },
-        body: JSON.stringify({ name, week: label, mode: z.def.name, score: z.score, total: z.qs.length, percent: Math.round(z.score / z.qs.length * 100), details }) });
-    }catch(err){}
+    await postSheet({ name, week: label, mode: z.def.name, score: z.score, total: z.qs.length, percent: Math.round(z.score / z.qs.length * 100), details });
   }
   const todo = QUIZ_DEF.filter(d => !QZ[d.id].sent).map(d => {
     const n = QZ[d.id].answers.filter(a => !String(a).trim()).length;
     return n ? d.name + '還有 ' + n + ' 題沒作答' : d.name + '已作答完，還沒按「送出成績」';
   });
   let msg = '「' + z.def.name + '」已送出成績：' + z.score + ' / ' + z.qs.length + ' 題答對（畫面已標出正確答案）。';
-  msg += todo.length ? '\n\n還有測驗沒完成：\n' + todo.join('\n') : '\n\n三個測驗都完成了，太棒了！';
+  if(z.pending) msg += '\n\n有 ' + (z.qs.length - z.score) + ' 題錯了，按上方「✏️ 訂正錯誤」訂正，全部訂正完再補送 1 點！';
+  msg += todo.length ? '\n\n還有測驗沒完成：\n' + todo.join('\n') : '\n\n三個測驗都送出了，太棒了！';
   setTimeout(() => alert(msg), 50);
 });
+
+// ---- 暫存：作答中的答案存在這台裝置（localStorage vocabDraft:主題:登入者），下次打開同一個主題自動接續 ----
+let draftMsg = '', draftTimer = 0;
+function draftKey(){ return 'vocabDraft:' + tid + ':' + (student() || '-'); }
+function readDraft(){ try{ return JSON.parse(localStorage.getItem(draftKey()) || '{}') || {}; }catch(e){ return {}; } }
+function saveDraft(manual){
+  const d = {};
+  QUIZ_DEF.forEach(def => { const z = QZ[def.id]; if(z.status === 'open' && z.answers.some(a => String(a).trim())) d[def.id] = z.answers; });
+  try{
+    if(Object.keys(d).length){ d.t = Date.now(); localStorage.setItem(draftKey(), JSON.stringify(d)); } else localStorage.removeItem(draftKey());
+  }catch(e){ if(manual) alert('這台裝置無法暫存（瀏覽器不允許）'); return; }
+  const tm = new Date(); draftMsg = (manual ? '✅ 已暫存' : '已自動暫存') + '（' + String(tm.getHours()).padStart(2, '0') + ':' + String(tm.getMinutes()).padStart(2, '0') + '），下次打開這個主題會自動接續。';
+  const st = $('#st'); if(st && QZ[tab] && QZ[tab].status === 'open') st.textContent = draftMsg;
+}
+function autoSave(){ clearTimeout(draftTimer); draftTimer = setTimeout(() => saveDraft(false), 600); }
+function clearDraft(id){
+  const d = readDraft(); delete d[id];
+  try{ if(QUIZ_DEF.some(def => d[def.id])) localStorage.setItem(draftKey(), JSON.stringify(d)); else localStorage.removeItem(draftKey()); }catch(e){}
+  draftMsg = '';
+}
+function restoreDraft(){
+  const d = readDraft(); let n = 0;
+  QUIZ_DEF.forEach(def => {
+    const a = d[def.id], z = QZ[def.id];
+    if(Array.isArray(a) && a.length === z.answers.length){ z.answers = a.map(x => String(x || '')); n += a.filter(x => String(x || '').trim()).length; }
+  });
+  if(n) draftMsg = '📌 已接續上次暫存的作答（' + n + ' 題），繼續做完再送出成績。';
+}
+document.addEventListener('click', e => { if(e.target.closest('#draftSave')) saveDraft(true); });
+window.addEventListener('pagehide', () => { if(QUIZ_DEF.some(d => QZ[d.id].status === 'open' && QZ[d.id].answers.some(a => String(a).trim()))) saveDraft(false); });
 
 function showWho(){ const n = student(); $('#who').textContent = n ? '登入者：' + n + '（成績與點數自動記錄）' : '尚未登入，成績不會記錄'; }
 
@@ -328,7 +437,7 @@ function init(){
   $('#h1').textContent = T.emoji + ' ' + T.title + '　' + T.titleEn;
   $('#sub').textContent = '共 ' + T.words.length + ' 個單字・1 段情境對話・3 種測驗';
   if(T.scene) tab = 'scene';
-  buildQuizzes(); renderTabs(); renderView(); showWho(); setInterval(showWho, 1500);
+  buildQuizzes(); restoreDraft(); renderTabs(); renderView(); showWho(); setInterval(showWho, 1500);
 }
 const s = document.createElement('script');
 s.src = 'topics/' + encodeURIComponent(tid) + '.js';
