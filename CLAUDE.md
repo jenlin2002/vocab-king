@@ -18,6 +18,7 @@
 - 只取「單字清單」這種事實；**中文解釋、例句、對話、語音、圖示都是自己編寫／合成**，不放書上的插圖、不放書附 MP3、不照抄書上的對話。
 - MP3 只在本機用 faster-whisper（base.en）轉文字，拿來核對單字清單，轉文字結果不進專案（存在 scratchpad）。書中第一類「居家」對應 Track 001–020（奇數軌＝單字表、偶數軌＝對話，每 2 軌一個主題，共 10 個主題；第 1 軌 In a home、3 In a living room、5 In a living room, too、7 In a bathroom、9 toiletries、11 In a bedroom、13 In a basement、15 In a kitchen、17 kitchenware、19 Tools）。
 - 圖示用 emoji（示意）；不好表示的字以中文解釋為主。
+- **目錄 14 張分類卡改成照片（2026-11-03 使用者要求，在 english-quiz 的工作階段做）**：`img/cats/<分類id>.jpg`（Pexels，16:10、640×400，出處在 `img/cats/PHOTO-CREDITS.md`），`index.html` 的 `draw()` 在卡片上方放 `<img class="ph">`，載入失敗時自動換回原本的 emoji。使用者選「先換分類卡，單字之後再一個主題一個主題換」——單字圖示目前仍是 emoji，之後要換照片就照 english-quiz 單字區的做法（Pexels 搜尋→逐張檢查→裁切→附出處）。
 
 ## 結構
 - `index.html`：14 類目錄＋主題清單（`TOPICS` 物件，做好一個主題就加一筆）。
