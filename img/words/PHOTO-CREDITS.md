@@ -250,3 +250,50 @@
 - horizon.jpg — https://www.pexels.com/photo/endless-blue-ocean-horizon-under-clear-sky-36475851/
 - island.jpg — https://www.pexels.com/photo/stunning-tropical-island-in-crystal-blue-sea-35581621/
 - ocean.jpg — https://www.pexels.com/photo/big-waves-on-sea-7762128/
+## hospital-1
+- ambulance.jpg — https://www.pexels.com/photo/blue-and-yellow-ambulance-6519847/
+- ward.jpg — https://www.pexels.com/photo/white-hospital-beds-236380/
+- patient.jpg — https://www.pexels.com/photo/patient-talking-while-lying-down-on-a-hospital-bed-6129152/
+- ear-nose-and-throat-doctor.jpg — https://www.pexels.com/photo/a-boy-having-his-ear-checked-with-an-otoscope-7179255/
+- dentist.jpg — https://www.pexels.com/photo/young-female-dentist-examining-teeth-of-patient-with-assistant-in-modern-clinic-3881296/
+- pediatrician.jpg — https://www.pexels.com/photo/doctor-examining-a-girl-with-a-stethoscope-7447001/
+- internist.jpg — https://www.pexels.com/photo/doctor-checking-the-heart-beat-of-a-man-5215012/
+- surgeon.jpg — https://www.pexels.com/photo/surgeon-preparing-in-operating-room-6291251/
+- waiting-room.jpg — https://www.pexels.com/photo/waiting-room-in-a-hospital-8459996/
+- operating-room.jpg — https://www.pexels.com/photo/modern-surgical-operating-room-interior-37654664/
+- icu.jpg — https://www.pexels.com/photo/modern-hospital-icu-room-with-medical-equipment-39459348/
+- intensive-care-unit.jpg — https://www.pexels.com/photo/vital-signs-monitor-in-close-up-photography-11198232/
+- obstetrician.jpg — https://www.pexels.com/photo/doctor-doing-an-ultrasound-7108418/
+- ophthalmologist.jpg — https://www.pexels.com/photo/a-man-having-eye-examination-6749706/
+- nurses-station.jpg — https://www.pexels.com/photo/a-doctor-and-nurses-having-conversation-6129159/
+- nurse.jpg — https://www.pexels.com/photo/a-young-woman-in-blue-scrubs-holding-a-stethoscope-4930705/
+
+## hospital-2
+- fever.jpg — https://www.pexels.com/photo/sick-blonde-girl-in-bed-19386204/
+- cold.jpg — https://www.pexels.com/photo/woman-blowing-nose-7195086/
+- cough.jpg — https://www.pexels.com/photo/a-man-in-a-plaid-shirt-coughing-11501479/
+- dizzy.jpg — https://www.pexels.com/photo/woman-with-headache-5979726/
+- stomachache.jpg — https://www.pexels.com/photo/man-in-white-shirt-suffering-from-a-stomach-pain-5712686/
+- headache.jpg — https://www.pexels.com/photo/female-student-suffering-from-headache-at-home-3808016/
+- crutch.jpg — https://www.pexels.com/photo/human-with-broken-leg-with-orthopedic-crutches-4067795/
+- walker.jpg — https://www.pexels.com/photo/senior-woman-with-walking-frame-9710830/
+- wheelchair.jpg — https://www.pexels.com/photo/man-on-a-wheelchair-6194680/
+- stretcher.jpg — https://www.pexels.com/photo/a-wheeled-stretcher-8943273/
+
+## hospital-3
+- ointment.jpg — https://www.pexels.com/photo/handing-of-tube-of-ointment-4021812/
+- mortar-and-pestle.jpg — https://www.pexels.com/photo/white-mortar-and-pestle-with-fresh-rosemary-33410907/
+- tweezers.jpg — https://www.pexels.com/photo/close-up-shot-of-fie-pointed-tweezers-o-marble-top-5128089/
+- face-mask.jpg — https://www.pexels.com/photo/diverse-girlfriends-wearing-masks-walking-with-bicycles-5965739/
+- syringe.jpg — https://www.pexels.com/photo/set-of-medical-syringes-on-yellow-background-4210554/
+- band-aid.jpg — https://www.pexels.com/photo/colorful-band-aids-on-white-12625109/
+- thermometer.jpg — https://www.pexels.com/photo/a-white-blue-digital-thermometer-7722669/
+- tablet.jpg — https://www.pexels.com/photo/photo-of-assorted-tablets-3873150/
+- pills.jpg — https://www.pexels.com/photo/photo-of-assorted-pills-3873141/
+- capsule.jpg — https://www.pexels.com/photo/white-medication-capsules-on-yellow-surface-3683113/
+- cotton-ball.jpg — https://www.pexels.com/photo/close-up-photo-of-cotton-balls-in-a-glass-container-6129902/
+- stethoscope.jpg — https://www.pexels.com/photo/silver-iphone-6-near-blue-and-silver-stethoscope-48603/
+- cpr.jpg — https://www.pexels.com/photo/hands-of-person-doing-cpr-on-training-dummy-11655091/
+- bandage.jpg — https://www.pexels.com/photo/bandage-on-blue-background-12585205/
+- sling.jpg — https://www.pexels.com/photo/person-with-blue-bandage-on-his-injured-arm-7140013/
+- gauze.jpg — https://www.pexels.com/photo/a-person-cutting-a-gauze-with-scissors-7469501/

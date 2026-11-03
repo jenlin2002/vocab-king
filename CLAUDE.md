@@ -21,6 +21,7 @@
 - **目錄 14 張分類卡改成照片（2026-11-03 使用者要求，在 english-quiz 的工作階段做）**：`img/cats/<分類id>.jpg`（Pexels，16:10、640×400，出處在 `img/cats/PHOTO-CREDITS.md`），`index.html` 的 `draw()` 在卡片上方放 `<img class="ph">`，載入失敗時自動換回原本的 emoji。使用者選「先換分類卡，單字之後再一個主題一個主題換」——單字圖示目前仍是 emoji，之後要換照片就照 english-quiz 單字區的做法（Pexels 搜尋→逐張檢查→裁切→附出處）。
 - **居家 10 個主題的單字改成照片（2026-11-03）**：照片放 `img/words/<主題id>/<slug>.jpg`（Pexels，4:3、640×480，出處在 `img/words/PHOTO-CREDITS.md`）。`tools/build_topic.py` 發現有照片就在單字資料加 `photo` 欄位，`topic.html` 的單字卡（`cardPic`）和看圖選字／拼字題（`quizPic`）優先用照片，沒有才用 emoji；場景圖的小圖示仍是 emoji。173 個字有 154 張照片，其餘 19 個（wall、toilet、scale、razor blade、scissors、ladle、cleaver、rice cooker、hot mitt、plastic wrap、fluorescent light、ladder、bucket、dryer、undershirt、two-pronged fork、bottle opener、rice spatula、paint）找不到清楚合適的照片，保留 emoji。換新照片後要重跑 `python tools/build_topic.py <名稱>`。其他類還是 emoji，之後一類一類換。
 - **校園的單字改成照片（2026-11-03）**：做法同居家。school-1 校園場所、school-2 教室、school-3 文具、school-8 地理共 76 字，有 67 張照片；沒有合適照片的保留 emoji：principal's office、guidance counselor's office、class schedule、desk mat、overhead projector、correction fluid、stapler、glue、basin。school-4 月份星期、school-5 顏色、school-6 形狀與數學符號、school-7 標點符號是抽象的，照片反而看不懂，整個主題保留 emoji／符號。出處一起寫在 `img/words/PHOTO-CREDITS.md`。
+- **醫院的單字改成照片（2026-11-03）**：hospital-1～3 共 46 字，有 42 張照片；保留 emoji 的是 emergency room（找不到清楚的急診室照片）、ear thermometer（搜到的都是耳鏡）、draw blood、blood transfusion（避免血液畫面）。手術類照片選沒有傷口、血的。
 
 ## 結構
 - `index.html`：14 類目錄＋主題清單（`TOPICS` 物件，做好一個主題就加一筆）。

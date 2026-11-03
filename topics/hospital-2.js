@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌡️",
    "ex": "He has a high fever.",
-   "exzh": "他發高燒。"
+   "exzh": "他發高燒。",
+   "photo": "img/words/hospital-2/fever.jpg"
   },
   {
    "w": "cold",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🤧",
    "ex": "I caught a cold last week.",
-   "exzh": "我上星期感冒了。"
+   "exzh": "我上星期感冒了。",
+   "photo": "img/words/hospital-2/cold.jpg"
   },
   {
    "w": "cough",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n./v.",
    "emoji": "😷",
    "ex": "She has a bad cough.",
-   "exzh": "她咳得很厲害。"
+   "exzh": "她咳得很厲害。",
+   "photo": "img/words/hospital-2/cough.jpg"
   },
   {
    "w": "dizzy",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "adj.",
    "emoji": "😵",
    "ex": "I feel dizzy when I stand up.",
-   "exzh": "我站起來時覺得頭暈。"
+   "exzh": "我站起來時覺得頭暈。",
+   "photo": "img/words/hospital-2/dizzy.jpg"
   },
   {
    "w": "stomachache",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🤢",
    "ex": "I have a stomachache after lunch.",
-   "exzh": "我午餐後肚子痛。"
+   "exzh": "我午餐後肚子痛。",
+   "photo": "img/words/hospital-2/stomachache.jpg"
   },
   {
    "w": "headache",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🤕",
    "ex": "A headache makes me tired.",
-   "exzh": "頭痛讓我很累。"
+   "exzh": "頭痛讓我很累。",
+   "photo": "img/words/hospital-2/headache.jpg"
   },
   {
    "w": "crutch",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦯",
    "ex": "He walks with a crutch.",
-   "exzh": "他拄著拐杖走路。"
+   "exzh": "他拄著拐杖走路。",
+   "photo": "img/words/hospital-2/crutch.jpg"
   },
   {
    "w": "walker",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚶",
    "ex": "Grandpa uses a walker.",
-   "exzh": "爺爺使用助行器。"
+   "exzh": "爺爺使用助行器。",
+   "photo": "img/words/hospital-2/walker.jpg"
   },
   {
    "w": "wheelchair",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "♿",
    "ex": "A nurse pushes the wheelchair.",
-   "exzh": "護理師推著輪椅。"
+   "exzh": "護理師推著輪椅。",
+   "photo": "img/words/hospital-2/wheelchair.jpg"
   },
   {
    "w": "stretcher",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛏️",
    "ex": "They carry the man on a stretcher.",
-   "exzh": "他們用擔架抬那個人。"
+   "exzh": "他們用擔架抬那個人。",
+   "photo": "img/words/hospital-2/stretcher.jpg"
   }
  ],
  "speakers": {

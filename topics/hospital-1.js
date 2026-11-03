@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚑",
    "ex": "The ambulance arrives in five minutes.",
-   "exzh": "救護車五分鐘後到。"
+   "exzh": "救護車五分鐘後到。",
+   "photo": "img/words/hospital-1/ambulance.jpg"
   },
   {
    "w": "ward",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛏️",
    "ex": "My grandma is in a ward on the third floor.",
-   "exzh": "我奶奶住在三樓的病房。"
+   "exzh": "我奶奶住在三樓的病房。",
+   "photo": "img/words/hospital-1/ward.jpg"
   },
   {
    "w": "patient",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🤒",
    "ex": "The nurse takes care of the patient.",
-   "exzh": "護理師照顧病人。"
+   "exzh": "護理師照顧病人。",
+   "photo": "img/words/hospital-1/patient.jpg"
   },
   {
    "w": "ear, nose and throat doctor",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👂",
    "ex": "The ear, nose and throat doctor checks my ears.",
-   "exzh": "耳鼻喉科醫師檢查我的耳朵。"
+   "exzh": "耳鼻喉科醫師檢查我的耳朵。",
+   "photo": "img/words/hospital-1/ear-nose-and-throat-doctor.jpg"
   },
   {
    "w": "dentist",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦷",
    "ex": "The dentist looks at my teeth.",
-   "exzh": "牙醫檢查我的牙齒。"
+   "exzh": "牙醫檢查我的牙齒。",
+   "photo": "img/words/hospital-1/dentist.jpg"
   },
   {
    "w": "pediatrician",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧒",
    "ex": "A pediatrician treats children.",
-   "exzh": "小兒科醫師替小朋友看病。"
+   "exzh": "小兒科醫師替小朋友看病。",
+   "photo": "img/words/hospital-1/pediatrician.jpg"
   },
   {
    "w": "internist",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🩺",
    "ex": "The internist treats my stomach.",
-   "exzh": "內科醫師治療我的胃。"
+   "exzh": "內科醫師治療我的胃。",
+   "photo": "img/words/hospital-1/internist.jpg"
   },
   {
    "w": "surgeon",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔪",
    "ex": "The surgeon does the operation.",
-   "exzh": "外科醫師進行手術。"
+   "exzh": "外科醫師進行手術。",
+   "photo": "img/words/hospital-1/surgeon.jpg"
   },
   {
    "w": "waiting room",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪑",
    "ex": "We sit in the waiting room.",
-   "exzh": "我們坐在候診室。"
+   "exzh": "我們坐在候診室。",
+   "photo": "img/words/hospital-1/waiting-room.jpg"
   },
   {
    "w": "operating room",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏥",
    "ex": "The operating room is very clean.",
-   "exzh": "手術室非常乾淨。"
+   "exzh": "手術室非常乾淨。",
+   "photo": "img/words/hospital-1/operating-room.jpg"
   },
   {
    "w": "ICU",
@@ -102,7 +112,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🆘",
    "ex": "The patient is in the ICU.",
-   "exzh": "病人在加護病房裡。"
+   "exzh": "病人在加護病房裡。",
+   "photo": "img/words/hospital-1/icu.jpg"
   },
   {
    "w": "intensive care unit",
@@ -111,7 +122,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🆘",
    "ex": "The intensive care unit is on the fifth floor.",
-   "exzh": "加護病房在五樓。"
+   "exzh": "加護病房在五樓。",
+   "photo": "img/words/hospital-1/intensive-care-unit.jpg"
   },
   {
    "w": "obstetrician",
@@ -120,7 +132,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🤰",
    "ex": "An obstetrician delivers babies.",
-   "exzh": "婦產科醫師接生嬰兒。"
+   "exzh": "婦產科醫師接生嬰兒。",
+   "photo": "img/words/hospital-1/obstetrician.jpg"
   },
   {
    "w": "ophthalmologist",
@@ -129,7 +142,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👁️",
    "ex": "The ophthalmologist checks my eyes.",
-   "exzh": "眼科醫師檢查我的眼睛。"
+   "exzh": "眼科醫師檢查我的眼睛。",
+   "photo": "img/words/hospital-1/ophthalmologist.jpg"
   },
   {
    "w": "nurses' station",
@@ -138,7 +152,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🗂️",
    "ex": "The nurses' station is near the elevator.",
-   "exzh": "護理站在電梯旁邊。"
+   "exzh": "護理站在電梯旁邊。",
+   "photo": "img/words/hospital-1/nurses-station.jpg"
   },
   {
    "w": "nurse",
@@ -147,7 +162,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👩‍⚕️",
    "ex": "The nurse is kind.",
-   "exzh": "護理師很親切。"
+   "exzh": "護理師很親切。",
+   "photo": "img/words/hospital-1/nurse.jpg"
   },
   {
    "w": "emergency room",

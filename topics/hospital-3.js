@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧴",
    "ex": "Put some ointment on the cut.",
-   "exzh": "在傷口上擦一點藥膏。"
+   "exzh": "在傷口上擦一點藥膏。",
+   "photo": "img/words/hospital-3/ointment.jpg"
   },
   {
    "w": "mortar and pestle",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⚗️",
    "ex": "The pharmacist grinds the medicine with a mortar and pestle.",
-   "exzh": "藥師用研缽和研杵磨藥。"
+   "exzh": "藥師用研缽和研杵磨藥。",
+   "photo": "img/words/hospital-3/mortar-and-pestle.jpg"
   },
   {
    "w": "tweezers",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔧",
    "ex": "Use tweezers to take out the splinter.",
-   "exzh": "用鑷子把木刺夾出來。"
+   "exzh": "用鑷子把木刺夾出來。",
+   "photo": "img/words/hospital-3/tweezers.jpg"
   },
   {
    "w": "ear thermometer",
@@ -48,7 +51,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "😷",
    "ex": "Wear a face mask when you have a cold.",
-   "exzh": "感冒時要戴口罩。"
+   "exzh": "感冒時要戴口罩。",
+   "photo": "img/words/hospital-3/face-mask.jpg"
   },
   {
    "w": "syringe",
@@ -57,7 +61,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💉",
    "ex": "The doctor fills the syringe with medicine.",
-   "exzh": "醫生把藥水吸進針筒。"
+   "exzh": "醫生把藥水吸進針筒。",
+   "photo": "img/words/hospital-3/syringe.jpg"
   },
   {
    "w": "Band-Aid",
@@ -66,7 +71,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🩹",
    "ex": "Put a Band-Aid on your finger.",
-   "exzh": "在你的手指貼上 OK 繃。"
+   "exzh": "在你的手指貼上 OK 繃。",
+   "photo": "img/words/hospital-3/band-aid.jpg"
   },
   {
    "w": "thermometer",
@@ -75,7 +81,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌡️",
    "ex": "Put the thermometer under your arm.",
-   "exzh": "把溫度計夾在腋下。"
+   "exzh": "把溫度計夾在腋下。",
+   "photo": "img/words/hospital-3/thermometer.jpg"
   },
   {
    "w": "tablet",
@@ -84,7 +91,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💊",
    "ex": "Take one tablet after meals.",
-   "exzh": "飯後吃一顆藥片。"
+   "exzh": "飯後吃一顆藥片。",
+   "photo": "img/words/hospital-3/tablet.jpg"
   },
   {
    "w": "pills",
@@ -93,7 +101,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💊",
    "ex": "Don't take too many pills.",
-   "exzh": "不要吃太多藥丸。"
+   "exzh": "不要吃太多藥丸。",
+   "photo": "img/words/hospital-3/pills.jpg"
   },
   {
    "w": "capsule",
@@ -102,7 +111,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💊",
    "ex": "This capsule is easy to swallow.",
-   "exzh": "這顆膠囊很好吞。"
+   "exzh": "這顆膠囊很好吞。",
+   "photo": "img/words/hospital-3/capsule.jpg"
   },
   {
    "w": "cotton ball",
@@ -111,7 +121,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⚪",
    "ex": "Clean the cut with a cotton ball.",
-   "exzh": "用棉球清潔傷口。"
+   "exzh": "用棉球清潔傷口。",
+   "photo": "img/words/hospital-3/cotton-ball.jpg"
   },
   {
    "w": "stethoscope",
@@ -120,7 +131,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🩺",
    "ex": "The doctor listens with a stethoscope.",
-   "exzh": "醫生用聽診器聽診。"
+   "exzh": "醫生用聽診器聽診。",
+   "photo": "img/words/hospital-3/stethoscope.jpg"
   },
   {
    "w": "draw blood",
@@ -147,7 +159,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "❤️",
    "ex": "He knows how to do CPR.",
-   "exzh": "他知道怎麼做心肺復甦術。"
+   "exzh": "他知道怎麼做心肺復甦術。",
+   "photo": "img/words/hospital-3/cpr.jpg"
   },
   {
    "w": "bandage",
@@ -156,7 +169,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🩹",
    "ex": "Wrap the bandage around the arm.",
-   "exzh": "把繃帶纏在手臂上。"
+   "exzh": "把繃帶纏在手臂上。",
+   "photo": "img/words/hospital-3/bandage.jpg"
   },
   {
    "w": "sling",
@@ -165,7 +179,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💪",
    "ex": "Her arm is in a sling.",
-   "exzh": "她的手臂掛在三角吊帶裡。"
+   "exzh": "她的手臂掛在三角吊帶裡。",
+   "photo": "img/words/hospital-3/sling.jpg"
   },
   {
    "w": "gauze",
@@ -174,7 +189,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧻",
    "ex": "Cover the cut with gauze.",
-   "exzh": "用紗布蓋住傷口。"
+   "exzh": "用紗布蓋住傷口。",
+   "photo": "img/words/hospital-3/gauze.jpg"
   }
  ],
  "speakers": {
