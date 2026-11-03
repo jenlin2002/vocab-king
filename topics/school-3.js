@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📎",
    "ex": "Put a paper clip on the papers.",
-   "exzh": "用迴紋針夾住這些紙。"
+   "exzh": "用迴紋針夾住這些紙。",
+   "photo": "img/words/school-3/paper-clip.jpg"
   },
   {
    "w": "calligraphy brush",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🖌️",
    "ex": "He writes Chinese with a calligraphy brush.",
-   "exzh": "他用毛筆寫中文字。"
+   "exzh": "他用毛筆寫中文字。",
+   "photo": "img/words/school-3/calligraphy-brush.jpg"
   },
   {
    "w": "fountain pen",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🖋️",
    "ex": "My grandpa uses a fountain pen.",
-   "exzh": "我爺爺用鋼筆。"
+   "exzh": "我爺爺用鋼筆。",
+   "photo": "img/words/school-3/fountain-pen.jpg"
   },
   {
    "w": "ballpoint pen",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🖊️",
    "ex": "I need a blue ballpoint pen.",
-   "exzh": "我需要一支藍色原子筆。"
+   "exzh": "我需要一支藍色原子筆。",
+   "photo": "img/words/school-3/ballpoint-pen.jpg"
   },
   {
    "w": "pencil",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "✏️",
    "ex": "Sharpen your pencil before the test.",
-   "exzh": "考試前先把鉛筆削尖。"
+   "exzh": "考試前先把鉛筆削尖。",
+   "photo": "img/words/school-3/pencil.jpg"
   },
   {
    "w": "mechanical pencil",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "✒️",
    "ex": "I like my mechanical pencil.",
-   "exzh": "我喜歡我的自動鉛筆。"
+   "exzh": "我喜歡我的自動鉛筆。",
+   "photo": "img/words/school-3/mechanical-pencil.jpg"
   },
   {
    "w": "compass",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📐",
    "ex": "Draw a circle with a compass.",
-   "exzh": "用圓規畫一個圓。"
+   "exzh": "用圓規畫一個圓。",
+   "photo": "img/words/school-3/compass.jpg"
   },
   {
    "w": "thumbtack",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📍",
    "ex": "Put the poster up with thumbtacks.",
-   "exzh": "用圖釘把海報釘起來。"
+   "exzh": "用圖釘把海報釘起來。",
+   "photo": "img/words/school-3/thumbtack.jpg"
   },
   {
    "w": "crayon",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🖍️",
    "ex": "The little girl draws with crayons.",
-   "exzh": "小女孩用蠟筆畫畫。"
+   "exzh": "小女孩用蠟筆畫畫。",
+   "photo": "img/words/school-3/crayon.jpg"
   },
   {
    "w": "felt-tip pen",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🖊️",
    "ex": "Write your name with a felt-tip pen.",
-   "exzh": "用簽字筆寫上你的名字。"
+   "exzh": "用簽字筆寫上你的名字。",
+   "photo": "img/words/school-3/felt-tip-pen.jpg"
   },
   {
    "w": "marker",
@@ -102,7 +112,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🖍️",
    "ex": "The teacher uses a red marker.",
-   "exzh": "老師用紅色麥克筆。"
+   "exzh": "老師用紅色麥克筆。",
+   "photo": "img/words/school-3/marker.jpg"
   },
   {
    "w": "paint palette",
@@ -111,7 +122,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎨",
    "ex": "Mix the colors on the paint palette.",
-   "exzh": "在調色盤上調顏色。"
+   "exzh": "在調色盤上調顏色。",
+   "photo": "img/words/school-3/paint-palette.jpg"
   },
   {
    "w": "paint",
@@ -120,7 +132,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎨",
    "ex": "We bought some blue paint for art class.",
-   "exzh": "我們為美術課買了一些藍色顏料。"
+   "exzh": "我們為美術課買了一些藍色顏料。",
+   "photo": "img/words/school-3/paint.jpg"
   },
   {
    "w": "binder paper",
@@ -129,7 +142,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📄",
    "ex": "Take out a sheet of binder paper.",
-   "exzh": "拿出一張活頁紙。"
+   "exzh": "拿出一張活頁紙。",
+   "photo": "img/words/school-3/binder-paper.jpg"
   },
   {
    "w": "stapler",
@@ -147,7 +161,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📓",
    "ex": "I write new words in my notebook.",
-   "exzh": "我把新單字寫在筆記本裡。"
+   "exzh": "我把新單字寫在筆記本裡。",
+   "photo": "img/words/school-3/notebook.jpg"
   },
   {
    "w": "ink",
@@ -156,7 +171,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🖋️",
    "ex": "The pen is out of ink.",
-   "exzh": "這支筆沒墨水了。"
+   "exzh": "這支筆沒墨水了。",
+   "photo": "img/words/school-3/ink.jpg"
   },
   {
    "w": "ruler",
@@ -165,7 +181,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📏",
    "ex": "Draw a straight line with a ruler.",
-   "exzh": "用尺畫一條直線。"
+   "exzh": "用尺畫一條直線。",
+   "photo": "img/words/school-3/ruler.jpg"
   },
   {
    "w": "correction fluid",
@@ -183,7 +200,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "✂️",
    "ex": "The pencil sharpener is on my desk.",
-   "exzh": "削鉛筆機在我的桌上。"
+   "exzh": "削鉛筆機在我的桌上。",
+   "photo": "img/words/school-3/pencil-sharpener.jpg"
   },
   {
    "w": "glue",

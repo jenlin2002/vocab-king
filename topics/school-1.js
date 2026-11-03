@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏟️",
    "ex": "The boys play soccer on the field.",
-   "exzh": "男生們在運動場上踢足球。"
+   "exzh": "男生們在運動場上踢足球。",
+   "photo": "img/words/school-1/field.jpg"
   },
   {
    "w": "track",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏃",
    "ex": "She runs around the track every morning.",
-   "exzh": "她每天早上繞著跑道跑步。"
+   "exzh": "她每天早上繞著跑道跑步。",
+   "photo": "img/words/school-1/track.jpg"
   },
   {
    "w": "basketball court",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏀",
    "ex": "We play on the basketball court after school.",
-   "exzh": "我們放學後在籃球場打球。"
+   "exzh": "我們放學後在籃球場打球。",
+   "photo": "img/words/school-1/basketball-court.jpg"
   },
   {
    "w": "school yard",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌳",
    "ex": "Children are playing in the school yard.",
-   "exzh": "孩子們在校園裡玩耍。"
+   "exzh": "孩子們在校園裡玩耍。",
+   "photo": "img/words/school-1/school-yard.jpg"
   },
   {
    "w": "fountain",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⛲",
    "ex": "There is a fountain in the middle of the school yard.",
-   "exzh": "校園中間有一座噴水池。"
+   "exzh": "校園中間有一座噴水池。",
+   "photo": "img/words/school-1/fountain.jpg"
   },
   {
    "w": "school gate",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚪",
    "ex": "Wait for me at the school gate.",
-   "exzh": "在校門口等我。"
+   "exzh": "在校門口等我。",
+   "photo": "img/words/school-1/school-gate.jpg"
   },
   {
    "w": "office",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏢",
    "ex": "Please bring this form to the office.",
-   "exzh": "請把這張表格拿到辦公室。"
+   "exzh": "請把這張表格拿到辦公室。",
+   "photo": "img/words/school-1/office.jpg"
   },
   {
    "w": "bulletin board",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📌",
    "ex": "The test dates are on the bulletin board.",
-   "exzh": "考試日期貼在布告欄上。"
+   "exzh": "考試日期貼在布告欄上。",
+   "photo": "img/words/school-1/bulletin-board.jpg"
   },
   {
    "w": "principal's office",
@@ -93,7 +101,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔐",
    "ex": "I keep my books in my locker.",
-   "exzh": "我把書放在置物櫃裡。"
+   "exzh": "我把書放在置物櫃裡。",
+   "photo": "img/words/school-1/lockers.jpg"
   },
   {
    "w": "auditorium",
@@ -102,7 +111,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎭",
    "ex": "The singing contest is in the auditorium.",
-   "exzh": "歌唱比賽在大禮堂舉行。"
+   "exzh": "歌唱比賽在大禮堂舉行。",
+   "photo": "img/words/school-1/auditorium.jpg"
   },
   {
    "w": "restroom",
@@ -111,7 +121,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚻",
    "ex": "May I go to the restroom?",
-   "exzh": "我可以去洗手間嗎？"
+   "exzh": "我可以去洗手間嗎？",
+   "photo": "img/words/school-1/restroom.jpg"
   },
   {
    "w": "classroom",
@@ -120,7 +131,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏫",
    "ex": "Our classroom is on the third floor.",
-   "exzh": "我們的教室在三樓。"
+   "exzh": "我們的教室在三樓。",
+   "photo": "img/words/school-1/classroom.jpg"
   },
   {
    "w": "language lab",
@@ -129,7 +141,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎧",
    "ex": "We practice English in the language lab.",
-   "exzh": "我們在語言教室練習英文。"
+   "exzh": "我們在語言教室練習英文。",
+   "photo": "img/words/school-1/language-lab.jpg"
   },
   {
    "w": "chemistry lab",
@@ -138,7 +151,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧪",
    "ex": "Wear goggles in the chemistry lab.",
-   "exzh": "在化學實驗室要戴護目鏡。"
+   "exzh": "在化學實驗室要戴護目鏡。",
+   "photo": "img/words/school-1/chemistry-lab.jpg"
   },
   {
    "w": "hallway",
@@ -147,7 +161,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚶",
    "ex": "Don't run in the hallway.",
-   "exzh": "不要在走廊上奔跑。"
+   "exzh": "不要在走廊上奔跑。",
+   "photo": "img/words/school-1/hallway.jpg"
   },
   {
    "w": "library",
@@ -156,7 +171,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📚",
    "ex": "I borrow comic books from the library.",
-   "exzh": "我從圖書館借漫畫書。"
+   "exzh": "我從圖書館借漫畫書。",
+   "photo": "img/words/school-1/library.jpg"
   },
   {
    "w": "nurse's office",
@@ -165,7 +181,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🩺",
    "ex": "He went to the nurse's office with a headache.",
-   "exzh": "他因為頭痛去保健室。"
+   "exzh": "他因為頭痛去保健室。",
+   "photo": "img/words/school-1/nurse-s-office.jpg"
   },
   {
    "w": "guidance counselor's office",
@@ -183,7 +200,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍱",
    "ex": "We eat lunch in the cafeteria.",
-   "exzh": "我們在學生餐廳吃午餐。"
+   "exzh": "我們在學生餐廳吃午餐。",
+   "photo": "img/words/school-1/cafeteria.jpg"
   }
  ],
  "speakers": {

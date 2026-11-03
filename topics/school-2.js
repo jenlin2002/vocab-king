@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⬛",
    "ex": "The teacher writes on the blackboard.",
-   "exzh": "老師在黑板上寫字。"
+   "exzh": "老師在黑板上寫字。",
+   "photo": "img/words/school-2/blackboard.jpg"
   },
   {
    "w": "class schedule",
@@ -30,7 +31,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧽",
    "ex": "Please clean the blackboard with the eraser.",
-   "exzh": "請用板擦把黑板擦乾淨。"
+   "exzh": "請用板擦把黑板擦乾淨。",
+   "photo": "img/words/school-2/eraser.jpg"
   },
   {
    "w": "chalk",
@@ -39,7 +41,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🖍️",
    "ex": "The chalk is on the desk.",
-   "exzh": "粉筆在桌上。"
+   "exzh": "粉筆在桌上。",
+   "photo": "img/words/school-2/chalk.jpg"
   },
   {
    "w": "microphone",
@@ -48,7 +51,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎤",
    "ex": "Speak into the microphone, please.",
-   "exzh": "請對著麥克風說話。"
+   "exzh": "請對著麥克風說話。",
+   "photo": "img/words/school-2/microphone.jpg"
   },
   {
    "w": "platform",
@@ -57,7 +61,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪜",
    "ex": "The teacher stands on the platform.",
-   "exzh": "老師站在講台上。"
+   "exzh": "老師站在講台上。",
+   "photo": "img/words/school-2/platform.jpg"
   },
   {
    "w": "desk mat",
@@ -75,7 +80,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "✏️",
    "ex": "My pencil box is full of pens.",
-   "exzh": "我的鉛筆盒裡裝滿了筆。"
+   "exzh": "我的鉛筆盒裡裝滿了筆。",
+   "photo": "img/words/school-2/pencil-box.jpg"
   },
   {
    "w": "desk",
@@ -84,7 +90,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪑",
    "ex": "My desk is next to the window.",
-   "exzh": "我的書桌靠近窗戶。"
+   "exzh": "我的書桌靠近窗戶。",
+   "photo": "img/words/school-2/desk.jpg"
   },
   {
    "w": "public address system",
@@ -93,7 +100,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📢",
    "ex": "The principal speaks over the public address system.",
-   "exzh": "校長透過廣播系統說話。"
+   "exzh": "校長透過廣播系統說話。",
+   "photo": "img/words/school-2/public-address-system.jpg"
   },
   {
    "w": "globe",
@@ -102,7 +110,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌐",
    "ex": "Find Taiwan on the globe.",
-   "exzh": "在地球儀上找出台灣。"
+   "exzh": "在地球儀上找出台灣。",
+   "photo": "img/words/school-2/globe.jpg"
   },
   {
    "w": "map",
@@ -111,7 +120,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🗺️",
    "ex": "The map is on the wall.",
-   "exzh": "地圖掛在牆上。"
+   "exzh": "地圖掛在牆上。",
+   "photo": "img/words/school-2/map.jpg"
   },
   {
    "w": "organ",
@@ -120,7 +130,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎹",
    "ex": "The music teacher plays the organ.",
-   "exzh": "音樂老師彈風琴。"
+   "exzh": "音樂老師彈風琴。",
+   "photo": "img/words/school-2/organ.jpg"
   },
   {
    "w": "overhead projector",
@@ -138,7 +149,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📖",
    "ex": "Open your textbook to page ten.",
-   "exzh": "請把課本翻到第十頁。"
+   "exzh": "請把課本翻到第十頁。",
+   "photo": "img/words/school-2/textbook.jpg"
   }
  ],
  "speakers": {

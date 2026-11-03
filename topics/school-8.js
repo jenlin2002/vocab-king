@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⛰️",
    "ex": "The plateau is high and flat.",
-   "exzh": "高原又高又平坦。"
+   "exzh": "高原又高又平坦。",
+   "photo": "img/words/school-8/plateau.jpg"
   },
   {
    "w": "waterfall",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌊",
    "ex": "We took photos of the waterfall.",
-   "exzh": "我們拍了瀑布的照片。"
+   "exzh": "我們拍了瀑布的照片。",
+   "photo": "img/words/school-8/waterfall.jpg"
   },
   {
    "w": "forest",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌲",
    "ex": "Many animals live in the forest.",
-   "exzh": "很多動物住在森林裡。"
+   "exzh": "很多動物住在森林裡。",
+   "photo": "img/words/school-8/forest.jpg"
   },
   {
    "w": "lake",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏞️",
    "ex": "We swim in the lake in summer.",
-   "exzh": "夏天我們在湖裡游泳。"
+   "exzh": "夏天我們在湖裡游泳。",
+   "photo": "img/words/school-8/lake.jpg"
   },
   {
    "w": "peak",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏔️",
    "ex": "The peak is covered with snow.",
-   "exzh": "山峰被雪覆蓋。"
+   "exzh": "山峰被雪覆蓋。",
+   "photo": "img/words/school-8/peak.jpg"
   },
   {
    "w": "mountain",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⛰️",
    "ex": "Jade Mountain is the highest mountain in Taiwan.",
-   "exzh": "玉山是台灣最高的山。"
+   "exzh": "玉山是台灣最高的山。",
+   "photo": "img/words/school-8/mountain.jpg"
   },
   {
    "w": "dam",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚧",
    "ex": "The dam stops the river.",
-   "exzh": "水壩擋住了河水。"
+   "exzh": "水壩擋住了河水。",
+   "photo": "img/words/school-8/dam.jpg"
   },
   {
    "w": "river",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌊",
    "ex": "The river flows to the sea.",
-   "exzh": "河流流向大海。"
+   "exzh": "河流流向大海。",
+   "photo": "img/words/school-8/river.jpg"
   },
   {
    "w": "pond",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦆",
    "ex": "Ducks swim in the pond.",
-   "exzh": "鴨子在池塘裡游泳。"
+   "exzh": "鴨子在池塘裡游泳。",
+   "photo": "img/words/school-8/pond.jpg"
   },
   {
    "w": "woods",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌳",
    "ex": "We walked through the woods.",
-   "exzh": "我們穿過樹林。"
+   "exzh": "我們穿過樹林。",
+   "photo": "img/words/school-8/woods.jpg"
   },
   {
    "w": "valley",
@@ -102,7 +112,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏞️",
    "ex": "A small village is in the valley.",
-   "exzh": "山谷裡有個小村莊。"
+   "exzh": "山谷裡有個小村莊。",
+   "photo": "img/words/school-8/valley.jpg"
   },
   {
    "w": "basin",
@@ -120,7 +131,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌾",
    "ex": "Farmers grow rice on the plain.",
-   "exzh": "農夫在平原上種稻。"
+   "exzh": "農夫在平原上種稻。",
+   "photo": "img/words/school-8/plain.jpg"
   },
   {
    "w": "sandbar",
@@ -129,7 +141,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏝️",
    "ex": "Birds rest on the sandbar.",
-   "exzh": "鳥兒在沙洲上休息。"
+   "exzh": "鳥兒在沙洲上休息。",
+   "photo": "img/words/school-8/sandbar.jpg"
   },
   {
    "w": "harbor",
@@ -138,7 +151,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⚓",
    "ex": "Ships are in the harbor.",
-   "exzh": "船隻停在港口。"
+   "exzh": "船隻停在港口。",
+   "photo": "img/words/school-8/harbor.jpg"
   },
   {
    "w": "beach",
@@ -147,7 +161,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏖️",
    "ex": "We play on the beach.",
-   "exzh": "我們在海灘上玩。"
+   "exzh": "我們在海灘上玩。",
+   "photo": "img/words/school-8/beach.jpg"
   },
   {
    "w": "sunset",
@@ -156,7 +171,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌇",
    "ex": "The sunset is beautiful.",
-   "exzh": "日落很美。"
+   "exzh": "日落很美。",
+   "photo": "img/words/school-8/sunset.jpg"
   },
   {
    "w": "horizon",
@@ -165,7 +181,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌅",
    "ex": "The sun goes below the horizon.",
-   "exzh": "太陽沉到地平線下。"
+   "exzh": "太陽沉到地平線下。",
+   "photo": "img/words/school-8/horizon.jpg"
   },
   {
    "w": "island",
@@ -174,7 +191,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏝️",
    "ex": "Taiwan is an island.",
-   "exzh": "台灣是一個島。"
+   "exzh": "台灣是一個島。",
+   "photo": "img/words/school-8/island.jpg"
   },
   {
    "w": "ocean",
@@ -183,7 +201,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌊",
    "ex": "The Pacific Ocean is very big.",
-   "exzh": "太平洋非常大。"
+   "exzh": "太平洋非常大。",
+   "photo": "img/words/school-8/ocean.jpg"
   }
  ],
  "speakers": {

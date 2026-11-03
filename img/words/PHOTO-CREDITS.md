@@ -1,4 +1,4 @@
-# 單字照片出處（居家 10 個主題）
+# 單字照片出處
 
 照片都來自 Pexels（https://www.pexels.com/license/ ，可免費使用、不需標示，這裡仍列出原始頁面）。
 裁成 4:3、640×480。沒有照片的單字在頁面上顯示 emoji。
@@ -176,3 +176,77 @@
 - nail.jpg — https://www.pexels.com/photo/close-up-of-metal-nails-in-a-pile-36398239/
 - shovel.jpg — https://www.pexels.com/photo/a-person-using-a-shovel-8926956/
 - sponge.jpg — https://www.pexels.com/photo/colorful-kitchen-sponges-stacked-in-studio-40085652/
+## school-1
+- field.jpg — https://www.pexels.com/photo/top-down-view-of-empty-soccer-field-with-net-37478244/
+- track.jpg — https://www.pexels.com/photo/numbers-on-athletics-tracks-8533636/
+- basketball-court.jpg — https://www.pexels.com/photo/basketball-court-2968077/
+- school-yard.jpg — https://www.pexels.com/photo/empty-sports-ground-near-school-5896843/
+- fountain.jpg — https://www.pexels.com/photo/public-drinking-fountain-made-of-stainless-steel-18758240/
+- school-gate.jpg — https://www.pexels.com/photo/rainy-school-playground-in-setagaya-tokyo-29241371/
+- office.jpg — https://www.pexels.com/photo/desks-and-armchairs-in-office-8297845/
+- bulletin-board.jpg — https://www.pexels.com/photo/a-corkboard-with-blank-notes-8534461/
+- lockers.jpg — https://www.pexels.com/photo/school-hallway-lockers-with-combination-locks-37991788/
+- auditorium.jpg — https://www.pexels.com/photo/modern-theater-seats-in-a-blue-auditorium-32731350/
+- restroom.jpg — https://www.pexels.com/photo/corridor-and-restroom-signs-16978884/
+- classroom.jpg — https://www.pexels.com/photo/empty-classroom-with-desks-and-chalkboard-36650154/
+- language-lab.jpg — https://www.pexels.com/photo/computer-classroom-with-focused-students-35571660/
+- chemistry-lab.jpg — https://www.pexels.com/photo/laboratory-interior-3735754/
+- hallway.jpg — https://www.pexels.com/photo/empty-school-corridor-with-shiny-floor-35758721/
+- library.jpg — https://www.pexels.com/photo/photo-of-books-on-brown-shelves-3747487/
+- nurse-s-office.jpg — https://www.pexels.com/photo/white-and-brown-hospital-beds-7335565/
+- cafeteria.jpg — https://www.pexels.com/photo/empty-modern-school-cafeteria-with-reflection-34779210/
+
+## school-2
+- blackboard.jpg — https://www.pexels.com/photo/green-chalkboard-with-writings-8500618/
+- eraser.jpg — https://www.pexels.com/photo/person-erasing-the-chalkboard-3825274/
+- chalk.jpg — https://www.pexels.com/photo/colorful-chalks-in-a-box-8275228/
+- microphone.jpg — https://www.pexels.com/photo/black-and-gray-microphone-164829/
+- platform.jpg — https://www.pexels.com/photo/instructor-giving-a-lecture-in-a-lecture-room-10498796/
+- pencil-box.jpg — https://www.pexels.com/photo/colorful-pencils-in-patterned-pencil-case-37187501/
+- desk.jpg — https://www.pexels.com/photo/sunlit-classroom-with-empty-wooden-desks-36159721/
+- public-address-system.jpg — https://www.pexels.com/photo/loud-speaker-on-a-post-12404226/
+- globe.jpg — https://www.pexels.com/photo/globe-and-book-on-wooden-table-8926405/
+- map.jpg — https://www.pexels.com/photo/cork-world-map-on-white-background-7634433/
+- organ.jpg — https://www.pexels.com/photo/vintage-electric-organ-keyboard-close-up-31570115/
+- textbook.jpg — https://www.pexels.com/photo/opened-book-240163/
+
+## school-3
+- paper-clip.jpg — https://www.pexels.com/photo/paper-clips-on-white-surface-760897/
+- calligraphy-brush.jpg — https://www.pexels.com/photo/set-of-calligraphy-brushes-near-paper-with-hieroglyphs-5697669/
+- fountain-pen.jpg — https://www.pexels.com/photo/selective-focus-photography-of-fountain-pen-on-white-surface-1090680/
+- ballpoint-pen.jpg — https://www.pexels.com/photo/colorful-pens-on-orange-background-6187600/
+- pencil.jpg — https://www.pexels.com/photo/various-pencils-with-erasers-on-a-box-8478389/
+- mechanical-pencil.jpg — https://www.pexels.com/photo/photo-of-blue-pencils-near-a-mechanical-pencil-8250942/
+- compass.jpg — https://www.pexels.com/photo/compass-on-graphing-paper-4737237/
+- thumbtack.jpg — https://www.pexels.com/photo/close-up-shot-of-thumb-tacks-on-pink-surface-9742973/
+- crayon.jpg — https://www.pexels.com/photo/assorted-crayons-4480173/
+- felt-tip-pen.jpg — https://www.pexels.com/photo/photo-of-many-colorful-markers-14197645/
+- marker.jpg — https://www.pexels.com/photo/set-of-assorted-markers-in-hand-4219102/
+- paint-palette.jpg — https://www.pexels.com/photo/colorful-watercolor-palette-on-artist-table-39670236/
+- paint.jpg — https://www.pexels.com/photo/watercolors-with-paintbrushes-19196316/
+- binder-paper.jpg — https://www.pexels.com/photo/plenty-lined-white-papers-8386523/
+- notebook.jpg — https://www.pexels.com/photo/white-notebook-on-white-table-7439131/
+- ink.jpg — https://www.pexels.com/photo/ink-bottle-on-white-paper-7333604/
+- ruler.jpg — https://www.pexels.com/photo/brown-rulers-on-the-table-6281140/
+- pencil-sharpener.jpg — https://www.pexels.com/photo/sharpener-and-pencil-on-top-of-stationery-6837785/
+
+## school-8
+- plateau.jpg — https://www.pexels.com/photo/scenic-view-of-rocky-plateaus-at-sunset-34833020/
+- waterfall.jpg — https://www.pexels.com/photo/green-trees-beside-the-waterfalls-12360414/
+- forest.jpg — https://www.pexels.com/photo/tranquil-natural-forest-with-tall-trees-33164661/
+- lake.jpg — https://www.pexels.com/photo/scenic-mountain-lake-with-clear-reflections-36103492/
+- peak.jpg — https://www.pexels.com/photo/majestic-view-of-mount-machapuchare-s-snowy-peak-36078139/
+- mountain.jpg — https://www.pexels.com/photo/grey-and-green-mountain-1677344/
+- dam.jpg — https://www.pexels.com/photo/stunning-aerial-view-of-a-hydro-electric-dam-in-a-serene-valley-38714300/
+- river.jpg — https://www.pexels.com/photo/scenic-view-of-flowing-river-on-a-forest-14942582/
+- pond.jpg — https://www.pexels.com/photo/tranquil-waterlily-pond-with-reflections-40303946/
+- woods.jpg — https://www.pexels.com/photo/serene-forest-path-with-sunlit-greenery-38168331/
+- valley.jpg — https://www.pexels.com/photo/river-between-mountains-8701922/
+- plain.jpg — https://www.pexels.com/photo/wide-open-plains-under-serene-sky-28511166/
+- sandbar.jpg — https://www.pexels.com/photo/strip-of-sand-beach-in-beautiful-blue-ocean-11118961/
+- harbor.jpg — https://www.pexels.com/photo/boats-docked-in-the-harbor-11195818/
+- beach.jpg — https://www.pexels.com/photo/tranquil-beach-scene-in-binh-thuan-vietnam-38259971/
+- sunset.jpg — https://www.pexels.com/photo/stunning-sunset-over-silhouetted-horizon-34638990/
+- horizon.jpg — https://www.pexels.com/photo/endless-blue-ocean-horizon-under-clear-sky-36475851/
+- island.jpg — https://www.pexels.com/photo/stunning-tropical-island-in-crystal-blue-sea-35581621/
+- ocean.jpg — https://www.pexels.com/photo/big-waves-on-sea-7762128/
