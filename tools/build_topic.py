@@ -73,6 +73,10 @@ def build(name):
         speakers=T["speakers"], dialogueTitle=T["dialogueTitle"],
         dialogue=[dict(s=s, en=en, zh=zh) for s, en, zh in T["dialogue"]],
     )
+    for w in out["words"]:   # 有照片（img/words/<主題id>/<slug>.jpg）就記下路徑，頁面優先用照片，沒有才用 emoji
+        rel = "img/words/%s/%s.jpg" % (T["id"], w["slug"])
+        if os.path.isfile(os.path.join(ROOT, rel)):
+            w["photo"] = rel
     slugs = [w["slug"] for w in out["words"]]
     scene = None
     sc = os.path.join(HERE, "scene_%s.py" % name)

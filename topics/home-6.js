@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⏰",
    "ex": "My alarm clock rings at six thirty.",
-   "exzh": "我的鬧鐘在六點半響。"
+   "exzh": "我的鬧鐘在六點半響。",
+   "photo": "img/words/home-6/alarm-clock.jpg"
   },
   {
    "w": "picture frame",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🖼️",
    "ex": "There is a picture frame on my desk.",
-   "exzh": "我的書桌上有一個相框。"
+   "exzh": "我的書桌上有一個相框。",
+   "photo": "img/words/home-6/picture-frame.jpg"
   },
   {
    "w": "lamp",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💡",
    "ex": "Turn off the lamp before you sleep.",
-   "exzh": "睡覺前把檯燈關掉。"
+   "exzh": "睡覺前把檯燈關掉。",
+   "photo": "img/words/home-6/lamp.jpg"
   },
   {
    "w": "headboard cabinet",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🗄️",
    "ex": "I keep my glasses in the headboard cabinet.",
-   "exzh": "我把眼鏡放在床頭櫃裡。"
+   "exzh": "我把眼鏡放在床頭櫃裡。",
+   "photo": "img/words/home-6/headboard-cabinet.jpg"
   },
   {
    "w": "nightstand",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪑",
    "ex": "A glass of water is on the nightstand.",
-   "exzh": "床邊小桌上有一杯水。"
+   "exzh": "床邊小桌上有一杯水。",
+   "photo": "img/words/home-6/nightstand.jpg"
   },
   {
    "w": "pillow",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛌",
    "ex": "This pillow is soft and comfortable.",
-   "exzh": "這個枕頭又軟又舒服。"
+   "exzh": "這個枕頭又軟又舒服。",
+   "photo": "img/words/home-6/pillow.jpg"
   },
   {
    "w": "mattress",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛏️",
    "ex": "The new mattress is very firm.",
-   "exzh": "新床墊很硬挺。"
+   "exzh": "新床墊很硬挺。",
+   "photo": "img/words/home-6/mattress.jpg"
   },
   {
    "w": "bedsheet",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛏️",
    "ex": "Mom changes the bedsheet every week.",
-   "exzh": "媽媽每個星期換一次床單。"
+   "exzh": "媽媽每個星期換一次床單。",
+   "photo": "img/words/home-6/bedsheet.jpg"
   },
   {
    "w": "comforter",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛌",
    "ex": "I need a thick comforter in winter.",
-   "exzh": "冬天我需要一條厚被子。"
+   "exzh": "冬天我需要一條厚被子。",
+   "photo": "img/words/home-6/comforter.jpg"
   },
   {
    "w": "chest of drawers",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🗄️",
    "ex": "My shirts are in the chest of drawers.",
-   "exzh": "我的襯衫放在五斗櫃裡。"
+   "exzh": "我的襯衫放在五斗櫃裡。",
+   "photo": "img/words/home-6/chest-of-drawers.jpg"
   },
   {
    "w": "bookends",
@@ -102,7 +112,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📚",
    "ex": "Use bookends to keep the books standing.",
-   "exzh": "用書擋讓書立在桌上。"
+   "exzh": "用書擋讓書立在桌上。",
+   "photo": "img/words/home-6/bookends.jpg"
   },
   {
    "w": "wardrobe",
@@ -111,7 +122,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚪",
    "ex": "Her dresses are hanging in the wardrobe.",
-   "exzh": "她的洋裝掛在衣櫥裡。"
+   "exzh": "她的洋裝掛在衣櫥裡。",
+   "photo": "img/words/home-6/wardrobe.jpg"
   },
   {
    "w": "cosmetics",
@@ -120,7 +132,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💄",
    "ex": "She keeps her cosmetics in a small bag.",
-   "exzh": "她把化妝品放在一個小袋子裡。"
+   "exzh": "她把化妝品放在一個小袋子裡。",
+   "photo": "img/words/home-6/cosmetics.jpg"
   },
   {
    "w": "vanity table",
@@ -129,7 +142,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪞",
    "ex": "She sits at the vanity table and brushes her hair.",
-   "exzh": "她坐在梳妝台前梳頭髮。"
+   "exzh": "她坐在梳妝台前梳頭髮。",
+   "photo": "img/words/home-6/vanity-table.jpg"
   },
   {
    "w": "footstool",
@@ -138,7 +152,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪑",
    "ex": "Put your feet on the footstool.",
-   "exzh": "把腳放在腳凳上。"
+   "exzh": "把腳放在腳凳上。",
+   "photo": "img/words/home-6/footstool.jpg"
   },
   {
    "w": "undershirt",
@@ -156,7 +171,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥿",
    "ex": "Put on your slippers. The floor is cold.",
-   "exzh": "穿上拖鞋，地板很冰。"
+   "exzh": "穿上拖鞋，地板很冰。",
+   "photo": "img/words/home-6/slippers.jpg"
   }
  ],
  "speakers": {
@@ -314,6 +330,7 @@ window.TOPIC = {
     224,
     "e"
    ]
-  }
+  },
+  "h": 250
  }
 };

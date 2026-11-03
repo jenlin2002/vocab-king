@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🟦",
    "ex": "The bathroom floor is covered with white tile.",
-   "exzh": "浴室的地板鋪著白色磁磚。"
+   "exzh": "浴室的地板鋪著白色磁磚。",
+   "photo": "img/words/home-4/tile.jpg"
   },
   {
    "w": "bath towel",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧖",
    "ex": "Grab a clean bath towel from the shelf.",
-   "exzh": "從架子上拿一條乾淨的浴巾。"
+   "exzh": "從架子上拿一條乾淨的浴巾。",
+   "photo": "img/words/home-4/bath-towel.jpg"
   },
   {
    "w": "bathroom shelves",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🗄️",
    "ex": "The soap is on the bathroom shelves.",
-   "exzh": "肥皂放在浴室置物架上。"
+   "exzh": "肥皂放在浴室置物架上。",
+   "photo": "img/words/home-4/bathroom-shelves.jpg"
   },
   {
    "w": "mirror",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪞",
    "ex": "He looks at himself in the mirror.",
-   "exzh": "他看著鏡子裡的自己。"
+   "exzh": "他看著鏡子裡的自己。",
+   "photo": "img/words/home-4/mirror.jpg"
   },
   {
    "w": "washcloth",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧼",
    "ex": "Wet the washcloth and wash your face.",
-   "exzh": "把小毛巾弄濕，然後洗臉。"
+   "exzh": "把小毛巾弄濕，然後洗臉。",
+   "photo": "img/words/home-4/washcloth.jpg"
   },
   {
    "w": "sink",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚰",
    "ex": "Wash your hands in the sink.",
-   "exzh": "在洗手台洗手。"
+   "exzh": "在洗手台洗手。",
+   "photo": "img/words/home-4/sink.jpg"
   },
   {
    "w": "faucet",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚰",
    "ex": "Don't forget to turn off the faucet.",
-   "exzh": "別忘了關水龍頭。"
+   "exzh": "別忘了關水龍頭。",
+   "photo": "img/words/home-4/faucet.jpg"
   },
   {
    "w": "toilet paper",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧻",
    "ex": "We need to buy more toilet paper.",
-   "exzh": "我們要再多買一點衛生紙。"
+   "exzh": "我們要再多買一點衛生紙。",
+   "photo": "img/words/home-4/toilet-paper.jpg"
   },
   {
    "w": "drain",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🕳️",
    "ex": "Hair is stuck in the drain.",
-   "exzh": "頭髮卡在排水孔裡。"
+   "exzh": "頭髮卡在排水孔裡。",
+   "photo": "img/words/home-4/drain.jpg"
   },
   {
    "w": "toilet tank",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚽",
    "ex": "The toilet tank is leaking.",
-   "exzh": "馬桶水箱在漏水。"
+   "exzh": "馬桶水箱在漏水。",
+   "photo": "img/words/home-4/toilet-tank.jpg"
   },
   {
    "w": "toilet",
@@ -111,7 +121,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🟩",
    "ex": "Step on the bath mat to dry your feet.",
-   "exzh": "踩在防滑墊上把腳擦乾。"
+   "exzh": "踩在防滑墊上把腳擦乾。",
+   "photo": "img/words/home-4/bath-mat.jpg"
   },
   {
    "w": "shower curtain",
@@ -120,7 +131,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚿",
    "ex": "Pull the shower curtain closed.",
-   "exzh": "把浴簾拉上。"
+   "exzh": "把浴簾拉上。",
+   "photo": "img/words/home-4/shower-curtain.jpg"
   },
   {
    "w": "shower head",
@@ -129,7 +141,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚿",
    "ex": "The shower head is too high for me.",
-   "exzh": "蓮蓬頭對我來說太高了。"
+   "exzh": "蓮蓬頭對我來說太高了。",
+   "photo": "img/words/home-4/shower-head.jpg"
   },
   {
    "w": "bathtub",
@@ -138,7 +151,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛁",
    "ex": "The baby plays with toys in the bathtub.",
-   "exzh": "寶寶在浴缸裡玩玩具。"
+   "exzh": "寶寶在浴缸裡玩玩具。",
+   "photo": "img/words/home-4/bathtub.jpg"
   }
  ],
  "speakers": {
@@ -283,6 +297,7 @@ window.TOPIC = {
     360,
     168
    ]
-  }
+  },
+  "h": 250
  }
 };

@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧴",
    "ex": "Add a little detergent to the washer.",
-   "exzh": "在洗衣機裡加一點洗衣精。"
+   "exzh": "在洗衣機裡加一點洗衣精。",
+   "photo": "img/words/home-7/detergent.jpg"
   },
   {
    "w": "fabric softener",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧴",
    "ex": "Fabric softener makes clothes soft.",
-   "exzh": "柔軟精讓衣服變得柔軟。"
+   "exzh": "柔軟精讓衣服變得柔軟。",
+   "photo": "img/words/home-7/fabric-softener.jpg"
   },
   {
    "w": "bleach",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧪",
    "ex": "Don't use bleach on colored clothes.",
-   "exzh": "彩色衣服不要用漂白水。"
+   "exzh": "彩色衣服不要用漂白水。",
+   "photo": "img/words/home-7/bleach.jpg"
   },
   {
    "w": "sewing machine",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧵",
    "ex": "Grandma makes dresses with a sewing machine.",
-   "exzh": "奶奶用縫紉機做洋裝。"
+   "exzh": "奶奶用縫紉機做洋裝。",
+   "photo": "img/words/home-7/sewing-machine.jpg"
   },
   {
    "w": "hanger",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧥",
    "ex": "Hang your coat on a hanger.",
-   "exzh": "把外套掛在衣架上。"
+   "exzh": "把外套掛在衣架上。",
+   "photo": "img/words/home-7/hanger.jpg"
   },
   {
    "w": "safety pin",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📌",
    "ex": "She fixed the button with a safety pin.",
-   "exzh": "她用別針固定住鈕扣。"
+   "exzh": "她用別針固定住鈕扣。",
+   "photo": "img/words/home-7/safety-pin.jpg"
   },
   {
    "w": "needle",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪡",
    "ex": "Be careful with the needle.",
-   "exzh": "使用縫衣針要小心。"
+   "exzh": "使用縫衣針要小心。",
+   "photo": "img/words/home-7/needle.jpg"
   },
   {
    "w": "cloth",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧶",
    "ex": "This cloth is soft and cheap.",
-   "exzh": "這塊布料又軟又便宜。"
+   "exzh": "這塊布料又軟又便宜。",
+   "photo": "img/words/home-7/cloth.jpg"
   },
   {
    "w": "clothes pin",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📎",
    "ex": "Use clothes pins to hold the shirts.",
-   "exzh": "用曬衣夾夾住襯衫。"
+   "exzh": "用曬衣夾夾住襯衫。",
+   "photo": "img/words/home-7/clothes-pin.jpg"
   },
   {
    "w": "thread",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧵",
    "ex": "I need red thread for the button.",
-   "exzh": "我需要紅色的線縫鈕扣。"
+   "exzh": "我需要紅色的線縫鈕扣。",
+   "photo": "img/words/home-7/thread.jpg"
   },
   {
    "w": "scissors",
@@ -111,7 +121,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧺",
    "ex": "Put the shirt on the ironing board.",
-   "exzh": "把襯衫放在燙衣板上。"
+   "exzh": "把襯衫放在燙衣板上。",
+   "photo": "img/words/home-7/ironing-board.jpg"
   },
   {
    "w": "iron",
@@ -120,7 +131,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "♨️",
    "ex": "The iron is very hot.",
-   "exzh": "熨斗很燙。"
+   "exzh": "熨斗很燙。",
+   "photo": "img/words/home-7/iron.jpg"
   },
   {
    "w": "yarn",
@@ -129,7 +141,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧶",
    "ex": "She is knitting a scarf with blue yarn.",
-   "exzh": "她正在用藍色毛線織圍巾。"
+   "exzh": "她正在用藍色毛線織圍巾。",
+   "photo": "img/words/home-7/yarn.jpg"
   },
   {
    "w": "dryer",
@@ -147,7 +160,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧺",
    "ex": "The washing machine is in the basement.",
-   "exzh": "洗衣機放在地下室。"
+   "exzh": "洗衣機放在地下室。",
+   "photo": "img/words/home-7/washing-machine.jpg"
   }
  ],
  "speakers": {
@@ -307,6 +321,7 @@ window.TOPIC = {
     55,
     138
    ]
-  }
+  },
+  "h": 250
  }
 };

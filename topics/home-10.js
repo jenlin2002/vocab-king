@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📼",
    "ex": "Fix the poster with tape.",
-   "exzh": "用膠帶把海報貼好。"
+   "exzh": "用膠帶把海報貼好。",
+   "photo": "img/words/home-10/tape.jpg"
   },
   {
    "w": "hammer",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔨",
    "ex": "He hit the nail with a hammer.",
-   "exzh": "他用鐵鎚敲釘子。"
+   "exzh": "他用鐵鎚敲釘子。",
+   "photo": "img/words/home-10/hammer.jpg"
   },
   {
    "w": "fluorescent light",
@@ -39,7 +41,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔩",
    "ex": "Dad made a hole with an electric drill.",
-   "exzh": "爸爸用電鑽鑽了一個洞。"
+   "exzh": "爸爸用電鑽鑽了一個洞。",
+   "photo": "img/words/home-10/electric-drill.jpg"
   },
   {
    "w": "paint roller",
@@ -48,7 +51,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎨",
    "ex": "Use a paint roller to paint the wall.",
-   "exzh": "用油漆滾筒粉刷牆壁。"
+   "exzh": "用油漆滾筒粉刷牆壁。",
+   "photo": "img/words/home-10/paint-roller.jpg"
   },
   {
    "w": "screwdriver",
@@ -57,7 +61,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪛",
    "ex": "Turn the screw with a screwdriver.",
-   "exzh": "用螺絲起子轉螺絲。"
+   "exzh": "用螺絲起子轉螺絲。",
+   "photo": "img/words/home-10/screwdriver.jpg"
   },
   {
    "w": "pliers",
@@ -66,7 +71,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔧",
    "ex": "Pull out the nail with pliers.",
-   "exzh": "用鉗子把釘子拔出來。"
+   "exzh": "用鉗子把釘子拔出來。",
+   "photo": "img/words/home-10/pliers.jpg"
   },
   {
    "w": "scrubbing brush",
@@ -75,7 +81,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧽",
    "ex": "Scrub the floor with a scrubbing brush.",
-   "exzh": "用刷子刷洗地板。"
+   "exzh": "用刷子刷洗地板。",
+   "photo": "img/words/home-10/scrubbing-brush.jpg"
   },
   {
    "w": "paint brush",
@@ -84,7 +91,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🖌️",
    "ex": "She painted the door with a paint brush.",
-   "exzh": "她用油漆刷漆門。"
+   "exzh": "她用油漆刷漆門。",
+   "photo": "img/words/home-10/paint-brush.jpg"
   },
   {
    "w": "axe",
@@ -93,7 +101,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪓",
    "ex": "He cut the wood with an axe.",
-   "exzh": "他用斧頭劈木頭。"
+   "exzh": "他用斧頭劈木頭。",
+   "photo": "img/words/home-10/axe.jpg"
   },
   {
    "w": "tape measure",
@@ -102,7 +111,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📏",
    "ex": "Use a tape measure to measure the table.",
-   "exzh": "用捲尺量桌子。"
+   "exzh": "用捲尺量桌子。",
+   "photo": "img/words/home-10/tape-measure.jpg"
   },
   {
    "w": "hinge",
@@ -111,7 +121,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚪",
    "ex": "The door hinge is rusty.",
-   "exzh": "門的鉸鍊生鏽了。"
+   "exzh": "門的鉸鍊生鏽了。",
+   "photo": "img/words/home-10/hinge.jpg"
   },
   {
    "w": "toolbox",
@@ -120,7 +131,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧰",
    "ex": "Dad keeps the tools in a toolbox.",
-   "exzh": "爸爸把工具放在工具箱裡。"
+   "exzh": "爸爸把工具放在工具箱裡。",
+   "photo": "img/words/home-10/toolbox.jpg"
   },
   {
    "w": "flashlight",
@@ -129,7 +141,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔦",
    "ex": "Take a flashlight when you go camping.",
-   "exzh": "去露營要帶手電筒。"
+   "exzh": "去露營要帶手電筒。",
+   "photo": "img/words/home-10/flashlight.jpg"
   },
   {
    "w": "nail",
@@ -138,7 +151,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📍",
    "ex": "There is a nail in the wall.",
-   "exzh": "牆上有一根釘子。"
+   "exzh": "牆上有一根釘子。",
+   "photo": "img/words/home-10/nail.jpg"
   },
   {
    "w": "shovel",
@@ -147,7 +161,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⛏️",
    "ex": "He dug a hole with a shovel.",
-   "exzh": "他用鏟子挖了一個洞。"
+   "exzh": "他用鏟子挖了一個洞。",
+   "photo": "img/words/home-10/shovel.jpg"
   },
   {
    "w": "paint",
@@ -183,7 +198,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧽",
    "ex": "Wipe the table with a wet sponge.",
-   "exzh": "用濕海綿擦桌子。"
+   "exzh": "用濕海綿擦桌子。",
+   "photo": "img/words/home-10/sponge.jpg"
   }
  ],
  "speakers": {
@@ -267,7 +283,7 @@ window.TOPIC = {
   "svg": "<rect width=\"400\" height=\"250\" fill=\"#f3ead6\"/><rect x=\"10\" y=\"78\" width=\"380\" height=\"7\" fill=\"#9b6b3a\"/><rect x=\"10\" y=\"85\" width=\"380\" height=\"3\" fill=\"#00000022\"/><rect x=\"10\" y=\"148\" width=\"380\" height=\"7\" fill=\"#9b6b3a\"/><rect x=\"10\" y=\"155\" width=\"380\" height=\"3\" fill=\"#00000022\"/><rect x=\"10\" y=\"218\" width=\"380\" height=\"7\" fill=\"#9b6b3a\"/><rect x=\"10\" y=\"225\" width=\"380\" height=\"3\" fill=\"#00000022\"/>",
   "pos": {
    "tape": [
-    34,
+    41,
     60,
     "e"
    ],
@@ -277,32 +293,32 @@ window.TOPIC = {
     "e"
    ],
    "fluorescent-light": [
-    148,
+    141,
     60,
     "e"
    ],
    "electric-drill": [
-    205,
+    191,
     60,
     "e"
    ],
    "paint-roller": [
-    262,
+    241,
     60,
     "e"
    ],
    "screwdriver": [
-    319,
+    291,
     60,
     "e"
    ],
    "pliers": [
-    376,
+    341,
     60,
     "e"
    ],
    "scrubbing-brush": [
-    34,
+    41,
     130,
     "e"
    ],
@@ -312,32 +328,32 @@ window.TOPIC = {
     "e"
    ],
    "axe": [
-    148,
+    141,
     130,
     "e"
    ],
    "tape-measure": [
-    205,
+    191,
     130,
     "e"
    ],
    "hinge": [
-    262,
+    241,
     130,
     "e"
    ],
    "toolbox": [
-    319,
+    291,
     130,
     "e"
    ],
    "flashlight": [
-    376,
+    341,
     130,
     "e"
    ],
    "nail": [
-    34,
+    41,
     200,
     "e"
    ],
@@ -347,25 +363,26 @@ window.TOPIC = {
     "e"
    ],
    "paint": [
-    148,
+    141,
     200,
     "e"
    ],
    "ladder": [
-    205,
+    191,
     200,
     "e"
    ],
    "bucket": [
-    262,
+    241,
     200,
     "e"
    ],
    "sponge": [
-    319,
+    291,
     200,
     "e"
    ]
-  }
+  },
+  "h": 250
  }
 };

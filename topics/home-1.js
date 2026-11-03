@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏭",
    "ex": "Smoke is coming out of the chimney.",
-   "exzh": "煙從煙囪裡冒出來。"
+   "exzh": "煙從煙囪裡冒出來。",
+   "photo": "img/words/home-1/chimney.jpg"
   },
   {
    "w": "dormer",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏚️",
    "ex": "My room has a dormer in the roof.",
-   "exzh": "我的房間在屋頂上有一個老虎窗。"
+   "exzh": "我的房間在屋頂上有一個老虎窗。",
+   "photo": "img/words/home-1/dormer.jpg"
   },
   {
    "w": "satellite dish",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📡",
    "ex": "The satellite dish is on the roof.",
-   "exzh": "衛星電視天線在屋頂上。"
+   "exzh": "衛星電視天線在屋頂上。",
+   "photo": "img/words/home-1/satellite-dish.jpg"
   },
   {
    "w": "skylight",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌤️",
    "ex": "Sunlight comes in through the skylight.",
-   "exzh": "陽光從天窗照進來。"
+   "exzh": "陽光從天窗照進來。",
+   "photo": "img/words/home-1/skylight.jpg"
   },
   {
    "w": "garage",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚗",
    "ex": "Dad parks his car in the garage.",
-   "exzh": "爸爸把車停在車庫裡。"
+   "exzh": "爸爸把車停在車庫裡。",
+   "photo": "img/words/home-1/garage.jpg"
   },
   {
    "w": "Venetian blind",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪟",
    "ex": "Please close the Venetian blinds.",
-   "exzh": "請把百葉窗簾拉上。"
+   "exzh": "請把百葉窗簾拉上。",
+   "photo": "img/words/home-1/venetian-blind.jpg"
   },
   {
    "w": "bay window",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏡",
    "ex": "The cat sleeps in the bay window.",
-   "exzh": "貓睡在凸窗上。"
+   "exzh": "貓睡在凸窗上。",
+   "photo": "img/words/home-1/bay-window.jpg"
   },
   {
    "w": "dog house",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐕",
    "ex": "The puppy lives in the dog house.",
-   "exzh": "小狗住在狗屋裡。"
+   "exzh": "小狗住在狗屋裡。",
+   "photo": "img/words/home-1/dog-house.jpg"
   },
   {
    "w": "shutters",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏠",
    "ex": "The shutters are painted green.",
-   "exzh": "百葉窗板漆成綠色。"
+   "exzh": "百葉窗板漆成綠色。",
+   "photo": "img/words/home-1/shutters.jpg"
   },
   {
    "w": "front step",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪜",
    "ex": "She sat on the front step and waited.",
-   "exzh": "她坐在前門台階上等。"
+   "exzh": "她坐在前門台階上等。",
+   "photo": "img/words/home-1/front-step.jpg"
   },
   {
    "w": "curtains",
@@ -102,7 +112,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎭",
    "ex": "Mom washes the curtains every spring.",
-   "exzh": "媽媽每年春天洗窗簾。"
+   "exzh": "媽媽每年春天洗窗簾。",
+   "photo": "img/words/home-1/curtains.jpg"
   },
   {
    "w": "sliding glass door",
@@ -111,7 +122,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚪",
    "ex": "We walk out through the sliding glass door.",
-   "exzh": "我們從玻璃拉門走出去。"
+   "exzh": "我們從玻璃拉門走出去。",
+   "photo": "img/words/home-1/sliding-glass-door.jpg"
   },
   {
    "w": "balcony",
@@ -120,7 +132,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌇",
    "ex": "We have dinner on the balcony.",
-   "exzh": "我們在陽台吃晚餐。"
+   "exzh": "我們在陽台吃晚餐。",
+   "photo": "img/words/home-1/balcony.jpg"
   },
   {
    "w": "lawn mower",
@@ -129,7 +142,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌱",
    "ex": "He uses a lawn mower every Saturday.",
-   "exzh": "他每個星期六都用割草機。"
+   "exzh": "他每個星期六都用割草機。",
+   "photo": "img/words/home-1/lawn-mower.jpg"
   },
   {
    "w": "driveway",
@@ -138,7 +152,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛣️",
    "ex": "A red car is in the driveway.",
-   "exzh": "一輛紅色的車停在車道上。"
+   "exzh": "一輛紅色的車停在車道上。",
+   "photo": "img/words/home-1/driveway.jpg"
   },
   {
    "w": "bushes",
@@ -147,7 +162,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌳",
    "ex": "The rabbit is hiding in the bushes.",
-   "exzh": "兔子躲在灌木叢裡。"
+   "exzh": "兔子躲在灌木叢裡。",
+   "photo": "img/words/home-1/bushes.jpg"
   },
   {
    "w": "sprinkler",
@@ -156,7 +172,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💦",
    "ex": "The sprinkler waters the lawn.",
-   "exzh": "灑水器在幫草坪澆水。"
+   "exzh": "灑水器在幫草坪澆水。",
+   "photo": "img/words/home-1/sprinkler.jpg"
   }
  ],
  "speakers": {
@@ -307,6 +324,7 @@ window.TOPIC = {
     185,
     232
    ]
-  }
+  },
+  "h": 250
  }
 };

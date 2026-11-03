@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍾",
    "ex": "Use a corkscrew to open the wine.",
-   "exzh": "用開瓶器打開紅酒。"
+   "exzh": "用開瓶器打開紅酒。",
+   "photo": "img/words/home-9/corkscrew.jpg"
   },
   {
    "w": "spatula turner",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍳",
    "ex": "Turn the pancake with a spatula turner.",
-   "exzh": "用鍋鏟把鬆餅翻面。"
+   "exzh": "用鍋鏟把鬆餅翻面。",
+   "photo": "img/words/home-9/spatula-turner.jpg"
   },
   {
    "w": "rolling pin",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥖",
    "ex": "Roll the dough flat with a rolling pin.",
-   "exzh": "用擀麵棍把麵糰擀平。"
+   "exzh": "用擀麵棍把麵糰擀平。",
+   "photo": "img/words/home-9/rolling-pin.jpg"
   },
   {
    "w": "teapot",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🫖",
    "ex": "Grandma pours tea from the teapot.",
-   "exzh": "奶奶從茶壺倒茶。"
+   "exzh": "奶奶從茶壺倒茶。",
+   "photo": "img/words/home-9/teapot.jpg"
   },
   {
    "w": "hot mitt",
@@ -57,7 +61,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "☕",
    "ex": "I drink hot chocolate from my favorite mug.",
-   "exzh": "我用最喜歡的馬克杯喝熱巧克力。"
+   "exzh": "我用最喜歡的馬克杯喝熱巧克力。",
+   "photo": "img/words/home-9/mug.jpg"
   },
   {
    "w": "two-pronged fork",
@@ -75,7 +80,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥚",
    "ex": "Beat the eggs with a whisk.",
-   "exzh": "用打蛋器打蛋。"
+   "exzh": "用打蛋器打蛋。",
+   "photo": "img/words/home-9/whisk.jpg"
   },
   {
    "w": "dish soap",
@@ -84,7 +90,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧴",
    "ex": "Add some dish soap to the water.",
-   "exzh": "在水裡加一點洗碗精。"
+   "exzh": "在水裡加一點洗碗精。",
+   "photo": "img/words/home-9/dish-soap.jpg"
   },
   {
    "w": "bottle opener",
@@ -102,7 +109,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪩",
    "ex": "Wrap the potato in aluminum foil.",
-   "exzh": "把馬鈴薯用鋁箔紙包起來。"
+   "exzh": "把馬鈴薯用鋁箔紙包起來。",
+   "photo": "img/words/home-9/aluminum-foil.jpg"
   },
   {
    "w": "cup",
@@ -111,7 +119,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥛",
    "ex": "She filled the cup with milk.",
-   "exzh": "她把杯子裝滿牛奶。"
+   "exzh": "她把杯子裝滿牛奶。",
+   "photo": "img/words/home-9/cup.jpg"
   },
   {
    "w": "scouring pad",
@@ -120,7 +129,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧽",
    "ex": "Scrub the pot with a scouring pad.",
-   "exzh": "用菜瓜布刷鍋子。"
+   "exzh": "用菜瓜布刷鍋子。",
+   "photo": "img/words/home-9/scouring-pad.jpg"
   },
   {
    "w": "plastic wrap",
@@ -138,7 +148,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🟫",
    "ex": "Put the hot pot on the hot pad.",
-   "exzh": "把熱鍋放在隔熱墊上。"
+   "exzh": "把熱鍋放在隔熱墊上。",
+   "photo": "img/words/home-9/hot-pad.jpg"
   },
   {
    "w": "rice spatula",
@@ -156,7 +167,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥫",
    "ex": "Open the can with a can opener.",
-   "exzh": "用開罐器打開罐頭。"
+   "exzh": "用開罐器打開罐頭。",
+   "photo": "img/words/home-9/can-opener.jpg"
   },
   {
    "w": "potato peeler",
@@ -165,7 +177,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥔",
    "ex": "He peeled the potatoes with a potato peeler.",
-   "exzh": "他用削皮器削馬鈴薯皮。"
+   "exzh": "他用削皮器削馬鈴薯皮。",
+   "photo": "img/words/home-9/potato-peeler.jpg"
   }
  ],
  "speakers": {
@@ -249,95 +262,96 @@ window.TOPIC = {
   "svg": "<rect width=\"400\" height=\"250\" fill=\"#f3ead6\"/><rect x=\"10\" y=\"78\" width=\"380\" height=\"7\" fill=\"#9b6b3a\"/><rect x=\"10\" y=\"85\" width=\"380\" height=\"3\" fill=\"#00000022\"/><rect x=\"10\" y=\"148\" width=\"380\" height=\"7\" fill=\"#9b6b3a\"/><rect x=\"10\" y=\"155\" width=\"380\" height=\"3\" fill=\"#00000022\"/><rect x=\"10\" y=\"218\" width=\"380\" height=\"7\" fill=\"#9b6b3a\"/><rect x=\"10\" y=\"225\" width=\"380\" height=\"3\" fill=\"#00000022\"/>",
   "pos": {
    "corkscrew": [
-    34,
+    45,
     60,
     "e"
    ],
    "spatula-turner": [
-    91,
+    104,
     60,
     "e"
    ],
    "rolling-pin": [
-    148,
+    162,
     60,
     "e"
    ],
    "teapot": [
-    205,
+    220,
     60,
     "e"
    ],
    "hot-mitt": [
-    262,
+    279,
     60,
     "e"
    ],
    "mug": [
-    319,
+    337,
     60,
     "e"
    ],
    "two-pronged-fork": [
-    34,
+    45,
     130,
     "e"
    ],
    "whisk": [
-    91,
+    104,
     130,
     "e"
    ],
    "dish-soap": [
-    148,
+    162,
     130,
     "e"
    ],
    "bottle-opener": [
-    205,
+    220,
     130,
     "e"
    ],
    "aluminum-foil": [
-    262,
+    279,
     130,
     "e"
    ],
    "cup": [
-    319,
+    337,
     130,
     "e"
    ],
    "scouring-pad": [
-    34,
+    45,
     200,
     "e"
    ],
    "plastic-wrap": [
-    91,
+    104,
     200,
     "e"
    ],
    "hot-pad": [
-    148,
+    162,
     200,
     "e"
    ],
    "rice-spatula": [
-    205,
+    220,
     200,
     "e"
    ],
    "can-opener": [
-    262,
+    279,
     200,
     "e"
    ],
    "potato-peeler": [
-    319,
+    337,
     200,
     "e"
    ]
-  }
+  },
+  "h": 250
  }
 };

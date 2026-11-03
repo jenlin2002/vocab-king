@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔥",
    "ex": "Never play with a lighter.",
-   "exzh": "千萬不要玩打火機。"
+   "exzh": "千萬不要玩打火機。",
+   "photo": "img/words/home-3/lighter.jpg"
   },
   {
    "w": "matches",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔥",
    "ex": "Keep the matches away from children.",
-   "exzh": "火柴要放在小孩拿不到的地方。"
+   "exzh": "火柴要放在小孩拿不到的地方。",
+   "photo": "img/words/home-3/matches.jpg"
   },
   {
    "w": "waste basket",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🗑️",
    "ex": "Throw the paper into the waste basket.",
-   "exzh": "把紙丟進垃圾桶。"
+   "exzh": "把紙丟進垃圾桶。",
+   "photo": "img/words/home-3/waste-basket.jpg"
   },
   {
    "w": "armchair",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💺",
    "ex": "Dad reads the newspaper in his armchair.",
-   "exzh": "爸爸坐在扶手椅上看報紙。"
+   "exzh": "爸爸坐在扶手椅上看報紙。",
+   "photo": "img/words/home-3/armchair.jpg"
   },
   {
    "w": "end table",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪑",
    "ex": "There is a lamp on the end table.",
-   "exzh": "邊桌上有一盞檯燈。"
+   "exzh": "邊桌上有一盞檯燈。",
+   "photo": "img/words/home-3/end-table.jpg"
   },
   {
    "w": "telephone",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "☎️",
    "ex": "The telephone is ringing.",
-   "exzh": "電話在響。"
+   "exzh": "電話在響。",
+   "photo": "img/words/home-3/telephone.jpg"
   },
   {
    "w": "vacuum cleaner",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧹",
    "ex": "I use the vacuum cleaner on Sundays.",
-   "exzh": "我每個星期天都用吸塵器。"
+   "exzh": "我每個星期天都用吸塵器。",
+   "photo": "img/words/home-3/vacuum-cleaner.jpg"
   },
   {
    "w": "recliner",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛋️",
    "ex": "Grandpa leans back in the recliner.",
-   "exzh": "爺爺往後靠在躺椅上。"
+   "exzh": "爺爺往後靠在躺椅上。",
+   "photo": "img/words/home-3/recliner.jpg"
   },
   {
    "w": "rocking chair",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪑",
    "ex": "Grandma sits in the rocking chair and knits.",
-   "exzh": "奶奶坐在搖椅上織毛線。"
+   "exzh": "奶奶坐在搖椅上織毛線。",
+   "photo": "img/words/home-3/rocking-chair.jpg"
   },
   {
    "w": "air conditioner",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "❄️",
    "ex": "Turn on the air conditioner. It's so hot.",
-   "exzh": "把冷氣打開，好熱喔。"
+   "exzh": "把冷氣打開，好熱喔。",
+   "photo": "img/words/home-3/air-conditioner.jpg"
   },
   {
    "w": "vase",
@@ -102,7 +112,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏺",
    "ex": "She put some roses in the vase.",
-   "exzh": "她把幾朵玫瑰花插進花瓶。"
+   "exzh": "她把幾朵玫瑰花插進花瓶。",
+   "photo": "img/words/home-3/vase.jpg"
   }
  ],
  "speakers": {
@@ -238,6 +249,7 @@ window.TOPIC = {
     228,
     "e"
    ]
-  }
+  },
+  "h": 250
  }
 };

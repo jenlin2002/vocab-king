@@ -21,6 +21,8 @@
   .words{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px;margin-top:14px}
   .wc{background:var(--card);border:1.5px solid var(--line);border-radius:18px;padding:14px 16px}
   .wc .em{font-size:46px;line-height:1.1}
+  .wc .wph{display:block;width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:12px;margin-bottom:4px;background:#efe9d8}
+  .qph{display:inline-block;width:150px;aspect-ratio:4/3;object-fit:cover;border-radius:10px;vertical-align:middle;margin-right:8px;background:#efe9d8}
   .wc .en{font-size:21px;font-weight:800;margin-top:4px}
   .wc .pos{color:var(--soft);font-size:13px;font-weight:600;margin-left:6px}
   .wc .zh{font-size:17px;margin:2px 0 8px}
@@ -91,7 +93,7 @@
   <div class="grp"><div class="lbl">學習</div><div class="tabs" id="tabsL"></div></div>
   <div class="grp"><div class="lbl">測驗</div><div class="tabs" id="tabsQ"></div></div>
   <div id="view"></div>
-  <div class="note">單字清單依生活常見用字整理；中文解釋、例句、對話與語音都是自己編寫與合成；圖示為示意 emoji，僅供聯想。</div>
+  <div class="note">單字清單依生活常見用字整理；中文解釋、例句、對話與語音都是自己編寫與合成；單字照片來自 Pexels（免費授權，出處見 img/words 各資料夾的 PHOTO-CREDITS.md），沒有照片的單字用示意 emoji。</div>
 </div>
 <script>
 const $ = s => document.querySelector(s);
@@ -224,9 +226,12 @@ document.addEventListener('click', e => {
   renderView();
 });
 
+// 有照片用照片（img/words/…，build_topic.py 填 w.photo），沒有就用 emoji
+function cardPic(w){ return w.photo ? `<img class="wph" src="${w.photo}" alt="" loading="lazy">` : `<div class="em">${w.emoji}</div>`; }
+function quizPic(w){ return w.photo ? `<img class="qph" src="${w.photo}" alt="">` : `<span class="big">${w.emoji}</span>`; }
 function drawCards(){
   $('#view').innerHTML = ctlBar() + `<div class="words ${cls()}">` + T.words.map(w => `
-    <div class="wc"><div class="em">${w.emoji}</div>
+    <div class="wc">${cardPic(w)}
       <div><span class="en">${esc(w.w)}</span><span class="pos">${esc(w.pos)}</span><button class="sp" data-au="${au('w', w)}" data-tx="${esc(w.w)}" aria-label="聽發音">🔊</button></div>
       <div class="zh">${esc(w.zh)}</div>
       <div class="ex"><span class="exen">${esc(w.ex)}</span><button class="sp sm" data-au="${au('e', w)}" data-tx="${esc(w.ex)}" aria-label="聽例句">🔊</button><div class="exzh">${esc(w.exzh)}</div></div>
@@ -277,11 +282,11 @@ function drawQuiz(id){
     const w = q.w, a = z.answers[i], dis = locked(z, i) ? ' disabled' : '';
     let head, inner;
     if(id === 'pic'){
-      head = `<span class="big">${w.emoji}</span><span class="qt">${esc(w.zh)}</span>`;
+      head = `${quizPic(w)}<span class="qt">${esc(w.zh)}</span>`;
     } else if(id === 'listen'){
       head = `<button class="sp" data-au="${au('w', w)}" data-tx="${esc(w.w)}">🔊</button><span class="qt"> 聽發音，選出你聽到的單字</span>`;
     } else {
-      head = `<span class="big">${w.emoji}</span><span class="qt">${esc(w.zh)}</span><button class="sp" data-au="${au('w', w)}" data-tx="${esc(w.w)}" title="聽發音">🔊</button><div class="st">共 ${w.w.replace(/[^A-Za-z]/g, '').length} 個字母</div>`;
+      head = `${quizPic(w)}<span class="qt">${esc(w.zh)}</span><button class="sp" data-au="${au('w', w)}" data-tx="${esc(w.w)}" title="聽發音">🔊</button><div class="st">共 ${w.w.replace(/[^A-Za-z]/g, '').length} 個字母</div>`;
     }
     if(id === 'spell'){
       inner = `<input class="sp-in" data-i="${i}" autocomplete="off" autocapitalize="none" spellcheck="false" placeholder="輸入英文" value="${esc(a)}"${dis}>`;

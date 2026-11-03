@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧊",
    "ex": "There is some milk in the refrigerator.",
-   "exzh": "冰箱裡有一些牛奶。"
+   "exzh": "冰箱裡有一些牛奶。",
+   "photo": "img/words/home-8/refrigerator.jpg"
   },
   {
    "w": "apron",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👩‍🍳",
    "ex": "Put on an apron before you cook.",
-   "exzh": "煮飯前先穿上圍裙。"
+   "exzh": "煮飯前先穿上圍裙。",
+   "photo": "img/words/home-8/apron.jpg"
   },
   {
    "w": "mop",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧽",
    "ex": "Use a mop to clean the kitchen floor.",
-   "exzh": "用拖把清潔廚房地板。"
+   "exzh": "用拖把清潔廚房地板。",
+   "photo": "img/words/home-8/mop.jpg"
   },
   {
    "w": "broom",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧹",
    "ex": "He sweeps the floor with a broom.",
-   "exzh": "他用掃把掃地。"
+   "exzh": "他用掃把掃地。",
+   "photo": "img/words/home-8/broom.jpg"
   },
   {
    "w": "dust pan",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧹",
    "ex": "Sweep the dirt into the dust pan.",
-   "exzh": "把灰塵掃進畚箕裡。"
+   "exzh": "把灰塵掃進畚箕裡。",
+   "photo": "img/words/home-8/dust-pan.jpg"
   },
   {
    "w": "range fan",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌀",
    "ex": "Turn on the range fan when you fry fish.",
-   "exzh": "煎魚的時候要開抽油煙機。"
+   "exzh": "煎魚的時候要開抽油煙機。",
+   "photo": "img/words/home-8/range-fan.jpg"
   },
   {
    "w": "cupboard",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚪",
    "ex": "The plates are in the cupboard.",
-   "exzh": "盤子放在碗櫃裡。"
+   "exzh": "盤子放在碗櫃裡。",
+   "photo": "img/words/home-8/cupboard.jpg"
   },
   {
    "w": "microwave oven",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📟",
    "ex": "Heat the soup in the microwave oven.",
-   "exzh": "用微波爐加熱湯。"
+   "exzh": "用微波爐加熱湯。",
+   "photo": "img/words/home-8/microwave-oven.jpg"
   },
   {
    "w": "dish rack",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍽️",
    "ex": "Put the wet bowls on the dish rack.",
-   "exzh": "把濕碗放在瀝水架上。"
+   "exzh": "把濕碗放在瀝水架上。",
+   "photo": "img/words/home-8/dish-rack.jpg"
   },
   {
    "w": "ladle",
@@ -111,7 +120,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍳",
    "ex": "Fry the eggs in a pan.",
-   "exzh": "用平底鍋煎蛋。"
+   "exzh": "用平底鍋煎蛋。",
+   "photo": "img/words/home-8/pan.jpg"
   },
   {
    "w": "wok",
@@ -120,7 +130,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥘",
    "ex": "Stir-fry the vegetables in a wok.",
-   "exzh": "用炒菜鍋炒青菜。"
+   "exzh": "用炒菜鍋炒青菜。",
+   "photo": "img/words/home-8/wok.jpg"
   },
   {
    "w": "gas stove",
@@ -129,7 +140,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔥",
    "ex": "Turn off the gas stove after cooking.",
-   "exzh": "煮完飯後要關瓦斯爐。"
+   "exzh": "煮完飯後要關瓦斯爐。",
+   "photo": "img/words/home-8/gas-stove.jpg"
   },
   {
    "w": "sink",
@@ -138,7 +150,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚰",
    "ex": "The dishes are in the sink.",
-   "exzh": "碗盤在水槽裡。"
+   "exzh": "碗盤在水槽裡。",
+   "photo": "img/words/home-8/sink.jpg"
   },
   {
    "w": "counter",
@@ -147,7 +160,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍽️",
    "ex": "Put the vegetables on the counter.",
-   "exzh": "把蔬菜放在流理台上。"
+   "exzh": "把蔬菜放在流理台上。",
+   "photo": "img/words/home-8/counter.jpg"
   },
   {
    "w": "cutting board",
@@ -156,7 +170,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪵",
    "ex": "Cut the tomatoes on the cutting board.",
-   "exzh": "在砧板上切番茄。"
+   "exzh": "在砧板上切番茄。",
+   "photo": "img/words/home-8/cutting-board.jpg"
   },
   {
    "w": "oven",
@@ -165,7 +180,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "♨️",
    "ex": "The cake is in the oven.",
-   "exzh": "蛋糕在烤箱裡。"
+   "exzh": "蛋糕在烤箱裡。",
+   "photo": "img/words/home-8/oven.jpg"
   },
   {
    "w": "cabinet",
@@ -174,7 +190,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🗄️",
    "ex": "The cups are in the top cabinet.",
-   "exzh": "杯子放在最上面的櫥櫃。"
+   "exzh": "杯子放在最上面的櫥櫃。",
+   "photo": "img/words/home-8/cabinet.jpg"
   },
   {
    "w": "blender",
@@ -183,7 +200,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥤",
    "ex": "Make a smoothie in the blender.",
-   "exzh": "用果汁機做冰沙。"
+   "exzh": "用果汁機做冰沙。",
+   "photo": "img/words/home-8/blender.jpg"
   },
   {
    "w": "rice cooker",
@@ -201,7 +219,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍞",
    "ex": "The toast popped out of the toaster.",
-   "exzh": "吐司從烤麵包機彈出來。"
+   "exzh": "吐司從烤麵包機彈出來。",
+   "photo": "img/words/home-8/toaster.jpg"
   }
  ],
  "speakers": {
@@ -386,6 +405,7 @@ window.TOPIC = {
     362,
     105
    ]
-  }
+  },
+  "h": 250
  }
 };

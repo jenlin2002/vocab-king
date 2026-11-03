@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏠",
    "ex": "There is a fan on the ceiling.",
-   "exzh": "天花板上有一台電風扇。"
+   "exzh": "天花板上有一台電風扇。",
+   "photo": "img/words/home-2/ceiling.jpg"
   },
   {
    "w": "wall",
@@ -30,7 +31,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🕰️",
    "ex": "The clock says seven o'clock.",
-   "exzh": "時鐘顯示七點整。"
+   "exzh": "時鐘顯示七點整。",
+   "photo": "img/words/home-2/clock.jpg"
   },
   {
    "w": "painting",
@@ -39,7 +41,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🖼️",
    "ex": "She hung a painting above the sofa.",
-   "exzh": "她在沙發上方掛了一幅畫。"
+   "exzh": "她在沙發上方掛了一幅畫。",
+   "photo": "img/words/home-2/painting.jpg"
   },
   {
    "w": "television",
@@ -48,7 +51,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📺",
    "ex": "The television is too loud.",
-   "exzh": "電視機太大聲了。"
+   "exzh": "電視機太大聲了。",
+   "photo": "img/words/home-2/television.jpg"
   },
   {
    "w": "TV stand",
@@ -57,7 +61,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🗄️",
    "ex": "The game console is on the TV stand.",
-   "exzh": "遊戲機放在電視櫃上。"
+   "exzh": "遊戲機放在電視櫃上。",
+   "photo": "img/words/home-2/tv-stand.jpg"
   },
   {
    "w": "bookcase",
@@ -66,7 +71,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📚",
    "ex": "My comic books are in the bookcase.",
-   "exzh": "我的漫畫書放在書櫃裡。"
+   "exzh": "我的漫畫書放在書櫃裡。",
+   "photo": "img/words/home-2/bookcase.jpg"
   },
   {
    "w": "floor lamp",
@@ -75,7 +81,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💡",
    "ex": "Turn on the floor lamp, please.",
-   "exzh": "請把落地燈打開。"
+   "exzh": "請把落地燈打開。",
+   "photo": "img/words/home-2/floor-lamp.jpg"
   },
   {
    "w": "hardwood floor",
@@ -84,7 +91,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪵",
    "ex": "Take off your shoes on the hardwood floor.",
-   "exzh": "在木質地板上要脫鞋。"
+   "exzh": "在木質地板上要脫鞋。",
+   "photo": "img/words/home-2/hardwood-floor.jpg"
   },
   {
    "w": "rug",
@@ -93,7 +101,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🟫",
    "ex": "The cat sleeps on the rug.",
-   "exzh": "貓睡在小地毯上。"
+   "exzh": "貓睡在小地毯上。",
+   "photo": "img/words/home-2/rug.jpg"
   },
   {
    "w": "headphones",
@@ -102,7 +111,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎧",
    "ex": "He wears headphones when he studies.",
-   "exzh": "他念書時會戴耳機。"
+   "exzh": "他念書時會戴耳機。",
+   "photo": "img/words/home-2/headphones.jpg"
   },
   {
    "w": "coffee table",
@@ -111,7 +121,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "☕",
    "ex": "Put the snacks on the coffee table.",
-   "exzh": "把點心放在茶几上。"
+   "exzh": "把點心放在茶几上。",
+   "photo": "img/words/home-2/coffee-table.jpg"
   },
   {
    "w": "throw pillow",
@@ -120,7 +131,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛏️",
    "ex": "I hug a throw pillow when I watch movies.",
-   "exzh": "我看電影時會抱著抱枕。"
+   "exzh": "我看電影時會抱著抱枕。",
+   "photo": "img/words/home-2/throw-pillow.jpg"
   },
   {
    "w": "sofa",
@@ -129,7 +141,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛋️",
    "ex": "Grandpa is taking a nap on the sofa.",
-   "exzh": "爺爺正在沙發上小睡。"
+   "exzh": "爺爺正在沙發上小睡。",
+   "photo": "img/words/home-2/sofa.jpg"
   },
   {
    "w": "chair",
@@ -138,7 +151,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪑",
    "ex": "Please pull up a chair and sit down.",
-   "exzh": "請拉一張椅子坐下。"
+   "exzh": "請拉一張椅子坐下。",
+   "photo": "img/words/home-2/chair.jpg"
   },
   {
    "w": "calendar",
@@ -147,7 +161,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📅",
    "ex": "Mark the party on the calendar.",
-   "exzh": "把派對標在月曆上。"
+   "exzh": "把派對標在月曆上。",
+   "photo": "img/words/home-2/calendar.jpg"
   },
   {
    "w": "light switch",
@@ -156,7 +171,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔘",
    "ex": "The light switch is next to the door.",
-   "exzh": "電燈開關在門旁邊。"
+   "exzh": "電燈開關在門旁邊。",
+   "photo": "img/words/home-2/light-switch.jpg"
   },
   {
    "w": "door",
@@ -165,7 +181,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚪",
    "ex": "Please close the door quietly.",
-   "exzh": "請輕輕把門關上。"
+   "exzh": "請輕輕把門關上。",
+   "photo": "img/words/home-2/door.jpg"
   }
  ],
  "speakers": {
@@ -322,6 +339,7 @@ window.TOPIC = {
     36,
     120
    ]
-  }
+  },
+  "h": 250
  }
 };

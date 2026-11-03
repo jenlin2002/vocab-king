@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪒",
    "ex": "Dad uses a razor every morning.",
-   "exzh": "爸爸每天早上都用刮鬍刀。"
+   "exzh": "爸爸每天早上都用刮鬍刀。",
+   "photo": "img/words/home-5/razor.jpg"
   },
   {
    "w": "lipstick",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💄",
    "ex": "She put on some red lipstick.",
-   "exzh": "她擦了一點紅色口紅。"
+   "exzh": "她擦了一點紅色口紅。",
+   "photo": "img/words/home-5/lipstick.jpg"
   },
   {
    "w": "soap",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧼",
    "ex": "Wash your hands with soap.",
-   "exzh": "用肥皂洗手。"
+   "exzh": "用肥皂洗手。",
+   "photo": "img/words/home-5/soap.jpg"
   },
   {
    "w": "blow dryer",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💨",
    "ex": "Use the blow dryer to dry your hair.",
-   "exzh": "用吹風機把頭髮吹乾。"
+   "exzh": "用吹風機把頭髮吹乾。",
+   "photo": "img/words/home-5/blow-dryer.jpg"
   },
   {
    "w": "hairbrush",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💇",
    "ex": "I can't find my hairbrush.",
-   "exzh": "我找不到我的髮刷。"
+   "exzh": "我找不到我的髮刷。",
+   "photo": "img/words/home-5/hairbrush.jpg"
   },
   {
    "w": "toothpaste",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪥",
    "ex": "Put a little toothpaste on the brush.",
-   "exzh": "在牙刷上擠一點牙膏。"
+   "exzh": "在牙刷上擠一點牙膏。",
+   "photo": "img/words/home-5/toothpaste.jpg"
   },
   {
    "w": "nail polish",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💅",
    "ex": "Her nail polish is pink.",
-   "exzh": "她的指甲油是粉紅色的。"
+   "exzh": "她的指甲油是粉紅色的。",
+   "photo": "img/words/home-5/nail-polish.jpg"
   },
   {
    "w": "electric razor",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪒",
    "ex": "My brother has a new electric razor.",
-   "exzh": "我哥哥有一把新的電動刮鬍刀。"
+   "exzh": "我哥哥有一把新的電動刮鬍刀。",
+   "photo": "img/words/home-5/electric-razor.jpg"
   },
   {
    "w": "cotton swab",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧻",
    "ex": "Don't push a cotton swab deep into your ear.",
-   "exzh": "不要把棉花棒伸進耳朵太深。"
+   "exzh": "不要把棉花棒伸進耳朵太深。",
+   "photo": "img/words/home-5/cotton-swab.jpg"
   },
   {
    "w": "shampoo",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧴",
    "ex": "This shampoo smells like apples.",
-   "exzh": "這瓶洗髮精聞起來像蘋果。"
+   "exzh": "這瓶洗髮精聞起來像蘋果。",
+   "photo": "img/words/home-5/shampoo.jpg"
   },
   {
    "w": "conditioner",
@@ -102,7 +112,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧴",
    "ex": "Use conditioner after you use shampoo.",
-   "exzh": "用完洗髮精後再用潤髮乳。"
+   "exzh": "用完洗髮精後再用潤髮乳。",
+   "photo": "img/words/home-5/conditioner.jpg"
   },
   {
    "w": "scale",
@@ -120,7 +131,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪞",
    "ex": "She checked her face in a compact.",
-   "exzh": "她用粉盒鏡子看了一下自己的臉。"
+   "exzh": "她用粉盒鏡子看了一下自己的臉。",
+   "photo": "img/words/home-5/compact.jpg"
   },
   {
    "w": "nail clipper",
@@ -129,7 +141,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "✂️",
    "ex": "Please give me the nail clipper.",
-   "exzh": "請把指甲刀拿給我。"
+   "exzh": "請把指甲刀拿給我。",
+   "photo": "img/words/home-5/nail-clipper.jpg"
   },
   {
    "w": "toothbrush",
@@ -138,7 +151,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪥",
    "ex": "Change your toothbrush every three months.",
-   "exzh": "牙刷每三個月要換一支。"
+   "exzh": "牙刷每三個月要換一支。",
+   "photo": "img/words/home-5/toothbrush.jpg"
   },
   {
    "w": "razor blade",
@@ -156,7 +170,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👁️",
    "ex": "She put mascara on her eyelashes.",
-   "exzh": "她在睫毛上刷了睫毛膏。"
+   "exzh": "她在睫毛上刷了睫毛膏。",
+   "photo": "img/words/home-5/mascara.jpg"
   },
   {
    "w": "laundry basket",
@@ -165,7 +180,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧺",
    "ex": "Put your dirty socks in the laundry basket.",
-   "exzh": "把髒襪子放進洗衣籃。"
+   "exzh": "把髒襪子放進洗衣籃。",
+   "photo": "img/words/home-5/laundry-basket.jpg"
   },
   {
    "w": "robe",
@@ -174,7 +190,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥋",
    "ex": "He put on a robe after his shower.",
-   "exzh": "他洗完澡後穿上浴袍。"
+   "exzh": "他洗完澡後穿上浴袍。",
+   "photo": "img/words/home-5/robe.jpg"
   }
  ],
  "speakers": {
@@ -258,7 +275,7 @@ window.TOPIC = {
   "svg": "<rect width=\"400\" height=\"250\" fill=\"#f3ead6\"/><rect x=\"10\" y=\"78\" width=\"380\" height=\"7\" fill=\"#9b6b3a\"/><rect x=\"10\" y=\"85\" width=\"380\" height=\"3\" fill=\"#00000022\"/><rect x=\"10\" y=\"148\" width=\"380\" height=\"7\" fill=\"#9b6b3a\"/><rect x=\"10\" y=\"155\" width=\"380\" height=\"3\" fill=\"#00000022\"/><rect x=\"10\" y=\"218\" width=\"380\" height=\"7\" fill=\"#9b6b3a\"/><rect x=\"10\" y=\"225\" width=\"380\" height=\"3\" fill=\"#00000022\"/>",
   "pos": {
    "razor": [
-    34,
+    41,
     60,
     "e"
    ],
@@ -268,32 +285,32 @@ window.TOPIC = {
     "e"
    ],
    "soap": [
-    148,
+    141,
     60,
     "e"
    ],
    "blow-dryer": [
-    205,
+    191,
     60,
     "e"
    ],
    "hairbrush": [
-    262,
+    241,
     60,
     "e"
    ],
    "toothpaste": [
-    319,
+    291,
     60,
     "e"
    ],
    "nail-polish": [
-    376,
+    341,
     60,
     "e"
    ],
    "electric-razor": [
-    34,
+    41,
     130,
     "e"
    ],
@@ -303,32 +320,32 @@ window.TOPIC = {
     "e"
    ],
    "shampoo": [
-    148,
+    141,
     130,
     "e"
    ],
    "conditioner": [
-    205,
+    191,
     130,
     "e"
    ],
    "scale": [
-    262,
+    241,
     130,
     "e"
    ],
    "compact": [
-    319,
+    291,
     130,
     "e"
    ],
    "nail-clipper": [
-    376,
+    341,
     130,
     "e"
    ],
    "toothbrush": [
-    34,
+    41,
     200,
     "e"
    ],
@@ -338,20 +355,21 @@ window.TOPIC = {
     "e"
    ],
    "mascara": [
-    148,
+    141,
     200,
     "e"
    ],
    "laundry-basket": [
-    205,
+    191,
     200,
     "e"
    ],
    "robe": [
-    262,
+    241,
     200,
     "e"
    ]
-  }
+  },
+  "h": 250
  }
 };

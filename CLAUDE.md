@@ -19,6 +19,7 @@
 - MP3 只在本機用 faster-whisper（base.en）轉文字，拿來核對單字清單，轉文字結果不進專案（存在 scratchpad）。書中第一類「居家」對應 Track 001–020（奇數軌＝單字表、偶數軌＝對話，每 2 軌一個主題，共 10 個主題；第 1 軌 In a home、3 In a living room、5 In a living room, too、7 In a bathroom、9 toiletries、11 In a bedroom、13 In a basement、15 In a kitchen、17 kitchenware、19 Tools）。
 - 圖示用 emoji（示意）；不好表示的字以中文解釋為主。
 - **目錄 14 張分類卡改成照片（2026-11-03 使用者要求，在 english-quiz 的工作階段做）**：`img/cats/<分類id>.jpg`（Pexels，16:10、640×400，出處在 `img/cats/PHOTO-CREDITS.md`），`index.html` 的 `draw()` 在卡片上方放 `<img class="ph">`，載入失敗時自動換回原本的 emoji。使用者選「先換分類卡，單字之後再一個主題一個主題換」——單字圖示目前仍是 emoji，之後要換照片就照 english-quiz 單字區的做法（Pexels 搜尋→逐張檢查→裁切→附出處）。
+- **居家 10 個主題的單字改成照片（2026-11-03）**：照片放 `img/words/<主題id>/<slug>.jpg`（Pexels，4:3、640×480，出處在 `img/words/PHOTO-CREDITS.md`）。`tools/build_topic.py` 發現有照片就在單字資料加 `photo` 欄位，`topic.html` 的單字卡（`cardPic`）和看圖選字／拼字題（`quizPic`）優先用照片，沒有才用 emoji；場景圖的小圖示仍是 emoji。173 個字有 154 張照片，其餘 19 個（wall、toilet、scale、razor blade、scissors、ladle、cleaver、rice cooker、hot mitt、plastic wrap、fluorescent light、ladder、bucket、dryer、undershirt、two-pronged fork、bottle opener、rice spatula、paint）找不到清楚合適的照片，保留 emoji。換新照片後要重跑 `python tools/build_topic.py <名稱>`。其他 13 類還是 emoji，之後一類一類換。
 
 ## 結構
 - `index.html`：14 類目錄＋主題清單（`TOPICS` 物件，做好一個主題就加一筆）。
