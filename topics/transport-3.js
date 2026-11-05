@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⛰️",
    "ex": "The sign says hill ahead.",
-   "exzh": "標誌寫著前方有陡坡。"
+   "exzh": "標誌寫著前方有陡坡。",
+   "photo": "img/words/transport-3/hill.jpg"
   },
   {
    "w": "pedestrian crossing",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚸",
    "ex": "Slow down at the pedestrian crossing.",
-   "exzh": "在行人穿越道前要減速。"
+   "exzh": "在行人穿越道前要減速。",
+   "photo": "img/words/transport-3/pedestrian-crossing.jpg"
   },
   {
    "w": "two-way traffic",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "↔️",
    "ex": "The road has two-way traffic.",
-   "exzh": "這條路是雙向通行。"
+   "exzh": "這條路是雙向通行。",
+   "photo": "img/words/transport-3/two-way-traffic.jpg"
   },
   {
    "w": "no U-turn",
@@ -48,7 +51,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "➡️",
    "ex": "This is a one-way road.",
-   "exzh": "這是一條單行道。"
+   "exzh": "這是一條單行道。",
+   "photo": "img/words/transport-3/one-way-road.jpg"
   },
   {
    "w": "signal ahead",
@@ -75,7 +79,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚧",
    "ex": "There is construction on the road.",
-   "exzh": "路上正在施工。"
+   "exzh": "路上正在施工。",
+   "photo": "img/words/transport-3/construction.jpg"
   },
   {
    "w": "do not enter",
@@ -84,7 +89,8 @@ window.TOPIC = {
    "pos": "phr.",
    "emoji": "⛔",
    "ex": "The do not enter sign is red.",
-   "exzh": "禁止進入的標誌是紅色的。"
+   "exzh": "禁止進入的標誌是紅色的。",
+   "photo": "img/words/transport-3/do-not-enter.jpg"
   },
   {
    "w": "no right turn",
@@ -102,7 +108,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚫",
    "ex": "There is a no left turn sign.",
-   "exzh": "有一個禁止左轉的標誌。"
+   "exzh": "有一個禁止左轉的標誌。",
+   "photo": "img/words/transport-3/no-left-turn.jpg"
   },
   {
    "w": "traffic circle",
@@ -111,7 +118,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔄",
    "ex": "Drive slowly in the traffic circle.",
-   "exzh": "在圓環裡要慢慢開。"
+   "exzh": "在圓環裡要慢慢開。",
+   "photo": "img/words/transport-3/traffic-circle.jpg"
   },
   {
    "w": "falling rocks",
@@ -120,7 +128,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪨",
    "ex": "Watch for falling rocks in the mountains.",
-   "exzh": "在山區要注意落石。"
+   "exzh": "在山區要注意落石。",
+   "photo": "img/words/transport-3/falling-rocks.jpg"
   },
   {
    "w": "bumps",
@@ -129,7 +138,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "〰️",
    "ex": "The sign warns us of bumps.",
-   "exzh": "這個標誌警告我們前方路面顛簸。"
+   "exzh": "這個標誌警告我們前方路面顛簸。",
+   "photo": "img/words/transport-3/bumps.jpg"
   }
  ],
  "speakers": {

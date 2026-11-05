@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌉",
    "ex": "Walk over the pedestrian bridge.",
-   "exzh": "請走天橋過馬路。"
+   "exzh": "請走天橋過馬路。",
+   "photo": "img/words/transport-4/pedestrian-bridge.jpg"
   },
   {
    "w": "corner",
@@ -30,7 +31,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪧",
    "ex": "The street sign shows the name of the road.",
-   "exzh": "路牌上有馬路的名字。"
+   "exzh": "路牌上有馬路的名字。",
+   "photo": "img/words/transport-4/street-sign.jpg"
   },
   {
    "w": "subway entrance",
@@ -39,7 +41,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚇",
    "ex": "The subway entrance is near the park.",
-   "exzh": "地鐵入口在公園附近。"
+   "exzh": "地鐵入口在公園附近。",
+   "photo": "img/words/transport-4/subway-entrance.jpg"
   },
   {
    "w": "bus stop",
@@ -48,7 +51,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚏",
    "ex": "We wait at the bus stop.",
-   "exzh": "我們在公車站等車。"
+   "exzh": "我們在公車站等車。",
+   "photo": "img/words/transport-4/bus-stop.jpg"
   },
   {
    "w": "gas station",
@@ -57,7 +61,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⛽",
    "ex": "Fill up the car at the gas station.",
-   "exzh": "在加油站把車加滿油。"
+   "exzh": "在加油站把車加滿油。",
+   "photo": "img/words/transport-4/gas-station.jpg"
   },
   {
    "w": "freeway",
@@ -66,7 +71,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛣️",
    "ex": "The freeway is wide and fast.",
-   "exzh": "高速公路又寬又快。"
+   "exzh": "高速公路又寬又快。",
+   "photo": "img/words/transport-4/freeway.jpg"
   },
   {
    "w": "boulevard",
@@ -75,7 +81,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌳",
    "ex": "The boulevard has trees on both sides.",
-   "exzh": "林蔭大道兩邊有樹。"
+   "exzh": "林蔭大道兩邊有樹。",
+   "photo": "img/words/transport-4/boulevard.jpg"
   },
   {
    "w": "crosswalk",
@@ -84,7 +91,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚸",
    "ex": "Cross the street at the crosswalk.",
-   "exzh": "請走斑馬線過馬路。"
+   "exzh": "請走斑馬線過馬路。",
+   "photo": "img/words/transport-4/crosswalk.jpg"
   },
   {
    "w": "intersection",
@@ -93,7 +101,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "✖️",
    "ex": "Stop at the intersection.",
-   "exzh": "在十字路口停下來。"
+   "exzh": "在十字路口停下來。",
+   "photo": "img/words/transport-4/intersection.jpg"
   },
   {
    "w": "streetlight",
@@ -102,7 +111,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💡",
    "ex": "The streetlight turns on at night.",
-   "exzh": "路燈晚上會亮。"
+   "exzh": "路燈晚上會亮。",
+   "photo": "img/words/transport-4/streetlight.jpg"
   },
   {
    "w": "traffic light",
@@ -120,7 +130,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚶",
    "ex": "Walk on the sidewalk.",
-   "exzh": "請走在人行道上。"
+   "exzh": "請走在人行道上。",
+   "photo": "img/words/transport-4/sidewalk.jpg"
   },
   {
    "w": "underpass",
@@ -129,7 +140,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🕳️",
    "ex": "We go through the underpass.",
-   "exzh": "我們穿過地下道。"
+   "exzh": "我們穿過地下道。",
+   "photo": "img/words/transport-4/underpass.jpg"
   },
   {
    "w": "curb",
@@ -147,7 +159,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🅿️",
    "ex": "I can't find a parking space.",
-   "exzh": "我找不到停車位。"
+   "exzh": "我找不到停車位。",
+   "photo": "img/words/transport-4/parking-space.jpg"
   }
  ],
  "speakers": {

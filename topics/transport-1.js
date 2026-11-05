@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚜",
    "ex": "The bulldozer pushes the dirt.",
-   "exzh": "推土機推著泥土。"
+   "exzh": "推土機推著泥土。",
+   "photo": "img/words/transport-1/bulldozer.jpg"
   },
   {
    "w": "dump truck",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚚",
    "ex": "A dump truck carries sand.",
-   "exzh": "傾卸卡車載運沙子。"
+   "exzh": "傾卸卡車載運沙子。",
+   "photo": "img/words/transport-1/dump-truck.jpg"
   },
   {
    "w": "taxi",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚕",
    "ex": "We took a taxi to the airport.",
-   "exzh": "我們搭計程車去機場。"
+   "exzh": "我們搭計程車去機場。",
+   "photo": "img/words/transport-1/taxi.jpg"
   },
   {
    "w": "cement mixer",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚛",
    "ex": "The cement mixer is at the building site.",
-   "exzh": "水泥攪拌車在工地上。"
+   "exzh": "水泥攪拌車在工地上。",
+   "photo": "img/words/transport-1/cement-mixer.jpg"
   },
   {
    "w": "sedan",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚗",
    "ex": "My uncle drives a gray sedan.",
-   "exzh": "我叔叔開一輛灰色轎車。"
+   "exzh": "我叔叔開一輛灰色轎車。",
+   "photo": "img/words/transport-1/sedan.jpg"
   },
   {
    "w": "double-decker bus",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚌",
    "ex": "We sat on the top of the double-decker bus.",
-   "exzh": "我們坐在雙層巴士的上層。"
+   "exzh": "我們坐在雙層巴士的上層。",
+   "photo": "img/words/transport-1/double-decker-bus.jpg"
   },
   {
    "w": "monorail",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚝",
    "ex": "The monorail goes over the street.",
-   "exzh": "單軌電車從街道上方經過。"
+   "exzh": "單軌電車從街道上方經過。",
+   "photo": "img/words/transport-1/monorail.jpg"
   },
   {
    "w": "cable car",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚡",
    "ex": "The cable car goes up the mountain.",
-   "exzh": "纜車往山上開。"
+   "exzh": "纜車往山上開。",
+   "photo": "img/words/transport-1/cable-car.jpg"
   },
   {
    "w": "tram",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚊",
    "ex": "A tram runs through the old town.",
-   "exzh": "路面電車穿過老城區。"
+   "exzh": "路面電車穿過老城區。",
+   "photo": "img/words/transport-1/tram.jpg"
   },
   {
    "w": "garbage truck",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚛",
    "ex": "The garbage truck comes at night.",
-   "exzh": "垃圾車晚上會來。"
+   "exzh": "垃圾車晚上會來。",
+   "photo": "img/words/transport-1/garbage-truck.jpg"
   },
   {
    "w": "bicycle",
@@ -102,7 +112,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚲",
    "ex": "I ride a bicycle to school.",
-   "exzh": "我騎腳踏車上學。"
+   "exzh": "我騎腳踏車上學。",
+   "photo": "img/words/transport-1/bicycle.jpg"
   },
   {
    "w": "horse and carriage",
@@ -111,7 +122,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐎",
    "ex": "We rode in a horse and carriage.",
-   "exzh": "我們坐了馬車。"
+   "exzh": "我們坐了馬車。",
+   "photo": "img/words/transport-1/horse-and-carriage.jpg"
   },
   {
    "w": "scooter",
@@ -120,7 +132,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛵",
    "ex": "Many people ride scooters in Taiwan.",
-   "exzh": "台灣很多人騎機車。"
+   "exzh": "台灣很多人騎機車。",
+   "photo": "img/words/transport-1/scooter.jpg"
   },
   {
    "w": "ambulance",
@@ -129,7 +142,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚑",
    "ex": "The ambulance has a loud siren.",
-   "exzh": "救護車的警笛很大聲。"
+   "exzh": "救護車的警笛很大聲。",
+   "photo": "img/words/transport-1/ambulance.jpg"
   },
   {
    "w": "train",
@@ -138,7 +152,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚆",
    "ex": "The train arrives at noon.",
-   "exzh": "火車中午到。"
+   "exzh": "火車中午到。",
+   "photo": "img/words/transport-1/train.jpg"
   },
   {
    "w": "subway",
@@ -147,7 +162,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚇",
    "ex": "I take the subway to work.",
-   "exzh": "我搭地鐵上班。"
+   "exzh": "我搭地鐵上班。",
+   "photo": "img/words/transport-1/subway.jpg"
   },
   {
    "w": "tour bus",
@@ -156,7 +172,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚌",
    "ex": "The tour bus takes us to the museum.",
-   "exzh": "遊覽車載我們去博物館。"
+   "exzh": "遊覽車載我們去博物館。",
+   "photo": "img/words/transport-1/tour-bus.jpg"
   },
   {
    "w": "crane",
@@ -165,7 +182,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏗️",
    "ex": "A crane lifts the heavy box.",
-   "exzh": "起重機吊起重重的箱子。"
+   "exzh": "起重機吊起重重的箱子。",
+   "photo": "img/words/transport-1/crane.jpg"
   },
   {
    "w": "fire engine",
@@ -174,7 +192,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚒",
    "ex": "The fire engine is red.",
-   "exzh": "消防車是紅色的。"
+   "exzh": "消防車是紅色的。",
+   "photo": "img/words/transport-1/fire-engine.jpg"
   }
  ],
  "speakers": {

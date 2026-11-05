@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "✈️",
    "ex": "A jumbo jet carries hundreds of people.",
-   "exzh": "大型客機載著幾百個人。"
+   "exzh": "大型客機載著幾百個人。",
+   "photo": "img/words/transport-2/jumbo-jet.jpg"
   },
   {
    "w": "helicopter",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚁",
    "ex": "The helicopter lands on the roof.",
-   "exzh": "直升機降落在屋頂上。"
+   "exzh": "直升機降落在屋頂上。",
+   "photo": "img/words/transport-2/helicopter.jpg"
   },
   {
    "w": "biplane",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛩️",
    "ex": "An old biplane flew over the show.",
-   "exzh": "一架老式雙翼飛機飛過表演場。"
+   "exzh": "一架老式雙翼飛機飛過表演場。",
+   "photo": "img/words/transport-2/biplane.jpg"
   },
   {
    "w": "clipper",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⛵",
    "ex": "A clipper was a fast sailing ship.",
-   "exzh": "clipper 是一種很快的帆船。"
+   "exzh": "clipper 是一種很快的帆船。",
+   "photo": "img/words/transport-2/clipper.jpg"
   },
   {
    "w": "sailboat",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⛵",
    "ex": "We sail a small sailboat on the lake.",
-   "exzh": "我們在湖上駕駛小帆船。"
+   "exzh": "我們在湖上駕駛小帆船。",
+   "photo": "img/words/transport-2/sailboat.jpg"
   },
   {
    "w": "raft",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛶",
    "ex": "They float down the river on a raft.",
-   "exzh": "他們坐木筏順著河漂流。"
+   "exzh": "他們坐木筏順著河漂流。",
+   "photo": "img/words/transport-2/raft.jpg"
   },
   {
    "w": "submarine",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌊",
    "ex": "A submarine travels under the sea.",
-   "exzh": "潛水艇在海面下航行。"
+   "exzh": "潛水艇在海面下航行。",
+   "photo": "img/words/transport-2/submarine.jpg"
   },
   {
    "w": "ferry",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⛴️",
    "ex": "We took a ferry to the island.",
-   "exzh": "我們搭渡輪去小島。"
+   "exzh": "我們搭渡輪去小島。",
+   "photo": "img/words/transport-2/ferry.jpg"
   },
   {
    "w": "hot air balloon",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎈",
    "ex": "A hot air balloon floats in the sky.",
-   "exzh": "熱氣球漂浮在天空中。"
+   "exzh": "熱氣球漂浮在天空中。",
+   "photo": "img/words/transport-2/hot-air-balloon.jpg"
   },
   {
    "w": "tanker",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛢️",
    "ex": "The tanker carries oil.",
-   "exzh": "油輪載運石油。"
+   "exzh": "油輪載運石油。",
+   "photo": "img/words/transport-2/tanker.jpg"
   },
   {
    "w": "container ship",
@@ -102,7 +112,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚢",
    "ex": "A container ship carries goods across the sea.",
-   "exzh": "貨櫃輪把貨物運過海洋。"
+   "exzh": "貨櫃輪把貨物運過海洋。",
+   "photo": "img/words/transport-2/container-ship.jpg"
   },
   {
    "w": "motorboat",
@@ -111,7 +122,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚤",
    "ex": "The motorboat is very fast.",
-   "exzh": "摩托艇非常快。"
+   "exzh": "摩托艇非常快。",
+   "photo": "img/words/transport-2/motorboat.jpg"
   }
  ],
  "speakers": {
