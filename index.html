@@ -58,7 +58,7 @@ function draw(){
   const list = TOPICS[cur] || [];
   document.getElementById('topics').innerHTML = list.length ? list.map(t => `<a class="tp" href="topic.html?t=${t.id}"><span class="e">${t.e}</span><span><div class="t">${t.t}　${t.en}</div><div class="s">${t.s}</div></span></a>`).join('') : '<div class="tp off">這一類還沒有主題，敬請期待。</div>';
 }
-document.addEventListener('click', e => { const b = e.target.closest('.cat'); if(b && !b.classList.contains('off')){ cur = b.dataset.c; draw(); } });
+document.addEventListener('click', e => { const b = e.target.closest('.cat'); if(b && !b.classList.contains('off')){ cur = b.dataset.c; draw(); document.getElementById('ctitle').scrollIntoView({ block: 'start' }); } });   // 主題列表在 14 張分類卡下面，點了自動捲過去（2026-11-05）
 draw();
 </script>
 <script src="points.js"></script>
