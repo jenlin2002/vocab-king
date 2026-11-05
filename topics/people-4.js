@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👗",
    "ex": "She wears a red dress.",
-   "exzh": "她穿著一件紅色洋裝。"
+   "exzh": "她穿著一件紅色洋裝。",
+   "photo": "img/words/people-4/dress.jpg"
   },
   {
    "w": "gown",
@@ -30,7 +31,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👚",
    "ex": "This blouse is very soft.",
-   "exzh": "這件女用襯衫很柔軟。"
+   "exzh": "這件女用襯衫很柔軟。",
+   "photo": "img/words/people-4/blouse.jpg"
   },
   {
    "w": "skirt",
@@ -75,7 +77,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🤵",
    "ex": "Dad wears a suit to work.",
-   "exzh": "爸爸穿西裝上班。"
+   "exzh": "爸爸穿西裝上班。",
+   "photo": "img/words/people-4/suit.jpg"
   },
   {
    "w": "shirt",
@@ -84,7 +87,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👔",
    "ex": "He wears a white shirt.",
-   "exzh": "他穿著白襯衫。"
+   "exzh": "他穿著白襯衫。",
+   "photo": "img/words/people-4/shirt.jpg"
   },
   {
    "w": "vest",
@@ -93,7 +97,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦺",
    "ex": "He puts a vest over his shirt.",
-   "exzh": "他在襯衫外穿一件背心。"
+   "exzh": "他在襯衫外穿一件背心。",
+   "photo": "img/words/people-4/vest.jpg"
   },
   {
    "w": "T-shirt",
@@ -102,7 +107,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👕",
    "ex": "I wear a T-shirt in summer.",
-   "exzh": "夏天我穿 T 恤。"
+   "exzh": "夏天我穿 T 恤。",
+   "photo": "img/words/people-4/t-shirt.jpg"
   },
   {
    "w": "polo shirt",
@@ -111,7 +117,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👕",
    "ex": "His polo shirt is green.",
-   "exzh": "他的 POLO 衫是綠色的。"
+   "exzh": "他的 POLO 衫是綠色的。",
+   "photo": "img/words/people-4/polo-shirt.jpg"
   },
   {
    "w": "pants",
@@ -120,7 +127,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👖",
    "ex": "These pants are too long.",
-   "exzh": "這條長褲太長了。"
+   "exzh": "這條長褲太長了。",
+   "photo": "img/words/people-4/pants.jpg"
   },
   {
    "w": "jeans",
@@ -129,7 +137,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👖",
    "ex": "I like blue jeans.",
-   "exzh": "我喜歡藍色牛仔褲。"
+   "exzh": "我喜歡藍色牛仔褲。",
+   "photo": "img/words/people-4/jeans.jpg"
   },
   {
    "w": "shorts",
@@ -138,7 +147,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🩳",
    "ex": "He wears shorts to play ball.",
-   "exzh": "他穿短褲打球。"
+   "exzh": "他穿短褲打球。",
+   "photo": "img/words/people-4/shorts.jpg"
   },
   {
    "w": "boxers",
@@ -156,7 +166,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧶",
    "ex": "Put on a sweater. It's cold.",
-   "exzh": "穿上毛衣，天氣冷。"
+   "exzh": "穿上毛衣，天氣冷。",
+   "photo": "img/words/people-4/sweater.jpg"
   },
   {
    "w": "jacket",
@@ -165,7 +176,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧥",
    "ex": "My jacket has a hood.",
-   "exzh": "我的夾克有帽子。"
+   "exzh": "我的夾克有帽子。",
+   "photo": "img/words/people-4/jacket.jpg"
   },
   {
    "w": "down coat",
@@ -174,7 +186,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧥",
    "ex": "A down coat keeps you warm.",
-   "exzh": "羽絨外套讓你很保暖。"
+   "exzh": "羽絨外套讓你很保暖。",
+   "photo": "img/words/people-4/down-coat.jpg"
   },
   {
    "w": "raincoat",
@@ -183,7 +196,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌧️",
    "ex": "Wear a raincoat when it rains.",
-   "exzh": "下雨時要穿雨衣。"
+   "exzh": "下雨時要穿雨衣。",
+   "photo": "img/words/people-4/raincoat.jpg"
   }
  ],
  "speakers": {

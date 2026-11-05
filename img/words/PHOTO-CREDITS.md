@@ -297,3 +297,97 @@
 - bandage.jpg — https://www.pexels.com/photo/bandage-on-blue-background-12585205/
 - sling.jpg — https://www.pexels.com/photo/person-with-blue-bandage-on-his-injured-arm-7140013/
 - gauze.jpg — https://www.pexels.com/photo/a-person-cutting-a-gauze-with-scissors-7469501/
+
+## people-1
+- man.jpg — https://www.pexels.com/photo/a-man-reading-a-newspaper-on-a-bench-28273689/
+- woman.jpg — https://www.pexels.com/photo/woman-walking-dogs-7210536/
+- teenager.jpg — https://www.pexels.com/photo/portrait-of-a-young-man-with-headphones-6958619/
+- girl.jpg — https://www.pexels.com/photo/a-girl-riding-bicycle-on-concrete-road-7982163/
+- boy.jpg — https://www.pexels.com/photo/smiling-boy-in-white-shirt-playing-with-kite-9035388/
+- toddler.jpg — https://www.pexels.com/photo/adorable-baby-taking-first-steps-outdoors-27177707/
+- child.jpg — https://www.pexels.com/photo/happy-child-enjoying-a-swing-in-canadian-park-37566923/
+- baby.jpg — https://www.pexels.com/photo/a-sleeping-newborn-baby-14219543/
+
+## people-2
+- grandfather.jpg — https://www.pexels.com/photo/girl-sitting-on-her-grandfather-s-lap-7118193/
+- grandmother.jpg — https://www.pexels.com/photo/grandmother-and-granddaughter-baking-together-39219586/
+- mother.jpg — https://www.pexels.com/photo/mother-carrying-son-in-arms-and-smiling-4589461/
+- father.jpg — https://www.pexels.com/photo/father-holding-smiling-baby-outdoors-27177666/
+- daughter.jpg — https://www.pexels.com/photo/mother-and-daughter-bonding-outdoors-28589227/
+- son.jpg — https://www.pexels.com/photo/a-father-and-son-playing-building-blocks-4934159/
+- grandchild.jpg — https://www.pexels.com/photo/elderly-couple-bonding-with-their-grandchild-7086039/
+
+## people-3
+- head.jpg — https://www.pexels.com/photo/side-profile-of-a-woman-5062726/
+- eyelash.jpg — https://www.pexels.com/photo/close-up-of-human-eye-with-long-eyelashes-34089622/
+- eye.jpg — https://www.pexels.com/photo/close-up-of-a-human-eye-with-brown-iris-36085075/
+- cheek.jpg — https://www.pexels.com/photo/a-curly-haired-girl-with-hands-on-cheeks-12920698/
+- neck.jpg — https://www.pexels.com/photo/close-up-photo-of-person-s-nape-7298842/
+- waist.jpg — https://www.pexels.com/photo/photo-of-person-measuring-woman-s-waist-4620607/
+- hand.jpg — https://www.pexels.com/photo/photo-of-person-s-open-hands-2258248/
+- foot.jpg — https://www.pexels.com/photo/bare-feet-laying-on-green-grass-10601904/
+- hair.jpg — https://www.pexels.com/photo/a-woman-with-long-hair-10224830/
+- eyebrow.jpg — https://www.pexels.com/photo/close-up-portrait-of-blue-eyes-and-eyebrows-39976001/
+- forehead.jpg — https://www.pexels.com/photo/band-aid-on-person-s-forehead-5207327/
+- nose.jpg — https://www.pexels.com/photo/extreme-close-up-photo-of-person-s-face-7298697/
+- tooth.jpg — https://www.pexels.com/photo/close-up-photo-of-person-s-smile-7298650/
+- mouth.jpg — https://www.pexels.com/photo/close-up-photo-of-woman-with-pink-lipstick-smiling-3762402/
+- chin.jpg — https://www.pexels.com/photo/woman-in-gray-tank-top-while-holding-her-chin-3812718/
+
+## people-4
+- dress.jpg — https://www.pexels.com/photo/pink-dress-on-a-mannequin-8619007/
+- blouse.jpg — https://www.pexels.com/photo/a-woman-shopping-for-blouses-9594685/
+- suit.jpg — https://www.pexels.com/photo/a-man-in-black-suit-jacket-6950102/
+- shirt.jpg — https://www.pexels.com/photo/man-fixing-his-sleeves-3023669/
+- vest.jpg — https://www.pexels.com/photo/man-adjusting-vest-in-formal-attire-30875764/
+- t-shirt.jpg — https://www.pexels.com/photo/man-wearing-white-crew-neck-t-shirt-806626/
+- polo-shirt.jpg — https://www.pexels.com/photo/young-man-in-red-polo-shirt-11751211/
+- down-coat.jpg — https://www.pexels.com/photo/woman-walking-on-street-in-daytime-6084430/
+- pants.jpg — https://www.pexels.com/photo/a-person-wearing-white-pants-9082613/
+- jeans.jpg — https://www.pexels.com/photo/pile-of-denim-jeans-2129970/
+- shorts.jpg — https://www.pexels.com/photo/woman-in-jean-shorts-walking-terrace-26078110/
+- sweater.jpg — https://www.pexels.com/photo/woman-holding-pile-of-knitted-sweaters-5710033/
+- jacket.jpg — https://www.pexels.com/photo/man-in-checkered-jacket-during-autumn-in-belarus-40293517/
+- raincoat.jpg — https://www.pexels.com/photo/person-in-yellow-raincoat-and-black-boots-walking-on-wet-road-8499460/
+
+## people-5
+- purse.jpg — https://www.pexels.com/photo/assorted-leather-handbags-8335273/
+- scarf.jpg — https://www.pexels.com/photo/model-in-dress-and-orange-scarf-19346997/
+- necklace.jpg — https://www.pexels.com/photo/gold-necklaces-hanging-on-jewelry-stand-7679654/
+- pendant.jpg — https://www.pexels.com/photo/a-close-up-shot-of-an-oval-turquoise-necklace-13037683/
+- bracelet.jpg — https://www.pexels.com/photo/close-up-of-intricate-golden-bangles-37485307/
+- wristlet.jpg — https://www.pexels.com/photo/brown-leather-zip-wristlet-1132269/
+- wristwatch.jpg — https://www.pexels.com/photo/a-person-wearing-a-wristwatch-9713527/
+- wallet.jpg — https://www.pexels.com/photo/close-up-photo-of-leather-wallets-6651193/
+- backpack.jpg — https://www.pexels.com/photo/two-women-with-travelling-backpacks-4907460/
+- cufflink.jpg — https://www.pexels.com/photo/unrecognizable-man-fastening-cuff-link-of-white-shirt-11350587/
+- eyeglasses.jpg — https://www.pexels.com/photo/red-framed-eyeglasses-on-clear-glass-table-5202049/
+- headscarf.jpg — https://www.pexels.com/photo/a-portrait-of-a-woman-in-a-bandana-6595794/
+- corsage.jpg — https://www.pexels.com/photo/hands-putting-flower-on-man-jacket-16650707/
+- brooch.jpg — https://www.pexels.com/photo/golden-flower-shaped-brooch-decorated-with-a-pearl-diamonds-and-emeralds-17434773/
+- veil.jpg — https://www.pexels.com/photo/elegant-bride-with-veil-and-pearl-necklace-33466163/
+- earring.jpg — https://www.pexels.com/photo/elegant-close-up-of-pink-earrings-on-woman-s-ear-36772546/
+- belt.jpg — https://www.pexels.com/photo/brown-leather-belt-71123/
+- bow-tie.jpg — https://www.pexels.com/photo/set-of-elegant-bow-ties-on-leather-sofa-4639307/
+- necktie.jpg — https://www.pexels.com/photo/four-assorted-color-neckties-on-gray-textile-130855/
+- glove.jpg — https://www.pexels.com/photo/person-putting-on-gloves-7362896/
+
+## people-6
+- fedora.jpg — https://www.pexels.com/photo/woman-wearing-fedora-hat-6047683/
+- cap.jpg — https://www.pexels.com/photo/gray-and-black-la-embroidered-fitted-cap-844867/
+- beret.jpg — https://www.pexels.com/photo/models-in-coats-18267564/
+- top-hat.jpg — https://www.pexels.com/photo/marble-statue-of-gentleman-in-top-hat-39429100/
+- cowboy-hat.jpg — https://www.pexels.com/photo/authentic-cowboy-hat-on-rustic-brick-wall-39262163/
+- ski-cap.jpg — https://www.pexels.com/photo/blue-beanie-1734798/
+- hard-hat.jpg — https://www.pexels.com/photo/yellow-construction-helmet-on-industrial-site-34965713/
+- leather-shoe.jpg — https://www.pexels.com/photo/a-close-up-shot-of-a-pair-of-brown-leather-shoes-9992898/
+- high-heeled-shoe.jpg — https://www.pexels.com/photo/elegant-blue-high-heels-on-pebble-beach-34294446/
+- flip-flop.jpg — https://www.pexels.com/photo/black-flip-flops-and-sunglasses-on-grass-33475834/
+- helmet.jpg — https://www.pexels.com/photo/cycling-helmets-on-bicycle-handles-12956080/
+- sock.jpg — https://www.pexels.com/photo/feet-in-different-socks-10563910/
+- shoe.jpg — https://www.pexels.com/photo/display-of-shoes-12252411/
+- boot.jpg — https://www.pexels.com/photo/elegant-display-of-black-boots-on-stairs-37827331/
+- sandal.jpg — https://www.pexels.com/photo/a-pair-of-women-s-sandals-with-different-colors-27174537/
+- sneaker.jpg — https://www.pexels.com/photo/casual-urban-style-with-red-sneakers-30063866/
+- slipper.jpg — https://www.pexels.com/photo/close-up-photography-of-person-wearing-pink-house-slippers-1444417/
+- flipper.jpg — https://www.pexels.com/photo/close-up-shot-of-swimfins-near-a-swimming-pool-8028423/

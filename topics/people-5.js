@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👛",
    "ex": "She puts her keys in her purse.",
-   "exzh": "她把鑰匙放進小皮包。"
+   "exzh": "她把鑰匙放進小皮包。",
+   "photo": "img/words/people-5/purse.jpg"
   },
   {
    "w": "scarf",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧣",
    "ex": "Wear a scarf in winter.",
-   "exzh": "冬天要圍圍巾。"
+   "exzh": "冬天要圍圍巾。",
+   "photo": "img/words/people-5/scarf.jpg"
   },
   {
    "w": "necklace",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📿",
    "ex": "The necklace is very pretty.",
-   "exzh": "這條項鍊非常漂亮。"
+   "exzh": "這條項鍊非常漂亮。",
+   "photo": "img/words/people-5/necklace.jpg"
   },
   {
    "w": "pendant",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💎",
    "ex": "Her pendant is a small heart.",
-   "exzh": "她的墜飾是一顆小愛心。"
+   "exzh": "她的墜飾是一顆小愛心。",
+   "photo": "img/words/people-5/pendant.jpg"
   },
   {
    "w": "bracelet",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⌚",
    "ex": "She wears a silver bracelet.",
-   "exzh": "她戴著一條銀手鍊。"
+   "exzh": "她戴著一條銀手鍊。",
+   "photo": "img/words/people-5/bracelet.jpg"
   },
   {
    "w": "wristlet",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧤",
    "ex": "He wears a wristlet when playing tennis.",
-   "exzh": "他打網球時戴護腕。"
+   "exzh": "他打網球時戴護腕。",
+   "photo": "img/words/people-5/wristlet.jpg"
   },
   {
    "w": "scrunchie",
@@ -75,7 +81,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⌚",
    "ex": "My wristwatch tells the time.",
-   "exzh": "我的手錶可以看時間。"
+   "exzh": "我的手錶可以看時間。",
+   "photo": "img/words/people-5/wristwatch.jpg"
   },
   {
    "w": "wallet",
@@ -84,7 +91,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👛",
    "ex": "His wallet is in his pocket.",
-   "exzh": "他的皮夾在口袋裡。"
+   "exzh": "他的皮夾在口袋裡。",
+   "photo": "img/words/people-5/wallet.jpg"
   },
   {
    "w": "backpack",
@@ -93,7 +101,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎒",
    "ex": "I carry my books in a backpack.",
-   "exzh": "我用後背包背書。"
+   "exzh": "我用後背包背書。",
+   "photo": "img/words/people-5/backpack.jpg"
   },
   {
    "w": "cufflink",
@@ -102,7 +111,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔘",
    "ex": "He wears gold cufflinks.",
-   "exzh": "他戴著金色袖扣。"
+   "exzh": "他戴著金色袖扣。",
+   "photo": "img/words/people-5/cufflink.jpg"
   },
   {
    "w": "tie clip",
@@ -120,7 +130,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👓",
    "ex": "She needs eyeglasses to read.",
-   "exzh": "她需要眼鏡才能看書。"
+   "exzh": "她需要眼鏡才能看書。",
+   "photo": "img/words/people-5/eyeglasses.jpg"
   },
   {
    "w": "headscarf",
@@ -129,7 +140,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧕",
    "ex": "The woman wears a headscarf.",
-   "exzh": "那位女士戴著頭巾。"
+   "exzh": "那位女士戴著頭巾。",
+   "photo": "img/words/people-5/headscarf.jpg"
   },
   {
    "w": "corsage",
@@ -138,7 +150,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💐",
    "ex": "He gives her a corsage for the dance.",
-   "exzh": "他送她一個舞會用的胸花。"
+   "exzh": "他送她一個舞會用的胸花。",
+   "photo": "img/words/people-5/corsage.jpg"
   },
   {
    "w": "brooch",
@@ -147,7 +160,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏵️",
    "ex": "A brooch is on her coat.",
-   "exzh": "她的外套上別著一個胸針。"
+   "exzh": "她的外套上別著一個胸針。",
+   "photo": "img/words/people-5/brooch.jpg"
   },
   {
    "w": "veil",
@@ -156,7 +170,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👰",
    "ex": "The bride wears a white veil.",
-   "exzh": "新娘戴著白色面紗。"
+   "exzh": "新娘戴著白色面紗。",
+   "photo": "img/words/people-5/veil.jpg"
   },
   {
    "w": "earring",
@@ -165,7 +180,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💍",
    "ex": "She lost one earring.",
-   "exzh": "她掉了一隻耳環。"
+   "exzh": "她掉了一隻耳環。",
+   "photo": "img/words/people-5/earring.jpg"
   },
   {
    "w": "belt",
@@ -174,7 +190,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪢",
    "ex": "Wear a belt with your pants.",
-   "exzh": "穿長褲要繫皮帶。"
+   "exzh": "穿長褲要繫皮帶。",
+   "photo": "img/words/people-5/belt.jpg"
   },
   {
    "w": "bow tie",
@@ -183,7 +200,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎀",
    "ex": "He wears a bow tie at the party.",
-   "exzh": "他在派對上戴蝴蝶領結。"
+   "exzh": "他在派對上戴蝴蝶領結。",
+   "photo": "img/words/people-5/bow-tie.jpg"
   },
   {
    "w": "necktie",
@@ -192,7 +210,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👔",
    "ex": "Dad's necktie is blue.",
-   "exzh": "爸爸的領帶是藍色的。"
+   "exzh": "爸爸的領帶是藍色的。",
+   "photo": "img/words/people-5/necktie.jpg"
   },
   {
    "w": "glove",
@@ -201,7 +220,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧤",
    "ex": "Put on your gloves.",
-   "exzh": "戴上你的手套。"
+   "exzh": "戴上你的手套。",
+   "photo": "img/words/people-5/glove.jpg"
   }
  ],
  "speakers": {

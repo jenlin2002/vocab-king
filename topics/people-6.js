@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎩",
    "ex": "He wears a gray fedora.",
-   "exzh": "他戴著一頂灰色紳士帽。"
+   "exzh": "他戴著一頂灰色紳士帽。",
+   "photo": "img/words/people-6/fedora.jpg"
   },
   {
    "w": "top hat",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎩",
    "ex": "The magician has a top hat.",
-   "exzh": "魔術師有一頂高禮帽。"
+   "exzh": "魔術師有一頂高禮帽。",
+   "photo": "img/words/people-6/top-hat.jpg"
   },
   {
    "w": "cap",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧢",
    "ex": "I wear a cap to play baseball.",
-   "exzh": "我戴鴨舌帽打棒球。"
+   "exzh": "我戴鴨舌帽打棒球。",
+   "photo": "img/words/people-6/cap.jpg"
   },
   {
    "w": "cowboy hat",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🤠",
    "ex": "A cowboy hat is wide.",
-   "exzh": "牛仔帽的帽簷很寬。"
+   "exzh": "牛仔帽的帽簷很寬。",
+   "photo": "img/words/people-6/cowboy-hat.jpg"
   },
   {
    "w": "ski cap",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧢",
    "ex": "Put on a ski cap in the snow.",
-   "exzh": "在雪地裡戴上毛線帽。"
+   "exzh": "在雪地裡戴上毛線帽。",
+   "photo": "img/words/people-6/ski-cap.jpg"
   },
   {
    "w": "beret",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎨",
    "ex": "The painter wears a beret.",
-   "exzh": "畫家戴著貝雷帽。"
+   "exzh": "畫家戴著貝雷帽。",
+   "photo": "img/words/people-6/beret.jpg"
   },
   {
    "w": "hard hat",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⛑️",
    "ex": "Workers wear a hard hat.",
-   "exzh": "工人戴著安全帽。"
+   "exzh": "工人戴著安全帽。",
+   "photo": "img/words/people-6/hard-hat.jpg"
   },
   {
    "w": "helmet",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪖",
    "ex": "Wear a helmet when you ride a bike.",
-   "exzh": "騎腳踏車要戴安全帽。"
+   "exzh": "騎腳踏車要戴安全帽。",
+   "photo": "img/words/people-6/helmet.jpg"
   },
   {
    "w": "sock",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧦",
    "ex": "I lost one sock.",
-   "exzh": "我弄丟了一隻襪子。"
+   "exzh": "我弄丟了一隻襪子。",
+   "photo": "img/words/people-6/sock.jpg"
   },
   {
    "w": "shoe",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👞",
    "ex": "These shoes are too small.",
-   "exzh": "這雙鞋太小了。"
+   "exzh": "這雙鞋太小了。",
+   "photo": "img/words/people-6/shoe.jpg"
   },
   {
    "w": "boot",
@@ -102,7 +112,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥾",
    "ex": "He wears boots in the rain.",
-   "exzh": "他雨天穿靴子。"
+   "exzh": "他雨天穿靴子。",
+   "photo": "img/words/people-6/boot.jpg"
   },
   {
    "w": "sandal",
@@ -111,7 +122,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🩴",
    "ex": "I wear sandals in summer.",
-   "exzh": "我夏天穿涼鞋。"
+   "exzh": "我夏天穿涼鞋。",
+   "photo": "img/words/people-6/sandal.jpg"
   },
   {
    "w": "leather shoe",
@@ -120,7 +132,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👞",
    "ex": "Dad cleans his leather shoes.",
-   "exzh": "爸爸擦他的皮鞋。"
+   "exzh": "爸爸擦他的皮鞋。",
+   "photo": "img/words/people-6/leather-shoe.jpg"
   },
   {
    "w": "high-heeled shoe",
@@ -129,7 +142,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👠",
    "ex": "She wears high-heeled shoes to the party.",
-   "exzh": "她穿高跟鞋去派對。"
+   "exzh": "她穿高跟鞋去派對。",
+   "photo": "img/words/people-6/high-heeled-shoe.jpg"
   },
   {
    "w": "sneaker",
@@ -138,7 +152,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👟",
    "ex": "My sneakers are white.",
-   "exzh": "我的運動鞋是白色的。"
+   "exzh": "我的運動鞋是白色的。",
+   "photo": "img/words/people-6/sneaker.jpg"
   },
   {
    "w": "slipper",
@@ -147,7 +162,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥿",
    "ex": "Put on your slippers at home.",
-   "exzh": "在家請穿拖鞋。"
+   "exzh": "在家請穿拖鞋。",
+   "photo": "img/words/people-6/slipper.jpg"
   },
   {
    "w": "flip-flop",
@@ -156,7 +172,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🩴",
    "ex": "Flip-flops are good for the beach.",
-   "exzh": "夾腳拖很適合去海邊。"
+   "exzh": "夾腳拖很適合去海邊。",
+   "photo": "img/words/people-6/flip-flop.jpg"
   },
   {
    "w": "flipper",
@@ -165,7 +182,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🤿",
    "ex": "Flippers help you swim fast.",
-   "exzh": "蛙鞋能讓你游得更快。"
+   "exzh": "蛙鞋能讓你游得更快。",
+   "photo": "img/words/people-6/flipper.jpg"
   }
  ],
  "speakers": {

@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🗣️",
    "ex": "He wears a hat on his head.",
-   "exzh": "他頭上戴著帽子。"
+   "exzh": "他頭上戴著帽子。",
+   "photo": "img/words/people-3/head.jpg"
   },
   {
    "w": "eyelash",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👁️",
    "ex": "She has long eyelashes.",
-   "exzh": "她有長長的睫毛。"
+   "exzh": "她有長長的睫毛。",
+   "photo": "img/words/people-3/eyelash.jpg"
   },
   {
    "w": "eye",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👀",
    "ex": "My eyes are brown.",
-   "exzh": "我的眼睛是棕色的。"
+   "exzh": "我的眼睛是棕色的。",
+   "photo": "img/words/people-3/eye.jpg"
   },
   {
    "w": "cheek",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "😊",
    "ex": "The baby has soft cheeks.",
-   "exzh": "寶寶的臉頰很柔軟。"
+   "exzh": "寶寶的臉頰很柔軟。",
+   "photo": "img/words/people-3/cheek.jpg"
   },
   {
    "w": "neck",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦒",
    "ex": "A giraffe has a long neck.",
-   "exzh": "長頸鹿有長長的脖子。"
+   "exzh": "長頸鹿有長長的脖子。",
+   "photo": "img/words/people-3/neck.jpg"
   },
   {
    "w": "waist",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧍",
    "ex": "He ties a belt around his waist.",
-   "exzh": "他在腰上繫一條皮帶。"
+   "exzh": "他在腰上繫一條皮帶。",
+   "photo": "img/words/people-3/waist.jpg"
   },
   {
    "w": "hand",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "✋",
    "ex": "Wash your hands before lunch.",
-   "exzh": "午餐前要洗手。"
+   "exzh": "午餐前要洗手。",
+   "photo": "img/words/people-3/hand.jpg"
   },
   {
    "w": "buttocks",
@@ -84,7 +91,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦶",
    "ex": "My left foot hurts.",
-   "exzh": "我的左腳很痛。"
+   "exzh": "我的左腳很痛。",
+   "photo": "img/words/people-3/foot.jpg"
   },
   {
    "w": "hair",
@@ -93,7 +101,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💇",
    "ex": "She has long black hair.",
-   "exzh": "她有一頭黑色長髮。"
+   "exzh": "她有一頭黑色長髮。",
+   "photo": "img/words/people-3/hair.jpg"
   },
   {
    "w": "eyebrow",
@@ -102,7 +111,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🤨",
    "ex": "Her eyebrows are thick.",
-   "exzh": "她的眉毛很濃。"
+   "exzh": "她的眉毛很濃。",
+   "photo": "img/words/people-3/eyebrow.jpg"
   },
   {
    "w": "forehead",
@@ -111,7 +121,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "😌",
    "ex": "He has a small scar on his forehead.",
-   "exzh": "他的額頭上有一個小疤。"
+   "exzh": "他的額頭上有一個小疤。",
+   "photo": "img/words/people-3/forehead.jpg"
   },
   {
    "w": "nose",
@@ -120,7 +131,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👃",
    "ex": "I smell the flowers with my nose.",
-   "exzh": "我用鼻子聞花香。"
+   "exzh": "我用鼻子聞花香。",
+   "photo": "img/words/people-3/nose.jpg"
   },
   {
    "w": "tooth",
@@ -129,7 +141,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦷",
    "ex": "One tooth is loose.",
-   "exzh": "有一顆牙齒鬆了。"
+   "exzh": "有一顆牙齒鬆了。",
+   "photo": "img/words/people-3/tooth.jpg"
   },
   {
    "w": "mouth",
@@ -138,7 +151,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👄",
    "ex": "Open your mouth, please.",
-   "exzh": "請張開嘴巴。"
+   "exzh": "請張開嘴巴。",
+   "photo": "img/words/people-3/mouth.jpg"
   },
   {
    "w": "chin",
@@ -147,7 +161,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🙂",
    "ex": "He rests his chin on his hand.",
-   "exzh": "他把下巴靠在手上。"
+   "exzh": "他把下巴靠在手上。",
+   "photo": "img/words/people-3/chin.jpg"
   },
   {
    "w": "chest",

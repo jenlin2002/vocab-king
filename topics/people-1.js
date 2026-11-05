@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👨",
    "ex": "The man is reading a newspaper.",
-   "exzh": "那個男人在看報紙。"
+   "exzh": "那個男人在看報紙。",
+   "photo": "img/words/people-1/man.jpg"
   },
   {
    "w": "woman",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👩",
    "ex": "The woman is walking her dog.",
-   "exzh": "那位女士在遛狗。"
+   "exzh": "那位女士在遛狗。",
+   "photo": "img/words/people-1/woman.jpg"
   },
   {
    "w": "teenager",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧑",
    "ex": "The teenager listens to music.",
-   "exzh": "那個青少年在聽音樂。"
+   "exzh": "那個青少年在聽音樂。",
+   "photo": "img/words/people-1/teenager.jpg"
   },
   {
    "w": "girl",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👧",
    "ex": "The girl is riding a bike.",
-   "exzh": "那個女孩在騎腳踏車。"
+   "exzh": "那個女孩在騎腳踏車。",
+   "photo": "img/words/people-1/girl.jpg"
   },
   {
    "w": "boy",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👦",
    "ex": "The boy is flying a kite.",
-   "exzh": "那個男孩在放風箏。"
+   "exzh": "那個男孩在放風箏。",
+   "photo": "img/words/people-1/boy.jpg"
   },
   {
    "w": "toddler",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧒",
    "ex": "The toddler is just learning to walk.",
-   "exzh": "那個幼兒才剛學走路。"
+   "exzh": "那個幼兒才剛學走路。",
+   "photo": "img/words/people-1/toddler.jpg"
   },
   {
    "w": "child",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧒",
    "ex": "Every child likes to play.",
-   "exzh": "每個小孩都喜歡玩。"
+   "exzh": "每個小孩都喜歡玩。",
+   "photo": "img/words/people-1/child.jpg"
   },
   {
    "w": "baby",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👶",
    "ex": "The baby is sleeping.",
-   "exzh": "寶寶在睡覺。"
+   "exzh": "寶寶在睡覺。",
+   "photo": "img/words/people-1/baby.jpg"
   }
  ],
  "speakers": {

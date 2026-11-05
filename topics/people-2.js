@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👴",
    "ex": "My grandfather tells good stories.",
-   "exzh": "我爺爺很會說故事。"
+   "exzh": "我爺爺很會說故事。",
+   "photo": "img/words/people-2/grandfather.jpg"
   },
   {
    "w": "grandmother",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👵",
    "ex": "My grandmother cooks very well.",
-   "exzh": "我奶奶很會煮菜。"
+   "exzh": "我奶奶很會煮菜。",
+   "photo": "img/words/people-2/grandmother.jpg"
   },
   {
    "w": "mother",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👩",
    "ex": "My mother works in a bank.",
-   "exzh": "我母親在銀行工作。"
+   "exzh": "我母親在銀行工作。",
+   "photo": "img/words/people-2/mother.jpg"
   },
   {
    "w": "father",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👨",
    "ex": "My father drives me to school.",
-   "exzh": "我父親開車送我上學。"
+   "exzh": "我父親開車送我上學。",
+   "photo": "img/words/people-2/father.jpg"
   },
   {
    "w": "uncle",
@@ -147,7 +151,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👧",
    "ex": "Their daughter is in elementary school.",
-   "exzh": "他們的女兒讀小學。"
+   "exzh": "他們的女兒讀小學。",
+   "photo": "img/words/people-2/daughter.jpg"
   },
   {
    "w": "son",
@@ -156,7 +161,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👦",
    "ex": "Their son plays the violin.",
-   "exzh": "他們的兒子拉小提琴。"
+   "exzh": "他們的兒子拉小提琴。",
+   "photo": "img/words/people-2/son.jpg"
   },
   {
    "w": "daughter-in-law",
@@ -174,7 +180,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👶",
    "ex": "Grandpa loves his grandchild.",
-   "exzh": "爺爺很疼他的孫子。"
+   "exzh": "爺爺很疼他的孫子。",
+   "photo": "img/words/people-2/grandchild.jpg"
   }
  ],
  "speakers": {

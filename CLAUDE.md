@@ -29,6 +29,9 @@
 - **居家 10 個主題的單字改成照片（2026-11-03）**：照片放 `img/words/<主題id>/<slug>.jpg`（Pexels，4:3、640×480，出處在 `img/words/PHOTO-CREDITS.md`）。`tools/build_topic.py` 發現有照片就在單字資料加 `photo` 欄位，`topic.html` 的單字卡（`cardPic`）和看圖選字／拼字題（`quizPic`）優先用照片，沒有才用 emoji；場景圖的小圖示仍是 emoji。173 個字有 154 張照片，其餘 19 個（wall、toilet、scale、razor blade、scissors、ladle、cleaver、rice cooker、hot mitt、plastic wrap、fluorescent light、ladder、bucket、dryer、undershirt、two-pronged fork、bottle opener、rice spatula、paint）找不到清楚合適的照片，保留 emoji。換新照片後要重跑 `python tools/build_topic.py <名稱>`。其他類還是 emoji，之後一類一類換。
 - **校園的單字改成照片（2026-11-03）**：做法同居家。school-1 校園場所、school-2 教室、school-3 文具、school-8 地理共 76 字，有 67 張照片；沒有合適照片的保留 emoji：principal's office、guidance counselor's office、class schedule、desk mat、overhead projector、correction fluid、stapler、glue、basin。school-4 月份星期、school-5 顏色、school-6 形狀與數學符號、school-7 標點符號是抽象的，照片反而看不懂，整個主題保留 emoji／符號。出處一起寫在 `img/words/PHOTO-CREDITS.md`。
 - **醫院的單字改成照片（2026-11-03）**：hospital-1～3 共 46 字，有 42 張照片；保留 emoji 的是 emergency room（找不到清楚的急診室照片）、ear thermometer（搜到的都是耳鏡）、draw blood、blood transfusion（避免血液畫面）。手術類照片選沒有傷口、血的。
+- **人（people）的單字改成照片（2026-11-05 公司電腦，使用者說「繼續換照片」）**：people-1～6 共 113 字，有 82 張照片。保留 emoji 的：親戚稱謂（uncle、aunt、cousin、nephew、niece、各種 in-law、elder brother、younger sister、wife、husband，照片看不出關係）、內臟（brain、lung、liver、heart、stomach、intestine）、會露身體或內衣的字（buttocks、navel、chest、abdomen、thigh、bra、panties、pantyhose、boxers）、skirt、gown、scrunchie、tie clip（找不到合適照片）。
+  做法（可重複用在其他分類）：在內建瀏覽器開 pexels.com，用 JS fetch `/search/<關鍵字>/` 讀 `__NEXT_DATA__` 的 `props.pageProps.initialData.data`（取橫的照片 id、slug）→ 挑一張 → Python 下載 `images.pexels.com/photos/<id>/pexels-photo-<id>.jpeg?w=1280`（少數檔名不同，從照片頁的 og:image 取）→ 置中裁 4:3、640×480 → 做縮圖總表逐張看過（暴露、看不清楚、幾乎全白的換掉）→ 出處加到 PHOTO-CREDITS.md → `python tools\build_topic.py people1 …`。
+  還沒換的分類：交通、航空、城內、動植物、食物、休閒、運動、餐廳、機器、其他。測驗方式（使用者想改成跟 english-quiz 國中 2000 字一樣）也還沒改。
 
 ## 結構
 - `index.html`：14 類目錄＋主題清單（`TOPICS` 物件，做好一個主題就加一筆）。
