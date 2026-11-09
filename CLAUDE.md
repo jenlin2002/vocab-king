@@ -31,6 +31,7 @@
 - **醫院的單字改成照片（2026-11-03）**：hospital-1～3 共 46 字，有 42 張照片；保留 emoji 的是 emergency room（找不到清楚的急診室照片）、ear thermometer（搜到的都是耳鏡）、draw blood、blood transfusion（避免血液畫面）。手術類照片選沒有傷口、血的。
 - **人（people）的單字改成照片（2026-11-05 公司電腦，使用者說「繼續換照片」）**：people-1～6 共 113 字，有 82 張照片。保留 emoji 的：親戚稱謂（uncle、aunt、cousin、nephew、niece、各種 in-law、elder brother、younger sister、wife、husband，照片看不出關係）、內臟（brain、lung、liver、heart、stomach、intestine）、會露身體或內衣的字（buttocks、navel、chest、abdomen、thigh、bra、panties、pantyhose、boxers）、skirt、gown、scrunchie、tie clip（找不到合適照片）。
   做法（可重複用在其他分類）：在內建瀏覽器開 pexels.com，用 JS fetch `/search/<關鍵字>/` 讀 `__NEXT_DATA__` 的 `props.pageProps.initialData.data`（取橫的照片 id、slug）→ 挑一張 → Python 下載 `images.pexels.com/photos/<id>/pexels-photo-<id>.jpeg?w=1280`（少數檔名不同，從照片頁的 og:image 取）→ 置中裁 4:3、640×480 → 做縮圖總表逐張看過（暴露、看不清楚、幾乎全白的換掉）→ 出處加到 PHOTO-CREDITS.md → `python tools\build_topic.py people1 …`。
+- **場景圖改成照片牆（2026-11-09 手機雲端版，使用者說「場景圖還是簡單或 emoji」）**：有照片的主題，「🗺️ 場景圖」預設顯示照片牆（`.pw`，每格一張單字照片＋編號，點了發音、對應下方單字；沒照片的字顯示 emoji 格），上方「📷 照片／✏️ 插圖」可切回原本的插圖（`sceneMode`）。程式在 `topic.html` 的 `drawScene()`。
 - **交通（transport）的單字改成照片（2026-11-05）**：transport-1～4 共 61 字，有 54 張照片（交通標誌用真的路牌照片）。保留 emoji：no U-turn、signal ahead、merge、no right turn（找不到清楚的標誌）、corner、curb、traffic light（照片看不出重點）。
   還沒換的分類：航空、城內、動植物、食物、休閒、運動、餐廳、機器、其他。測驗方式（使用者想改成跟 english-quiz 國中 2000 字一樣）也還沒改。
 
