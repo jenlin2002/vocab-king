@@ -33,7 +33,8 @@
   做法（可重複用在其他分類）：在內建瀏覽器開 pexels.com，用 JS fetch `/search/<關鍵字>/` 讀 `__NEXT_DATA__` 的 `props.pageProps.initialData.data`（取橫的照片 id、slug）→ 挑一張 → Python 下載 `images.pexels.com/photos/<id>/pexels-photo-<id>.jpeg?w=1280`（少數檔名不同，從照片頁的 og:image 取）→ 置中裁 4:3、640×480 → 做縮圖總表逐張看過（暴露、看不清楚、幾乎全白的換掉）→ 出處加到 PHOTO-CREDITS.md → `python tools\build_topic.py people1 …`。
 - **場景圖改成照片牆（2026-11-09 手機雲端版，使用者說「場景圖還是簡單或 emoji」）**：有照片的主題，「🗺️ 場景圖」預設顯示照片牆（`.pw`，每格一張單字照片＋編號，點了發音、對應下方單字；沒照片的字顯示 emoji 格），上方「📷 照片／✏️ 插圖」可切回原本的插圖（`sceneMode`）。程式在 `topic.html` 的 `drawScene()`。
 - **交通（transport）的單字改成照片（2026-11-05）**：transport-1～4 共 61 字，有 54 張照片（交通標誌用真的路牌照片）。保留 emoji：no U-turn、signal ahead、merge、no right turn（找不到清楚的標誌）、corner、curb、traffic light（照片看不出重點）。
-  還沒換的分類：航空、城內、動植物、食物、休閒、運動、餐廳、機器、其他。測驗方式（使用者想改成跟 english-quiz 國中 2000 字一樣）也還沒改。
+  還沒換的分類：航空、城內、動植物、食物、休閒、運動、餐廳、機器、其他。
+  **換照片要在家裡或公司電腦做（2026-11-09 確認）**：雲端版的 Pexels 搜尋頁有 Cloudflare 防機器人，不能繞過；Wikimedia Commons 對雲端網路限速（10 分鐘只查到 2 個字），也不可行。雲端環境「成長學習館」雖然開了 images.pexels.com，但沒辦法搜尋。照上面 people 那段的做法，在電腦的 Claude Code 用內建瀏覽器搜 Pexels。測驗方式（使用者想改成跟 english-quiz 國中 2000 字一樣）也還沒改。
 
 ## 結構
 - `index.html`：14 類目錄＋主題清單（`TOPICS` 物件，做好一個主題就加一筆）。
