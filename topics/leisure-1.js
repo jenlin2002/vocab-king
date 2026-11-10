@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "v. phr.",
    "emoji": "♟️",
    "ex": "Grandpa likes playing chess.",
-   "exzh": "爺爺喜歡下西洋棋。"
+   "exzh": "爺爺喜歡下西洋棋。",
+   "photo": "img/words/leisure-1/playing-chess.jpg"
   },
   {
    "w": "playing cards",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "v. phr.",
    "emoji": "🃏",
    "ex": "We are playing cards after dinner.",
-   "exzh": "晚餐後我們玩撲克牌。"
+   "exzh": "晚餐後我們玩撲克牌。",
+   "photo": "img/words/leisure-1/playing-cards.jpg"
   },
   {
    "w": "playing mahjong",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "v. phr.",
    "emoji": "🀄",
    "ex": "My aunt enjoys playing mahjong.",
-   "exzh": "我阿姨喜歡打麻將。"
+   "exzh": "我阿姨喜歡打麻將。",
+   "photo": "img/words/leisure-1/playing-mahjong.jpg"
   },
   {
    "w": "painting",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎨",
    "ex": "Painting is my hobby.",
-   "exzh": "畫畫是我的嗜好。"
+   "exzh": "畫畫是我的嗜好。",
+   "photo": "img/words/leisure-1/painting.jpg"
   },
   {
    "w": "sculpting",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🗿",
    "ex": "Sculpting takes patience.",
-   "exzh": "雕刻需要耐心。"
+   "exzh": "雕刻需要耐心。",
+   "photo": "img/words/leisure-1/sculpting.jpg"
   },
   {
    "w": "dancing",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💃",
    "ex": "Dancing makes me happy.",
-   "exzh": "跳舞讓我快樂。"
+   "exzh": "跳舞讓我快樂。",
+   "photo": "img/words/leisure-1/dancing.jpg"
   },
   {
    "w": "hiking",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥾",
    "ex": "Hiking in the mountains is fun.",
-   "exzh": "在山裡健行很有趣。"
+   "exzh": "在山裡健行很有趣。",
+   "photo": "img/words/leisure-1/hiking.jpg"
   },
   {
    "w": "fishing",
@@ -84,7 +91,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧗",
    "ex": "Mountain climbing is tiring.",
-   "exzh": "爬山很累。"
+   "exzh": "爬山很累。",
+   "photo": "img/words/leisure-1/mountain-climbing.jpg"
   },
   {
    "w": "gardening",
@@ -93,7 +101,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌱",
    "ex": "Mom loves gardening.",
-   "exzh": "媽媽愛做園藝。"
+   "exzh": "媽媽愛做園藝。",
+   "photo": "img/words/leisure-1/gardening.jpg"
   },
   {
    "w": "bird watching",
@@ -102,7 +111,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐦",
    "ex": "Bird watching needs a pair of binoculars.",
-   "exzh": "賞鳥需要一副望遠鏡。"
+   "exzh": "賞鳥需要一副望遠鏡。",
+   "photo": "img/words/leisure-1/bird-watching.jpg"
   },
   {
    "w": "singing karaoke",
@@ -111,7 +121,8 @@ window.TOPIC = {
    "pos": "v. phr.",
    "emoji": "🎤",
    "ex": "We love singing karaoke with friends.",
-   "exzh": "我們愛和朋友唱卡拉 OK。"
+   "exzh": "我們愛和朋友唱卡拉 OK。",
+   "photo": "img/words/leisure-1/singing-karaoke.jpg"
   },
   {
    "w": "window shopping",
@@ -129,7 +140,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📷",
    "ex": "Photography is an art.",
-   "exzh": "攝影是一種藝術。"
+   "exzh": "攝影是一種藝術。",
+   "photo": "img/words/leisure-1/photography.jpg"
   },
   {
    "w": "reading",
@@ -138,7 +150,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📖",
    "ex": "Reading is a good habit.",
-   "exzh": "閱讀是個好習慣。"
+   "exzh": "閱讀是個好習慣。",
+   "photo": "img/words/leisure-1/reading.jpg"
   },
   {
    "w": "listening to music",
@@ -147,7 +160,8 @@ window.TOPIC = {
    "pos": "v. phr.",
    "emoji": "🎧",
    "ex": "I relax by listening to music.",
-   "exzh": "我藉由聽音樂來放鬆。"
+   "exzh": "我藉由聽音樂來放鬆。",
+   "photo": "img/words/leisure-1/listening-to-music.jpg"
   },
   {
    "w": "watching TV",
@@ -156,7 +170,8 @@ window.TOPIC = {
    "pos": "v. phr.",
    "emoji": "📺",
    "ex": "Watching TV too long is bad for your eyes.",
-   "exzh": "看電視太久對眼睛不好。"
+   "exzh": "看電視太久對眼睛不好。",
+   "photo": "img/words/leisure-1/watching-tv.jpg"
   },
   {
    "w": "going to a movie",
@@ -165,7 +180,8 @@ window.TOPIC = {
    "pos": "v. phr.",
    "emoji": "🎬",
    "ex": "Let's go to a movie tonight.",
-   "exzh": "我們今晚去看電影吧。"
+   "exzh": "我們今晚去看電影吧。",
+   "photo": "img/words/leisure-1/going-to-a-movie.jpg"
   },
   {
    "w": "playing video games",
@@ -174,7 +190,8 @@ window.TOPIC = {
    "pos": "v. phr.",
    "emoji": "🎮",
    "ex": "He spends hours playing video games.",
-   "exzh": "他花好幾個小時玩電動。"
+   "exzh": "他花好幾個小時玩電動。",
+   "photo": "img/words/leisure-1/playing-video-games.jpg"
   },
   {
    "w": "surfing the internet",
@@ -183,7 +200,8 @@ window.TOPIC = {
    "pos": "v. phr.",
    "emoji": "💻",
    "ex": "She is surfing the internet for news.",
-   "exzh": "她在上網看新聞。"
+   "exzh": "她在上網看新聞。",
+   "photo": "img/words/leisure-1/surfing-the-internet.jpg"
   }
  ],
  "speakers": {

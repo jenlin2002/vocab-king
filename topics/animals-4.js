@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐡",
    "ex": "A blowfish gets round.",
-   "exzh": "河豚會鼓成圓形。"
+   "exzh": "河豚會鼓成圓形。",
+   "photo": "img/words/animals-4/blowfish.jpg"
   },
   {
    "w": "oyster",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦪",
    "ex": "An oyster lives in a shell.",
-   "exzh": "牡蠣住在殼裡。"
+   "exzh": "牡蠣住在殼裡。",
+   "photo": "img/words/animals-4/oyster.jpg"
   },
   {
    "w": "dolphin",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐬",
    "ex": "A dolphin is smart.",
-   "exzh": "海豚很聰明。"
+   "exzh": "海豚很聰明。",
+   "photo": "img/words/animals-4/dolphin.jpg"
   },
   {
    "w": "shark",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦈",
    "ex": "A shark has sharp teeth.",
-   "exzh": "鯊魚有尖銳的牙齒。"
+   "exzh": "鯊魚有尖銳的牙齒。",
+   "photo": "img/words/animals-4/shark.jpg"
   },
   {
    "w": "clam",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐚",
    "ex": "I eat clams in the soup.",
-   "exzh": "我在湯裡吃蛤蜊。"
+   "exzh": "我在湯裡吃蛤蜊。",
+   "photo": "img/words/animals-4/clam.jpg"
   },
   {
    "w": "starfish",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⭐",
    "ex": "A starfish has five arms.",
-   "exzh": "海星有五隻手臂。"
+   "exzh": "海星有五隻手臂。",
+   "photo": "img/words/animals-4/starfish.jpg"
   },
   {
    "w": "squid",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦑",
    "ex": "A squid has ten arms.",
-   "exzh": "魷魚有十隻腳。"
+   "exzh": "魷魚有十隻腳。",
+   "photo": "img/words/animals-4/squid.jpg"
   },
   {
    "w": "whale",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐋",
    "ex": "A whale is the largest animal.",
-   "exzh": "鯨魚是最大的動物。"
+   "exzh": "鯨魚是最大的動物。",
+   "photo": "img/words/animals-4/whale.jpg"
   },
   {
    "w": "sea snake",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐍",
    "ex": "A sea snake swims in the ocean.",
-   "exzh": "海蛇在海裡游。"
+   "exzh": "海蛇在海裡游。",
+   "photo": "img/words/animals-4/sea-snake.jpg"
   },
   {
    "w": "shrimp",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦐",
    "ex": "I like fried shrimp.",
-   "exzh": "我愛吃炸蝦。"
+   "exzh": "我愛吃炸蝦。",
+   "photo": "img/words/animals-4/shrimp.jpg"
   },
   {
    "w": "sea cucumber",
@@ -102,7 +112,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥒",
    "ex": "A sea cucumber lies on the bottom.",
-   "exzh": "海參躺在海底。"
+   "exzh": "海參躺在海底。",
+   "photo": "img/words/animals-4/sea-cucumber.jpg"
   },
   {
    "w": "sea horse",
@@ -111,7 +122,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐴",
    "ex": "A sea horse is small.",
-   "exzh": "海馬很小。"
+   "exzh": "海馬很小。",
+   "photo": "img/words/animals-4/sea-horse.jpg"
   },
   {
    "w": "flounder",
@@ -120,7 +132,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐟",
    "ex": "A flounder lies flat on the sand.",
-   "exzh": "比目魚平躺在沙子上。"
+   "exzh": "比目魚平躺在沙子上。",
+   "photo": "img/words/animals-4/flounder.jpg"
   },
   {
    "w": "coral",
@@ -129,7 +142,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪸",
    "ex": "Coral is colorful.",
-   "exzh": "珊瑚色彩繽紛。"
+   "exzh": "珊瑚色彩繽紛。",
+   "photo": "img/words/animals-4/coral.jpg"
   },
   {
    "w": "seaweed",
@@ -138,7 +152,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌿",
    "ex": "Seaweed grows in the sea.",
-   "exzh": "海藻長在海裡。"
+   "exzh": "海藻長在海裡。",
+   "photo": "img/words/animals-4/seaweed.jpg"
   },
   {
    "w": "kelp",
@@ -147,7 +162,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌿",
    "ex": "Kelp is a kind of seaweed.",
-   "exzh": "昆布是一種海藻。"
+   "exzh": "昆布是一種海藻。",
+   "photo": "img/words/animals-4/kelp.jpg"
   },
   {
    "w": "mackerel",
@@ -156,7 +172,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐟",
    "ex": "We grill the mackerel.",
-   "exzh": "我們烤鯖魚。"
+   "exzh": "我們烤鯖魚。",
+   "photo": "img/words/animals-4/mackerel.jpg"
   },
   {
    "w": "eel",
@@ -165,7 +182,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐍",
    "ex": "An eel looks like a snake.",
-   "exzh": "鰻魚看起來像蛇。"
+   "exzh": "鰻魚看起來像蛇。",
+   "photo": "img/words/animals-4/eel.jpg"
   },
   {
    "w": "crab",
@@ -174,7 +192,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦀",
    "ex": "A crab walks sideways.",
-   "exzh": "螃蟹橫著走。"
+   "exzh": "螃蟹橫著走。",
+   "photo": "img/words/animals-4/crab.jpg"
   },
   {
    "w": "octopus",
@@ -183,7 +202,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐙",
    "ex": "An octopus has eight arms.",
-   "exzh": "章魚有八隻腳。"
+   "exzh": "章魚有八隻腳。",
+   "photo": "img/words/animals-4/octopus.jpg"
   },
   {
    "w": "jellyfish",
@@ -192,7 +212,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪼",
    "ex": "A jellyfish can sting you.",
-   "exzh": "水母會螫人。"
+   "exzh": "水母會螫人。",
+   "photo": "img/words/animals-4/jellyfish.jpg"
   },
   {
    "w": "sea turtle",
@@ -201,7 +222,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐢",
    "ex": "A sea turtle lays eggs on the beach.",
-   "exzh": "海龜在海灘上產卵。"
+   "exzh": "海龜在海灘上產卵。",
+   "photo": "img/words/animals-4/sea-turtle.jpg"
   },
   {
    "w": "seal",
@@ -210,7 +232,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦭",
    "ex": "The seal balances a ball.",
-   "exzh": "海豹用鼻子頂著球。"
+   "exzh": "海豹用鼻子頂著球。",
+   "photo": "img/words/animals-4/seal.jpg"
   },
   {
    "w": "sea bream",
@@ -219,7 +242,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐠",
    "ex": "Sea bream is a tasty fish.",
-   "exzh": "海鯛是很美味的魚。"
+   "exzh": "海鯛是很美味的魚。",
+   "photo": "img/words/animals-4/sea-bream.jpg"
   },
   {
    "w": "tuna",
@@ -228,7 +252,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐟",
    "ex": "Tuna swims very fast.",
-   "exzh": "鮪魚游得很快。"
+   "exzh": "鮪魚游得很快。",
+   "photo": "img/words/animals-4/tuna.jpg"
   },
   {
    "w": "salmon",
@@ -237,7 +262,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍣",
    "ex": "Salmon swim up the river.",
-   "exzh": "鮭魚會逆流而上。"
+   "exzh": "鮭魚會逆流而上。",
+   "photo": "img/words/animals-4/salmon.jpg"
   },
   {
    "w": "sardine",
@@ -246,7 +272,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐟",
    "ex": "Sardines swim in a school.",
-   "exzh": "沙丁魚成群游動。"
+   "exzh": "沙丁魚成群游動。",
+   "photo": "img/words/animals-4/sardine.jpg"
   },
   {
    "w": "swordfish",
@@ -264,7 +291,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦞",
    "ex": "Lobster is very expensive.",
-   "exzh": "龍蝦非常貴。"
+   "exzh": "龍蝦非常貴。",
+   "photo": "img/words/animals-4/lobster.jpg"
   }
  ],
  "speakers": {

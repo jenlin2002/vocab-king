@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🤸",
    "ex": "Men use the parallel bars.",
-   "exzh": "男子使用雙槓。"
+   "exzh": "男子使用雙槓。",
+   "photo": "img/words/sports-8/parallel-bars.jpg"
   },
   {
    "w": "yoga",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧘",
    "ex": "Yoga helps me relax.",
-   "exzh": "瑜伽讓我放鬆。"
+   "exzh": "瑜伽讓我放鬆。",
+   "photo": "img/words/sports-8/yoga.jpg"
   },
   {
    "w": "aerobic workout",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏃",
    "ex": "An aerobic workout makes your heart strong.",
-   "exzh": "有氧運動讓心臟強壯。"
+   "exzh": "有氧運動讓心臟強壯。",
+   "photo": "img/words/sports-8/aerobic-workout.jpg"
   },
   {
    "w": "rings",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⭕",
    "ex": "The rings need strong arms.",
-   "exzh": "吊環需要強壯的手臂。"
+   "exzh": "吊環需要強壯的手臂。",
+   "photo": "img/words/sports-8/rings.jpg"
   },
   {
    "w": "gymnastics",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🤸",
    "ex": "Gymnastics needs balance and strength.",
-   "exzh": "體操需要平衡和力量。"
+   "exzh": "體操需要平衡和力量。",
+   "photo": "img/words/sports-8/gymnastics.jpg"
   },
   {
    "w": "pommel horse",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐴",
    "ex": "The pommel horse is difficult.",
-   "exzh": "鞍馬很難。"
+   "exzh": "鞍馬很難。",
+   "photo": "img/words/sports-8/pommel-horse.jpg"
   },
   {
    "w": "weightlifting",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏋️",
    "ex": "Weightlifting makes you strong.",
-   "exzh": "舉重讓你變強壯。"
+   "exzh": "舉重讓你變強壯。",
+   "photo": "img/words/sports-8/weightlifting.jpg"
   },
   {
    "w": "vaulting horse",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐴",
    "ex": "He jumped over the vaulting horse.",
-   "exzh": "他跳過跳馬。"
+   "exzh": "他跳過跳馬。",
+   "photo": "img/words/sports-8/vaulting-horse.jpg"
   },
   {
    "w": "horizontal bar",
@@ -93,7 +101,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🤸",
    "ex": "The uneven bars are for women.",
-   "exzh": "高低槓是女子項目。"
+   "exzh": "高低槓是女子項目。",
+   "photo": "img/words/sports-8/uneven-bars.jpg"
   },
   {
    "w": "balance beam",
@@ -102,7 +111,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🤸",
    "ex": "She walks on the balance beam.",
-   "exzh": "她在平衡木上走。"
+   "exzh": "她在平衡木上走。",
+   "photo": "img/words/sports-8/balance-beam.jpg"
   },
   {
    "w": "trampoline",
@@ -111,7 +121,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🤾",
    "ex": "Kids love the trampoline.",
-   "exzh": "小朋友愛彈跳床。"
+   "exzh": "小朋友愛彈跳床。",
+   "photo": "img/words/sports-8/trampoline.jpg"
   }
  ],
  "speakers": {

@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🖥️",
    "ex": "A desktop computer is not portable.",
-   "exzh": "桌上型電腦不能隨身攜帶。"
+   "exzh": "桌上型電腦不能隨身攜帶。",
+   "photo": "img/words/machines-2/desktop-computer.jpg"
   },
   {
    "w": "notebook computer",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💻",
    "ex": "A notebook computer is light.",
-   "exzh": "筆記型電腦很輕。"
+   "exzh": "筆記型電腦很輕。",
+   "photo": "img/words/machines-2/notebook-computer.jpg"
   },
   {
    "w": "CRT monitor",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🖥️",
    "ex": "A CRT monitor is big and heavy.",
-   "exzh": "映像管螢幕又大又重。"
+   "exzh": "映像管螢幕又大又重。",
+   "photo": "img/words/machines-2/crt-monitor.jpg"
   },
   {
    "w": "LCD monitor",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🖥️",
    "ex": "An LCD monitor is thin.",
-   "exzh": "液晶螢幕很薄。"
+   "exzh": "液晶螢幕很薄。",
+   "photo": "img/words/machines-2/lcd-monitor.jpg"
   },
   {
    "w": "motherboard",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔌",
    "ex": "The motherboard is inside the computer.",
-   "exzh": "主機板在電腦裡面。"
+   "exzh": "主機板在電腦裡面。",
+   "photo": "img/words/machines-2/motherboard.jpg"
   },
   {
    "w": "CPU",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧠",
    "ex": "The CPU is the brain of a computer.",
-   "exzh": "中央處理器是電腦的大腦。"
+   "exzh": "中央處理器是電腦的大腦。",
+   "photo": "img/words/machines-2/cpu.jpg"
   },
   {
    "w": "RAM",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧩",
    "ex": "More RAM makes it faster.",
-   "exzh": "記憶體越多越快。"
+   "exzh": "記憶體越多越快。",
+   "photo": "img/words/machines-2/ram.jpg"
   },
   {
    "w": "hard disk",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💽",
    "ex": "My hard disk is full.",
-   "exzh": "我的硬碟滿了。"
+   "exzh": "我的硬碟滿了。",
+   "photo": "img/words/machines-2/hard-disk.jpg"
   },
   {
    "w": "mouse",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🖱️",
    "ex": "Click the mouse.",
-   "exzh": "按滑鼠。"
+   "exzh": "按滑鼠。",
+   "photo": "img/words/machines-2/mouse.jpg"
   },
   {
    "w": "keyboard",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⌨️",
    "ex": "Type on the keyboard.",
-   "exzh": "在鍵盤上打字。"
+   "exzh": "在鍵盤上打字。",
+   "photo": "img/words/machines-2/keyboard.jpg"
   },
   {
    "w": "DVD-ROM drive",
@@ -111,7 +121,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📶",
    "ex": "The modem connects to the internet.",
-   "exzh": "數據機連接網路。"
+   "exzh": "數據機連接網路。",
+   "photo": "img/words/machines-2/modem.jpg"
   },
   {
    "w": "mousepad",
@@ -120,7 +131,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🟦",
    "ex": "Put the mouse on the mousepad.",
-   "exzh": "把滑鼠放在滑鼠墊上。"
+   "exzh": "把滑鼠放在滑鼠墊上。",
+   "photo": "img/words/machines-2/mousepad.jpg"
   },
   {
    "w": "speaker",
@@ -129,7 +141,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔈",
    "ex": "The speakers are loud.",
-   "exzh": "喇叭很大聲。"
+   "exzh": "喇叭很大聲。",
+   "photo": "img/words/machines-2/speaker.jpg"
   },
   {
    "w": "floppy disk",
@@ -138,7 +151,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💾",
    "ex": "A floppy disk is very old.",
-   "exzh": "磁碟片很古老。"
+   "exzh": "磁碟片很古老。",
+   "photo": "img/words/machines-2/floppy-disk.jpg"
   },
   {
    "w": "scanner",
@@ -147,7 +161,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📠",
    "ex": "Use the scanner for photos.",
-   "exzh": "用掃描器掃描照片。"
+   "exzh": "用掃描器掃描照片。",
+   "photo": "img/words/machines-2/scanner.jpg"
   },
   {
    "w": "printer",
@@ -156,7 +171,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🖨️",
    "ex": "The printer is out of ink.",
-   "exzh": "印表機沒墨水了。"
+   "exzh": "印表機沒墨水了。",
+   "photo": "img/words/machines-2/printer.jpg"
   },
   {
    "w": "flash disk",
@@ -165,7 +181,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔌",
    "ex": "Save the file on a flash disk.",
-   "exzh": "把檔案存在隨身碟。"
+   "exzh": "把檔案存在隨身碟。",
+   "photo": "img/words/machines-2/flash-disk.jpg"
   },
   {
    "w": "webcam",
@@ -174,7 +191,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📹",
    "ex": "Use a webcam for video chats.",
-   "exzh": "用網路攝影機視訊聊天。"
+   "exzh": "用網路攝影機視訊聊天。",
+   "photo": "img/words/machines-2/webcam.jpg"
   },
   {
    "w": "CD burner",
@@ -183,7 +201,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💿",
    "ex": "A CD burner copies data to a disc.",
-   "exzh": "光碟燒錄機把資料複製到光碟。"
+   "exzh": "光碟燒錄機把資料複製到光碟。",
+   "photo": "img/words/machines-2/cd-burner.jpg"
   },
   {
    "w": "hub",
@@ -192,7 +211,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔗",
    "ex": "The hub connects the computers.",
-   "exzh": "集線器連接電腦。"
+   "exzh": "集線器連接電腦。",
+   "photo": "img/words/machines-2/hub.jpg"
   },
   {
    "w": "network adapter card",
@@ -201,7 +221,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪪",
    "ex": "Install a network adapter card.",
-   "exzh": "安裝網路卡。"
+   "exzh": "安裝網路卡。",
+   "photo": "img/words/machines-2/network-adapter-card.jpg"
   }
  ],
  "speakers": {

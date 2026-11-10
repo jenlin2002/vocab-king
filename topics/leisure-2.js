@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎷",
    "ex": "He plays the saxophone in the jazz band.",
-   "exzh": "他在爵士樂團吹薩克斯風。"
+   "exzh": "他在爵士樂團吹薩克斯風。",
+   "photo": "img/words/leisure-2/saxophone.jpg"
   },
   {
    "w": "flute",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪈",
    "ex": "The flute has a soft sound.",
-   "exzh": "長笛的聲音很柔和。"
+   "exzh": "長笛的聲音很柔和。",
+   "photo": "img/words/leisure-2/flute.jpg"
   },
   {
    "w": "acoustic guitar",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎸",
    "ex": "I play the acoustic guitar by the fire.",
-   "exzh": "我在營火邊彈民謠吉他。"
+   "exzh": "我在營火邊彈民謠吉他。",
+   "photo": "img/words/leisure-2/acoustic-guitar.jpg"
   },
   {
    "w": "electric guitar",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎸",
    "ex": "The electric guitar is loud.",
-   "exzh": "電吉他很大聲。"
+   "exzh": "電吉他很大聲。",
+   "photo": "img/words/leisure-2/electric-guitar.jpg"
   },
   {
    "w": "clarinet",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎶",
    "ex": "She plays the clarinet in the school band.",
-   "exzh": "她在學校樂隊吹單簧管。"
+   "exzh": "她在學校樂隊吹單簧管。",
+   "photo": "img/words/leisure-2/clarinet.jpg"
   },
   {
    "w": "Chinese violin",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎻",
    "ex": "The Chinese violin sounds sad.",
-   "exzh": "二胡的聲音聽起來很哀傷。"
+   "exzh": "二胡的聲音聽起來很哀傷。",
+   "photo": "img/words/leisure-2/chinese-violin.jpg"
   },
   {
    "w": "harp",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎼",
    "ex": "A harp has many strings.",
-   "exzh": "豎琴有很多弦。"
+   "exzh": "豎琴有很多弦。",
+   "photo": "img/words/leisure-2/harp.jpg"
   },
   {
    "w": "trombone",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎺",
    "ex": "The trombone has a slide.",
-   "exzh": "伸縮喇叭有一個滑管。"
+   "exzh": "伸縮喇叭有一個滑管。",
+   "photo": "img/words/leisure-2/trombone.jpg"
   },
   {
    "w": "French horn",
@@ -93,7 +101,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪘",
    "ex": "Shake the tambourine!",
-   "exzh": "搖搖鈴鼓！"
+   "exzh": "搖搖鈴鼓！",
+   "photo": "img/words/leisure-2/tambourine.jpg"
   },
   {
    "w": "violin",
@@ -102,7 +111,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎻",
    "ex": "She practices the violin every day.",
-   "exzh": "她每天練習小提琴。"
+   "exzh": "她每天練習小提琴。",
+   "photo": "img/words/leisure-2/violin.jpg"
   },
   {
    "w": "drum",
@@ -111,7 +121,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥁",
    "ex": "The drum beats fast.",
-   "exzh": "鼓聲打得很快。"
+   "exzh": "鼓聲打得很快。",
+   "photo": "img/words/leisure-2/drum.jpg"
   },
   {
    "w": "accordion",
@@ -120,7 +131,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪗",
    "ex": "The accordion is played in street music.",
-   "exzh": "手風琴常用在街頭音樂。"
+   "exzh": "手風琴常用在街頭音樂。",
+   "photo": "img/words/leisure-2/accordion.jpg"
   },
   {
    "w": "oboe",
@@ -138,7 +150,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎶",
    "ex": "He plays the harmonica well.",
-   "exzh": "他口琴吹得很好。"
+   "exzh": "他口琴吹得很好。",
+   "photo": "img/words/leisure-2/harmonica.jpg"
   },
   {
    "w": "trumpet",
@@ -147,7 +160,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎺",
    "ex": "The trumpet is bright and loud.",
-   "exzh": "小號明亮又大聲。"
+   "exzh": "小號明亮又大聲。",
+   "photo": "img/words/leisure-2/trumpet.jpg"
   },
   {
    "w": "xylophone",
@@ -156,7 +170,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎶",
    "ex": "Kids love playing the xylophone.",
-   "exzh": "小朋友愛敲木琴。"
+   "exzh": "小朋友愛敲木琴。",
+   "photo": "img/words/leisure-2/xylophone.jpg"
   },
   {
    "w": "tuba",
@@ -165,7 +180,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎶",
    "ex": "The tuba is the biggest brass instrument.",
-   "exzh": "低音大號是最大的銅管樂器。"
+   "exzh": "低音大號是最大的銅管樂器。",
+   "photo": "img/words/leisure-2/tuba.jpg"
   },
   {
    "w": "cello",
@@ -174,7 +190,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎻",
    "ex": "The cello is bigger than the violin.",
-   "exzh": "大提琴比小提琴大。"
+   "exzh": "大提琴比小提琴大。",
+   "photo": "img/words/leisure-2/cello.jpg"
   },
   {
    "w": "piano",
@@ -183,7 +200,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎹",
    "ex": "I take piano lessons.",
-   "exzh": "我上鋼琴課。"
+   "exzh": "我上鋼琴課。",
+   "photo": "img/words/leisure-2/piano.jpg"
   }
  ],
  "speakers": {

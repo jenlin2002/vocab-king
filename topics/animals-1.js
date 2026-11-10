@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐭",
    "ex": "A mouse is hiding under the bed.",
-   "exzh": "一隻老鼠躲在床下。"
+   "exzh": "一隻老鼠躲在床下。",
+   "photo": "img/words/animals-1/mouse.jpg"
   },
   {
    "w": "dog",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐶",
    "ex": "My dog likes to run.",
-   "exzh": "我的狗喜歡跑步。"
+   "exzh": "我的狗喜歡跑步。",
+   "photo": "img/words/animals-1/dog.jpg"
   },
   {
    "w": "goat",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐐",
    "ex": "The goat eats grass.",
-   "exzh": "山羊在吃草。"
+   "exzh": "山羊在吃草。",
+   "photo": "img/words/animals-1/goat.jpg"
   },
   {
    "w": "cow",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐄",
    "ex": "A cow gives us milk.",
-   "exzh": "乳牛提供我們牛奶。"
+   "exzh": "乳牛提供我們牛奶。",
+   "photo": "img/words/animals-1/cow.jpg"
   },
   {
    "w": "cat",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐱",
    "ex": "The cat sleeps on the sofa.",
-   "exzh": "貓睡在沙發上。"
+   "exzh": "貓睡在沙發上。",
+   "photo": "img/words/animals-1/cat.jpg"
   },
   {
    "w": "pig",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐷",
    "ex": "The pig is in the mud.",
-   "exzh": "豬在泥巴裡。"
+   "exzh": "豬在泥巴裡。",
+   "photo": "img/words/animals-1/pig.jpg"
   },
   {
    "w": "sheep",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐑",
    "ex": "The sheep has soft wool.",
-   "exzh": "綿羊有柔軟的羊毛。"
+   "exzh": "綿羊有柔軟的羊毛。",
+   "photo": "img/words/animals-1/sheep.jpg"
   },
   {
    "w": "donkey",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🫏",
    "ex": "The donkey carries the bags.",
-   "exzh": "驢子馱著袋子。"
+   "exzh": "驢子馱著袋子。",
+   "photo": "img/words/animals-1/donkey.jpg"
   },
   {
    "w": "rabbit",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐰",
    "ex": "The rabbit eats a carrot.",
-   "exzh": "兔子在吃紅蘿蔔。"
+   "exzh": "兔子在吃紅蘿蔔。",
+   "photo": "img/words/animals-1/rabbit.jpg"
   },
   {
    "w": "monkey",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐒",
    "ex": "The monkey climbs the tree.",
-   "exzh": "猴子爬上樹。"
+   "exzh": "猴子爬上樹。",
+   "photo": "img/words/animals-1/monkey.jpg"
   },
   {
    "w": "squirrel",
@@ -102,7 +112,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐿️",
    "ex": "A squirrel collects nuts.",
-   "exzh": "松鼠在收集堅果。"
+   "exzh": "松鼠在收集堅果。",
+   "photo": "img/words/animals-1/squirrel.jpg"
   },
   {
    "w": "koala",
@@ -111,7 +122,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐨",
    "ex": "The koala sleeps all day.",
-   "exzh": "無尾熊整天都在睡覺。"
+   "exzh": "無尾熊整天都在睡覺。",
+   "photo": "img/words/animals-1/koala.jpg"
   },
   {
    "w": "zebra",
@@ -120,7 +132,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦓",
    "ex": "A zebra has black and white stripes.",
-   "exzh": "斑馬有黑白相間的條紋。"
+   "exzh": "斑馬有黑白相間的條紋。",
+   "photo": "img/words/animals-1/zebra.jpg"
   },
   {
    "w": "giraffe",
@@ -129,7 +142,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦒",
    "ex": "A giraffe has a long neck.",
-   "exzh": "長頸鹿有長長的脖子。"
+   "exzh": "長頸鹿有長長的脖子。",
+   "photo": "img/words/animals-1/giraffe.jpg"
   },
   {
    "w": "kangaroo",
@@ -138,7 +152,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦘",
    "ex": "The kangaroo jumps high.",
-   "exzh": "袋鼠跳得很高。"
+   "exzh": "袋鼠跳得很高。",
+   "photo": "img/words/animals-1/kangaroo.jpg"
   },
   {
    "w": "bat",
@@ -147,7 +162,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦇",
    "ex": "A bat flies at night.",
-   "exzh": "蝙蝠在夜晚飛行。"
+   "exzh": "蝙蝠在夜晚飛行。",
+   "photo": "img/words/animals-1/bat.jpg"
   },
   {
    "w": "snake",
@@ -156,7 +172,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐍",
    "ex": "The snake moves quietly.",
-   "exzh": "蛇靜靜地爬行。"
+   "exzh": "蛇靜靜地爬行。",
+   "photo": "img/words/animals-1/snake.jpg"
   },
   {
    "w": "deer",
@@ -165,7 +182,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦌",
    "ex": "The deer runs into the forest.",
-   "exzh": "鹿跑進森林。"
+   "exzh": "鹿跑進森林。",
+   "photo": "img/words/animals-1/deer.jpg"
   },
   {
    "w": "wolf",
@@ -174,7 +192,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐺",
    "ex": "The wolf howls at the moon.",
-   "exzh": "狼對著月亮嚎叫。"
+   "exzh": "狼對著月亮嚎叫。",
+   "photo": "img/words/animals-1/wolf.jpg"
   },
   {
    "w": "camel",
@@ -183,7 +202,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐫",
    "ex": "A camel lives in the desert.",
-   "exzh": "駱駝住在沙漠。"
+   "exzh": "駱駝住在沙漠。",
+   "photo": "img/words/animals-1/camel.jpg"
   },
   {
    "w": "polar bear",
@@ -192,7 +212,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐻‍❄️",
    "ex": "The polar bear lives in the Arctic.",
-   "exzh": "北極熊住在北極。"
+   "exzh": "北極熊住在北極。",
+   "photo": "img/words/animals-1/polar-bear.jpg"
   },
   {
    "w": "fox",
@@ -201,7 +222,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦊",
    "ex": "The fox is clever.",
-   "exzh": "狐狸很聰明。"
+   "exzh": "狐狸很聰明。",
+   "photo": "img/words/animals-1/fox.jpg"
   },
   {
    "w": "rhinoceros",
@@ -210,7 +232,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦏",
    "ex": "The rhinoceros has a horn.",
-   "exzh": "犀牛有一支角。"
+   "exzh": "犀牛有一支角。",
+   "photo": "img/words/animals-1/rhinoceros.jpg"
   },
   {
    "w": "horse",
@@ -219,7 +242,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐴",
    "ex": "The horse runs fast.",
-   "exzh": "馬跑得很快。"
+   "exzh": "馬跑得很快。",
+   "photo": "img/words/animals-1/horse.jpg"
   },
   {
    "w": "giant panda",
@@ -228,7 +252,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐼",
    "ex": "The giant panda eats bamboo.",
-   "exzh": "大貓熊吃竹子。"
+   "exzh": "大貓熊吃竹子。",
+   "photo": "img/words/animals-1/giant-panda.jpg"
   },
   {
    "w": "hippopotamus",
@@ -237,7 +262,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦛",
    "ex": "A hippopotamus likes the water.",
-   "exzh": "河馬喜歡待在水裡。"
+   "exzh": "河馬喜歡待在水裡。",
+   "photo": "img/words/animals-1/hippopotamus.jpg"
   },
   {
    "w": "bear",
@@ -246,7 +272,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐻",
    "ex": "The bear sleeps in winter.",
-   "exzh": "熊在冬天冬眠。"
+   "exzh": "熊在冬天冬眠。",
+   "photo": "img/words/animals-1/bear.jpg"
   },
   {
    "w": "lion",
@@ -255,7 +282,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦁",
    "ex": "The lion is the king of the animals.",
-   "exzh": "獅子是動物之王。"
+   "exzh": "獅子是動物之王。",
+   "photo": "img/words/animals-1/lion.jpg"
   },
   {
    "w": "elephant",
@@ -264,7 +292,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐘",
    "ex": "An elephant has a long nose.",
-   "exzh": "大象有長長的鼻子。"
+   "exzh": "大象有長長的鼻子。",
+   "photo": "img/words/animals-1/elephant.jpg"
   },
   {
    "w": "tiger",
@@ -273,7 +302,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐯",
    "ex": "The tiger has stripes.",
-   "exzh": "老虎有條紋。"
+   "exzh": "老虎有條紋。",
+   "photo": "img/words/animals-1/tiger.jpg"
   }
  ],
  "speakers": {

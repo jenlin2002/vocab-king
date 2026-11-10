@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍑",
    "ex": "A loquat is small and sweet.",
-   "exzh": "枇杷又小又甜。"
+   "exzh": "枇杷又小又甜。",
+   "photo": "img/words/food-2/loquat.jpg"
   },
   {
    "w": "plum",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🫐",
    "ex": "The plum is purple.",
-   "exzh": "李子是紫色的。"
+   "exzh": "李子是紫色的。",
+   "photo": "img/words/food-2/plum.jpg"
   },
   {
    "w": "strawberry",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍓",
    "ex": "I love strawberry cake.",
-   "exzh": "我愛草莓蛋糕。"
+   "exzh": "我愛草莓蛋糕。",
+   "photo": "img/words/food-2/strawberry.jpg"
   },
   {
    "w": "cherries",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍒",
    "ex": "Cherries are red and sweet.",
-   "exzh": "櫻桃又紅又甜。"
+   "exzh": "櫻桃又紅又甜。",
+   "photo": "img/words/food-2/cherries.jpg"
   },
   {
    "w": "melon",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍈",
    "ex": "The melon is juicy.",
-   "exzh": "這個甜瓜多汁。"
+   "exzh": "這個甜瓜多汁。",
+   "photo": "img/words/food-2/melon.jpg"
   },
   {
    "w": "kiwi",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥝",
    "ex": "A kiwi is green inside.",
-   "exzh": "奇異果裡面是綠色的。"
+   "exzh": "奇異果裡面是綠色的。",
+   "photo": "img/words/food-2/kiwi.jpg"
   },
   {
    "w": "grapes",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍇",
    "ex": "Grapes grow in bunches.",
-   "exzh": "葡萄一串一串地長。"
+   "exzh": "葡萄一串一串地長。",
+   "photo": "img/words/food-2/grapes.jpg"
   },
   {
    "w": "mango",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥭",
    "ex": "Mango is my favorite fruit.",
-   "exzh": "芒果是我最愛的水果。"
+   "exzh": "芒果是我最愛的水果。",
+   "photo": "img/words/food-2/mango.jpg"
   },
   {
    "w": "peach",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍑",
    "ex": "A peach is soft.",
-   "exzh": "桃子很軟。"
+   "exzh": "桃子很軟。",
+   "photo": "img/words/food-2/peach.jpg"
   },
   {
    "w": "persimmon",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍊",
    "ex": "A persimmon is orange.",
-   "exzh": "柿子是橘色的。"
+   "exzh": "柿子是橘色的。",
+   "photo": "img/words/food-2/persimmon.jpg"
   },
   {
    "w": "apple",
@@ -102,7 +112,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍎",
    "ex": "An apple a day keeps the doctor away.",
-   "exzh": "一天一蘋果，醫生遠離我。"
+   "exzh": "一天一蘋果，醫生遠離我。",
+   "photo": "img/words/food-2/apple.jpg"
   },
   {
    "w": "pear",
@@ -111,7 +122,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍐",
    "ex": "The pear is sweet.",
-   "exzh": "這顆梨子很甜。"
+   "exzh": "這顆梨子很甜。",
+   "photo": "img/words/food-2/pear.jpg"
   },
   {
    "w": "lemon",
@@ -120,7 +132,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍋",
    "ex": "A lemon is sour.",
-   "exzh": "檸檬是酸的。"
+   "exzh": "檸檬是酸的。",
+   "photo": "img/words/food-2/lemon.jpg"
   },
   {
    "w": "tangerine",
@@ -129,7 +142,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍊",
    "ex": "Peel the tangerine.",
-   "exzh": "把橘子剝皮。"
+   "exzh": "把橘子剝皮。",
+   "photo": "img/words/food-2/tangerine.jpg"
   },
   {
    "w": "orange",
@@ -138,7 +152,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍊",
    "ex": "I drink orange juice.",
-   "exzh": "我喝柳橙汁。"
+   "exzh": "我喝柳橙汁。",
+   "photo": "img/words/food-2/orange.jpg"
   },
   {
    "w": "grapefruit",
@@ -147,7 +162,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍊",
    "ex": "Grapefruit is a little bitter.",
-   "exzh": "葡萄柚有一點苦。"
+   "exzh": "葡萄柚有一點苦。",
+   "photo": "img/words/food-2/grapefruit.jpg"
   },
   {
    "w": "cantaloupe",
@@ -156,7 +172,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍈",
    "ex": "A cantaloupe is orange inside.",
-   "exzh": "哈密瓜裡面是橘色的。"
+   "exzh": "哈密瓜裡面是橘色的。",
+   "photo": "img/words/food-2/cantaloupe.jpg"
   },
   {
    "w": "banana",
@@ -165,7 +182,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍌",
    "ex": "A banana is yellow.",
-   "exzh": "香蕉是黃色的。"
+   "exzh": "香蕉是黃色的。",
+   "photo": "img/words/food-2/banana.jpg"
   },
   {
    "w": "watermelon",
@@ -174,7 +192,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍉",
    "ex": "Watermelon is good in summer.",
-   "exzh": "西瓜夏天吃最好。"
+   "exzh": "西瓜夏天吃最好。",
+   "photo": "img/words/food-2/watermelon.jpg"
   },
   {
    "w": "papaya",
@@ -183,7 +202,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥭",
    "ex": "Papaya is good for you.",
-   "exzh": "木瓜對身體有益。"
+   "exzh": "木瓜對身體有益。",
+   "photo": "img/words/food-2/papaya.jpg"
   },
   {
    "w": "durian",
@@ -192,7 +212,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌵",
    "ex": "A durian smells strong.",
-   "exzh": "榴槤的味道很濃。"
+   "exzh": "榴槤的味道很濃。",
+   "photo": "img/words/food-2/durian.jpg"
   },
   {
    "w": "pineapple",
@@ -201,7 +222,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍍",
    "ex": "Pineapple is sweet and sour.",
-   "exzh": "鳳梨又酸又甜。"
+   "exzh": "鳳梨又酸又甜。",
+   "photo": "img/words/food-2/pineapple.jpg"
   }
  ],
  "speakers": {

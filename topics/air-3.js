@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪑",
    "ex": "Wait in the boarding area.",
-   "exzh": "在候機區等候。"
+   "exzh": "在候機區等候。",
+   "photo": "img/words/air-3/boarding-area.jpg"
   },
   {
    "w": "metal detector",
@@ -30,7 +31,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🩻",
    "ex": "Your bag goes through the X-ray machine.",
-   "exzh": "你的包包要通過 X 光機。"
+   "exzh": "你的包包要通過 X 光機。",
+   "photo": "img/words/air-3/x-ray-machine.jpg"
   },
   {
    "w": "carry-on bag",
@@ -39,7 +41,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎒",
    "ex": "My carry-on bag is small.",
-   "exzh": "我的隨身行李很小。"
+   "exzh": "我的隨身行李很小。",
+   "photo": "img/words/air-3/carry-on-bag.jpg"
   },
   {
    "w": "delay",
@@ -57,7 +60,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📋",
    "ex": "Check the flight information board.",
-   "exzh": "看一下班機資訊看板。"
+   "exzh": "看一下班機資訊看板。",
+   "photo": "img/words/air-3/flight-information-board.jpg"
   },
   {
    "w": "boarding gate",
@@ -66,7 +70,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚪",
    "ex": "Our boarding gate is number ten.",
-   "exzh": "我們的登機門是十號。"
+   "exzh": "我們的登機門是十號。",
+   "photo": "img/words/air-3/boarding-gate.jpg"
   },
   {
    "w": "monitor",
@@ -93,7 +98,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪪",
    "ex": "Show your boarding pass, please.",
-   "exzh": "請出示登機證。"
+   "exzh": "請出示登機證。",
+   "photo": "img/words/air-3/boarding-pass.jpg"
   },
   {
    "w": "passport",
@@ -102,7 +108,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📘",
    "ex": "Don't forget your passport.",
-   "exzh": "別忘了你的護照。"
+   "exzh": "別忘了你的護照。",
+   "photo": "img/words/air-3/passport.jpg"
   },
   {
    "w": "visa",
@@ -111,7 +118,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛂",
    "ex": "You need a visa to enter that country.",
-   "exzh": "你需要簽證才能進入那個國家。"
+   "exzh": "你需要簽證才能進入那個國家。",
+   "photo": "img/words/air-3/visa.jpg"
   },
   {
    "w": "transfer",
@@ -120,7 +128,8 @@ window.TOPIC = {
    "pos": "n./v.",
    "emoji": "🔁",
    "ex": "We transfer in Tokyo.",
-   "exzh": "我們在東京轉機。"
+   "exzh": "我們在東京轉機。",
+   "photo": "img/words/air-3/transfer.jpg"
   }
  ],
  "speakers": {

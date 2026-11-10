@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏟️",
    "ex": "We sit in the bleachers.",
-   "exzh": "我們坐在看台上。"
+   "exzh": "我們坐在看台上。",
+   "photo": "img/words/sports-4/bleachers.jpg"
   },
   {
    "w": "home run",
@@ -84,7 +85,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧤",
    "ex": "The catcher wears a mitt.",
-   "exzh": "捕手戴著手套。"
+   "exzh": "捕手戴著手套。",
+   "photo": "img/words/sports-4/mitt.jpg"
   },
   {
    "w": "base",
@@ -93,7 +95,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⬜",
    "ex": "He ran to the next base.",
-   "exzh": "他跑向下一個壘包。"
+   "exzh": "他跑向下一個壘包。",
+   "photo": "img/words/sports-4/base.jpg"
   },
   {
    "w": "second baseman",
@@ -129,7 +132,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🤾",
    "ex": "The pitcher throws fast balls.",
-   "exzh": "投手投出快速球。"
+   "exzh": "投手投出快速球。",
+   "photo": "img/words/sports-4/pitcher.jpg"
   },
   {
    "w": "pitcher's mound",
@@ -138,7 +142,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⛰️",
    "ex": "He stands on the pitcher's mound.",
-   "exzh": "他站在投手丘上。"
+   "exzh": "他站在投手丘上。",
+   "photo": "img/words/sports-4/pitcher-s-mound.jpg"
   },
   {
    "w": "baseball uniform",
@@ -147,7 +152,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👕",
    "ex": "The team wears a red baseball uniform.",
-   "exzh": "這支隊伍穿紅色棒球制服。"
+   "exzh": "這支隊伍穿紅色棒球制服。",
+   "photo": "img/words/sports-4/baseball-uniform.jpg"
   },
   {
    "w": "infield",
@@ -165,7 +171,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔲",
    "ex": "The batter stands in the batter's box.",
-   "exzh": "打者站在打擊區。"
+   "exzh": "打者站在打擊區。",
+   "photo": "img/words/sports-4/batter-s-box.jpg"
   },
   {
    "w": "batter",
@@ -174,7 +181,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏏",
    "ex": "The batter swings the bat.",
-   "exzh": "打者揮棒。"
+   "exzh": "打者揮棒。",
+   "photo": "img/words/sports-4/batter.jpg"
   },
   {
    "w": "bat",
@@ -183,7 +191,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏏",
    "ex": "He holds the bat tightly.",
-   "exzh": "他緊緊握住球棒。"
+   "exzh": "他緊緊握住球棒。",
+   "photo": "img/words/sports-4/bat.jpg"
   },
   {
    "w": "player number",
@@ -192,7 +201,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔢",
    "ex": "His player number is seven.",
-   "exzh": "他的背號是七號。"
+   "exzh": "他的背號是七號。",
+   "photo": "img/words/sports-4/player-number.jpg"
   },
   {
    "w": "home plate",
@@ -201,7 +211,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏠",
    "ex": "He slid into home plate.",
-   "exzh": "他滑向本壘板。"
+   "exzh": "他滑向本壘板。",
+   "photo": "img/words/sports-4/home-plate.jpg"
   },
   {
    "w": "catcher",
@@ -210,7 +221,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧤",
    "ex": "The catcher squats behind home plate.",
-   "exzh": "捕手蹲在本壘板後。"
+   "exzh": "捕手蹲在本壘板後。",
+   "photo": "img/words/sports-4/catcher.jpg"
   },
   {
    "w": "umpire",
@@ -219,7 +231,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧑‍⚖️",
    "ex": "The umpire shouts \"Strike!\"",
-   "exzh": "裁判大喊「好球！」"
+   "exzh": "裁判大喊「好球！」",
+   "photo": "img/words/sports-4/umpire.jpg"
   }
  ],
  "speakers": {

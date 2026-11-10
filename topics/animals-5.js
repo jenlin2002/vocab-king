@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌼",
    "ex": "Narcissus blooms in winter.",
-   "exzh": "水仙花在冬天開花。"
+   "exzh": "水仙花在冬天開花。",
+   "photo": "img/words/animals-5/narcissus.jpg"
   },
   {
    "w": "azalea",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌺",
    "ex": "Azaleas are pink and red.",
-   "exzh": "杜鵑花有粉紅和紅色。"
+   "exzh": "杜鵑花有粉紅和紅色。",
+   "photo": "img/words/animals-5/azalea.jpg"
   },
   {
    "w": "lily",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⚪",
    "ex": "A lily smells sweet.",
-   "exzh": "百合花聞起來很香。"
+   "exzh": "百合花聞起來很香。",
+   "photo": "img/words/animals-5/lily.jpg"
   },
   {
    "w": "daisy",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌼",
    "ex": "A daisy is white with a yellow center.",
-   "exzh": "雛菊是白色、中間黃色。"
+   "exzh": "雛菊是白色、中間黃色。",
+   "photo": "img/words/animals-5/daisy.jpg"
   },
   {
    "w": "plum blossom",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌸",
    "ex": "The plum blossom blooms in the cold.",
-   "exzh": "梅花在寒冷中綻放。"
+   "exzh": "梅花在寒冷中綻放。",
+   "photo": "img/words/animals-5/plum-blossom.jpg"
   },
   {
    "w": "fern",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌿",
    "ex": "A fern grows in the shade.",
-   "exzh": "蕨類長在陰涼處。"
+   "exzh": "蕨類長在陰涼處。",
+   "photo": "img/words/animals-5/fern.jpg"
   },
   {
    "w": "orchid",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪻",
    "ex": "An orchid is elegant.",
-   "exzh": "蘭花很優雅。"
+   "exzh": "蘭花很優雅。",
+   "photo": "img/words/animals-5/orchid.jpg"
   },
   {
    "w": "iris",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪻",
    "ex": "An iris is purple.",
-   "exzh": "鳶尾花是紫色的。"
+   "exzh": "鳶尾花是紫色的。",
+   "photo": "img/words/animals-5/iris.jpg"
   },
   {
    "w": "camellia",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌺",
    "ex": "A camellia blooms in spring.",
-   "exzh": "山茶花在春天開花。"
+   "exzh": "山茶花在春天開花。",
+   "photo": "img/words/animals-5/camellia.jpg"
   },
   {
    "w": "rose",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌹",
    "ex": "I gave her a red rose.",
-   "exzh": "我送她一朵紅玫瑰。"
+   "exzh": "我送她一朵紅玫瑰。",
+   "photo": "img/words/animals-5/rose.jpg"
   },
   {
    "w": "chrysanthemum",
@@ -102,7 +112,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏵️",
    "ex": "Chrysanthemums bloom in autumn.",
-   "exzh": "菊花在秋天綻放。"
+   "exzh": "菊花在秋天綻放。",
+   "photo": "img/words/animals-5/chrysanthemum.jpg"
   },
   {
    "w": "carnation",
@@ -111,7 +122,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌸",
    "ex": "We give carnations on Mother's Day.",
-   "exzh": "母親節我們送康乃馨。"
+   "exzh": "母親節我們送康乃馨。",
+   "photo": "img/words/animals-5/carnation.jpg"
   },
   {
    "w": "morning glory",
@@ -120,7 +132,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌺",
    "ex": "A morning glory opens in the morning.",
-   "exzh": "牽牛花在早上綻放。"
+   "exzh": "牽牛花在早上綻放。",
+   "photo": "img/words/animals-5/morning-glory.jpg"
   },
   {
    "w": "lavender",
@@ -129,7 +142,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💜",
    "ex": "Lavender smells nice.",
-   "exzh": "薰衣草聞起來很香。"
+   "exzh": "薰衣草聞起來很香。",
+   "photo": "img/words/animals-5/lavender.jpg"
   },
   {
    "w": "peony",
@@ -138,7 +152,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌺",
    "ex": "The peony is a rich flower.",
-   "exzh": "牡丹是富貴之花。"
+   "exzh": "牡丹是富貴之花。",
+   "photo": "img/words/animals-5/peony.jpg"
   },
   {
    "w": "sunflower",
@@ -147,7 +162,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌻",
    "ex": "A sunflower follows the sun.",
-   "exzh": "向日葵追隨著太陽。"
+   "exzh": "向日葵追隨著太陽。",
+   "photo": "img/words/animals-5/sunflower.jpg"
   },
   {
    "w": "tulip",
@@ -156,7 +172,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌷",
    "ex": "Tulips grow in Holland.",
-   "exzh": "鬱金香長在荷蘭。"
+   "exzh": "鬱金香長在荷蘭。",
+   "photo": "img/words/animals-5/tulip.jpg"
   },
   {
    "w": "violet",
@@ -165,7 +182,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪻",
    "ex": "A violet is small and purple.",
-   "exzh": "紫羅蘭又小又紫。"
+   "exzh": "紫羅蘭又小又紫。",
+   "photo": "img/words/animals-5/violet.jpg"
   },
   {
    "w": "rape flower",
@@ -174,7 +192,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌼",
    "ex": "Rape flowers are yellow.",
-   "exzh": "油菜花是黃色的。"
+   "exzh": "油菜花是黃色的。",
+   "photo": "img/words/animals-5/rape-flower.jpg"
   },
   {
    "w": "shamrock",
@@ -183,7 +202,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "☘️",
    "ex": "A shamrock has three leaves.",
-   "exzh": "三葉草有三片葉子。"
+   "exzh": "三葉草有三片葉子。",
+   "photo": "img/words/animals-5/shamrock.jpg"
   },
   {
    "w": "willow",
@@ -192,7 +212,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌳",
    "ex": "A willow has long branches.",
-   "exzh": "柳樹的枝條很長。"
+   "exzh": "柳樹的枝條很長。",
+   "photo": "img/words/animals-5/willow.jpg"
   },
   {
    "w": "pine",
@@ -201,7 +222,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌲",
    "ex": "A pine stays green all year.",
-   "exzh": "松樹終年常綠。"
+   "exzh": "松樹終年常綠。",
+   "photo": "img/words/animals-5/pine.jpg"
   },
   {
    "w": "poinsettia",
@@ -210,7 +232,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎄",
    "ex": "A poinsettia is red at Christmas.",
-   "exzh": "聖誕紅在聖誕節時是紅色的。"
+   "exzh": "聖誕紅在聖誕節時是紅色的。",
+   "photo": "img/words/animals-5/poinsettia.jpg"
   },
   {
    "w": "maple",
@@ -219,7 +242,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍁",
    "ex": "Maple leaves turn red in autumn.",
-   "exzh": "楓葉在秋天變紅。"
+   "exzh": "楓葉在秋天變紅。",
+   "photo": "img/words/animals-5/maple.jpg"
   },
   {
    "w": "dandelion",
@@ -228,7 +252,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌼",
    "ex": "Blow on a dandelion.",
-   "exzh": "對著蒲公英吹氣。"
+   "exzh": "對著蒲公英吹氣。",
+   "photo": "img/words/animals-5/dandelion.jpg"
   },
   {
    "w": "cherry blossom",
@@ -237,7 +262,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌸",
    "ex": "Cherry blossoms are pink.",
-   "exzh": "櫻花是粉紅色的。"
+   "exzh": "櫻花是粉紅色的。",
+   "photo": "img/words/animals-5/cherry-blossom.jpg"
   },
   {
    "w": "cedar",
@@ -246,7 +272,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌲",
    "ex": "The cedar is a tall tree.",
-   "exzh": "雪松是高大的樹。"
+   "exzh": "雪松是高大的樹。",
+   "photo": "img/words/animals-5/cedar.jpg"
   },
   {
    "w": "cypress",
@@ -255,7 +282,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌲",
    "ex": "A cypress is long-lived.",
-   "exzh": "柏樹很長壽。"
+   "exzh": "柏樹很長壽。",
+   "photo": "img/words/animals-5/cypress.jpg"
   },
   {
    "w": "bamboo",
@@ -264,7 +292,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎋",
    "ex": "Pandas eat bamboo.",
-   "exzh": "貓熊吃竹子。"
+   "exzh": "貓熊吃竹子。",
+   "photo": "img/words/animals-5/bamboo.jpg"
   }
  ],
  "speakers": {

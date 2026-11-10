@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥣",
    "ex": "Soup is in the bowl.",
-   "exzh": "湯在碗裡。"
+   "exzh": "湯在碗裡。",
+   "photo": "img/words/restaurant-4/bowl.jpg"
   },
   {
    "w": "chopsticks",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥢",
    "ex": "I eat noodles with chopsticks.",
-   "exzh": "我用筷子吃麵。"
+   "exzh": "我用筷子吃麵。",
+   "photo": "img/words/restaurant-4/chopsticks.jpg"
   },
   {
    "w": "fork",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍴",
    "ex": "Use a fork to eat the cake.",
-   "exzh": "用叉子吃蛋糕。"
+   "exzh": "用叉子吃蛋糕。",
+   "photo": "img/words/restaurant-4/fork.jpg"
   },
   {
    "w": "platter",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍽️",
    "ex": "The fish is on a platter.",
-   "exzh": "魚放在大盤子上。"
+   "exzh": "魚放在大盤子上。",
+   "photo": "img/words/restaurant-4/platter.jpg"
   },
   {
    "w": "plate",
@@ -57,7 +61,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍷",
    "ex": "A wineglass has a long stem.",
-   "exzh": "酒杯有長長的杯腳。"
+   "exzh": "酒杯有長長的杯腳。",
+   "photo": "img/words/restaurant-4/wineglass.jpg"
   },
   {
    "w": "saucer",
@@ -66,7 +71,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍵",
    "ex": "Put the cup on the saucer.",
-   "exzh": "把杯子放在茶碟上。"
+   "exzh": "把杯子放在茶碟上。",
+   "photo": "img/words/restaurant-4/saucer.jpg"
   },
   {
    "w": "spoon",
@@ -75,7 +81,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥄",
    "ex": "Eat soup with a spoon.",
-   "exzh": "用湯匙喝湯。"
+   "exzh": "用湯匙喝湯。",
+   "photo": "img/words/restaurant-4/spoon.jpg"
   },
   {
    "w": "teaspoon",
@@ -84,7 +91,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥄",
    "ex": "Add a teaspoon of sugar.",
-   "exzh": "加一茶匙糖。"
+   "exzh": "加一茶匙糖。",
+   "photo": "img/words/restaurant-4/teaspoon.jpg"
   },
   {
    "w": "steak knife",
@@ -93,7 +101,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔪",
    "ex": "A steak knife is sharp.",
-   "exzh": "牛排刀很鋒利。"
+   "exzh": "牛排刀很鋒利。",
+   "photo": "img/words/restaurant-4/steak-knife.jpg"
   },
   {
    "w": "salad fork",
@@ -111,7 +120,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥛",
    "ex": "Fill the water glass.",
-   "exzh": "把水杯裝滿。"
+   "exzh": "把水杯裝滿。",
+   "photo": "img/words/restaurant-4/water-glass.jpg"
   },
   {
    "w": "candlestick",
@@ -129,7 +139,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🕯️",
    "ex": "Light the candle for dinner.",
-   "exzh": "為晚餐點蠟燭。"
+   "exzh": "為晚餐點蠟燭。",
+   "photo": "img/words/restaurant-4/candle.jpg"
   },
   {
    "w": "butter knife",
@@ -138,7 +149,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔪",
    "ex": "Spread butter with a butter knife.",
-   "exzh": "用奶油刀塗奶油。"
+   "exzh": "用奶油刀塗奶油。",
+   "photo": "img/words/restaurant-4/butter-knife.jpg"
   },
   {
    "w": "dinner knife",

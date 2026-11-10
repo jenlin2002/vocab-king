@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐕",
    "ex": "The little boy swims the dog paddle.",
-   "exzh": "小男孩游狗爬式。"
+   "exzh": "小男孩游狗爬式。",
+   "photo": "img/words/sports-5/dog-paddle.jpg"
   },
   {
    "w": "breaststroke",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐸",
    "ex": "Breaststroke is slow but easy.",
-   "exzh": "蛙式慢但容易。"
+   "exzh": "蛙式慢但容易。",
+   "photo": "img/words/sports-5/breaststroke.jpg"
   },
   {
    "w": "freestyle",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏊",
    "ex": "Freestyle is the fastest stroke.",
-   "exzh": "自由式是最快的泳姿。"
+   "exzh": "自由式是最快的泳姿。",
+   "photo": "img/words/sports-5/freestyle.jpg"
   },
   {
    "w": "backstroke",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏊",
    "ex": "In backstroke, you swim on your back.",
-   "exzh": "仰式是仰著游。"
+   "exzh": "仰式是仰著游。",
+   "photo": "img/words/sports-5/backstroke.jpg"
   },
   {
    "w": "butterfly stroke",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦋",
    "ex": "Butterfly stroke needs a lot of power.",
-   "exzh": "蝶式需要很大的力量。"
+   "exzh": "蝶式需要很大的力量。",
+   "photo": "img/words/sports-5/butterfly-stroke.jpg"
   },
   {
    "w": "side stroke",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏊",
    "ex": "Side stroke saves energy.",
-   "exzh": "側泳可以節省體力。"
+   "exzh": "側泳可以節省體力。",
+   "photo": "img/words/sports-5/side-stroke.jpg"
   },
   {
    "w": "dive",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🤿",
    "ex": "Let's dive into the pool.",
-   "exzh": "我們跳進游泳池吧。"
+   "exzh": "我們跳進游泳池吧。",
+   "photo": "img/words/sports-5/dive.jpg"
   },
   {
    "w": "synchronized swimming",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🩰",
    "ex": "Synchronized swimming looks beautiful.",
-   "exzh": "水上芭蕾看起來很美。"
+   "exzh": "水上芭蕾看起來很美。",
+   "photo": "img/words/sports-5/synchronized-swimming.jpg"
   },
   {
    "w": "water skiing",
@@ -93,7 +101,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏄",
    "ex": "Surfing is popular at the beach.",
-   "exzh": "衝浪在海灘很受歡迎。"
+   "exzh": "衝浪在海灘很受歡迎。",
+   "photo": "img/words/sports-5/surfing.jpg"
   },
   {
    "w": "windsurfing",
@@ -102,7 +111,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⛵",
    "ex": "Windsurfing needs strong wind.",
-   "exzh": "風帆需要強風。"
+   "exzh": "風帆需要強風。",
+   "photo": "img/words/sports-5/windsurfing.jpg"
   },
   {
    "w": "snorkeling",
@@ -111,7 +121,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🤿",
    "ex": "Snorkeling lets you see colorful fish.",
-   "exzh": "浮潛讓你看到彩色的魚。"
+   "exzh": "浮潛讓你看到彩色的魚。",
+   "photo": "img/words/sports-5/snorkeling.jpg"
   },
   {
    "w": "jet skiing",
@@ -120,7 +131,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚤",
    "ex": "Jet skiing is thrilling.",
-   "exzh": "水上摩托車很刺激。"
+   "exzh": "水上摩托車很刺激。",
+   "photo": "img/words/sports-5/jet-skiing.jpg"
   },
   {
    "w": "scuba diving",
@@ -129,7 +141,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🤿",
    "ex": "Scuba diving needs a tank of air.",
-   "exzh": "水肺潛水需要氣瓶。"
+   "exzh": "水肺潛水需要氣瓶。",
+   "photo": "img/words/sports-5/scuba-diving.jpg"
   },
   {
    "w": "kickboarding",
@@ -138,7 +151,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏊",
    "ex": "Kickboarding trains your legs.",
-   "exzh": "用打水板訓練腿部。"
+   "exzh": "用打水板訓練腿部。",
+   "photo": "img/words/sports-5/kickboarding.jpg"
   }
  ],
  "speakers": {

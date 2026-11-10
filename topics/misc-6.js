@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "adj.",
    "emoji": "😄",
    "ex": "I am happy today.",
-   "exzh": "我今天很快樂。"
+   "exzh": "我今天很快樂。",
+   "photo": "img/words/misc-6/happy.jpg"
   },
   {
    "w": "energetic",
@@ -30,7 +31,8 @@ window.TOPIC = {
    "pos": "adj.",
    "emoji": "🤩",
    "ex": "I am excited about the trip.",
-   "exzh": "我對旅行很興奮。"
+   "exzh": "我對旅行很興奮。",
+   "photo": "img/words/misc-6/excited.jpg"
   },
   {
    "w": "surprised",
@@ -39,7 +41,8 @@ window.TOPIC = {
    "pos": "adj.",
    "emoji": "😲",
    "ex": "She was surprised by the gift.",
-   "exzh": "她對禮物感到驚訝。"
+   "exzh": "她對禮物感到驚訝。",
+   "photo": "img/words/misc-6/surprised.jpg"
   },
   {
    "w": "angry",
@@ -48,7 +51,8 @@ window.TOPIC = {
    "pos": "adj.",
    "emoji": "😠",
    "ex": "Dad is angry.",
-   "exzh": "爸爸生氣了。"
+   "exzh": "爸爸生氣了。",
+   "photo": "img/words/misc-6/angry.jpg"
   },
   {
    "w": "embarrassed",
@@ -66,7 +70,8 @@ window.TOPIC = {
    "pos": "adj.",
    "emoji": "🙈",
    "ex": "The shy girl didn't speak.",
-   "exzh": "害羞的女孩沒說話。"
+   "exzh": "害羞的女孩沒說話。",
+   "photo": "img/words/misc-6/shy.jpg"
   },
   {
    "w": "smile",
@@ -75,7 +80,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🙂",
    "ex": "Smile for the photo.",
-   "exzh": "拍照請微笑。"
+   "exzh": "拍照請微笑。",
+   "photo": "img/words/misc-6/smile.jpg"
   },
   {
    "w": "laugh",
@@ -84,7 +90,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "😂",
    "ex": "We laugh at the joke.",
-   "exzh": "我們聽到笑話大笑。"
+   "exzh": "我們聽到笑話大笑。",
+   "photo": "img/words/misc-6/laugh.jpg"
   },
   {
    "w": "cry",
@@ -93,7 +100,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "😭",
    "ex": "The baby cries.",
-   "exzh": "寶寶哭了。"
+   "exzh": "寶寶哭了。",
+   "photo": "img/words/misc-6/cry.jpg"
   },
   {
    "w": "talk",
@@ -102,7 +110,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "💬",
    "ex": "They talk for hours.",
-   "exzh": "他們聊了好幾個小時。"
+   "exzh": "他們聊了好幾個小時。",
+   "photo": "img/words/misc-6/talk.jpg"
   },
   {
    "w": "tired",
@@ -111,7 +120,8 @@ window.TOPIC = {
    "pos": "adj.",
    "emoji": "😫",
    "ex": "I am tired after work.",
-   "exzh": "工作後我很累。"
+   "exzh": "工作後我很累。",
+   "photo": "img/words/misc-6/tired.jpg"
   },
   {
    "w": "fall flat on one's back",
@@ -129,7 +139,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🧎",
    "ex": "Kneel down to tie the shoe.",
-   "exzh": "蹲跪下來綁鞋帶。"
+   "exzh": "蹲跪下來綁鞋帶。",
+   "photo": "img/words/misc-6/kneel.jpg"
   },
   {
    "w": "squat",
@@ -138,7 +149,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🐸",
    "ex": "Squat to pick up the shells.",
-   "exzh": "蹲下來撿貝殼。"
+   "exzh": "蹲下來撿貝殼。",
+   "photo": "img/words/misc-6/squat.jpg"
   },
   {
    "w": "do a handstand",
@@ -147,7 +159,8 @@ window.TOPIC = {
    "pos": "v. phr.",
    "emoji": "🤸",
    "ex": "She can do a handstand.",
-   "exzh": "她會倒立。"
+   "exzh": "她會倒立。",
+   "photo": "img/words/misc-6/do-a-handstand.jpg"
   },
   {
    "w": "stand",
@@ -165,7 +178,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🦵",
    "ex": "Kick the ball.",
-   "exzh": "踢球。"
+   "exzh": "踢球。",
+   "photo": "img/words/misc-6/kick.jpg"
   },
   {
    "w": "carry something on one's back",
@@ -174,7 +188,8 @@ window.TOPIC = {
    "pos": "v. phr.",
    "emoji": "🎒",
    "ex": "He carries a bag on his back.",
-   "exzh": "他背著一個包包。"
+   "exzh": "他背著一個包包。",
+   "photo": "img/words/misc-6/carry-something-on-one-s-back.jpg"
   },
   {
    "w": "stretch",
@@ -183,7 +198,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🙆",
    "ex": "Stretch your arms.",
-   "exzh": "伸展你的手臂。"
+   "exzh": "伸展你的手臂。",
+   "photo": "img/words/misc-6/stretch.jpg"
   },
   {
    "w": "walk",
@@ -192,7 +208,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🚶",
    "ex": "We walk to school.",
-   "exzh": "我們走路上學。"
+   "exzh": "我們走路上學。",
+   "photo": "img/words/misc-6/walk.jpg"
   },
   {
    "w": "jump",
@@ -201,7 +218,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🦘",
    "ex": "Jump over the box.",
-   "exzh": "跳過箱子。"
+   "exzh": "跳過箱子。",
+   "photo": "img/words/misc-6/jump.jpg"
   },
   {
    "w": "sit",
@@ -210,7 +228,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🪑",
    "ex": "Sit down, please.",
-   "exzh": "請坐。"
+   "exzh": "請坐。",
+   "photo": "img/words/misc-6/sit.jpg"
   },
   {
    "w": "fall",
@@ -228,7 +247,8 @@ window.TOPIC = {
    "pos": "v. phr.",
    "emoji": "🛌",
    "ex": "Lie down and rest.",
-   "exzh": "躺下來休息。"
+   "exzh": "躺下來休息。",
+   "photo": "img/words/misc-6/lie-down.jpg"
   },
   {
    "w": "lie on one's stomach",
@@ -237,7 +257,8 @@ window.TOPIC = {
    "pos": "v. phr.",
    "emoji": "🏖️",
    "ex": "Lie on your stomach on the sand.",
-   "exzh": "趴在沙灘上。"
+   "exzh": "趴在沙灘上。",
+   "photo": "img/words/misc-6/lie-on-one-s-stomach.jpg"
   },
   {
    "w": "lie on one's back",
@@ -246,7 +267,8 @@ window.TOPIC = {
    "pos": "v. phr.",
    "emoji": "🛏️",
    "ex": "Lie on your back and look at the stars.",
-   "exzh": "仰躺著看星星。"
+   "exzh": "仰躺著看星星。",
+   "photo": "img/words/misc-6/lie-on-one-s-back.jpg"
   },
   {
    "w": "crawl",
@@ -255,7 +277,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🐛",
    "ex": "The baby crawls.",
-   "exzh": "寶寶會爬。"
+   "exzh": "寶寶會爬。",
+   "photo": "img/words/misc-6/crawl.jpg"
   }
  ],
  "speakers": {

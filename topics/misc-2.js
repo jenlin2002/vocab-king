@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "☀️",
    "ex": "The sun is bright.",
-   "exzh": "太陽很亮。"
+   "exzh": "太陽很亮。",
+   "photo": "img/words/misc-2/sun.jpg"
   },
   {
    "w": "cloud",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "☁️",
    "ex": "A cloud covers the sun.",
-   "exzh": "一朵雲遮住太陽。"
+   "exzh": "一朵雲遮住太陽。",
+   "photo": "img/words/misc-2/cloud.jpg"
   },
   {
    "w": "rain",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌧️",
    "ex": "Take an umbrella; it will rain.",
-   "exzh": "帶傘，會下雨。"
+   "exzh": "帶傘，會下雨。",
+   "photo": "img/words/misc-2/rain.jpg"
   },
   {
    "w": "wind",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💨",
    "ex": "The wind is strong today.",
-   "exzh": "今天風很大。"
+   "exzh": "今天風很大。",
+   "photo": "img/words/misc-2/wind.jpg"
   },
   {
    "w": "thunder",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌩️",
    "ex": "Thunder is loud.",
-   "exzh": "雷聲很大。"
+   "exzh": "雷聲很大。",
+   "photo": "img/words/misc-2/thunder.jpg"
   },
   {
    "w": "lightning",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⚡",
    "ex": "Lightning flashed in the sky.",
-   "exzh": "天空閃了一道閃電。"
+   "exzh": "天空閃了一道閃電。",
+   "photo": "img/words/misc-2/lightning.jpg"
   },
   {
    "w": "fog",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌫️",
    "ex": "The fog is thick this morning.",
-   "exzh": "今天早上霧很濃。"
+   "exzh": "今天早上霧很濃。",
+   "photo": "img/words/misc-2/fog.jpg"
   },
   {
    "w": "frost",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "❄️",
    "ex": "There is frost on the grass.",
-   "exzh": "草地上有霜。"
+   "exzh": "草地上有霜。",
+   "photo": "img/words/misc-2/frost.jpg"
   },
   {
    "w": "snow",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⛄",
    "ex": "Kids play in the snow.",
-   "exzh": "小孩在雪地玩。"
+   "exzh": "小孩在雪地玩。",
+   "photo": "img/words/misc-2/snow.jpg"
   },
   {
    "w": "storm",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⛈️",
    "ex": "A storm is coming.",
-   "exzh": "暴風雨要來了。"
+   "exzh": "暴風雨要來了。",
+   "photo": "img/words/misc-2/storm.jpg"
   },
   {
    "w": "temperature",
@@ -120,7 +130,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧊",
    "ex": "The road is covered with ice.",
-   "exzh": "路上結了冰。"
+   "exzh": "路上結了冰。",
+   "photo": "img/words/misc-2/ice.jpg"
   },
   {
    "w": "tornado",
@@ -129,7 +140,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌪️",
    "ex": "A tornado destroyed the town.",
-   "exzh": "龍捲風毀了小鎮。"
+   "exzh": "龍捲風毀了小鎮。",
+   "photo": "img/words/misc-2/tornado.jpg"
   },
   {
    "w": "hail",
@@ -147,7 +159,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌸",
    "ex": "Flowers bloom in spring.",
-   "exzh": "花在春天開。"
+   "exzh": "花在春天開。",
+   "photo": "img/words/misc-2/spring.jpg"
   },
   {
    "w": "summer",
@@ -156,7 +169,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏖️",
    "ex": "We go swimming in summer.",
-   "exzh": "我們夏天去游泳。"
+   "exzh": "我們夏天去游泳。",
+   "photo": "img/words/misc-2/summer.jpg"
   },
   {
    "w": "fall",
@@ -165,7 +179,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍂",
    "ex": "Leaves turn red in the fall.",
-   "exzh": "秋天樹葉會變紅。"
+   "exzh": "秋天樹葉會變紅。",
+   "photo": "img/words/misc-2/fall.jpg"
   },
   {
    "w": "autumn",
@@ -174,7 +189,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍁",
    "ex": "Autumn is cool.",
-   "exzh": "秋天很涼爽。"
+   "exzh": "秋天很涼爽。",
+   "photo": "img/words/misc-2/autumn.jpg"
   },
   {
    "w": "winter",
@@ -183,7 +199,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "☃️",
    "ex": "Winter is cold.",
-   "exzh": "冬天很冷。"
+   "exzh": "冬天很冷。",
+   "photo": "img/words/misc-2/winter.jpg"
   },
   {
    "w": "high pressure",

@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦘",
    "ex": "He won the long jump.",
-   "exzh": "他贏得跳遠。"
+   "exzh": "他贏得跳遠。",
+   "photo": "img/words/sports-6/long-jump.jpg"
   },
   {
    "w": "hammer throw",
@@ -30,7 +31,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚧",
    "ex": "The steeplechase has water jumps.",
-   "exzh": "障礙賽跑有水坑。"
+   "exzh": "障礙賽跑有水坑。",
+   "photo": "img/words/sports-6/steeplechase.jpg"
   },
   {
    "w": "marathon",
@@ -39,7 +41,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏃",
    "ex": "A marathon is 42 kilometers.",
-   "exzh": "馬拉松有四十二公里。"
+   "exzh": "馬拉松有四十二公里。",
+   "photo": "img/words/sports-6/marathon.jpg"
   },
   {
    "w": "relay race",
@@ -48,7 +51,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏁",
    "ex": "Our team won the relay race.",
-   "exzh": "我們隊贏得接力賽。"
+   "exzh": "我們隊贏得接力賽。",
+   "photo": "img/words/sports-6/relay-race.jpg"
   },
   {
    "w": "high jump",
@@ -57,7 +61,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⬆️",
    "ex": "The high jump bar is two meters.",
-   "exzh": "跳高的橫桿有兩公尺。"
+   "exzh": "跳高的橫桿有兩公尺。",
+   "photo": "img/words/sports-6/high-jump.jpg"
   },
   {
    "w": "pole vault",
@@ -84,7 +89,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚧",
    "ex": "In hurdle race you jump over barriers.",
-   "exzh": "跨欄是跳過障礙。"
+   "exzh": "跨欄是跳過障礙。",
+   "photo": "img/words/sports-6/hurdle-race.jpg"
   },
   {
    "w": "triple jump",
@@ -102,7 +108,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥏",
    "ex": "The discus throw is a classic event.",
-   "exzh": "擲鐵餅是經典項目。"
+   "exzh": "擲鐵餅是經典項目。",
+   "photo": "img/words/sports-6/discus-throw.jpg"
   },
   {
    "w": "shot put",
@@ -111,7 +118,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⚫",
    "ex": "Shot put uses a heavy metal ball.",
-   "exzh": "推鉛球用的是很重的金屬球。"
+   "exzh": "推鉛球用的是很重的金屬球。",
+   "photo": "img/words/sports-6/shot-put.jpg"
   },
   {
    "w": "sprint",
@@ -120,7 +128,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💨",
    "ex": "A sprint is a fast, short race.",
-   "exzh": "短跑是又快又短的賽跑。"
+   "exzh": "短跑是又快又短的賽跑。",
+   "photo": "img/words/sports-6/sprint.jpg"
   },
   {
    "w": "100-meter dash",
@@ -129,7 +138,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💯",
    "ex": "The 100-meter dash takes about ten seconds.",
-   "exzh": "一百公尺賽跑大約十秒。"
+   "exzh": "一百公尺賽跑大約十秒。",
+   "photo": "img/words/sports-6/100-meter-dash.jpg"
   },
   {
    "w": "track",
@@ -138,7 +148,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏟️",
    "ex": "The track is red.",
-   "exzh": "跑道是紅色的。"
+   "exzh": "跑道是紅色的。",
+   "photo": "img/words/sports-6/track.jpg"
   }
  ],
  "speakers": {

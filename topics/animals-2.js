@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪰",
    "ex": "A fly is on the cake.",
-   "exzh": "蛋糕上有一隻蒼蠅。"
+   "exzh": "蛋糕上有一隻蒼蠅。",
+   "photo": "img/words/animals-2/fly.jpg"
   },
   {
    "w": "mosquito",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦟",
    "ex": "A mosquito bit me.",
-   "exzh": "蚊子咬了我。"
+   "exzh": "蚊子咬了我。",
+   "photo": "img/words/animals-2/mosquito.jpg"
   },
   {
    "w": "cockroach",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪳",
    "ex": "There is a cockroach in the kitchen.",
-   "exzh": "廚房裡有一隻蟑螂。"
+   "exzh": "廚房裡有一隻蟑螂。",
+   "photo": "img/words/animals-2/cockroach.jpg"
   },
   {
    "w": "bee",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐝",
    "ex": "A bee makes honey.",
-   "exzh": "蜜蜂釀蜂蜜。"
+   "exzh": "蜜蜂釀蜂蜜。",
+   "photo": "img/words/animals-2/bee.jpg"
   },
   {
    "w": "dung beetle",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪲",
    "ex": "A dung beetle rolls a ball.",
-   "exzh": "蜣螂滾著一顆球。"
+   "exzh": "蜣螂滾著一顆球。",
+   "photo": "img/words/animals-2/dung-beetle.jpg"
   },
   {
    "w": "grasshopper",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦗",
    "ex": "The grasshopper jumps in the grass.",
-   "exzh": "蚱蜢在草裡跳。"
+   "exzh": "蚱蜢在草裡跳。",
+   "photo": "img/words/animals-2/grasshopper.jpg"
   },
   {
    "w": "cicada",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪲",
    "ex": "The cicada sings in summer.",
-   "exzh": "蟬在夏天鳴叫。"
+   "exzh": "蟬在夏天鳴叫。",
+   "photo": "img/words/animals-2/cicada.jpg"
   },
   {
    "w": "spider",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🕷️",
    "ex": "The spider spins a web.",
-   "exzh": "蜘蛛在結網。"
+   "exzh": "蜘蛛在結網。",
+   "photo": "img/words/animals-2/spider.jpg"
   },
   {
    "w": "firefly",
@@ -93,7 +101,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐞",
    "ex": "A ladybug is red with black dots.",
-   "exzh": "瓢蟲是紅色有黑點的。"
+   "exzh": "瓢蟲是紅色有黑點的。",
+   "photo": "img/words/animals-2/ladybug.jpg"
   },
   {
    "w": "rhinoceros beetle",
@@ -102,7 +111,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪲",
    "ex": "The rhinoceros beetle has a horn.",
-   "exzh": "獨角仙有一支角。"
+   "exzh": "獨角仙有一支角。",
+   "photo": "img/words/animals-2/rhinoceros-beetle.jpg"
   },
   {
    "w": "stag beetle",
@@ -111,7 +121,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪲",
    "ex": "A stag beetle has big jaws.",
-   "exzh": "鍬形蟲有大大的顎。"
+   "exzh": "鍬形蟲有大大的顎。",
+   "photo": "img/words/animals-2/stag-beetle.jpg"
   },
   {
    "w": "scorpion",
@@ -120,7 +131,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦂",
    "ex": "A scorpion lives in the desert.",
-   "exzh": "蠍子住在沙漠。"
+   "exzh": "蠍子住在沙漠。",
+   "photo": "img/words/animals-2/scorpion.jpg"
   },
   {
    "w": "centipede",
@@ -129,7 +141,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐛",
    "ex": "A centipede has many legs.",
-   "exzh": "蜈蚣有很多隻腳。"
+   "exzh": "蜈蚣有很多隻腳。",
+   "photo": "img/words/animals-2/centipede.jpg"
   },
   {
    "w": "earthworm",
@@ -138,7 +151,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪱",
    "ex": "An earthworm lives in the soil.",
-   "exzh": "蚯蚓住在土裡。"
+   "exzh": "蚯蚓住在土裡。",
+   "photo": "img/words/animals-2/earthworm.jpg"
   },
   {
    "w": "tadpole",
@@ -147,7 +161,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥚",
    "ex": "A tadpole becomes a frog.",
-   "exzh": "蝌蚪會變成青蛙。"
+   "exzh": "蝌蚪會變成青蛙。",
+   "photo": "img/words/animals-2/tadpole.jpg"
   },
   {
    "w": "frog",
@@ -156,7 +171,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐸",
    "ex": "The frog jumps into the pond.",
-   "exzh": "青蛙跳進池塘。"
+   "exzh": "青蛙跳進池塘。",
+   "photo": "img/words/animals-2/frog.jpg"
   },
   {
    "w": "lizard",
@@ -165,7 +181,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦎",
    "ex": "The lizard sits on the wall.",
-   "exzh": "蜥蜴停在牆上。"
+   "exzh": "蜥蜴停在牆上。",
+   "photo": "img/words/animals-2/lizard.jpg"
   },
   {
    "w": "dragonfly",
@@ -174,7 +191,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪰",
    "ex": "A dragonfly rests on a leaf.",
-   "exzh": "蜻蜓停在葉子上。"
+   "exzh": "蜻蜓停在葉子上。",
+   "photo": "img/words/animals-2/dragonfly.jpg"
   },
   {
    "w": "snail",
@@ -183,7 +201,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐌",
    "ex": "A snail moves slowly.",
-   "exzh": "蝸牛爬得很慢。"
+   "exzh": "蝸牛爬得很慢。",
+   "photo": "img/words/animals-2/snail.jpg"
   },
   {
    "w": "butterfly",
@@ -192,7 +211,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦋",
    "ex": "The butterfly is colorful.",
-   "exzh": "蝴蝶很美麗。"
+   "exzh": "蝴蝶很美麗。",
+   "photo": "img/words/animals-2/butterfly.jpg"
   },
   {
    "w": "cricket",
@@ -201,7 +221,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦗",
    "ex": "A cricket sings at night.",
-   "exzh": "蟋蟀在夜晚鳴叫。"
+   "exzh": "蟋蟀在夜晚鳴叫。",
+   "photo": "img/words/animals-2/cricket.jpg"
   },
   {
    "w": "ant",
@@ -219,7 +240,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦋",
    "ex": "A moth flies around the light.",
-   "exzh": "蛾繞著燈飛。"
+   "exzh": "蛾繞著燈飛。",
+   "photo": "img/words/animals-2/moth.jpg"
   },
   {
    "w": "silkworm",
@@ -246,7 +268,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦗",
    "ex": "A praying mantis catches insects.",
-   "exzh": "螳螂會捕捉昆蟲。"
+   "exzh": "螳螂會捕捉昆蟲。",
+   "photo": "img/words/animals-2/praying-mantis.jpg"
   },
   {
    "w": "crocodile",
@@ -255,7 +278,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐊",
    "ex": "A crocodile has sharp teeth.",
-   "exzh": "鱷魚有尖銳的牙齒。"
+   "exzh": "鱷魚有尖銳的牙齒。",
+   "photo": "img/words/animals-2/crocodile.jpg"
   }
  ],
  "speakers": {

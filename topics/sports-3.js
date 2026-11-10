@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📊",
    "ex": "The scoreboard shows the score.",
-   "exzh": "計分板顯示比數。"
+   "exzh": "計分板顯示比數。",
+   "photo": "img/words/sports-3/scoreboard.jpg"
   },
   {
    "w": "coach",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧑‍🏫",
    "ex": "The coach gives us advice.",
-   "exzh": "教練給我們建議。"
+   "exzh": "教練給我們建議。",
+   "photo": "img/words/sports-3/coach.jpg"
   },
   {
    "w": "bench player",
@@ -57,7 +59,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "⛹️",
    "ex": "He can dribble with both hands.",
-   "exzh": "他可以用兩手運球。"
+   "exzh": "他可以用兩手運球。",
+   "photo": "img/words/sports-3/dribble.jpg"
   },
   {
    "w": "forward",
@@ -84,7 +87,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧑‍⚖️",
    "ex": "The referee blows the whistle.",
-   "exzh": "裁判吹哨子。"
+   "exzh": "裁判吹哨子。",
+   "photo": "img/words/sports-3/referee.jpg"
   },
   {
    "w": "foul line",
@@ -138,7 +142,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🟦",
    "ex": "The ball hit the backboard.",
-   "exzh": "球打到籃板。"
+   "exzh": "球打到籃板。",
+   "photo": "img/words/sports-3/backboard.jpg"
   },
   {
    "w": "rim",
@@ -147,7 +152,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⭕",
    "ex": "The ball bounced off the rim.",
-   "exzh": "球從籃框彈出。"
+   "exzh": "球從籃框彈出。",
+   "photo": "img/words/sports-3/rim.jpg"
   },
   {
    "w": "net",
@@ -156,7 +162,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥅",
    "ex": "The ball went through the net.",
-   "exzh": "球穿過籃網。"
+   "exzh": "球穿過籃網。",
+   "photo": "img/words/sports-3/net.jpg"
   },
   {
    "w": "baseline",

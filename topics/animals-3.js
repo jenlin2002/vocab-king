@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🕊️",
    "ex": "A seagull flies over the sea.",
-   "exzh": "海鷗飛過大海。"
+   "exzh": "海鷗飛過大海。",
+   "photo": "img/words/animals-3/seagull.jpg"
   },
   {
    "w": "penguin",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐧",
    "ex": "A penguin cannot fly.",
-   "exzh": "企鵝不會飛。"
+   "exzh": "企鵝不會飛。",
+   "photo": "img/words/animals-3/penguin.jpg"
   },
   {
    "w": "chicken",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐔",
    "ex": "The chicken lays an egg.",
-   "exzh": "母雞下了一顆蛋。"
+   "exzh": "母雞下了一顆蛋。",
+   "photo": "img/words/animals-3/chicken.jpg"
   },
   {
    "w": "pigeon",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🕊️",
    "ex": "A pigeon sits on the roof.",
-   "exzh": "鴿子停在屋頂上。"
+   "exzh": "鴿子停在屋頂上。",
+   "photo": "img/words/animals-3/pigeon.jpg"
   },
   {
    "w": "crow",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐦‍⬛",
    "ex": "The crow is black.",
-   "exzh": "烏鴉是黑色的。"
+   "exzh": "烏鴉是黑色的。",
+   "photo": "img/words/animals-3/crow.jpg"
   },
   {
    "w": "turkey",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦃",
    "ex": "We eat turkey on Thanksgiving.",
-   "exzh": "感恩節我們吃火雞。"
+   "exzh": "感恩節我們吃火雞。",
+   "photo": "img/words/animals-3/turkey.jpg"
   },
   {
    "w": "duck",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦆",
    "ex": "The duck swims in the pond.",
-   "exzh": "鴨子在池塘裡游泳。"
+   "exzh": "鴨子在池塘裡游泳。",
+   "photo": "img/words/animals-3/duck.jpg"
   },
   {
    "w": "sparrow",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐦",
    "ex": "A sparrow sings in the tree.",
-   "exzh": "麻雀在樹上唱歌。"
+   "exzh": "麻雀在樹上唱歌。",
+   "photo": "img/words/animals-3/sparrow.jpg"
   },
   {
    "w": "woodpecker",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐦",
    "ex": "The woodpecker hits the tree.",
-   "exzh": "啄木鳥啄著樹幹。"
+   "exzh": "啄木鳥啄著樹幹。",
+   "photo": "img/words/animals-3/woodpecker.jpg"
   },
   {
    "w": "canary",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐤",
    "ex": "The canary is yellow.",
-   "exzh": "金絲雀是黃色的。"
+   "exzh": "金絲雀是黃色的。",
+   "photo": "img/words/animals-3/canary.jpg"
   },
   {
    "w": "white Java sparrow",
@@ -102,7 +112,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐦",
    "ex": "A white Java sparrow is a pet.",
-   "exzh": "白文鳥是一種寵物鳥。"
+   "exzh": "白文鳥是一種寵物鳥。",
+   "photo": "img/words/animals-3/white-java-sparrow.jpg"
   },
   {
    "w": "blue magpie",
@@ -111,7 +122,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐦",
    "ex": "The blue magpie lives in Taiwan.",
-   "exzh": "台灣藍鵲住在台灣。"
+   "exzh": "台灣藍鵲住在台灣。",
+   "photo": "img/words/animals-3/blue-magpie.jpg"
   },
   {
    "w": "toucan",
@@ -120,7 +132,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦜",
    "ex": "A toucan has a big beak.",
-   "exzh": "巨嘴鳥有一個大大的嘴。"
+   "exzh": "巨嘴鳥有一個大大的嘴。",
+   "photo": "img/words/animals-3/toucan.jpg"
   },
   {
    "w": "pelican",
@@ -129,7 +142,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦢",
    "ex": "A pelican catches fish.",
-   "exzh": "鵜鶘會捕魚。"
+   "exzh": "鵜鶘會捕魚。",
+   "photo": "img/words/animals-3/pelican.jpg"
   },
   {
    "w": "lark",
@@ -138,7 +152,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐦",
    "ex": "The lark sings in the sky.",
-   "exzh": "雲雀在天空唱歌。"
+   "exzh": "雲雀在天空唱歌。",
+   "photo": "img/words/animals-3/lark.jpg"
   },
   {
    "w": "pheasant",
@@ -147,7 +162,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐓",
    "ex": "A pheasant has long feathers.",
-   "exzh": "雉雞有長長的羽毛。"
+   "exzh": "雉雞有長長的羽毛。",
+   "photo": "img/words/animals-3/pheasant.jpg"
   },
   {
    "w": "myna",
@@ -156,7 +172,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐦‍⬛",
    "ex": "A myna can copy words.",
-   "exzh": "八哥會模仿人說話。"
+   "exzh": "八哥會模仿人說話。",
+   "photo": "img/words/animals-3/myna.jpg"
   },
   {
    "w": "hummingbird",
@@ -165,7 +182,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐦",
    "ex": "A hummingbird is very small.",
-   "exzh": "蜂鳥非常小。"
+   "exzh": "蜂鳥非常小。",
+   "photo": "img/words/animals-3/hummingbird.jpg"
   },
   {
    "w": "swallow",
@@ -174,7 +192,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐦",
    "ex": "Swallows make nests under the roof.",
-   "exzh": "燕子在屋簷下築巢。"
+   "exzh": "燕子在屋簷下築巢。",
+   "photo": "img/words/animals-3/swallow.jpg"
   },
   {
    "w": "goose",
@@ -183,7 +202,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪿",
    "ex": "The goose is white.",
-   "exzh": "鵝是白色的。"
+   "exzh": "鵝是白色的。",
+   "photo": "img/words/animals-3/goose.jpg"
   },
   {
    "w": "eagle",
@@ -192,7 +212,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦅",
    "ex": "An eagle has sharp eyes.",
-   "exzh": "老鷹的眼睛很銳利。"
+   "exzh": "老鷹的眼睛很銳利。",
+   "photo": "img/words/animals-3/eagle.jpg"
   },
   {
    "w": "owl",
@@ -201,7 +222,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦉",
    "ex": "An owl sleeps in the day.",
-   "exzh": "貓頭鷹白天睡覺。"
+   "exzh": "貓頭鷹白天睡覺。",
+   "photo": "img/words/animals-3/owl.jpg"
   },
   {
    "w": "shrike",
@@ -210,7 +232,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐦",
    "ex": "A shrike sits on a wire.",
-   "exzh": "伯勞鳥停在電線上。"
+   "exzh": "伯勞鳥停在電線上。",
+   "photo": "img/words/animals-3/shrike.jpg"
   },
   {
    "w": "egret",
@@ -219,7 +242,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦢",
    "ex": "An egret stands in the rice field.",
-   "exzh": "白鷺鷥站在稻田裡。"
+   "exzh": "白鷺鷥站在稻田裡。",
+   "photo": "img/words/animals-3/egret.jpg"
   },
   {
    "w": "swan",
@@ -228,7 +252,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦢",
    "ex": "A swan is graceful.",
-   "exzh": "天鵝很優雅。"
+   "exzh": "天鵝很優雅。",
+   "photo": "img/words/animals-3/swan.jpg"
   },
   {
    "w": "vulture",
@@ -237,7 +262,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦅",
    "ex": "A vulture eats dead animals.",
-   "exzh": "禿鷹吃動物的屍體。"
+   "exzh": "禿鷹吃動物的屍體。",
+   "photo": "img/words/animals-3/vulture.jpg"
   },
   {
    "w": "ostrich",
@@ -246,7 +272,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐦",
    "ex": "An ostrich runs fast.",
-   "exzh": "鴕鳥跑得很快。"
+   "exzh": "鴕鳥跑得很快。",
+   "photo": "img/words/animals-3/ostrich.jpg"
   },
   {
    "w": "crane",
@@ -255,7 +282,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦢",
    "ex": "The crane stands on one leg.",
-   "exzh": "鶴用一隻腳站立。"
+   "exzh": "鶴用一隻腳站立。",
+   "photo": "img/words/animals-3/crane.jpg"
   },
   {
    "w": "peacock",
@@ -264,7 +292,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦚",
    "ex": "The peacock opens its tail.",
-   "exzh": "孔雀展開牠的尾巴。"
+   "exzh": "孔雀展開牠的尾巴。",
+   "photo": "img/words/animals-3/peacock.jpg"
   },
   {
    "w": "condor",
@@ -273,7 +302,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦅",
    "ex": "A condor flies very high.",
-   "exzh": "神鷹飛得非常高。"
+   "exzh": "神鷹飛得非常高。",
+   "photo": "img/words/animals-3/condor.jpg"
   },
   {
    "w": "parrot",
@@ -282,7 +312,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦜",
    "ex": "The parrot says hello.",
-   "exzh": "鸚鵡會說哈囉。"
+   "exzh": "鸚鵡會說哈囉。",
+   "photo": "img/words/animals-3/parrot.jpg"
   },
   {
    "w": "black-faced spoonbill",
@@ -291,7 +322,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦢",
    "ex": "The black-faced spoonbill is rare.",
-   "exzh": "黑面琵鷺很稀有。"
+   "exzh": "黑面琵鷺很稀有。",
+   "photo": "img/words/animals-3/black-faced-spoonbill.jpg"
   }
  ],
  "speakers": {

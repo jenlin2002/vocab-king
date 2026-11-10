@@ -21,7 +21,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "☯️",
    "ex": "Grandpa does tai chi in the park.",
-   "exzh": "爺爺在公園打太極拳。"
+   "exzh": "爺爺在公園打太極拳。",
+   "photo": "img/words/sports-7/tai-chi.jpg"
   },
   {
    "w": "wrestling",
@@ -30,7 +31,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🤼",
    "ex": "Wrestling is a strong sport.",
-   "exzh": "摔角是很強壯的運動。"
+   "exzh": "摔角是很強壯的運動。",
+   "photo": "img/words/sports-7/wrestling.jpg"
   },
   {
    "w": "karate",
@@ -39,7 +41,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥋",
    "ex": "Karate comes from Japan.",
-   "exzh": "空手道來自日本。"
+   "exzh": "空手道來自日本。",
+   "photo": "img/words/sports-7/karate.jpg"
   },
   {
    "w": "taekwondo",
@@ -48,7 +51,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥋",
    "ex": "Taekwondo comes from Korea.",
-   "exzh": "跆拳道來自韓國。"
+   "exzh": "跆拳道來自韓國。",
+   "photo": "img/words/sports-7/taekwondo.jpg"
   },
   {
    "w": "kendo",
@@ -57,7 +61,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⚔️",
    "ex": "Kendo uses bamboo swords.",
-   "exzh": "劍道用竹劍。"
+   "exzh": "劍道用竹劍。",
+   "photo": "img/words/sports-7/kendo.jpg"
   },
   {
    "w": "judo",
@@ -66,7 +71,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥋",
    "ex": "Judo teaches you to throw safely.",
-   "exzh": "柔道教你安全地摔人。"
+   "exzh": "柔道教你安全地摔人。",
+   "photo": "img/words/sports-7/judo.jpg"
   },
   {
    "w": "boxing",
@@ -75,7 +81,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥊",
    "ex": "Boxing needs strong arms.",
-   "exzh": "拳擊需要強壯的手臂。"
+   "exzh": "拳擊需要強壯的手臂。",
+   "photo": "img/words/sports-7/boxing.jpg"
   },
   {
    "w": "sumo",
@@ -84,7 +91,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🤼",
    "ex": "Sumo wrestlers are very large.",
-   "exzh": "相撲選手體型很大。"
+   "exzh": "相撲選手體型很大。",
+   "photo": "img/words/sports-7/sumo.jpg"
   },
   {
    "w": "kickboxing",
@@ -93,7 +101,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥊",
    "ex": "Kickboxing is a hard workout.",
-   "exzh": "踢拳是很辛苦的運動。"
+   "exzh": "踢拳是很辛苦的運動。",
+   "photo": "img/words/sports-7/kickboxing.jpg"
   },
   {
    "w": "kung fu",
@@ -102,7 +111,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥋",
    "ex": "Kung fu movies are famous.",
-   "exzh": "功夫電影很有名。"
+   "exzh": "功夫電影很有名。",
+   "photo": "img/words/sports-7/kung-fu.jpg"
   },
   {
    "w": "aikido",
@@ -111,7 +121,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥋",
    "ex": "Aikido uses the opponent's force.",
-   "exzh": "合氣道利用對手的力量。"
+   "exzh": "合氣道利用對手的力量。",
+   "photo": "img/words/sports-7/aikido.jpg"
   }
  ],
  "speakers": {

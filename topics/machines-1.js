@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍽️",
    "ex": "The dish dryer keeps the bowls clean.",
-   "exzh": "烘碗機讓碗盤保持乾淨。"
+   "exzh": "烘碗機讓碗盤保持乾淨。",
+   "photo": "img/words/machines-1/dish-dryer.jpg"
   },
   {
    "w": "air freshener",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌸",
    "ex": "The air freshener smells like lemon.",
-   "exzh": "空氣芳香劑有檸檬味。"
+   "exzh": "空氣芳香劑有檸檬味。",
+   "photo": "img/words/machines-1/air-freshener.jpg"
   },
   {
    "w": "portable CD player",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💿",
    "ex": "He listens to music on a portable CD player.",
-   "exzh": "他用隨身 CD 播放機聽音樂。"
+   "exzh": "他用隨身 CD 播放機聽音樂。",
+   "photo": "img/words/machines-1/portable-cd-player.jpg"
   },
   {
    "w": "fax machine",
@@ -48,7 +51,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔥",
    "ex": "A space heater warms the room.",
-   "exzh": "電暖器讓房間變暖。"
+   "exzh": "電暖器讓房間變暖。",
+   "photo": "img/words/machines-1/space-heater.jpg"
   },
   {
    "w": "coffee maker",
@@ -57,7 +61,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "☕",
    "ex": "The coffee maker is ready.",
-   "exzh": "咖啡機準備好了。"
+   "exzh": "咖啡機準備好了。",
+   "photo": "img/words/machines-1/coffee-maker.jpg"
   },
   {
    "w": "dishwasher",
@@ -66,7 +71,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧼",
    "ex": "The dishwasher is full.",
-   "exzh": "洗碗機滿了。"
+   "exzh": "洗碗機滿了。",
+   "photo": "img/words/machines-1/dishwasher.jpg"
   },
   {
    "w": "DVD player",
@@ -84,7 +90,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📼",
    "ex": "The VCR is an old machine.",
-   "exzh": "錄放影機是老機器。"
+   "exzh": "錄放影機是老機器。",
+   "photo": "img/words/machines-1/videocassette-recorder.jpg"
   },
   {
    "w": "earphones",
@@ -93,7 +100,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎧",
    "ex": "Wear earphones on the bus.",
-   "exzh": "在公車上戴耳機。"
+   "exzh": "在公車上戴耳機。",
+   "photo": "img/words/machines-1/earphones.jpg"
   },
   {
    "w": "copy machine",
@@ -102,7 +110,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🖨️",
    "ex": "The copy machine is out of paper.",
-   "exzh": "影印機沒紙了。"
+   "exzh": "影印機沒紙了。",
+   "photo": "img/words/machines-1/copy-machine.jpg"
   },
   {
    "w": "headphones",
@@ -111,7 +120,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎧",
    "ex": "These headphones are comfortable.",
-   "exzh": "這副頭戴式耳機很舒服。"
+   "exzh": "這副頭戴式耳機很舒服。",
+   "photo": "img/words/machines-1/headphones.jpg"
   },
   {
    "w": "stereo",
@@ -120,7 +130,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔊",
    "ex": "Turn on the stereo.",
-   "exzh": "開音響。"
+   "exzh": "開音響。",
+   "photo": "img/words/machines-1/stereo.jpg"
   },
   {
    "w": "hot water dispenser",
@@ -129,7 +140,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "♨️",
    "ex": "Use the hot water dispenser for tea.",
-   "exzh": "用熱水機泡茶。"
+   "exzh": "用熱水機泡茶。",
+   "photo": "img/words/machines-1/hot-water-dispenser.jpg"
   },
   {
    "w": "food processor",
@@ -138,7 +150,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥣",
    "ex": "The food processor cuts vegetables fast.",
-   "exzh": "食物調理機切菜很快。"
+   "exzh": "食物調理機切菜很快。",
+   "photo": "img/words/machines-1/food-processor.jpg"
   },
   {
    "w": "water cooler",
@@ -147,7 +160,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚰",
    "ex": "The water cooler is in the hallway.",
-   "exzh": "飲水機在走廊。"
+   "exzh": "飲水機在走廊。",
+   "photo": "img/words/machines-1/water-cooler.jpg"
   }
  ],
  "speakers": {

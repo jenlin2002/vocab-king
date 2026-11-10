@@ -33,7 +33,10 @@
   做法（可重複用在其他分類）：在內建瀏覽器開 pexels.com，用 JS fetch `/search/<關鍵字>/` 讀 `__NEXT_DATA__` 的 `props.pageProps.initialData.data`（取橫的照片 id、slug）→ 挑一張 → Python 下載 `images.pexels.com/photos/<id>/pexels-photo-<id>.jpeg?w=1280`（少數檔名不同，從照片頁的 og:image 取）→ 置中裁 4:3、640×480 → 做縮圖總表逐張看過（暴露、看不清楚、幾乎全白的換掉）→ 出處加到 PHOTO-CREDITS.md → `python tools\build_topic.py people1 …`。
 - **場景圖改成照片牆（2026-11-09 手機雲端版，使用者說「場景圖還是簡單或 emoji」）**：有照片的主題，「🗺️ 場景圖」預設顯示照片牆（`.pw`，每格一張單字照片＋編號，點了發音、對應下方單字；沒照片的字顯示 emoji 格），上方「📷 照片／✏️ 插圖」可切回原本的插圖（`sceneMode`）。程式在 `topic.html` 的 `drawScene()`。
 - **交通（transport）的單字改成照片（2026-11-05）**：transport-1～4 共 61 字，有 54 張照片（交通標誌用真的路牌照片）。保留 emoji：no U-turn、signal ahead、merge、no right turn（找不到清楚的標誌）、corner、curb、traffic light（照片看不出重點）。
-  還沒換的分類：航空、城內、動植物、食物、休閒、運動、餐廳、機器、其他。
+- **其餘 9 類全部換成照片（2026-11-10 家裡電腦，使用者圈出未換的分類＋「航空旅行也換」）**：航空 43/54、城內 90/114、動植物 143/148、食物 119/132、休閒 36/40、運動 98/130、餐廳 93/107、機器 35/38、其他 79/129（共 736 張，出處在 `img/words/PHOTO-CREDITS.md`）。
+  保留 emoji 的：misc-1 味道、misc-3 星座整個主題（抽象）；棒球守備位置（左中右外野手、游擊手、一二三壘手、全壘打）、籃球場的線與位置（sideline、key、forward…）；抽象或找不到清楚照片的（registered mail、postmark、money order、passbook、withdraw、3D ride、flea、burdock、煉乳／奶水／低脂奶、open／close／turn on…、smoke 不放）。
+  批次做法（比 people 那段快）：寫好每個字的搜尋關鍵字 → 在內建瀏覽器的 pexels.com 分頁用 JS 一次抓每個關鍵字前 6 張候選 id → 用「導向 http://127.0.0.1:<port>/x.json?d=…」把結果交給本機的小 Python 伺服器（Pexels 頁的 fetch 連不到 localhost；一次 URL 不能超過 64 KB，要分段）→ Python 下載第 1 張、置中裁 4:3 → 30 張一頁的縮圖總表逐張看 → 不合適的換下一張候選或改回 emoji（看了兩、三輪）。
+  **全部 14 類都換完了。**
   **換照片要在家裡或公司電腦做（2026-11-09 確認）**：雲端版的 Pexels 搜尋頁有 Cloudflare 防機器人，不能繞過；Wikimedia Commons 對雲端網路限速（10 分鐘只查到 2 個字），也不可行。雲端環境「成長學習館」雖然開了 images.pexels.com，但沒辦法搜尋。照上面 people 那段的做法，在電腦的 Claude Code 用內建瀏覽器搜 Pexels。測驗方式（使用者想改成跟 english-quiz 國中 2000 字一樣）也還沒改。
 
 ## 結構

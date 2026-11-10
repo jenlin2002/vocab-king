@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎳",
    "ex": "We go bowling on Fridays.",
-   "exzh": "我們星期五去打保齡球。"
+   "exzh": "我們星期五去打保齡球。",
+   "photo": "img/words/sports-2/bowling.jpg"
   },
   {
    "w": "basketball",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏀",
    "ex": "Basketball is a team sport.",
-   "exzh": "籃球是團體運動。"
+   "exzh": "籃球是團體運動。",
+   "photo": "img/words/sports-2/basketball.jpg"
   },
   {
    "w": "handball",
@@ -39,7 +41,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⚾",
    "ex": "Baseball is a national sport in Japan.",
-   "exzh": "棒球是日本的國民運動。"
+   "exzh": "棒球是日本的國民運動。",
+   "photo": "img/words/sports-2/baseball.jpg"
   },
   {
    "w": "dodgeball",
@@ -48,7 +51,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏐",
    "ex": "Dodgeball is fun in the gym.",
-   "exzh": "躲避球在體育館很好玩。"
+   "exzh": "躲避球在體育館很好玩。",
+   "photo": "img/words/sports-2/dodgeball.jpg"
   },
   {
    "w": "golf",
@@ -57,7 +61,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⛳",
    "ex": "Golf is played on a big course.",
-   "exzh": "高爾夫球在大球場打。"
+   "exzh": "高爾夫球在大球場打。",
+   "photo": "img/words/sports-2/golf.jpg"
   },
   {
    "w": "tennis",
@@ -66,7 +71,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎾",
    "ex": "Tennis needs a racket.",
-   "exzh": "網球需要球拍。"
+   "exzh": "網球需要球拍。",
+   "photo": "img/words/sports-2/tennis.jpg"
   },
   {
    "w": "softball",
@@ -75,7 +81,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥎",
    "ex": "Softball is like baseball.",
-   "exzh": "壘球像棒球。"
+   "exzh": "壘球像棒球。",
+   "photo": "img/words/sports-2/softball.jpg"
   },
   {
    "w": "table tennis",
@@ -84,7 +91,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏓",
    "ex": "Table tennis is popular in Asia.",
-   "exzh": "桌球在亞洲很受歡迎。"
+   "exzh": "桌球在亞洲很受歡迎。",
+   "photo": "img/words/sports-2/table-tennis.jpg"
   },
   {
    "w": "ice hockey",
@@ -93,7 +101,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏒",
    "ex": "Ice hockey is fast and rough.",
-   "exzh": "冰上曲棍球又快又激烈。"
+   "exzh": "冰上曲棍球又快又激烈。",
+   "photo": "img/words/sports-2/ice-hockey.jpg"
   },
   {
    "w": "field hockey",
@@ -102,7 +111,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏑",
    "ex": "Field hockey is played on grass.",
-   "exzh": "草地曲棍球在草地上打。"
+   "exzh": "草地曲棍球在草地上打。",
+   "photo": "img/words/sports-2/field-hockey.jpg"
   },
   {
    "w": "American football",
@@ -111,7 +121,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏈",
    "ex": "American football players wear helmets.",
-   "exzh": "美式足球選手戴頭盔。"
+   "exzh": "美式足球選手戴頭盔。",
+   "photo": "img/words/sports-2/american-football.jpg"
   },
   {
    "w": "croquet",
@@ -120,7 +131,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏏",
    "ex": "Croquet is a gentle lawn game.",
-   "exzh": "槌球是一種輕鬆的草地遊戲。"
+   "exzh": "槌球是一種輕鬆的草地遊戲。",
+   "photo": "img/words/sports-2/croquet.jpg"
   },
   {
    "w": "soccer",
@@ -129,7 +141,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⚽",
    "ex": "Soccer is the most popular sport.",
-   "exzh": "足球是最受歡迎的運動。"
+   "exzh": "足球是最受歡迎的運動。",
+   "photo": "img/words/sports-2/soccer.jpg"
   },
   {
    "w": "pool",
@@ -138,7 +151,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎱",
    "ex": "My dad plays pool with friends.",
-   "exzh": "我爸爸和朋友打撞球。"
+   "exzh": "我爸爸和朋友打撞球。",
+   "photo": "img/words/sports-2/pool.jpg"
   },
   {
    "w": "volleyball",
@@ -147,7 +161,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏐",
    "ex": "Volleyball needs a net.",
-   "exzh": "排球需要一張網。"
+   "exzh": "排球需要一張網。",
+   "photo": "img/words/sports-2/volleyball.jpg"
   },
   {
    "w": "badminton",
@@ -156,7 +171,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏸",
    "ex": "We play badminton in the yard.",
-   "exzh": "我們在院子打羽毛球。"
+   "exzh": "我們在院子打羽毛球。",
+   "photo": "img/words/sports-2/badminton.jpg"
   },
   {
    "w": "cricket",
@@ -165,7 +181,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏏",
    "ex": "Cricket is popular in India.",
-   "exzh": "板球在印度很流行。"
+   "exzh": "板球在印度很流行。",
+   "photo": "img/words/sports-2/cricket.jpg"
   }
  ],
  "speakers": {

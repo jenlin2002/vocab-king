@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍬",
    "ex": "Rock candy is used in stew.",
-   "exzh": "冰糖用來燉東西。"
+   "exzh": "冰糖用來燉東西。",
+   "photo": "img/words/restaurant-6/rock-candy.jpg"
   },
   {
    "w": "curry",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍛",
    "ex": "Curry is spicy.",
-   "exzh": "咖哩很辣。"
+   "exzh": "咖哩很辣。",
+   "photo": "img/words/restaurant-6/curry.jpg"
   },
   {
    "w": "salt",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧂",
    "ex": "Add a little salt.",
-   "exzh": "加一點鹽。"
+   "exzh": "加一點鹽。",
+   "photo": "img/words/restaurant-6/salt.jpg"
   },
   {
    "w": "pepper",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌶️",
    "ex": "Pepper makes me sneeze.",
-   "exzh": "胡椒讓我打噴嚏。"
+   "exzh": "胡椒讓我打噴嚏。",
+   "photo": "img/words/restaurant-6/pepper.jpg"
   },
   {
    "w": "dried bonito",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐟",
    "ex": "Dried bonito is used in Japanese soup.",
-   "exzh": "柴魚片用在日式湯裡。"
+   "exzh": "柴魚片用在日式湯裡。",
+   "photo": "img/words/restaurant-6/dried-bonito.jpg"
   },
   {
    "w": "MSG",
@@ -75,7 +80,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍶",
    "ex": "Soy sauce is salty.",
-   "exzh": "醬油是鹹的。"
+   "exzh": "醬油是鹹的。",
+   "photo": "img/words/restaurant-6/soy-sauce.jpg"
   },
   {
    "w": "brown sugar",
@@ -84,7 +90,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🟫",
    "ex": "Brown sugar is used in desserts.",
-   "exzh": "紅糖用在甜點裡。"
+   "exzh": "紅糖用在甜點裡。",
+   "photo": "img/words/restaurant-6/brown-sugar.jpg"
   },
   {
    "w": "mustard",
@@ -102,7 +109,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍶",
    "ex": "Vinegar is sour.",
-   "exzh": "醋是酸的。"
+   "exzh": "醋是酸的。",
+   "photo": "img/words/restaurant-6/vinegar.jpg"
   },
   {
    "w": "ketchup",
@@ -111,7 +119,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍅",
    "ex": "Put ketchup on french fries.",
-   "exzh": "薯條上放番茄醬。"
+   "exzh": "薯條上放番茄醬。",
+   "photo": "img/words/restaurant-6/ketchup.jpg"
   },
   {
    "w": "oil",
@@ -120,7 +129,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛢️",
    "ex": "Heat the oil in a pan.",
-   "exzh": "在鍋裡把油加熱。"
+   "exzh": "在鍋裡把油加熱。",
+   "photo": "img/words/restaurant-6/oil.jpg"
   },
   {
    "w": "sesame oil",
@@ -138,7 +148,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍶",
    "ex": "Cooking with rice wine adds flavor.",
-   "exzh": "用米酒烹調增添風味。"
+   "exzh": "用米酒烹調增添風味。",
+   "photo": "img/words/restaurant-6/rice-wine.jpg"
   }
  ],
  "speakers": {

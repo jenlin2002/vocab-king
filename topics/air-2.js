@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏢",
    "ex": "Our flight leaves from Terminal 2.",
-   "exzh": "我們的班機從第二航廈出發。"
+   "exzh": "我們的班機從第二航廈出發。",
+   "photo": "img/words/air-2/terminal.jpg"
   },
   {
    "w": "ticket dispenser",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎟️",
    "ex": "Use the ticket dispenser to get your ticket.",
-   "exzh": "用自動售票機取票。"
+   "exzh": "用自動售票機取票。",
+   "photo": "img/words/air-2/ticket-dispenser.jpg"
   },
   {
    "w": "currency exchange",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💱",
    "ex": "Change your money at the currency exchange.",
-   "exzh": "在外幣兌換處換錢。"
+   "exzh": "在外幣兌換處換錢。",
+   "photo": "img/words/air-2/currency-exchange.jpg"
   },
   {
    "w": "insurance counter",
@@ -48,7 +51,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧾",
    "ex": "Go to the check-in counter first.",
-   "exzh": "先去報到櫃檯。"
+   "exzh": "先去報到櫃檯。",
+   "photo": "img/words/air-2/check-in-counter.jpg"
   },
   {
    "w": "passenger",
@@ -57,7 +61,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧳",
    "ex": "Every passenger needs a boarding pass.",
-   "exzh": "每位乘客都需要登機證。"
+   "exzh": "每位乘客都需要登機證。",
+   "photo": "img/words/air-2/passenger.jpg"
   },
   {
    "w": "airline attendant",
@@ -66,7 +71,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧑‍💼",
    "ex": "The airline attendant checks my ticket.",
-   "exzh": "航空公司服務人員檢查我的機票。"
+   "exzh": "航空公司服務人員檢查我的機票。",
+   "photo": "img/words/air-2/airline-attendant.jpg"
   },
   {
    "w": "airline service counter",
@@ -75,7 +81,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛎️",
    "ex": "Ask at the airline service counter.",
-   "exzh": "到航空公司服務櫃檯詢問。"
+   "exzh": "到航空公司服務櫃檯詢問。",
+   "photo": "img/words/air-2/airline-service-counter.jpg"
   },
   {
    "w": "luggage",
@@ -84,7 +91,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧳",
    "ex": "My luggage is heavy.",
-   "exzh": "我的行李很重。"
+   "exzh": "我的行李很重。",
+   "photo": "img/words/air-2/luggage.jpg"
   },
   {
    "w": "luggage cart",
@@ -93,7 +101,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛒",
    "ex": "Push your bags on a luggage cart.",
-   "exzh": "用行李推車推你的行李。"
+   "exzh": "用行李推車推你的行李。",
+   "photo": "img/words/air-2/luggage-cart.jpg"
   },
   {
    "w": "skycap",
@@ -120,7 +129,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛂",
    "ex": "Show your passport at immigration.",
-   "exzh": "在入出境查驗處出示護照。"
+   "exzh": "在入出境查驗處出示護照。",
+   "photo": "img/words/air-2/immigration.jpg"
   },
   {
    "w": "luggage carousel",
@@ -129,7 +139,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔄",
    "ex": "Wait at the luggage carousel.",
-   "exzh": "在行李轉盤旁等候。"
+   "exzh": "在行李轉盤旁等候。",
+   "photo": "img/words/air-2/luggage-carousel.jpg"
   },
   {
    "w": "information desk",
@@ -147,7 +158,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚪",
    "ex": "Meet me in the departure lobby.",
-   "exzh": "在出境大廳跟我碰面。"
+   "exzh": "在出境大廳跟我碰面。",
+   "photo": "img/words/air-2/departure-lobby.jpg"
   },
   {
    "w": "duty-free item",
@@ -156,7 +168,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏷️",
    "ex": "Perfume is a duty-free item.",
-   "exzh": "香水是免稅商品。"
+   "exzh": "香水是免稅商品。",
+   "photo": "img/words/air-2/duty-free-item.jpg"
   },
   {
    "w": "duty-free shop",
@@ -165,7 +178,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛍️",
    "ex": "I buy gifts in the duty-free shop.",
-   "exzh": "我在免稅商店買禮物。"
+   "exzh": "我在免稅商店買禮物。",
+   "photo": "img/words/air-2/duty-free-shop.jpg"
   },
   {
    "w": "control tower",
@@ -174,7 +188,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🗼",
    "ex": "The control tower guides the planes.",
-   "exzh": "控制塔台指揮飛機。"
+   "exzh": "控制塔台指揮飛機。",
+   "photo": "img/words/air-2/control-tower.jpg"
   },
   {
    "w": "take-off",
@@ -183,7 +198,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛫",
    "ex": "Take-off is at ten o'clock.",
-   "exzh": "十點起飛。"
+   "exzh": "十點起飛。",
+   "photo": "img/words/air-2/take-off.jpg"
   },
   {
    "w": "shuttle bus",
@@ -192,7 +208,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚌",
    "ex": "The shuttle bus goes to the hotel.",
-   "exzh": "接駁車開往飯店。"
+   "exzh": "接駁車開往飯店。",
+   "photo": "img/words/air-2/shuttle-bus.jpg"
   },
   {
    "w": "landing",
@@ -201,7 +218,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛬",
    "ex": "The landing was smooth.",
-   "exzh": "降落很平穩。"
+   "exzh": "降落很平穩。",
+   "photo": "img/words/air-2/landing.jpg"
   },
   {
    "w": "airplane",
@@ -210,7 +228,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "✈️",
    "ex": "The airplane is on the runway.",
-   "exzh": "飛機在跑道上。"
+   "exzh": "飛機在跑道上。",
+   "photo": "img/words/air-2/airplane.jpg"
   },
   {
    "w": "runway",
@@ -219,7 +238,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛣️",
    "ex": "The runway is very long.",
-   "exzh": "跑道非常長。"
+   "exzh": "跑道非常長。",
+   "photo": "img/words/air-2/runway.jpg"
   }
  ],
  "speakers": {

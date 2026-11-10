@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👨‍⚕️",
    "ex": "A doctor helps sick people.",
-   "exzh": "醫生幫助生病的人。"
+   "exzh": "醫生幫助生病的人。",
+   "photo": "img/words/misc-4/doctor.jpg"
   },
   {
    "w": "nurse",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👩‍⚕️",
    "ex": "The nurse takes my temperature.",
-   "exzh": "護理師幫我量體溫。"
+   "exzh": "護理師幫我量體溫。",
+   "photo": "img/words/misc-4/nurse.jpg"
   },
   {
    "w": "salesman",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧑‍💼",
    "ex": "The salesman sells cars.",
-   "exzh": "業務員賣汽車。"
+   "exzh": "業務員賣汽車。",
+   "photo": "img/words/misc-4/salesman.jpg"
   },
   {
    "w": "plumber",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔧",
    "ex": "The plumber fixed the pipe.",
-   "exzh": "水電工修好了水管。"
+   "exzh": "水電工修好了水管。",
+   "photo": "img/words/misc-4/plumber.jpg"
   },
   {
    "w": "personal assistant",
@@ -57,7 +61,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎨",
    "ex": "The artist paints a picture.",
-   "exzh": "藝術家畫了一幅畫。"
+   "exzh": "藝術家畫了一幅畫。",
+   "photo": "img/words/misc-4/artist.jpg"
   },
   {
    "w": "driver",
@@ -66,7 +71,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚖",
    "ex": "The driver is careful.",
-   "exzh": "司機很小心。"
+   "exzh": "司機很小心。",
+   "photo": "img/words/misc-4/driver.jpg"
   },
   {
    "w": "sculptor",
@@ -75,7 +81,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🗿",
    "ex": "The sculptor makes a statue.",
-   "exzh": "雕刻家做了一座雕像。"
+   "exzh": "雕刻家做了一座雕像。",
+   "photo": "img/words/misc-4/sculptor.jpg"
   },
   {
    "w": "dancer",
@@ -84,7 +91,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💃",
    "ex": "The dancer is graceful.",
-   "exzh": "舞者很優雅。"
+   "exzh": "舞者很優雅。",
+   "photo": "img/words/misc-4/dancer.jpg"
   },
   {
    "w": "singer",
@@ -93,7 +101,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎤",
    "ex": "The singer has a beautiful voice.",
-   "exzh": "歌手有美妙的聲音。"
+   "exzh": "歌手有美妙的聲音。",
+   "photo": "img/words/misc-4/singer.jpg"
   },
   {
    "w": "farmer",
@@ -102,7 +111,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧑‍🌾",
    "ex": "The farmer grows rice.",
-   "exzh": "農夫種稻。"
+   "exzh": "農夫種稻。",
+   "photo": "img/words/misc-4/farmer.jpg"
   },
   {
    "w": "chef",
@@ -111,7 +121,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👨‍🍳",
    "ex": "The chef cooks in a big kitchen.",
-   "exzh": "主廚在大廚房煮菜。"
+   "exzh": "主廚在大廚房煮菜。",
+   "photo": "img/words/misc-4/chef.jpg"
   },
   {
    "w": "laborer",
@@ -129,7 +140,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎭",
    "ex": "The actor is famous.",
-   "exzh": "這位演員很有名。"
+   "exzh": "這位演員很有名。",
+   "photo": "img/words/misc-4/actor.jpg"
   },
   {
    "w": "actress",
@@ -147,7 +159,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👩‍🏫",
    "ex": "My teacher is kind.",
-   "exzh": "我的老師很親切。"
+   "exzh": "我的老師很親切。",
+   "photo": "img/words/misc-4/teacher.jpg"
   },
   {
    "w": "firefighter",
@@ -156,7 +169,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧑‍🚒",
    "ex": "The firefighter saves people.",
-   "exzh": "消防員救人。"
+   "exzh": "消防員救人。",
+   "photo": "img/words/misc-4/firefighter.jpg"
   },
   {
    "w": "fisherman",
@@ -165,7 +179,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎣",
    "ex": "The fisherman catches fish.",
-   "exzh": "漁夫捕魚。"
+   "exzh": "漁夫捕魚。",
+   "photo": "img/words/misc-4/fisherman.jpg"
   },
   {
    "w": "pilot",
@@ -174,7 +189,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧑‍✈️",
    "ex": "The pilot flies the plane.",
-   "exzh": "飛行員駕駛飛機。"
+   "exzh": "飛行員駕駛飛機。",
+   "photo": "img/words/misc-4/pilot.jpg"
   },
   {
    "w": "architect",
@@ -183,7 +199,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📐",
    "ex": "The architect designs buildings.",
-   "exzh": "建築師設計建築物。"
+   "exzh": "建築師設計建築物。",
+   "photo": "img/words/misc-4/architect.jpg"
   },
   {
    "w": "mechanic",
@@ -192,7 +209,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧰",
    "ex": "The mechanic repairs my car.",
-   "exzh": "技師修我的車。"
+   "exzh": "技師修我的車。",
+   "photo": "img/words/misc-4/mechanic.jpg"
   },
   {
    "w": "public servant",
@@ -210,7 +228,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪚",
    "ex": "The carpenter builds a table.",
-   "exzh": "木匠做桌子。"
+   "exzh": "木匠做桌子。",
+   "photo": "img/words/misc-4/carpenter.jpg"
   },
   {
    "w": "politician",
@@ -228,7 +247,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💼",
    "ex": "An entrepreneur starts a business.",
-   "exzh": "創業家開創事業。"
+   "exzh": "創業家開創事業。",
+   "photo": "img/words/misc-4/entrepreneur.jpg"
   },
   {
    "w": "hairstylist",
@@ -237,7 +257,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💇",
    "ex": "The hairstylist cut my hair.",
-   "exzh": "髮型設計師幫我剪頭髮。"
+   "exzh": "髮型設計師幫我剪頭髮。",
+   "photo": "img/words/misc-4/hairstylist.jpg"
   },
   {
    "w": "lawyer",
@@ -246,7 +267,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⚖️",
    "ex": "The lawyer helps in court.",
-   "exzh": "律師在法庭幫忙。"
+   "exzh": "律師在法庭幫忙。",
+   "photo": "img/words/misc-4/lawyer.jpg"
   }
  ],
  "speakers": {

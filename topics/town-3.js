@@ -39,7 +39,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚦",
    "ex": "The traffic officer stops the cars.",
-   "exzh": "交通警察攔下車輛。"
+   "exzh": "交通警察攔下車輛。",
+   "photo": "img/words/town-3/traffic-officer.jpg"
   },
   {
    "w": "police hat",
@@ -48,7 +49,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👮",
    "ex": "The officer wears a police hat.",
-   "exzh": "警察戴著警帽。"
+   "exzh": "警察戴著警帽。",
+   "photo": "img/words/town-3/police-hat.jpg"
   },
   {
    "w": "whistle",
@@ -57,7 +59,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📣",
    "ex": "He blows his whistle.",
-   "exzh": "他吹響哨子。"
+   "exzh": "他吹響哨子。",
+   "photo": "img/words/town-3/whistle.jpg"
   },
   {
    "w": "patch",
@@ -66,7 +69,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏷️",
    "ex": "The patch shows the city name.",
-   "exzh": "臂章上有城市的名字。"
+   "exzh": "臂章上有城市的名字。",
+   "photo": "img/words/town-3/patch.jpg"
   },
   {
    "w": "badge",
@@ -75,7 +79,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛡️",
    "ex": "Show me your badge.",
-   "exzh": "請讓我看你的警徽。"
+   "exzh": "請讓我看你的警徽。",
+   "photo": "img/words/town-3/badge.jpg"
   },
   {
    "w": "handcuffs",
@@ -84,7 +89,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⛓️",
    "ex": "The officer puts handcuffs on the thief.",
-   "exzh": "警察把手銬銬在小偷手上。"
+   "exzh": "警察把手銬銬在小偷手上。",
+   "photo": "img/words/town-3/handcuffs.jpg"
   },
   {
    "w": "duty belt",
@@ -93,7 +99,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪢",
    "ex": "A duty belt holds his tools.",
-   "exzh": "勤務腰帶上掛著他的裝備。"
+   "exzh": "勤務腰帶上掛著他的裝備。",
+   "photo": "img/words/town-3/duty-belt.jpg"
   },
   {
    "w": "nightstick",
@@ -102,7 +109,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥢",
    "ex": "An officer carries a nightstick.",
-   "exzh": "警察帶著警棍。"
+   "exzh": "警察帶著警棍。",
+   "photo": "img/words/town-3/nightstick.jpg"
   },
   {
    "w": "thief",
@@ -120,7 +128,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚶",
    "ex": "A patrol officer walks around the park.",
-   "exzh": "巡邏警察在公園附近走動。"
+   "exzh": "巡邏警察在公園附近走動。",
+   "photo": "img/words/town-3/patrol-officer.jpg"
   },
   {
    "w": "police dog",
@@ -129,7 +138,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐕‍🦺",
    "ex": "The police dog finds the thief.",
-   "exzh": "警犬找到了小偷。"
+   "exzh": "警犬找到了小偷。",
+   "photo": "img/words/town-3/police-dog.jpg"
   },
   {
    "w": "police motorcycle",
@@ -138,7 +148,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏍️",
    "ex": "A police motorcycle goes fast.",
-   "exzh": "警用機車速度很快。"
+   "exzh": "警用機車速度很快。",
+   "photo": "img/words/town-3/police-motorcycle.jpg"
   },
   {
    "w": "police car",
@@ -147,7 +158,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚓",
    "ex": "The police car has red and blue lights.",
-   "exzh": "警車有紅藍燈。"
+   "exzh": "警車有紅藍燈。",
+   "photo": "img/words/town-3/police-car.jpg"
   },
   {
    "w": "patrol car",
@@ -156,7 +168,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚔",
    "ex": "A patrol car drives around the town.",
-   "exzh": "巡邏車在鎮上巡邏。"
+   "exzh": "巡邏車在鎮上巡邏。",
+   "photo": "img/words/town-3/patrol-car.jpg"
   },
   {
    "w": "call the police",

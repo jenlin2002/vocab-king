@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👩‍✈️",
    "ex": "The flight attendant serves us drinks.",
-   "exzh": "空服員為我們送飲料。"
+   "exzh": "空服員為我們送飲料。",
+   "photo": "img/words/air-1/flight-attendant.jpg"
   },
   {
    "w": "emergency exit",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚪",
    "ex": "Find the emergency exit on the plane.",
-   "exzh": "在飛機上要找出緊急出口。"
+   "exzh": "在飛機上要找出緊急出口。",
+   "photo": "img/words/air-1/emergency-exit.jpg"
   },
   {
    "w": "window blind",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪟",
    "ex": "Please close the window blind.",
-   "exzh": "請把遮陽窗板拉下來。"
+   "exzh": "請把遮陽窗板拉下來。",
+   "photo": "img/words/air-1/window-blind.jpg"
   },
   {
    "w": "tray",
@@ -57,7 +60,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛟",
    "ex": "The life preserver is under your seat.",
-   "exzh": "救生衣在你的座位下面。"
+   "exzh": "救生衣在你的座位下面。",
+   "photo": "img/words/air-1/life-preserver.jpg"
   },
   {
    "w": "overhead compartment",
@@ -66,7 +70,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧳",
    "ex": "Put your bag in the overhead compartment.",
-   "exzh": "把你的包包放進頭頂行李櫃。"
+   "exzh": "把你的包包放進頭頂行李櫃。",
+   "photo": "img/words/air-1/overhead-compartment.jpg"
   },
   {
    "w": "window seat",
@@ -75,7 +80,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💺",
    "ex": "I want a window seat.",
-   "exzh": "我想要靠窗的座位。"
+   "exzh": "我想要靠窗的座位。",
+   "photo": "img/words/air-1/window-seat.jpg"
   },
   {
    "w": "aisle seat",
@@ -84,7 +90,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💺",
    "ex": "He prefers an aisle seat.",
-   "exzh": "他比較喜歡靠走道的座位。"
+   "exzh": "他比較喜歡靠走道的座位。",
+   "photo": "img/words/air-1/aisle-seat.jpg"
   },
   {
    "w": "seat belt",
@@ -102,7 +109,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👨‍✈️",
    "ex": "The co-pilot helps the captain.",
-   "exzh": "副機長協助機長。"
+   "exzh": "副機長協助機長。",
+   "photo": "img/words/air-1/co-pilot.jpg"
   },
   {
    "w": "captain",
@@ -111,7 +119,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧑‍✈️",
    "ex": "The captain says hello to the passengers.",
-   "exzh": "機長向乘客問好。"
+   "exzh": "機長向乘客問好。",
+   "photo": "img/words/air-1/captain.jpg"
   },
   {
    "w": "jet engine",
@@ -120,7 +129,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛫",
    "ex": "The jet engine is very loud.",
-   "exzh": "噴射引擎非常吵。"
+   "exzh": "噴射引擎非常吵。",
+   "photo": "img/words/air-1/jet-engine.jpg"
   },
   {
    "w": "fuselage",
@@ -129,7 +139,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "✈️",
    "ex": "The fuselage is the body of the plane.",
-   "exzh": "fuselage 就是飛機的機身。"
+   "exzh": "fuselage 就是飛機的機身。",
+   "photo": "img/words/air-1/fuselage.jpg"
   },
   {
    "w": "first class section",
@@ -138,7 +149,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥂",
    "ex": "First class has big seats.",
-   "exzh": "頭等艙的座位很大。"
+   "exzh": "頭等艙的座位很大。",
+   "photo": "img/words/air-1/first-class-section.jpg"
   },
   {
    "w": "business class section",
@@ -147,7 +159,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💼",
    "ex": "He flies in business class.",
-   "exzh": "他搭商務艙。"
+   "exzh": "他搭商務艙。",
+   "photo": "img/words/air-1/business-class-section.jpg"
   },
   {
    "w": "economy class section",
@@ -156,7 +169,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪑",
    "ex": "We sit in economy class.",
-   "exzh": "我們坐經濟艙。"
+   "exzh": "我們坐經濟艙。",
+   "photo": "img/words/air-1/economy-class-section.jpg"
   }
  ],
  "speakers": {

@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍸",
    "ex": "Drinks are served at the bar.",
-   "exzh": "飲料在吧檯供應。"
+   "exzh": "飲料在吧檯供應。",
+   "photo": "img/words/restaurant-2/bar.jpg"
   },
   {
    "w": "cocktail",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍹",
    "ex": "He ordered a cocktail.",
-   "exzh": "他點了一杯雞尾酒。"
+   "exzh": "他點了一杯雞尾酒。",
+   "photo": "img/words/restaurant-2/cocktail.jpg"
   },
   {
    "w": "waiter",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧑‍🍳",
    "ex": "The waiter brings the menu.",
-   "exzh": "服務生拿來菜單。"
+   "exzh": "服務生拿來菜單。",
+   "photo": "img/words/restaurant-2/waiter.jpg"
   },
   {
    "w": "ice bucket",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪣",
    "ex": "The champagne is in an ice bucket.",
-   "exzh": "香檳放在冰桶裡。"
+   "exzh": "香檳放在冰桶裡。",
+   "photo": "img/words/restaurant-2/ice-bucket.jpg"
   },
   {
    "w": "champagne",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥂",
    "ex": "They drink champagne at weddings.",
-   "exzh": "他們在婚禮上喝香檳。"
+   "exzh": "他們在婚禮上喝香檳。",
+   "photo": "img/words/restaurant-2/champagne.jpg"
   },
   {
    "w": "teapot",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🫖",
    "ex": "The teapot is full of hot tea.",
-   "exzh": "茶壺裡裝滿熱茶。"
+   "exzh": "茶壺裡裝滿熱茶。",
+   "photo": "img/words/restaurant-2/teapot.jpg"
   },
   {
    "w": "coffee pot",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "☕",
    "ex": "The waitress holds the coffee pot.",
-   "exzh": "女服務生拿著咖啡壺。"
+   "exzh": "女服務生拿著咖啡壺。",
+   "photo": "img/words/restaurant-2/coffee-pot.jpg"
   },
   {
    "w": "waitress",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👩‍🍳",
    "ex": "The waitress is very friendly.",
-   "exzh": "女服務生很友善。"
+   "exzh": "女服務生很友善。",
+   "photo": "img/words/restaurant-2/waitress.jpg"
   },
   {
    "w": "menu",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📋",
    "ex": "May I see the menu?",
-   "exzh": "我可以看看菜單嗎？"
+   "exzh": "我可以看看菜單嗎？",
+   "photo": "img/words/restaurant-2/menu.jpg"
   },
   {
    "w": "pepper mill",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧂",
    "ex": "Use the pepper mill on the steak.",
-   "exzh": "用研磨罐在牛排上撒胡椒。"
+   "exzh": "用研磨罐在牛排上撒胡椒。",
+   "photo": "img/words/restaurant-2/pepper-mill.jpg"
   },
   {
    "w": "salt shaker",
@@ -102,7 +112,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧂",
    "ex": "Pass me the salt shaker, please.",
-   "exzh": "請把鹽罐遞給我。"
+   "exzh": "請把鹽罐遞給我。",
+   "photo": "img/words/restaurant-2/salt-shaker.jpg"
   },
   {
    "w": "bill",
@@ -111,7 +122,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧾",
    "ex": "Could we have the bill, please?",
-   "exzh": "可以給我們帳單嗎？"
+   "exzh": "可以給我們帳單嗎？",
+   "photo": "img/words/restaurant-2/bill.jpg"
   },
   {
    "w": "toothpick",
@@ -120,7 +132,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪥",
    "ex": "Toothpicks are next to the napkins.",
-   "exzh": "牙籤在餐巾旁邊。"
+   "exzh": "牙籤在餐巾旁邊。",
+   "photo": "img/words/restaurant-2/toothpick.jpg"
   },
   {
    "w": "tablecloth",
@@ -129,7 +142,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🟦",
    "ex": "The tablecloth is white.",
-   "exzh": "桌巾是白色的。"
+   "exzh": "桌巾是白色的。",
+   "photo": "img/words/restaurant-2/tablecloth.jpg"
   },
   {
    "w": "placemat",
@@ -147,7 +161,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧻",
    "ex": "Put the napkin on your lap.",
-   "exzh": "把餐巾放在腿上。"
+   "exzh": "把餐巾放在腿上。",
+   "photo": "img/words/restaurant-2/napkin.jpg"
   },
   {
    "w": "host",
@@ -165,7 +180,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏪",
    "ex": "The counter is near the door.",
-   "exzh": "櫃檯在門邊。"
+   "exzh": "櫃檯在門邊。",
+   "photo": "img/words/restaurant-2/counter.jpg"
   }
  ],
  "speakers": {

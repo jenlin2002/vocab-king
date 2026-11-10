@@ -21,7 +21,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐟",
    "ex": "Fried pomfret is delicious.",
-   "exzh": "煎鯧魚很美味。"
+   "exzh": "煎鯧魚很美味。",
+   "photo": "img/words/food-5/pomfret.jpg"
   },
   {
    "w": "cuttlefish",
@@ -30,7 +31,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦑",
    "ex": "The cuttlefish is fresh.",
-   "exzh": "這隻花枝很新鮮。"
+   "exzh": "這隻花枝很新鮮。",
+   "photo": "img/words/food-5/cuttlefish.jpg"
   },
   {
    "w": "canned tuna",
@@ -39,7 +41,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥫",
    "ex": "I make a sandwich with canned tuna.",
-   "exzh": "我用鮪魚罐頭做三明治。"
+   "exzh": "我用鮪魚罐頭做三明治。",
+   "photo": "img/words/food-5/canned-tuna.jpg"
   },
   {
    "w": "salmon fillet",
@@ -48,7 +51,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍣",
    "ex": "A salmon fillet is on my plate.",
-   "exzh": "我的盤子上有一片鮭魚。"
+   "exzh": "我的盤子上有一片鮭魚。",
+   "photo": "img/words/food-5/salmon-fillet.jpg"
   },
   {
    "w": "scallop",
@@ -57,7 +61,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐚",
    "ex": "Grilled scallops taste great.",
-   "exzh": "烤干貝很好吃。"
+   "exzh": "烤干貝很好吃。",
+   "photo": "img/words/food-5/scallop.jpg"
   },
   {
    "w": "fish ball",
@@ -66,7 +71,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍥",
    "ex": "Fish balls are in the soup.",
-   "exzh": "魚丸在湯裡。"
+   "exzh": "魚丸在湯裡。",
+   "photo": "img/words/food-5/fish-ball.jpg"
   },
   {
    "w": "prawn",
@@ -75,7 +81,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦐",
    "ex": "A big prawn costs a lot.",
-   "exzh": "一隻大明蝦很貴。"
+   "exzh": "一隻大明蝦很貴。",
+   "photo": "img/words/food-5/prawn.jpg"
   },
   {
    "w": "yellow croaker",
@@ -84,7 +91,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐟",
    "ex": "Yellow croaker is a famous fish.",
-   "exzh": "黃魚是有名的魚。"
+   "exzh": "黃魚是有名的魚。",
+   "photo": "img/words/food-5/yellow-croaker.jpg"
   },
   {
    "w": "cod fillet",
@@ -93,7 +101,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐟",
    "ex": "Bake the cod fillet for ten minutes.",
-   "exzh": "把鱈魚片烤十分鐘。"
+   "exzh": "把鱈魚片烤十分鐘。",
+   "photo": "img/words/food-5/cod-fillet.jpg"
   },
   {
    "w": "trout",
@@ -102,7 +111,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐟",
    "ex": "Trout live in cold streams.",
-   "exzh": "鱒魚住在冷水溪流。"
+   "exzh": "鱒魚住在冷水溪流。",
+   "photo": "img/words/food-5/trout.jpg"
   },
   {
    "w": "catfish",
@@ -111,7 +121,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐟",
    "ex": "A catfish has whiskers.",
-   "exzh": "鯰魚有鬍鬚。"
+   "exzh": "鯰魚有鬍鬚。",
+   "photo": "img/words/food-5/catfish.jpg"
   },
   {
    "w": "grouper",
@@ -120,7 +131,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐟",
    "ex": "Steamed grouper is a banquet dish.",
-   "exzh": "清蒸石斑是宴客菜。"
+   "exzh": "清蒸石斑是宴客菜。",
+   "photo": "img/words/food-5/grouper.jpg"
   },
   {
    "w": "carp",
@@ -129,7 +141,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐟",
    "ex": "Carp swim in the pond.",
-   "exzh": "鯉魚在池塘裡游。"
+   "exzh": "鯉魚在池塘裡游。",
+   "photo": "img/words/food-5/carp.jpg"
   },
   {
    "w": "gray mullet",
@@ -138,7 +151,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐟",
    "ex": "Gray mullet eggs are expensive.",
-   "exzh": "烏魚子很貴。"
+   "exzh": "烏魚子很貴。",
+   "photo": "img/words/food-5/gray-mullet.jpg"
   },
   {
    "w": "abalone",
@@ -147,7 +161,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐚",
    "ex": "Abalone is a luxury food.",
-   "exzh": "鮑魚是高級食材。"
+   "exzh": "鮑魚是高級食材。",
+   "photo": "img/words/food-5/abalone.jpg"
   }
  ],
  "speakers": {

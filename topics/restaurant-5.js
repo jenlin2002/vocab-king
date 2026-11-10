@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🍞",
    "ex": "Mom bakes bread on Sunday.",
-   "exzh": "媽媽星期天烤麵包。"
+   "exzh": "媽媽星期天烤麵包。",
+   "photo": "img/words/restaurant-5/bake.jpg"
   },
   {
    "w": "boil",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "♨️",
    "ex": "Boil the water first.",
-   "exzh": "先把水煮開。"
+   "exzh": "先把水煮開。",
+   "photo": "img/words/restaurant-5/boil.jpg"
   },
   {
    "w": "blanch",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🥦",
    "ex": "Blanch the vegetables for a minute.",
-   "exzh": "把蔬菜汆燙一分鐘。"
+   "exzh": "把蔬菜汆燙一分鐘。",
+   "photo": "img/words/restaurant-5/blanch.jpg"
   },
   {
    "w": "stew",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🍲",
    "ex": "Stew the beef for two hours.",
-   "exzh": "把牛肉燉兩小時。"
+   "exzh": "把牛肉燉兩小時。",
+   "photo": "img/words/restaurant-5/stew.jpg"
   },
   {
    "w": "sprinkle",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🧂",
    "ex": "Sprinkle some cheese on top.",
-   "exzh": "在上面撒一些起司。"
+   "exzh": "在上面撒一些起司。",
+   "photo": "img/words/restaurant-5/sprinkle.jpg"
   },
   {
    "w": "chop",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🔪",
    "ex": "Chop the onion finely.",
-   "exzh": "把洋蔥切碎。"
+   "exzh": "把洋蔥切碎。",
+   "photo": "img/words/restaurant-5/chop.jpg"
   },
   {
    "w": "stir-fry",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🥘",
    "ex": "Stir-fry the vegetables quickly.",
-   "exzh": "快速炒蔬菜。"
+   "exzh": "快速炒蔬菜。",
+   "photo": "img/words/restaurant-5/stir-fry.jpg"
   },
   {
    "w": "wrap",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🥟",
    "ex": "Wrap the dumplings.",
-   "exzh": "包水餃。"
+   "exzh": "包水餃。",
+   "photo": "img/words/restaurant-5/wrap.jpg"
   },
   {
    "w": "cut",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "✂️",
    "ex": "Cut the cake into pieces.",
-   "exzh": "把蛋糕切塊。"
+   "exzh": "把蛋糕切塊。",
+   "photo": "img/words/restaurant-5/cut.jpg"
   },
   {
    "w": "toss",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🥗",
    "ex": "Toss the salad with dressing.",
-   "exzh": "把沙拉拌上醬汁。"
+   "exzh": "把沙拉拌上醬汁。",
+   "photo": "img/words/restaurant-5/toss.jpg"
   },
   {
    "w": "grind",
@@ -102,7 +112,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "☕",
    "ex": "Grind the coffee beans.",
-   "exzh": "磨咖啡豆。"
+   "exzh": "磨咖啡豆。",
+   "photo": "img/words/restaurant-5/grind.jpg"
   },
   {
    "w": "marinate",
@@ -111,7 +122,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🧄",
    "ex": "Marinate the chicken overnight.",
-   "exzh": "把雞肉醃一個晚上。"
+   "exzh": "把雞肉醃一個晚上。",
+   "photo": "img/words/restaurant-5/marinate.jpg"
   },
   {
    "w": "deep fry",
@@ -120,7 +132,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🍤",
    "ex": "Deep fry the shrimp.",
-   "exzh": "油炸蝦子。"
+   "exzh": "油炸蝦子。",
+   "photo": "img/words/restaurant-5/deep-fry.jpg"
   },
   {
    "w": "steam",
@@ -129,7 +142,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "♨️",
    "ex": "Steam the fish for ten minutes.",
-   "exzh": "把魚蒸十分鐘。"
+   "exzh": "把魚蒸十分鐘。",
+   "photo": "img/words/restaurant-5/steam.jpg"
   },
   {
    "w": "crack",
@@ -138,7 +152,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🥚",
    "ex": "Crack two eggs into the bowl.",
-   "exzh": "打兩顆蛋到碗裡。"
+   "exzh": "打兩顆蛋到碗裡。",
+   "photo": "img/words/restaurant-5/crack.jpg"
   },
   {
    "w": "peel",
@@ -156,7 +171,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🧀",
    "ex": "Grate the cheese.",
-   "exzh": "把起司磨碎。"
+   "exzh": "把起司磨碎。",
+   "photo": "img/words/restaurant-5/grate.jpg"
   },
   {
    "w": "slice",
@@ -165,7 +181,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🥒",
    "ex": "Slice the tomatoes.",
-   "exzh": "把番茄切片。"
+   "exzh": "把番茄切片。",
+   "photo": "img/words/restaurant-5/slice.jpg"
   },
   {
    "w": "fry",
@@ -174,7 +191,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🍳",
    "ex": "Fry the egg in a pan.",
-   "exzh": "在平底鍋煎蛋。"
+   "exzh": "在平底鍋煎蛋。",
+   "photo": "img/words/restaurant-5/fry.jpg"
   },
   {
    "w": "simmer",
@@ -183,7 +201,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🍲",
    "ex": "Simmer the soup for an hour.",
-   "exzh": "用小火煮湯一小時。"
+   "exzh": "用小火煮湯一小時。",
+   "photo": "img/words/restaurant-5/simmer.jpg"
   },
   {
    "w": "grill",
@@ -192,7 +211,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🔥",
    "ex": "Grill the steak outside.",
-   "exzh": "在外面烤牛排。"
+   "exzh": "在外面烤牛排。",
+   "photo": "img/words/restaurant-5/grill.jpg"
   },
   {
    "w": "barbecue",
@@ -201,7 +221,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🍖",
    "ex": "We barbecue in the backyard.",
-   "exzh": "我們在後院烤肉。"
+   "exzh": "我們在後院烤肉。",
+   "photo": "img/words/restaurant-5/barbecue.jpg"
   },
   {
    "w": "sizzling",

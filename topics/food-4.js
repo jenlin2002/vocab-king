@@ -21,7 +21,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌭",
    "ex": "I eat a hot dog at the game.",
-   "exzh": "我在球賽時吃熱狗。"
+   "exzh": "我在球賽時吃熱狗。",
+   "photo": "img/words/food-4/hot-dog.jpg"
   },
   {
    "w": "beef",
@@ -30,7 +31,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥩",
    "ex": "Beef noodles are my favorite.",
-   "exzh": "牛肉麵是我最愛的。"
+   "exzh": "牛肉麵是我最愛的。",
+   "photo": "img/words/food-4/beef.jpg"
   },
   {
    "w": "pork ball",
@@ -39,7 +41,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍡",
    "ex": "Pork balls are good in soup.",
-   "exzh": "貢丸放在湯裡很好吃。"
+   "exzh": "貢丸放在湯裡很好吃。",
+   "photo": "img/words/food-4/pork-ball.jpg"
   },
   {
    "w": "chicken",
@@ -48,7 +51,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍗",
    "ex": "I like fried chicken.",
-   "exzh": "我喜歡炸雞。"
+   "exzh": "我喜歡炸雞。",
+   "photo": "img/words/food-4/chicken.jpg"
   },
   {
    "w": "drumstick",
@@ -57,7 +61,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍗",
    "ex": "Grandma cooks a chicken drumstick.",
-   "exzh": "奶奶煮了一隻雞腿。"
+   "exzh": "奶奶煮了一隻雞腿。",
+   "photo": "img/words/food-4/drumstick.jpg"
   },
   {
    "w": "bacon",
@@ -66,7 +71,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥓",
    "ex": "I have bacon and eggs for breakfast.",
-   "exzh": "我早餐吃培根和蛋。"
+   "exzh": "我早餐吃培根和蛋。",
+   "photo": "img/words/food-4/bacon.jpg"
   },
   {
    "w": "sausage",
@@ -75,7 +81,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌭",
    "ex": "Grill some sausages.",
-   "exzh": "烤一些香腸。"
+   "exzh": "烤一些香腸。",
+   "photo": "img/words/food-4/sausage.jpg"
   },
   {
    "w": "pork",
@@ -84,7 +91,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🐖",
    "ex": "Pork is cheap in Taiwan.",
-   "exzh": "豬肉在台灣很便宜。"
+   "exzh": "豬肉在台灣很便宜。",
+   "photo": "img/words/food-4/pork.jpg"
   },
   {
    "w": "turkey",
@@ -93,7 +101,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦃",
    "ex": "We eat turkey at Thanksgiving.",
-   "exzh": "感恩節我們吃火雞肉。"
+   "exzh": "感恩節我們吃火雞肉。",
+   "photo": "img/words/food-4/turkey.jpg"
   },
   {
    "w": "salami",
@@ -102,7 +111,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥓",
    "ex": "Put salami on the pizza.",
-   "exzh": "在披薩上放薩拉米。"
+   "exzh": "在披薩上放薩拉米。",
+   "photo": "img/words/food-4/salami.jpg"
   },
   {
    "w": "chop",
@@ -111,7 +121,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥩",
    "ex": "A pork chop is on my plate.",
-   "exzh": "我的盤子上有一塊豬排。"
+   "exzh": "我的盤子上有一塊豬排。",
+   "photo": "img/words/food-4/chop.jpg"
   },
   {
    "w": "ham",
@@ -120,7 +131,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍖",
    "ex": "I make a ham sandwich.",
-   "exzh": "我做火腿三明治。"
+   "exzh": "我做火腿三明治。",
+   "photo": "img/words/food-4/ham.jpg"
   },
   {
    "w": "ground meat",
@@ -129,7 +141,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥩",
    "ex": "Use ground meat for hamburgers.",
-   "exzh": "用絞肉做漢堡。"
+   "exzh": "用絞肉做漢堡。",
+   "photo": "img/words/food-4/ground-meat.jpg"
   },
   {
    "w": "ribs",
@@ -138,7 +151,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍖",
    "ex": "Barbecue ribs are delicious.",
-   "exzh": "烤肋排很好吃。"
+   "exzh": "烤肋排很好吃。",
+   "photo": "img/words/food-4/ribs.jpg"
   }
  ],
  "speakers": {

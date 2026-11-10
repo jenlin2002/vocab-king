@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛗",
    "ex": "Take the elevator to the fifth floor.",
-   "exzh": "搭電梯到五樓。"
+   "exzh": "搭電梯到五樓。",
+   "photo": "img/words/town-5/elevator.jpg"
   },
   {
    "w": "display counter",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🗄️",
    "ex": "The watch is in the display counter.",
-   "exzh": "手錶放在展示櫃檯裡。"
+   "exzh": "手錶放在展示櫃檯裡。",
+   "photo": "img/words/town-5/display-counter.jpg"
   },
   {
    "w": "sales clerk",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧑‍💼",
    "ex": "The sales clerk is very helpful.",
-   "exzh": "店員非常親切。"
+   "exzh": "店員非常親切。",
+   "photo": "img/words/town-5/sales-clerk.jpg"
   },
   {
    "w": "women's department",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👗",
    "ex": "The women's department is on the second floor.",
-   "exzh": "女裝部在二樓。"
+   "exzh": "女裝部在二樓。",
+   "photo": "img/words/town-5/women-s-department.jpg"
   },
   {
    "w": "household appliances department",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧺",
    "ex": "The household appliances department sells fans.",
-   "exzh": "家電部賣電風扇。"
+   "exzh": "家電部賣電風扇。",
+   "photo": "img/words/town-5/household-appliances-department.jpg"
   },
   {
    "w": "home electronics department",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎮",
    "ex": "Look at the TVs in the home electronics department.",
-   "exzh": "到電子產品部看電視機。"
+   "exzh": "到電子產品部看電視機。",
+   "photo": "img/words/town-5/home-electronics-department.jpg"
   },
   {
    "w": "home furnishing department",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛋️",
    "ex": "The home furnishing department has pillows.",
-   "exzh": "家飾部有抱枕。"
+   "exzh": "家飾部有抱枕。",
+   "photo": "img/words/town-5/home-furnishing-department.jpg"
   },
   {
    "w": "teenagers department",
@@ -84,7 +91,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👔",
    "ex": "Dad shops in the men's department.",
-   "exzh": "爸爸在男裝部買東西。"
+   "exzh": "爸爸在男裝部買東西。",
+   "photo": "img/words/town-5/men-s-department.jpg"
   },
   {
    "w": "information desk",
@@ -93,7 +101,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "ℹ️",
    "ex": "Ask at the information desk.",
-   "exzh": "到服務台詢問。"
+   "exzh": "到服務台詢問。",
+   "photo": "img/words/town-5/information-desk.jpg"
   },
   {
    "w": "shoe department",
@@ -102,7 +111,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👟",
    "ex": "The shoe department is on the third floor.",
-   "exzh": "鞋類部在三樓。"
+   "exzh": "鞋類部在三樓。",
+   "photo": "img/words/town-5/shoe-department.jpg"
   },
   {
    "w": "food court",
@@ -111,7 +121,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍜",
    "ex": "We eat noodles in the food court.",
-   "exzh": "我們在美食街吃麵。"
+   "exzh": "我們在美食街吃麵。",
+   "photo": "img/words/town-5/food-court.jpg"
   },
   {
    "w": "lost and found center",
@@ -129,7 +140,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪜",
    "ex": "Hold the handrail on the escalator.",
-   "exzh": "搭電扶梯要扶好扶手。"
+   "exzh": "搭電扶梯要扶好扶手。",
+   "photo": "img/words/town-5/escalator.jpg"
   },
   {
    "w": "sporting goods department",
@@ -138,7 +150,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⚽",
    "ex": "Buy a ball in the sporting goods department.",
-   "exzh": "到運動用品部買球。"
+   "exzh": "到運動用品部買球。",
+   "photo": "img/words/town-5/sporting-goods-department.jpg"
   },
   {
    "w": "children's department",
@@ -147,7 +160,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧒",
    "ex": "The children's department has cute clothes.",
-   "exzh": "童裝部有可愛的衣服。"
+   "exzh": "童裝部有可愛的衣服。",
+   "photo": "img/words/town-5/children-s-department.jpg"
   },
   {
    "w": "toy department",
@@ -156,7 +170,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧸",
    "ex": "Kids love the toy department.",
-   "exzh": "小朋友愛玩具部。"
+   "exzh": "小朋友愛玩具部。",
+   "photo": "img/words/town-5/toy-department.jpg"
   },
   {
    "w": "cosmetics department",
@@ -165,7 +180,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💄",
    "ex": "The cosmetics department smells nice.",
-   "exzh": "化妝品部聞起來很香。"
+   "exzh": "化妝品部聞起來很香。",
+   "photo": "img/words/town-5/cosmetics-department.jpg"
   },
   {
    "w": "jewelry department",
@@ -174,7 +190,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💍",
    "ex": "A ring is in the jewelry department.",
-   "exzh": "戒指在珠寶部。"
+   "exzh": "戒指在珠寶部。",
+   "photo": "img/words/town-5/jewelry-department.jpg"
   },
   {
    "w": "customer service center",
@@ -183,7 +200,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛎️",
    "ex": "Return the item at the customer service center.",
-   "exzh": "到客服中心退貨。"
+   "exzh": "到客服中心退貨。",
+   "photo": "img/words/town-5/customer-service-center.jpg"
   },
   {
    "w": "leather goods department",
@@ -192,7 +210,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👜",
    "ex": "Buy a bag in the leather goods department.",
-   "exzh": "在皮件部買包包。"
+   "exzh": "在皮件部買包包。",
+   "photo": "img/words/town-5/leather-goods-department.jpg"
   },
   {
    "w": "lockers",
@@ -201,7 +220,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔐",
    "ex": "Put your bags in the lockers.",
-   "exzh": "把包包放進寄物櫃。"
+   "exzh": "把包包放進寄物櫃。",
+   "photo": "img/words/town-5/lockers.jpg"
   },
   {
    "w": "underground parking garage",
@@ -210,7 +230,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🅿️",
    "ex": "Our car is in the underground parking garage.",
-   "exzh": "我們的車停在地下停車場。"
+   "exzh": "我們的車停在地下停車場。",
+   "photo": "img/words/town-5/underground-parking-garage.jpg"
   }
  ],
  "speakers": {

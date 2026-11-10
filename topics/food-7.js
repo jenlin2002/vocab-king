@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧈",
    "ex": "Spread butter on the bread.",
-   "exzh": "在麵包上塗奶油。"
+   "exzh": "在麵包上塗奶油。",
+   "photo": "img/words/food-7/butter.jpg"
   },
   {
    "w": "ice cream",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍨",
    "ex": "I want chocolate ice cream.",
-   "exzh": "我想要巧克力冰淇淋。"
+   "exzh": "我想要巧克力冰淇淋。",
+   "photo": "img/words/food-7/ice-cream.jpg"
   },
   {
    "w": "popsicle",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍭",
    "ex": "A popsicle cools you down.",
-   "exzh": "冰棒讓你涼快下來。"
+   "exzh": "冰棒讓你涼快下來。",
+   "photo": "img/words/food-7/popsicle.jpg"
   },
   {
    "w": "cheese",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧀",
    "ex": "Mice love cheese.",
-   "exzh": "老鼠愛起司。"
+   "exzh": "老鼠愛起司。",
+   "photo": "img/words/food-7/cheese.jpg"
   },
   {
    "w": "yogurt",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥣",
    "ex": "I eat yogurt with fruit.",
-   "exzh": "我吃優格加水果。"
+   "exzh": "我吃優格加水果。",
+   "photo": "img/words/food-7/yogurt.jpg"
   },
   {
    "w": "drinking yogurt",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥛",
    "ex": "Drinking yogurt is good for digestion.",
-   "exzh": "優酪乳有助消化。"
+   "exzh": "優酪乳有助消化。",
+   "photo": "img/words/food-7/drinking-yogurt.jpg"
   },
   {
    "w": "cream",
@@ -75,7 +81,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍧",
    "ex": "Orange sherbet is refreshing.",
-   "exzh": "柳橙雪酪很清爽。"
+   "exzh": "柳橙雪酪很清爽。",
+   "photo": "img/words/food-7/sherbet.jpg"
   },
   {
    "w": "whole milk",
@@ -84,7 +91,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥛",
    "ex": "Babies drink whole milk.",
-   "exzh": "寶寶喝全脂牛奶。"
+   "exzh": "寶寶喝全脂牛奶。",
+   "photo": "img/words/food-7/whole-milk.jpg"
   },
   {
    "w": "low-fat milk",
@@ -102,7 +110,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥛",
    "ex": "Skim milk has almost no fat.",
-   "exzh": "脫脂牛奶幾乎沒有脂肪。"
+   "exzh": "脫脂牛奶幾乎沒有脂肪。",
+   "photo": "img/words/food-7/skim-milk.jpg"
   },
   {
    "w": "frozen yogurt",
@@ -111,7 +120,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍦",
    "ex": "Frozen yogurt is lighter than ice cream.",
-   "exzh": "冷凍優格比冰淇淋清爽。"
+   "exzh": "冷凍優格比冰淇淋清爽。",
+   "photo": "img/words/food-7/frozen-yogurt.jpg"
   },
   {
    "w": "whipped cream",
@@ -120,7 +130,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍰",
    "ex": "Put whipped cream on the cake.",
-   "exzh": "在蛋糕上擠上鮮奶油。"
+   "exzh": "在蛋糕上擠上鮮奶油。",
+   "photo": "img/words/food-7/whipped-cream.jpg"
   },
   {
    "w": "evaporated milk",
@@ -138,7 +149,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍨",
    "ex": "Gelato comes from Italy.",
-   "exzh": "義式冰淇淋來自義大利。"
+   "exzh": "義式冰淇淋來自義大利。",
+   "photo": "img/words/food-7/gelato.jpg"
   },
   {
    "w": "condensed milk",
@@ -156,7 +168,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍦",
    "ex": "I love soft-serve ice cream in a cone.",
-   "exzh": "我愛甜筒的霜淇淋。"
+   "exzh": "我愛甜筒的霜淇淋。",
+   "photo": "img/words/food-7/soft-serve-ice-cream.jpg"
   },
   {
    "w": "milkshake",
@@ -165,7 +178,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥤",
    "ex": "A milkshake is thick and sweet.",
-   "exzh": "奶昔又濃又甜。"
+   "exzh": "奶昔又濃又甜。",
+   "photo": "img/words/food-7/milkshake.jpg"
   }
  ],
  "speakers": {

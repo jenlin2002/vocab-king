@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📬",
    "ex": "The mailman brings letters every day.",
-   "exzh": "郵差每天都送信來。"
+   "exzh": "郵差每天都送信來。",
+   "photo": "img/words/town-2/mailman.jpg"
   },
   {
    "w": "mail drop",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📮",
    "ex": "Put the letter in the mail drop.",
-   "exzh": "把信投進郵筒。"
+   "exzh": "把信投進郵筒。",
+   "photo": "img/words/town-2/mail-drop.jpg"
   },
   {
    "w": "package",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📦",
    "ex": "I send a package to my grandma.",
-   "exzh": "我寄了一個包裹給奶奶。"
+   "exzh": "我寄了一個包裹給奶奶。",
+   "photo": "img/words/town-2/package.jpg"
   },
   {
    "w": "express mail",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⚡",
    "ex": "Express mail arrives in two days.",
-   "exzh": "快捷郵件兩天就會到。"
+   "exzh": "快捷郵件兩天就會到。",
+   "photo": "img/words/town-2/express-mail.jpg"
   },
   {
    "w": "letter",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "✉️",
    "ex": "I write a letter to my friend.",
-   "exzh": "我寫了一封信給朋友。"
+   "exzh": "我寫了一封信給朋友。",
+   "photo": "img/words/town-2/letter.jpg"
   },
   {
    "w": "registered mail",
@@ -102,7 +107,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "✉️",
    "ex": "Put the card in an envelope.",
-   "exzh": "把卡片放進信封裡。"
+   "exzh": "把卡片放進信封裡。",
+   "photo": "img/words/town-2/envelope.jpg"
   },
   {
    "w": "stamp",
@@ -111,7 +117,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏷️",
    "ex": "I need a stamp for this letter.",
-   "exzh": "這封信我需要一張郵票。"
+   "exzh": "這封信我需要一張郵票。",
+   "photo": "img/words/town-2/stamp.jpg"
   },
   {
    "w": "air mail",
@@ -120,7 +127,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "✈️",
    "ex": "Air mail is fast.",
-   "exzh": "空運郵件很快。"
+   "exzh": "空運郵件很快。",
+   "photo": "img/words/town-2/air-mail.jpg"
   },
   {
    "w": "sea mail",
@@ -129,7 +137,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚢",
    "ex": "Sea mail is cheaper but slow.",
-   "exzh": "海運郵件比較便宜但很慢。"
+   "exzh": "海運郵件比較便宜但很慢。",
+   "photo": "img/words/town-2/sea-mail.jpg"
   },
   {
    "w": "postcard",
@@ -138,7 +147,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🖼️",
    "ex": "I send a postcard from Japan.",
-   "exzh": "我從日本寄明信片。"
+   "exzh": "我從日本寄明信片。",
+   "photo": "img/words/town-2/postcard.jpg"
   }
  ],
  "speakers": {

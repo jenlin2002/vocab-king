@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔥",
    "ex": "The cook uses a grill for the burgers.",
-   "exzh": "廚師用烤架烤漢堡。"
+   "exzh": "廚師用烤架烤漢堡。",
+   "photo": "img/words/restaurant-1/grill.jpg"
   },
   {
    "w": "doggy bag",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛍️",
    "ex": "Ask for a doggy bag for the leftovers.",
-   "exzh": "剩菜可以要一個打包袋。"
+   "exzh": "剩菜可以要一個打包袋。",
+   "photo": "img/words/restaurant-1/doggy-bag.jpg"
   },
   {
    "w": "straw",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥤",
    "ex": "Put a straw in the cup.",
-   "exzh": "把吸管插進杯子。"
+   "exzh": "把吸管插進杯子。",
+   "photo": "img/words/restaurant-1/straw.jpg"
   },
   {
    "w": "chicken nuggets",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍗",
    "ex": "Chicken nuggets are crispy.",
-   "exzh": "雞塊很酥脆。"
+   "exzh": "雞塊很酥脆。",
+   "photo": "img/words/restaurant-1/chicken-nuggets.jpg"
   },
   {
    "w": "pancake",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥞",
    "ex": "I eat pancakes for breakfast.",
-   "exzh": "我早餐吃鬆餅。"
+   "exzh": "我早餐吃鬆餅。",
+   "photo": "img/words/restaurant-1/pancake.jpg"
   },
   {
    "w": "donuts",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍩",
    "ex": "Donuts are sweet.",
-   "exzh": "甜甜圈很甜。"
+   "exzh": "甜甜圈很甜。",
+   "photo": "img/words/restaurant-1/donuts.jpg"
   },
   {
    "w": "soda fountain",
@@ -75,7 +81,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧅",
    "ex": "Onion rings are fried.",
-   "exzh": "洋蔥圈是油炸的。"
+   "exzh": "洋蔥圈是油炸的。",
+   "photo": "img/words/restaurant-1/onion-rings.jpg"
   },
   {
    "w": "croissant",
@@ -84,7 +91,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥐",
    "ex": "A croissant is soft and buttery.",
-   "exzh": "可頌鬆軟又有奶油味。"
+   "exzh": "可頌鬆軟又有奶油味。",
+   "photo": "img/words/restaurant-1/croissant.jpg"
   },
   {
    "w": "stool",
@@ -93,7 +101,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪑",
    "ex": "Sit on the stool at the counter.",
-   "exzh": "坐在櫃檯的高腳凳上。"
+   "exzh": "坐在櫃檯的高腳凳上。",
+   "photo": "img/words/restaurant-1/stool.jpg"
   },
   {
    "w": "hamburger",
@@ -102,7 +111,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍔",
    "ex": "I'd like a hamburger.",
-   "exzh": "我想要一個漢堡。"
+   "exzh": "我想要一個漢堡。",
+   "photo": "img/words/restaurant-1/hamburger.jpg"
   },
   {
    "w": "booth",
@@ -111,7 +121,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛋️",
    "ex": "Let's sit in the booth.",
-   "exzh": "我們坐卡座吧。"
+   "exzh": "我們坐卡座吧。",
+   "photo": "img/words/restaurant-1/booth.jpg"
   },
   {
    "w": "french fries",
@@ -120,7 +131,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍟",
    "ex": "French fries with ketchup are great.",
-   "exzh": "薯條配番茄醬很棒。"
+   "exzh": "薯條配番茄醬很棒。",
+   "photo": "img/words/restaurant-1/french-fries.jpg"
   },
   {
    "w": "serving tray",
@@ -129,7 +141,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍽️",
    "ex": "Carry the serving tray carefully.",
-   "exzh": "小心端著餐盤。"
+   "exzh": "小心端著餐盤。",
+   "photo": "img/words/restaurant-1/serving-tray.jpg"
   },
   {
    "w": "bagel",
@@ -138,7 +151,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥯",
    "ex": "A bagel with cream cheese is tasty.",
-   "exzh": "貝果配奶油起司很好吃。"
+   "exzh": "貝果配奶油起司很好吃。",
+   "photo": "img/words/restaurant-1/bagel.jpg"
   },
   {
    "w": "fried chicken",
@@ -147,7 +161,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍗",
    "ex": "Fried chicken is crispy outside.",
-   "exzh": "炸雞外皮酥脆。"
+   "exzh": "炸雞外皮酥脆。",
+   "photo": "img/words/restaurant-1/fried-chicken.jpg"
   },
   {
    "w": "muffins",
@@ -156,7 +171,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧁",
    "ex": "These muffins are fresh.",
-   "exzh": "這些瑪芬很新鮮。"
+   "exzh": "這些瑪芬很新鮮。",
+   "photo": "img/words/restaurant-1/muffins.jpg"
   }
  ],
  "speakers": {

@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎢",
    "ex": "The roller coaster is very fast.",
-   "exzh": "雲霄飛車非常快。"
+   "exzh": "雲霄飛車非常快。",
+   "photo": "img/words/town-6/roller-coaster.jpg"
   },
   {
    "w": "free fall ride",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪂",
    "ex": "The free fall ride is scary.",
-   "exzh": "自由落體很可怕。"
+   "exzh": "自由落體很可怕。",
+   "photo": "img/words/town-6/free-fall-ride.jpg"
   },
   {
    "w": "robot",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🤖",
    "ex": "A robot walks around the park.",
-   "exzh": "有一個機器人在園區裡走動。"
+   "exzh": "有一個機器人在園區裡走動。",
+   "photo": "img/words/town-6/robot.jpg"
   },
   {
    "w": "tea cup ride",
@@ -48,7 +51,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎁",
    "ex": "I buy a toy at the gift shop.",
-   "exzh": "我在紀念品店買了玩具。"
+   "exzh": "我在紀念品店買了玩具。",
+   "photo": "img/words/town-6/gift-shop.jpg"
   },
   {
    "w": "3D ride",
@@ -66,7 +70,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎭",
    "ex": "The live entertainment starts at two.",
-   "exzh": "現場表演兩點開始。"
+   "exzh": "現場表演兩點開始。",
+   "photo": "img/words/town-6/live-entertainment.jpg"
   },
   {
    "w": "bumper car",
@@ -84,7 +89,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎺",
    "ex": "The parade has colorful floats.",
-   "exzh": "遊行有彩色花車。"
+   "exzh": "遊行有彩色花車。",
+   "photo": "img/words/town-6/parade.jpg"
   },
   {
    "w": "ring toss",
@@ -93,7 +99,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎯",
    "ex": "He wins a prize at the ring toss.",
-   "exzh": "他玩套圈圈贏了獎品。"
+   "exzh": "他玩套圈圈贏了獎品。",
+   "photo": "img/words/town-6/ring-toss.jpg"
   },
   {
    "w": "vendor stand",
@@ -102,7 +109,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌭",
    "ex": "The vendor stand sells hot dogs.",
-   "exzh": "小販攤位賣熱狗。"
+   "exzh": "小販攤位賣熱狗。",
+   "photo": "img/words/town-6/vendor-stand.jpg"
   },
   {
    "w": "haunted house",
@@ -111,7 +119,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "👻",
    "ex": "I am scared in the haunted house.",
-   "exzh": "我在鬼屋裡很害怕。"
+   "exzh": "我在鬼屋裡很害怕。",
+   "photo": "img/words/town-6/haunted-house.jpg"
   },
   {
    "w": "shooting gallery",
@@ -120,7 +129,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔫",
    "ex": "Win a prize at the shooting gallery.",
-   "exzh": "在射擊遊戲攤贏得獎品。"
+   "exzh": "在射擊遊戲攤贏得獎品。",
+   "photo": "img/words/town-6/shooting-gallery.jpg"
   },
   {
    "w": "swing ship ride",
@@ -129,7 +139,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏴‍☠️",
    "ex": "The swing ship ride goes back and forth.",
-   "exzh": "海盜船來回擺盪。"
+   "exzh": "海盜船來回擺盪。",
+   "photo": "img/words/town-6/swing-ship-ride.jpg"
   },
   {
    "w": "merry-go-round",
@@ -138,7 +149,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎠",
    "ex": "Little kids love the merry-go-round.",
-   "exzh": "小朋友愛旋轉木馬。"
+   "exzh": "小朋友愛旋轉木馬。",
+   "photo": "img/words/town-6/merry-go-round.jpg"
   },
   {
    "w": "Ferris wheel",
@@ -147,7 +159,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎡",
    "ex": "We see the city from the Ferris wheel.",
-   "exzh": "我們從摩天輪看到整個城市。"
+   "exzh": "我們從摩天輪看到整個城市。",
+   "photo": "img/words/town-6/ferris-wheel.jpg"
   },
   {
    "w": "spinning ride",
@@ -165,7 +178,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍿",
    "ex": "Let's buy popcorn at the snack bar.",
-   "exzh": "我們到小吃部買爆米花。"
+   "exzh": "我們到小吃部買爆米花。",
+   "photo": "img/words/town-6/snack-bar.jpg"
   },
   {
    "w": "gazebo",
@@ -174,7 +188,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛖",
    "ex": "We rest in the gazebo.",
-   "exzh": "我們在涼亭休息。"
+   "exzh": "我們在涼亭休息。",
+   "photo": "img/words/town-6/gazebo.jpg"
   },
   {
    "w": "go-cart",
@@ -183,7 +198,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏎️",
    "ex": "He drives a go-cart.",
-   "exzh": "他開卡丁車。"
+   "exzh": "他開卡丁車。",
+   "photo": "img/words/town-6/go-cart.jpg"
   }
  ],
  "speakers": {

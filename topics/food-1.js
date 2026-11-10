@@ -21,7 +21,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧊",
    "ex": "Frozen foods are in the cold section.",
-   "exzh": "冷凍食品在冷藏區。"
+   "exzh": "冷凍食品在冷藏區。",
+   "photo": "img/words/food-1/frozen-foods.jpg"
   },
   {
    "w": "dairy products",
@@ -30,7 +31,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥛",
    "ex": "Milk and cheese are dairy products.",
-   "exzh": "牛奶和起司是乳製品。"
+   "exzh": "牛奶和起司是乳製品。",
+   "photo": "img/words/food-1/dairy-products.jpg"
   },
   {
    "w": "beverages",
@@ -39,7 +41,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥤",
    "ex": "The beverages are on aisle three.",
-   "exzh": "飲料在第三走道。"
+   "exzh": "飲料在第三走道。",
+   "photo": "img/words/food-1/beverages.jpg"
   },
   {
    "w": "canned foods",
@@ -48,7 +51,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥫",
    "ex": "Canned foods can be kept for a long time.",
-   "exzh": "罐頭食品可以放很久。"
+   "exzh": "罐頭食品可以放很久。",
+   "photo": "img/words/food-1/canned-foods.jpg"
   },
   {
    "w": "packaged foods",
@@ -57,7 +61,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📦",
    "ex": "Packaged foods are easy to carry.",
-   "exzh": "包裝食品很方便攜帶。"
+   "exzh": "包裝食品很方便攜帶。",
+   "photo": "img/words/food-1/packaged-foods.jpg"
   },
   {
    "w": "baked goods",
@@ -75,7 +80,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍪",
    "ex": "Try a free sample of the cheese.",
-   "exzh": "試吃一下免費的起司。"
+   "exzh": "試吃一下免費的起司。",
+   "photo": "img/words/food-1/free-sample.jpg"
   },
   {
    "w": "meat",
@@ -84,7 +90,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥩",
    "ex": "We buy meat for dinner.",
-   "exzh": "我們為晚餐買肉。"
+   "exzh": "我們為晚餐買肉。",
+   "photo": "img/words/food-1/meat.jpg"
   },
   {
    "w": "seafood",
@@ -93,7 +100,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🦐",
    "ex": "The seafood is fresh.",
-   "exzh": "海鮮很新鮮。"
+   "exzh": "海鮮很新鮮。",
+   "photo": "img/words/food-1/seafood.jpg"
   },
   {
    "w": "vegetables",
@@ -102,7 +110,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥬",
    "ex": "Eat more vegetables.",
-   "exzh": "多吃蔬菜。"
+   "exzh": "多吃蔬菜。",
+   "photo": "img/words/food-1/vegetables.jpg"
   },
   {
    "w": "basket",
@@ -111,7 +120,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧺",
    "ex": "Put the eggs in the basket.",
-   "exzh": "把雞蛋放進購物籃。"
+   "exzh": "把雞蛋放進購物籃。",
+   "photo": "img/words/food-1/basket.jpg"
   },
   {
    "w": "fruits",
@@ -120,7 +130,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍎",
    "ex": "Fruits are good for you.",
-   "exzh": "水果對你有益。"
+   "exzh": "水果對你有益。",
+   "photo": "img/words/food-1/fruits.jpg"
   },
   {
    "w": "customer",
@@ -129,7 +140,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧑",
    "ex": "The customer pays at the counter.",
-   "exzh": "顧客在櫃檯付款。"
+   "exzh": "顧客在櫃檯付款。",
+   "photo": "img/words/food-1/customer.jpg"
   },
   {
    "w": "cart",
@@ -138,7 +150,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛒",
    "ex": "The cart is full.",
-   "exzh": "購物推車滿了。"
+   "exzh": "購物推車滿了。",
+   "photo": "img/words/food-1/cart.jpg"
   },
   {
    "w": "cash register",
@@ -147,7 +160,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💰",
    "ex": "The cash register is at the exit.",
-   "exzh": "收銀機在出口。"
+   "exzh": "收銀機在出口。",
+   "photo": "img/words/food-1/cash-register.jpg"
   },
   {
    "w": "cashier",
@@ -156,7 +170,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧑‍💼",
    "ex": "The cashier says thank you.",
-   "exzh": "收銀員說謝謝。"
+   "exzh": "收銀員說謝謝。",
+   "photo": "img/words/food-1/cashier.jpg"
   },
   {
    "w": "scanner",
@@ -174,7 +189,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛍️",
    "ex": "Use fewer plastic bags.",
-   "exzh": "少用塑膠袋。"
+   "exzh": "少用塑膠袋。",
+   "photo": "img/words/food-1/plastic-bag.jpg"
   },
   {
    "w": "cash",
@@ -183,7 +199,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💵",
    "ex": "I pay in cash.",
-   "exzh": "我用現金付款。"
+   "exzh": "我用現金付款。",
+   "photo": "img/words/food-1/cash.jpg"
   }
  ],
  "speakers": {

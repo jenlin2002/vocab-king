@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📺",
    "ex": "We bought a fan at the appliance store.",
-   "exzh": "我們在家電行買了一台電風扇。"
+   "exzh": "我們在家電行買了一台電風扇。",
+   "photo": "img/words/town-1/appliance-store.jpg"
   },
   {
    "w": "convenience store",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏪",
    "ex": "I buy snacks at the convenience store.",
-   "exzh": "我在便利商店買零食。"
+   "exzh": "我在便利商店買零食。",
+   "photo": "img/words/town-1/convenience-store.jpg"
   },
   {
    "w": "restaurant",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍽️",
    "ex": "The restaurant is full.",
-   "exzh": "餐廳客滿了。"
+   "exzh": "餐廳客滿了。",
+   "photo": "img/words/town-1/restaurant.jpg"
   },
   {
    "w": "bank",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏦",
    "ex": "The bank closes at four.",
-   "exzh": "銀行四點關門。"
+   "exzh": "銀行四點關門。",
+   "photo": "img/words/town-1/bank.jpg"
   },
   {
    "w": "hospital",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏥",
    "ex": "The hospital is next to the park.",
-   "exzh": "醫院在公園旁邊。"
+   "exzh": "醫院在公園旁邊。",
+   "photo": "img/words/town-1/hospital.jpg"
   },
   {
    "w": "post office",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📮",
    "ex": "I send letters at the post office.",
-   "exzh": "我在郵局寄信。"
+   "exzh": "我在郵局寄信。",
+   "photo": "img/words/town-1/post-office.jpg"
   },
   {
    "w": "vending machine",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥤",
    "ex": "The vending machine sells drinks.",
-   "exzh": "自動販賣機賣飲料。"
+   "exzh": "自動販賣機賣飲料。",
+   "photo": "img/words/town-1/vending-machine.jpg"
   },
   {
    "w": "hotel",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏨",
    "ex": "The hotel is near the station.",
-   "exzh": "旅館靠近車站。"
+   "exzh": "旅館靠近車站。",
+   "photo": "img/words/town-1/hotel.jpg"
   },
   {
    "w": "furniture store",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛋️",
    "ex": "They bought a sofa at the furniture store.",
-   "exzh": "他們在家具行買了一張沙發。"
+   "exzh": "他們在家具行買了一張沙發。",
+   "photo": "img/words/town-1/furniture-store.jpg"
   },
   {
    "w": "gym",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏋️",
    "ex": "My dad exercises at the gym.",
-   "exzh": "我爸爸在健身房運動。"
+   "exzh": "我爸爸在健身房運動。",
+   "photo": "img/words/town-1/gym.jpg"
   },
   {
    "w": "bookstore",
@@ -102,7 +112,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📚",
    "ex": "I like to read in the bookstore.",
-   "exzh": "我喜歡在書店看書。"
+   "exzh": "我喜歡在書店看書。",
+   "photo": "img/words/town-1/bookstore.jpg"
   },
   {
    "w": "newsstand",
@@ -111,7 +122,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📰",
    "ex": "He buys a paper at the newsstand.",
-   "exzh": "他在報攤買報紙。"
+   "exzh": "他在報攤買報紙。",
+   "photo": "img/words/town-1/newsstand.jpg"
   },
   {
    "w": "pharmacy",
@@ -120,7 +132,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💊",
    "ex": "Buy the medicine at the pharmacy.",
-   "exzh": "請到藥局買藥。"
+   "exzh": "請到藥局買藥。",
+   "photo": "img/words/town-1/pharmacy.jpg"
   },
   {
    "w": "movie theater",
@@ -129,7 +142,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎬",
    "ex": "We watch movies at the movie theater.",
-   "exzh": "我們在電影院看電影。"
+   "exzh": "我們在電影院看電影。",
+   "photo": "img/words/town-1/movie-theater.jpg"
   },
   {
    "w": "police station",
@@ -147,7 +161,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧸",
    "ex": "Kids love the toy store.",
-   "exzh": "小朋友愛玩具店。"
+   "exzh": "小朋友愛玩具店。",
+   "photo": "img/words/town-1/toy-store.jpg"
   },
   {
    "w": "bakery",
@@ -156,7 +171,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥐",
    "ex": "The bakery smells so good.",
-   "exzh": "麵包店聞起來好香。"
+   "exzh": "麵包店聞起來好香。",
+   "photo": "img/words/town-1/bakery.jpg"
   },
   {
    "w": "beauty salon",
@@ -165,7 +181,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💇",
    "ex": "Mom goes to the beauty salon.",
-   "exzh": "媽媽去美容院。"
+   "exzh": "媽媽去美容院。",
+   "photo": "img/words/town-1/beauty-salon.jpg"
   },
   {
    "w": "delicatessen",
@@ -174,7 +191,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥪",
    "ex": "We have lunch at the delicatessen.",
-   "exzh": "我們在熟食店吃午餐。"
+   "exzh": "我們在熟食店吃午餐。",
+   "photo": "img/words/town-1/delicatessen.jpg"
   },
   {
    "w": "fire hydrant",
@@ -183,7 +201,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚒",
    "ex": "Don't park near the fire hydrant.",
-   "exzh": "不要把車停在消防栓旁。"
+   "exzh": "不要把車停在消防栓旁。",
+   "photo": "img/words/town-1/fire-hydrant.jpg"
   }
  ],
  "speakers": {

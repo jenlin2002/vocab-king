@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌱",
    "ex": "Put some scallions in the soup.",
-   "exzh": "在湯裡放一些青蔥。"
+   "exzh": "在湯裡放一些青蔥。",
+   "photo": "img/words/food-3/scallion.jpg"
   },
   {
    "w": "green pepper",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🫑",
    "ex": "The green pepper is crunchy.",
-   "exzh": "青椒脆脆的。"
+   "exzh": "青椒脆脆的。",
+   "photo": "img/words/food-3/green-pepper.jpg"
   },
   {
    "w": "pumpkin",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🎃",
    "ex": "We make soup with pumpkin.",
-   "exzh": "我們用南瓜煮湯。"
+   "exzh": "我們用南瓜煮湯。",
+   "photo": "img/words/food-3/pumpkin.jpg"
   },
   {
    "w": "corn",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌽",
    "ex": "I like sweet corn.",
-   "exzh": "我喜歡甜玉米。"
+   "exzh": "我喜歡甜玉米。",
+   "photo": "img/words/food-3/corn.jpg"
   },
   {
    "w": "sweet potato",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍠",
    "ex": "A sweet potato is sweet.",
-   "exzh": "地瓜很甜。"
+   "exzh": "地瓜很甜。",
+   "photo": "img/words/food-3/sweet-potato.jpg"
   },
   {
    "w": "potato",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥔",
    "ex": "French fries are made from potatoes.",
-   "exzh": "薯條是用馬鈴薯做的。"
+   "exzh": "薯條是用馬鈴薯做的。",
+   "photo": "img/words/food-3/potato.jpg"
   },
   {
    "w": "cauliflower",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥦",
    "ex": "Cauliflower is white.",
-   "exzh": "白花椰菜是白色的。"
+   "exzh": "白花椰菜是白色的。",
+   "photo": "img/words/food-3/cauliflower.jpg"
   },
   {
    "w": "taro",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍠",
    "ex": "Taro is soft and sweet.",
-   "exzh": "芋頭又軟又甜。"
+   "exzh": "芋頭又軟又甜。",
+   "photo": "img/words/food-3/taro.jpg"
   },
   {
    "w": "lotus root",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪷",
    "ex": "Lotus root has many holes.",
-   "exzh": "蓮藕有很多洞。"
+   "exzh": "蓮藕有很多洞。",
+   "photo": "img/words/food-3/lotus-root.jpg"
   },
   {
    "w": "mushroom",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍄",
    "ex": "Mushrooms grow in the shade.",
-   "exzh": "蘑菇長在陰暗處。"
+   "exzh": "蘑菇長在陰暗處。",
+   "photo": "img/words/food-3/mushroom.jpg"
   },
   {
    "w": "celery",
@@ -102,7 +112,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥬",
    "ex": "Celery is crunchy.",
-   "exzh": "芹菜很脆。"
+   "exzh": "芹菜很脆。",
+   "photo": "img/words/food-3/celery.jpg"
   },
   {
    "w": "carrot",
@@ -111,7 +122,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥕",
    "ex": "Rabbits like carrots.",
-   "exzh": "兔子喜歡紅蘿蔔。"
+   "exzh": "兔子喜歡紅蘿蔔。",
+   "photo": "img/words/food-3/carrot.jpg"
   },
   {
    "w": "eggplant",
@@ -120,7 +132,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍆",
    "ex": "An eggplant is purple.",
-   "exzh": "茄子是紫色的。"
+   "exzh": "茄子是紫色的。",
+   "photo": "img/words/food-3/eggplant.jpg"
   },
   {
    "w": "onion",
@@ -129,7 +142,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧅",
    "ex": "Onions make me cry.",
-   "exzh": "洋蔥讓我流眼淚。"
+   "exzh": "洋蔥讓我流眼淚。",
+   "photo": "img/words/food-3/onion.jpg"
   },
   {
    "w": "lettuce",
@@ -138,7 +152,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥬",
    "ex": "Put lettuce in the sandwich.",
-   "exzh": "在三明治裡放生菜。"
+   "exzh": "在三明治裡放生菜。",
+   "photo": "img/words/food-3/lettuce.jpg"
   },
   {
    "w": "cabbage",
@@ -147,7 +162,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥬",
    "ex": "Cabbage is cheap.",
-   "exzh": "高麗菜很便宜。"
+   "exzh": "高麗菜很便宜。",
+   "photo": "img/words/food-3/cabbage.jpg"
   },
   {
    "w": "Chinese cabbage",
@@ -165,7 +181,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥕",
    "ex": "Daikon is a white radish.",
-   "exzh": "daikon 是一種白色的蘿蔔。"
+   "exzh": "daikon 是一種白色的蘿蔔。",
+   "photo": "img/words/food-3/daikon.jpg"
   },
   {
    "w": "cucumber",
@@ -174,7 +191,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥒",
    "ex": "Cucumbers are cool and fresh.",
-   "exzh": "小黃瓜清爽又新鮮。"
+   "exzh": "小黃瓜清爽又新鮮。",
+   "photo": "img/words/food-3/cucumber.jpg"
   },
   {
    "w": "burdock",
@@ -201,7 +219,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥬",
    "ex": "Asparagus is green.",
-   "exzh": "蘆筍是綠色的。"
+   "exzh": "蘆筍是綠色的。",
+   "photo": "img/words/food-3/asparagus.jpg"
   },
   {
    "w": "tomato",
@@ -210,7 +229,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍅",
    "ex": "A tomato is red.",
-   "exzh": "番茄是紅色的。"
+   "exzh": "番茄是紅色的。",
+   "photo": "img/words/food-3/tomato.jpg"
   },
   {
    "w": "garlic",
@@ -219,7 +239,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧄",
    "ex": "Garlic smells strong.",
-   "exzh": "大蒜味道很濃。"
+   "exzh": "大蒜味道很濃。",
+   "photo": "img/words/food-3/garlic.jpg"
   },
   {
    "w": "ginger",
@@ -228,7 +249,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🫚",
    "ex": "Ginger keeps you warm.",
-   "exzh": "薑可以暖身體。"
+   "exzh": "薑可以暖身體。",
+   "photo": "img/words/food-3/ginger.jpg"
   },
   {
    "w": "shallot",
@@ -237,7 +259,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧅",
    "ex": "Fry the shallot until it is brown.",
-   "exzh": "把紅蔥頭炒到變成褐色。"
+   "exzh": "把紅蔥頭炒到變成褐色。",
+   "photo": "img/words/food-3/shallot.jpg"
   }
  ],
  "speakers": {

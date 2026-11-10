@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥤",
    "ex": "I drink a cola with pizza.",
-   "exzh": "我吃披薩配可樂。"
+   "exzh": "我吃披薩配可樂。",
+   "photo": "img/words/food-6/cola.jpg"
   },
   {
    "w": "organic drink",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌿",
    "ex": "An organic drink is made without chemicals.",
-   "exzh": "有機飲品不含化學添加物。"
+   "exzh": "有機飲品不含化學添加物。",
+   "photo": "img/words/food-6/organic-drink.jpg"
   },
   {
    "w": "coffee",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "☕",
    "ex": "Dad drinks coffee every morning.",
-   "exzh": "爸爸每天早上喝咖啡。"
+   "exzh": "爸爸每天早上喝咖啡。",
+   "photo": "img/words/food-6/coffee.jpg"
   },
   {
    "w": "iced tea",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧋",
    "ex": "Iced tea is good on a hot day.",
-   "exzh": "熱天喝冰茶很舒服。"
+   "exzh": "熱天喝冰茶很舒服。",
+   "photo": "img/words/food-6/iced-tea.jpg"
   },
   {
    "w": "soda",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥤",
    "ex": "Soda has many bubbles.",
-   "exzh": "汽水有很多氣泡。"
+   "exzh": "汽水有很多氣泡。",
+   "photo": "img/words/food-6/soda.jpg"
   },
   {
    "w": "mineral water",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💧",
    "ex": "I carry a bottle of mineral water.",
-   "exzh": "我帶一瓶礦泉水。"
+   "exzh": "我帶一瓶礦泉水。",
+   "photo": "img/words/food-6/mineral-water.jpg"
   },
   {
    "w": "hot chocolate",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍫",
    "ex": "Hot chocolate warms you up.",
-   "exzh": "熱巧克力讓你暖起來。"
+   "exzh": "熱巧克力讓你暖起來。",
+   "photo": "img/words/food-6/hot-chocolate.jpg"
   },
   {
    "w": "juice",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧃",
    "ex": "I want a glass of juice.",
-   "exzh": "我想要一杯果汁。"
+   "exzh": "我想要一杯果汁。",
+   "photo": "img/words/food-6/juice.jpg"
   },
   {
    "w": "milk",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥛",
    "ex": "Milk is good for your bones.",
-   "exzh": "牛奶對骨頭好。"
+   "exzh": "牛奶對骨頭好。",
+   "photo": "img/words/food-6/milk.jpg"
   },
   {
    "w": "green tea",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍵",
    "ex": "Green tea has no sugar.",
-   "exzh": "綠茶沒有糖。"
+   "exzh": "綠茶沒有糖。",
+   "photo": "img/words/food-6/green-tea.jpg"
   },
   {
    "w": "smoothie",
@@ -102,7 +112,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥤",
    "ex": "A mango smoothie is delicious.",
-   "exzh": "芒果冰沙很好喝。"
+   "exzh": "芒果冰沙很好喝。",
+   "photo": "img/words/food-6/smoothie.jpg"
   },
   {
    "w": "soybean milk",
@@ -111,7 +122,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥛",
    "ex": "I have soybean milk for breakfast.",
-   "exzh": "我早餐喝豆漿。"
+   "exzh": "我早餐喝豆漿。",
+   "photo": "img/words/food-6/soybean-milk.jpg"
   },
   {
    "w": "brown rice milk",
@@ -129,7 +141,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍋",
    "ex": "Lemonade is sour and sweet.",
-   "exzh": "檸檬汁又酸又甜。"
+   "exzh": "檸檬汁又酸又甜。",
+   "photo": "img/words/food-6/lemonade.jpg"
   },
   {
    "w": "milk tea",
@@ -138,7 +151,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧋",
    "ex": "I like milk tea with pearls.",
-   "exzh": "我喜歡加珍珠的奶茶。"
+   "exzh": "我喜歡加珍珠的奶茶。",
+   "photo": "img/words/food-6/milk-tea.jpg"
   }
  ],
  "speakers": {

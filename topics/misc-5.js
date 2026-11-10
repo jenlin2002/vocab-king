@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🧼",
    "ex": "Wash your hands.",
-   "exzh": "洗手。"
+   "exzh": "洗手。",
+   "photo": "img/words/misc-5/wash.jpg"
   },
   {
    "w": "vacuum",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🧹",
    "ex": "Vacuum the carpet.",
-   "exzh": "用吸塵器吸地毯。"
+   "exzh": "用吸塵器吸地毯。",
+   "photo": "img/words/misc-5/vacuum.jpg"
   },
   {
    "w": "sweep the floor",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "v. phr.",
    "emoji": "🧹",
    "ex": "Sweep the floor every morning.",
-   "exzh": "每天早上掃地。"
+   "exzh": "每天早上掃地。",
+   "photo": "img/words/misc-5/sweep-the-floor.jpg"
   },
   {
    "w": "do the laundry",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "v. phr.",
    "emoji": "🧺",
    "ex": "I do the laundry on Sunday.",
-   "exzh": "我星期天洗衣服。"
+   "exzh": "我星期天洗衣服。",
+   "photo": "img/words/misc-5/do-the-laundry.jpg"
   },
   {
    "w": "knit",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🧶",
    "ex": "Grandma knits a scarf.",
-   "exzh": "奶奶織一條圍巾。"
+   "exzh": "奶奶織一條圍巾。",
+   "photo": "img/words/misc-5/knit.jpg"
   },
   {
    "w": "sew",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🧵",
    "ex": "Mom sews a button.",
-   "exzh": "媽媽縫釦子。"
+   "exzh": "媽媽縫釦子。",
+   "photo": "img/words/misc-5/sew.jpg"
   },
   {
    "w": "cook",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🍳",
    "ex": "Dad cooks dinner.",
-   "exzh": "爸爸煮晚餐。"
+   "exzh": "爸爸煮晚餐。",
+   "photo": "img/words/misc-5/cook.jpg"
   },
   {
    "w": "wash the dishes",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "v. phr.",
    "emoji": "🍽️",
    "ex": "I wash the dishes after dinner.",
-   "exzh": "我晚餐後洗碗。"
+   "exzh": "我晚餐後洗碗。",
+   "photo": "img/words/misc-5/wash-the-dishes.jpg"
   },
   {
    "w": "sleep",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "😴",
    "ex": "I sleep eight hours.",
-   "exzh": "我睡八小時。"
+   "exzh": "我睡八小時。",
+   "photo": "img/words/misc-5/sleep.jpg"
   },
   {
    "w": "get up",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "v. phr.",
    "emoji": "⏰",
    "ex": "I get up at six.",
-   "exzh": "我六點起床。"
+   "exzh": "我六點起床。",
+   "photo": "img/words/misc-5/get-up.jpg"
   },
   {
    "w": "brush one's teeth",
@@ -102,7 +112,8 @@ window.TOPIC = {
    "pos": "v. phr.",
    "emoji": "🪥",
    "ex": "Brush your teeth twice a day.",
-   "exzh": "一天刷兩次牙。"
+   "exzh": "一天刷兩次牙。",
+   "photo": "img/words/misc-5/brush-one-s-teeth.jpg"
   },
   {
    "w": "wash one's face",
@@ -111,7 +122,8 @@ window.TOPIC = {
    "pos": "v. phr.",
    "emoji": "🚿",
    "ex": "Wash your face in the morning.",
-   "exzh": "早上洗臉。"
+   "exzh": "早上洗臉。",
+   "photo": "img/words/misc-5/wash-one-s-face.jpg"
   },
   {
    "w": "eat",
@@ -120,7 +132,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🍽️",
    "ex": "We eat at seven.",
-   "exzh": "我們七點吃飯。"
+   "exzh": "我們七點吃飯。",
+   "photo": "img/words/misc-5/eat.jpg"
   },
   {
    "w": "drink",
@@ -129,7 +142,8 @@ window.TOPIC = {
    "pos": "v.",
    "emoji": "🥤",
    "ex": "Drink more water.",
-   "exzh": "多喝水。"
+   "exzh": "多喝水。",
+   "photo": "img/words/misc-5/drink.jpg"
   },
   {
    "w": "put on clothes",
@@ -138,7 +152,8 @@ window.TOPIC = {
    "pos": "v. phr.",
    "emoji": "👕",
    "ex": "Put on warm clothes.",
-   "exzh": "穿上保暖的衣服。"
+   "exzh": "穿上保暖的衣服。",
+   "photo": "img/words/misc-5/put-on-clothes.jpg"
   },
   {
    "w": "wear a skirt",
@@ -165,7 +180,8 @@ window.TOPIC = {
    "pos": "v. phr.",
    "emoji": "📞",
    "ex": "I'll make a phone call.",
-   "exzh": "我要打電話。"
+   "exzh": "我要打電話。",
+   "photo": "img/words/misc-5/make-a-phone-call.jpg"
   },
   {
    "w": "smoke",
@@ -183,7 +199,8 @@ window.TOPIC = {
    "pos": "v. phr.",
    "emoji": "👀",
    "ex": "Look at the picture.",
-   "exzh": "看這張圖。"
+   "exzh": "看這張圖。",
+   "photo": "img/words/misc-5/look-at-something.jpg"
   },
   {
    "w": "open",

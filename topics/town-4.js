@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "📹",
    "ex": "A security camera watches the door.",
-   "exzh": "監視器對著大門。"
+   "exzh": "監視器對著大門。",
+   "photo": "img/words/town-4/security-camera.jpg"
   },
   {
    "w": "coin",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪙",
    "ex": "I put a coin in the box.",
-   "exzh": "我把一枚硬幣放進盒子。"
+   "exzh": "我把一枚硬幣放進盒子。",
+   "photo": "img/words/town-4/coin.jpg"
   },
   {
    "w": "bill",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💵",
    "ex": "This bill is worth twenty dollars.",
-   "exzh": "這張紙鈔價值二十元。"
+   "exzh": "這張紙鈔價值二十元。",
+   "photo": "img/words/town-4/bill.jpg"
   },
   {
    "w": "safe",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🔒",
    "ex": "The money is in the safe.",
-   "exzh": "錢放在保險箱裡。"
+   "exzh": "錢放在保險箱裡。",
+   "photo": "img/words/town-4/safe.jpg"
   },
   {
    "w": "safe deposit box",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🗝️",
    "ex": "He keeps his gold in a safe deposit box.",
-   "exzh": "他把金子放在保管箱裡。"
+   "exzh": "他把金子放在保管箱裡。",
+   "photo": "img/words/town-4/safe-deposit-box.jpg"
   },
   {
    "w": "withdraw",
@@ -75,7 +80,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚨",
    "ex": "The alarm rings loudly.",
-   "exzh": "警報器響得很大聲。"
+   "exzh": "警報器響得很大聲。",
+   "photo": "img/words/town-4/alarm.jpg"
   },
   {
    "w": "currency exchange",
@@ -84,7 +90,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💱",
    "ex": "You can use the currency exchange for dollars.",
-   "exzh": "你可以辦外幣兌換換美元。"
+   "exzh": "你可以辦外幣兌換換美元。",
+   "photo": "img/words/town-4/currency-exchange.jpg"
   },
   {
    "w": "deposit",
@@ -102,7 +109,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏧",
    "ex": "I get cash from the ATM.",
-   "exzh": "我從自動提款機領現金。"
+   "exzh": "我從自動提款機領現金。",
+   "photo": "img/words/town-4/atm.jpg"
   },
   {
    "w": "security guard",
@@ -111,7 +119,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💂",
    "ex": "The security guard stands at the door.",
-   "exzh": "保全人員站在門口。"
+   "exzh": "保全人員站在門口。",
+   "photo": "img/words/town-4/security-guard.jpg"
   },
   {
    "w": "armored truck",
@@ -120,7 +129,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚚",
    "ex": "An armored truck carries cash.",
-   "exzh": "運鈔車載運現金。"
+   "exzh": "運鈔車載運現金。",
+   "photo": "img/words/town-4/armored-truck.jpg"
   },
   {
    "w": "stock",
@@ -138,7 +148,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "💳",
    "ex": "Insert your ATM card.",
-   "exzh": "請插入你的提款卡。"
+   "exzh": "請插入你的提款卡。",
+   "photo": "img/words/town-4/atm-card.jpg"
   },
   {
    "w": "money order",

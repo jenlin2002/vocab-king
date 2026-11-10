@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪂",
    "ex": "Skydiving is very exciting.",
-   "exzh": "高空跳傘非常刺激。"
+   "exzh": "高空跳傘非常刺激。",
+   "photo": "img/words/sports-1/skydiving.jpg"
   },
   {
    "w": "boating",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⛵",
    "ex": "Boating on the lake is relaxing.",
-   "exzh": "在湖上划船很放鬆。"
+   "exzh": "在湖上划船很放鬆。",
+   "photo": "img/words/sports-1/boating.jpg"
   },
   {
    "w": "figure skating",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⛸️",
    "ex": "Figure skating needs balance.",
-   "exzh": "花式滑冰需要平衡感。"
+   "exzh": "花式滑冰需要平衡感。",
+   "photo": "img/words/sports-1/figure-skating.jpg"
   },
   {
    "w": "ice skating",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⛸️",
    "ex": "We go ice skating in winter.",
-   "exzh": "我們冬天去溜冰。"
+   "exzh": "我們冬天去溜冰。",
+   "photo": "img/words/sports-1/ice-skating.jpg"
   },
   {
    "w": "jogging",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏃",
    "ex": "Jogging is good for your health.",
-   "exzh": "慢跑對健康有益。"
+   "exzh": "慢跑對健康有益。",
+   "photo": "img/words/sports-1/jogging.jpg"
   },
   {
    "w": "roller skating",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛼",
    "ex": "Roller skating is fun at the park.",
-   "exzh": "在公園溜輪鞋很好玩。"
+   "exzh": "在公園溜輪鞋很好玩。",
+   "photo": "img/words/sports-1/roller-skating.jpg"
   },
   {
    "w": "in-line skating",
@@ -66,7 +72,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛼",
    "ex": "In-line skating is faster than walking.",
-   "exzh": "直排輪比走路快。"
+   "exzh": "直排輪比走路快。",
+   "photo": "img/words/sports-1/in-line-skating.jpg"
   },
   {
    "w": "whitewater rafting",
@@ -75,7 +82,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛶",
    "ex": "Whitewater rafting is a wet adventure.",
-   "exzh": "激流泛舟是一場濕淋淋的冒險。"
+   "exzh": "激流泛舟是一場濕淋淋的冒險。",
+   "photo": "img/words/sports-1/whitewater-rafting.jpg"
   },
   {
    "w": "cycling",
@@ -84,7 +92,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🚴",
    "ex": "Cycling is a green way to travel.",
-   "exzh": "騎自行車是環保的旅行方式。"
+   "exzh": "騎自行車是環保的旅行方式。",
+   "photo": "img/words/sports-1/cycling.jpg"
   },
   {
    "w": "skateboarding",
@@ -93,7 +102,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🛹",
    "ex": "He is good at skateboarding.",
-   "exzh": "他很會玩滑板。"
+   "exzh": "他很會玩滑板。",
+   "photo": "img/words/sports-1/skateboarding.jpg"
   },
   {
    "w": "hang gliding",
@@ -102,7 +112,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🪁",
    "ex": "Hang gliding gives you the feeling of flying.",
-   "exzh": "滑翔翼讓你有飛翔的感覺。"
+   "exzh": "滑翔翼讓你有飛翔的感覺。",
+   "photo": "img/words/sports-1/hang-gliding.jpg"
   },
   {
    "w": "horseback riding",
@@ -111,7 +122,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🏇",
    "ex": "Horseback riding is popular on farms.",
-   "exzh": "騎馬在農場裡很受歡迎。"
+   "exzh": "騎馬在農場裡很受歡迎。",
+   "photo": "img/words/sports-1/horseback-riding.jpg"
   },
   {
    "w": "archery",
@@ -138,7 +150,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "⛷️",
    "ex": "Skiing in Japan is wonderful.",
-   "exzh": "在日本滑雪很棒。"
+   "exzh": "在日本滑雪很棒。",
+   "photo": "img/words/sports-1/skiing.jpg"
   },
   {
    "w": "rock climbing",
@@ -147,7 +160,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🧗",
    "ex": "Rock climbing makes you strong.",
-   "exzh": "攀岩讓你變強壯。"
+   "exzh": "攀岩讓你變強壯。",
+   "photo": "img/words/sports-1/rock-climbing.jpg"
   }
  ],
  "speakers": {

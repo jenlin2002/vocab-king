@@ -12,7 +12,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥩",
    "ex": "I like my steak medium.",
-   "exzh": "我的牛排要五分熟。"
+   "exzh": "我的牛排要五分熟。",
+   "photo": "img/words/restaurant-3/steak.jpg"
   },
   {
    "w": "shish kebab",
@@ -21,7 +22,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍢",
    "ex": "Shish kebab is grilled on a stick.",
-   "exzh": "烤肉串用籤子烤。"
+   "exzh": "烤肉串用籤子烤。",
+   "photo": "img/words/restaurant-3/shish-kebab.jpg"
   },
   {
    "w": "taco",
@@ -30,7 +32,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🌮",
    "ex": "A taco has meat and vegetables.",
-   "exzh": "塔可裡有肉和蔬菜。"
+   "exzh": "塔可裡有肉和蔬菜。",
+   "photo": "img/words/restaurant-3/taco.jpg"
   },
   {
    "w": "salad",
@@ -39,7 +42,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥗",
    "ex": "I'll have a green salad.",
-   "exzh": "我要一份蔬菜沙拉。"
+   "exzh": "我要一份蔬菜沙拉。",
+   "photo": "img/words/restaurant-3/salad.jpg"
   },
   {
    "w": "egg tart",
@@ -48,7 +52,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥧",
    "ex": "An egg tart is a sweet pastry.",
-   "exzh": "蛋塔是一種甜點心。"
+   "exzh": "蛋塔是一種甜點心。",
+   "photo": "img/words/restaurant-3/egg-tart.jpg"
   },
   {
    "w": "roast chicken",
@@ -57,7 +62,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍗",
    "ex": "Roast chicken smells wonderful.",
-   "exzh": "烤雞聞起來很香。"
+   "exzh": "烤雞聞起來很香。",
+   "photo": "img/words/restaurant-3/roast-chicken.jpg"
   },
   {
    "w": "apple pie",
@@ -75,7 +81,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥧",
    "ex": "Pumpkin pie is a Thanksgiving dessert.",
-   "exzh": "南瓜派是感恩節甜點。"
+   "exzh": "南瓜派是感恩節甜點。",
+   "photo": "img/words/restaurant-3/pumpkin-pie.jpg"
   },
   {
    "w": "sandwich",
@@ -84,7 +91,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥪",
    "ex": "I'll have a chicken sandwich.",
-   "exzh": "我要雞肉三明治。"
+   "exzh": "我要雞肉三明治。",
+   "photo": "img/words/restaurant-3/sandwich.jpg"
   },
   {
    "w": "sundae",
@@ -93,7 +101,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍨",
    "ex": "A sundae has ice cream and syrup.",
-   "exzh": "聖代有冰淇淋和糖漿。"
+   "exzh": "聖代有冰淇淋和糖漿。",
+   "photo": "img/words/restaurant-3/sundae.jpg"
   },
   {
    "w": "chocolate cake",
@@ -102,7 +111,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍰",
    "ex": "Chocolate cake is rich and sweet.",
-   "exzh": "巧克力蛋糕濃郁又甜。"
+   "exzh": "巧克力蛋糕濃郁又甜。",
+   "photo": "img/words/restaurant-3/chocolate-cake.jpg"
   },
   {
    "w": "dumplings",
@@ -111,7 +121,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥟",
    "ex": "Dumplings are a Chinese favorite.",
-   "exzh": "水餃是中式的最愛。"
+   "exzh": "水餃是中式的最愛。",
+   "photo": "img/words/restaurant-3/dumplings.jpg"
   },
   {
    "w": "noodle soup",
@@ -120,7 +131,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍜",
    "ex": "A bowl of noodle soup is warm.",
-   "exzh": "一碗湯麵很暖。"
+   "exzh": "一碗湯麵很暖。",
+   "photo": "img/words/restaurant-3/noodle-soup.jpg"
   },
   {
    "w": "submarine sandwich",
@@ -129,7 +141,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🥖",
    "ex": "A submarine sandwich is long.",
-   "exzh": "潛艇堡很長。"
+   "exzh": "潛艇堡很長。",
+   "photo": "img/words/restaurant-3/submarine-sandwich.jpg"
   },
   {
    "w": "pudding",
@@ -138,7 +151,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍮",
    "ex": "Pudding is soft and sweet.",
-   "exzh": "布丁又軟又甜。"
+   "exzh": "布丁又軟又甜。",
+   "photo": "img/words/restaurant-3/pudding.jpg"
   },
   {
    "w": "lasagna",
@@ -147,7 +161,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍝",
    "ex": "Lasagna has layers of cheese.",
-   "exzh": "千層麵有好幾層起司。"
+   "exzh": "千層麵有好幾層起司。",
+   "photo": "img/words/restaurant-3/lasagna.jpg"
   },
   {
    "w": "fried rice",
@@ -156,7 +171,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍚",
    "ex": "Fried rice is easy to make.",
-   "exzh": "炒飯很好做。"
+   "exzh": "炒飯很好做。",
+   "photo": "img/words/restaurant-3/fried-rice.jpg"
   },
   {
    "w": "spaghetti with meatballs",
@@ -165,7 +181,8 @@ window.TOPIC = {
    "pos": "n.",
    "emoji": "🍝",
    "ex": "Spaghetti with meatballs is my favorite.",
-   "exzh": "肉丸義大利麵是我的最愛。"
+   "exzh": "肉丸義大利麵是我的最愛。",
+   "photo": "img/words/restaurant-3/spaghetti-with-meatballs.jpg"
   }
  ],
  "speakers": {
