@@ -246,10 +246,16 @@ document.addEventListener('click', e => {
 // 有照片用照片（img/words/…，build_topic.py 填 w.photo），沒有就用 emoji
 function cardPic(w){ return w.photo ? `<img class="wph" src="${w.photo}" alt="" loading="lazy">` : `<div class="em">${w.emoji}</div>`; }
 function quizPic(w){ return w.photo ? `<img class="qph" src="${w.photo}" alt="">` : `<span class="big">${w.emoji}</span>`; }
+// 我的字卡（/cards/cards.js）：每個單字的資料，圖片、語音用網站根目錄開頭的路徑，字卡頁才找得到
+function cardData(w){
+  return { en: w.w, zh: w.zh, pos: w.pos, ex: w.ex, exzh: w.exzh, img: w.photo ? '/vocab-king/' + w.photo : '', audio: `/vocab-king/${au('w', w)}`,
+    src: '圖解單字｜' + T.title, url: '/vocab-king/topic.html?t=' + encodeURIComponent(T.id) };
+}
+function starBtn(w){ return window.Cards ? Cards.btn(cardData(w)) : ''; }
 function drawCards(){
   $('#view').innerHTML = ctlBar() + `<div class="words ${cls()}">` + T.words.map(w => `
     <div class="wc">${cardPic(w)}
-      <div><span class="en">${esc(w.w)}</span><span class="pos">${esc(w.pos)}</span><button class="sp" data-au="${au('w', w)}" data-tx="${esc(w.w)}" aria-label="聽發音">🔊</button></div>
+      <div><span class="en">${esc(w.w)}</span><span class="pos">${esc(w.pos)}</span><button class="sp" data-au="${au('w', w)}" data-tx="${esc(w.w)}" aria-label="聽發音">🔊</button> ${starBtn(w)}</div>
       <div class="zh">${esc(w.zh)}</div>
       <div class="ex"><span class="exen">${esc(w.ex)}</span><button class="sp sm" data-au="${au('e', w)}" data-tx="${esc(w.ex)}" aria-label="聽例句">🔊</button><div class="exzh">${esc(w.exzh)}</div></div>
     </div>`).join('') + '</div>';
@@ -405,6 +411,7 @@ document.addEventListener('click', async e => {
   z.sent = true; z.status = 'graded';
   z.score = z.qs.filter((q, i) => isRight(id, q, z.answers[i])).length;
   z.pending = z.score < z.qs.length;
+  if(window.Cards) Cards.addWrong(z.qs.filter((q, i) => !isRight(id, q, z.answers[i])).map(q => cardData(q.w)));   // 答錯的字自動加入「錯題」字卡
   clearDraft(id);
   renderTabs(); drawQuiz(id); window.scrollTo({ top: 0, behavior: 'smooth' });
   if(window.Points){ try{ Points.earn({ name, label, mode: z.def.name, correct: z.score, total: z.qs.length }); }catch(err){} }
@@ -468,5 +475,6 @@ s.onerror = () => { $('#h1').textContent = '找不到這個主題'; };
 document.head.appendChild(s);
 </script>
 <script src="points.js"></script>
+<script src="/cards/cards.js?v=20261117a"></script>
 </body>
 </html>
